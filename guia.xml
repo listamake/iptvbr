@@ -6,6 +6,11 @@
   <url>mi.tv</url>
 </channel>
 
+<programme start="20220527000000 -0300" stop="20220528000000 -0300" channel="Yeeaah.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">anime</desc>
+</programme>
+
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
   <display-name lang="pt">AniTV</display-name>
@@ -73,17 +78,17 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220526083000 -0300" stop="20220526090000 -0300" channel="anitv.br">
+<programme start="20220527083000 -0300" stop="20220527090000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">divirta-se com a lamu e a turma do barulho!!</desc>
 </programme>
 
-<programme start="20220526090000 -0300" stop="20220526093000 -0300" channel="anitv.br ">
+<programme start="20220527090000 -0300" stop="20220527093000 -0300" channel="anitv.br ">
  <title lang="en">Cowboy Bebop</title>
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220526093000 -0300" stop="20220526100000 -0300" channel="anitv.br ">
+<programme start="20220527093000 -0300" stop="20220527100000 -0300" channel="anitv.br ">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en"> anime </desc>
 </programme>
@@ -123,7 +128,7 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220526163000 -0300" stop="20220526170000 -0300" channel="anitv.br">
+<programme start="20220527163000 -0300" stop="20220527170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -148,12 +153,12 @@
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220526203000 -0300" stop="20220526210000 -0300" channel="anitv.br">
+<programme start="20220527203000 -0300" stop="20220527210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220526210000 -0300" stop="20220526213000 -0300" channel="anitv.br">
+<programme start="20220527210000 -0300" stop="20220527213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">anime</desc>
 </programme>
