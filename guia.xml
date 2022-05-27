@@ -234,6 +234,15 @@
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
 
+<programme start="20220528100000 -0300" stop="20220528123000 -0300" channel="anitv.br">
+ <title lang="en">Maratona Super Campeões</title>
+ <desc lang="en">anime</desc>
+</programme>
+
+<programme start="20220528123000 -0300" stop="20220528150000 -0300" channel="anitv.br">
+ <title lang="en">Maratona Umaru-chan</title>
+ <desc lang="en">anime</desc>
+</programme>
    ####domingo anitv####
 <programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta </title>
