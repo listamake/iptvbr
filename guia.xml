@@ -182,7 +182,59 @@
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
-   ##domingo anitv##
+    ####sabado ani####
+<programme start="20220528000000 -0300" stop="20220528003000 -0300" channel="anitv.br">
+ <title lang="pt">Akame ga Kill !</title>
+ <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
+  <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+</programme>
+
+<programme start="20220528003000 -0300" stop="20220528010000 -0300" channel="anitv.br">
+ <title lang="pt">Banana Fish</title>
+ <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
+<rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+</programme>
+
+<programme start="20220528010000 -0300" stop="20220528013000 -0300" channel="anitv.br">
+ <title lang="pt">Kiss-x-sis</title>
+ <desc lang="pt">anime</desc>
+</programme>
+
+<programme start="20220528013000 -0300" stop="20220528020000 -0300" channel="anitv.br">
+ <title lang="en">Shimoneta</title>
+ <desc lang="en">anime</desc>
+</programme>
+
+<programme start="20220528020000 -0300" stop="20220528030000 -0300" channel="anitv.br">
+ <title lang="en">A Lenda - Um Luxo de Sonhar</title>
+ <desc lang="en">dorama</desc>
+</programme>
+
+<programme start="20220528030000 -0300" stop="20220528050000 -0300" channel="anitv.br">
+ <title lang="pt">AniBox</title>
+ <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
+</programme>
+
+<programme start="20220528050000 -0300" stop="20220528060000 -0300" channel="anitv.br">
+ <title lang="pt">AniBox City Pop</title>
+ <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
+</programme>
+
+<programme start="20220528060000 -0300" stop="20220528070000 -0300" channel="anitv.br">
+ <title lang="pt">Budega do Maguila</title>
+ <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
+</programme>
+
+<programme start="20220528070000 -0300" stop="20220528100000 -0300" channel="anitv.br">
+ <title lang="pt">Tecendo o Saber</title>
+ <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
+</programme>
+
+   ####domingo anitv####
 <programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta </title>
  <desc lang="pt">anime</desc>
