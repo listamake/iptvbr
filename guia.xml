@@ -28,7 +28,22 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20220527213000 -0300" stop="20220527220000 -0300" channel="anitv.br">
+<programme start="20220527200000 -0300" stop="20220527203000 -0300" channel="anitv.br">
+ <title lang="en">My Hero Academia 2ª Temp</title>
+ <desc lang="en">anime</desc>
+</programme>
+
+<programme start="20220527230000 -0300" stop="20220527210000 -0300" channel="anitv.br">
+ <title lang="en">Urusei Yatsura</title>
+ <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
+</programme>
+
+<programme start="20220527210000 -0300" stop="20220527213000 -0300" channel="anitv.br ">
+ <title lang="en">Ranking of Kings</title>
+ <desc lang="en">anime</desc>
+</programme>
+
+<programme start="20220527213000 -0300" stop="20220528000000 -0300" channel="anitv.br">
  <title lang="pt">Especial loading</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -119,22 +134,22 @@
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220527130000 -0300" stop="20220527133000 -0300" channel="anitv.br">
+<programme start="20220530130000 -0300" stop="20220530133000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527133000 -0300" stop="20220527140000 -0300" channel="anitv.br">
+<programme start="20220530133000 -0300" stop="20220530140000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527140000 -0300" stop="20220527150000 -0300" channel="anitv.br">
+<programme start="20220530140000 -0300" stop="20220530150000 -0300" channel="anitv.br">
  <title lang="en">AniBox Compacto</title>
  <desc lang="en">musica </desc>
 </programme>
 
-<programme start="20220527150000 -0300" stop="20220527160000 -0300" channel="anitv.br">
+<programme start="20220530150000 -0300" stop="20220530160000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de sonhar </title>
  <desc lang="en">dorama</desc>
 </programme>
@@ -169,12 +184,12 @@
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220527203000 -0300" stop="20220527210000 -0300" channel="anitv.br">
+<programme start="20220530203000 -0300" stop="20220530210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527210000 -0300" stop="20220527213000 -0300" channel="anitv.br">
+<programme start="20220530210000 -0300" stop="20220530213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
@@ -184,22 +199,22 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527220000 -0300" stop="20220527223000 -0300" channel="anitv.br">
+<programme start="20220530220000 -0300" stop="20220530223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527223000 -0300" stop="20220527230000 -0300" channel="anitv.br">
+<programme start="20220530223000 -0300" stop="20220530230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527230000 -0300" stop="20220527233000 -0300" channel="anitv.br">
+<programme start="20220530230000 -0300" stop="20220530233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527233000 -0300" stop="20220528000000 -0300" channel="anitv.br">
+<programme start="20220530233000 -0300" stop="20220531000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
