@@ -5,7 +5,27 @@
  <display-name lang="pt">Yeeaah HD</display-name>
   <url>mi.tv</url>
 </channel>
+ 
+<channel id="playch.br">
+ <display-name lang="pt">Yeeaah HD</display-name>
+  <url>mi.tv</url>
+</channel>
 
+<channel id="StrikerVerso.br">
+ <display-name lang="pt">StrikerVerso HD</display-name>
+  <url>mi.tv</url>
+</channel>
+
+<channel id="damubiku.br">
+ <display-name lang="pt">Damu Biku HD</display-name>
+  <url>mi.tv</url>
+</channel>
+
+<channel id="tvbs.br">
+ <display-name lang="pt">TV BS HD</display-name>
+  <url>mi.tv</url>
+</channel>
+ 
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
   <display-name lang="pt">AniTV</display-name>
@@ -17,8 +37,8 @@
 </channel>     
        #####padrao especial anitv#####
 <programme start="20220531000000 -0300" stop="2022060100000 -0300" channel="anitv.br">
- <title lang="en">Programação AniTV</title>
- <desc lang="en">anime</desc>
+ <title lang="pt">Programação AniTV</title>
+ <desc lang="pt">anime</desc>
 </programme>
 
         ####grade semanal anitv####
@@ -128,32 +148,32 @@
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220527160000 -0300" stop="20220527163000 -0300" channel="anitv.br">
+<programme start="20220530160000 -0300" stop="20220530163000 -0300" channel="anitv.br">
  <title lang="en"> SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527163000 -0300" stop="20220527170000 -0300" channel="anitv.br">
+<programme start="20220530163000 -0300" stop="20220530170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527170000 -0300" stop="20220527190000 -0300" channel="anitv.br">
+<programme start="20220530170000 -0300" stop="20220530190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220527190000 -0300" stop="20220527193000 -0300" channel="anitv.br">
+<programme start="20220530190000 -0300" stop="20220530193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527193000 -0300" stop="20220527200000 -0300" channel="anitv.br">
+<programme start="20220530193000 -0300" stop="20220530200000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220527200000 -0300" stop="20220527203000 -0300" channel="anitv.br">
+<programme start="20220530200000 -0300" stop="20220530203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -225,15 +245,39 @@
 </programme>
    ####domingo anitv####
 <programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
- <title lang="pt">Shimoneta </title>
+ <title lang="pt">Shimoneta</title>
  <desc lang="pt">anime</desc>
 </programme>
  
+    ####yeeaah####
+<programme start="20220528060000 -0300" stop="20220529000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20220529000000 -0300" stop="20220530000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+    ####playch####
+<programme start="20220528143000 -0300" stop="20220528163000 -0300" channel="playch.br">
+ <title lang="pt">Otacraze:The Future Diary</title>
+ <desc lang="pt">anime</desc>
+</programme>
+   ####tv bs####
+<programme start="2022052906000 -0300" stop="20220529160000 -0300" channel="tvbs.br">
+ <title lang="pt">Programação TV BS</title>
+ <desc lang="pt">anime</desc>
+</programme>
+   ####damubiku.br####
+<programme start="20220528140000 -0300" stop="20220529000000 -0300" channel="damubiku.br">
+ <title lang="pt">Programação de Animes</title>
+ <desc lang="pt">anime</desc>
+</programme>
  
       ########radioclubeam#####
 
-<programme start="20220527230000 -0300" stop="20220528080000 -0300" channel="radioclubeampe.br">
- <title lang="pt">Programação Música</title>
+<programme start="20220531230000 -0300" stop="20220601080000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
