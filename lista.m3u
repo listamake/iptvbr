@@ -248,7 +248,7 @@ https://stmv1.srvif.com/techsol/techsol/playlist.m3u8
 #EXTINF:-1 tvg-id="tvbs.br" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/974885762459922432/tvbs-logo.png" group-title="Cultura POP", TV BS HD
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Locomotion SD
+#EXTINF: -1 tvg-id="locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Locomotion SD
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-id="on.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3337d2f7661df3b60eae7c7b18b706d8.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", ONTV HD
@@ -258,29 +258,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c65
 #EXTINF: -1 tvg-id = "manajoaratv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="TV ABERTA" pltv-subgroup = "Sis.Jornal do Comer.", TV Manajoara HD
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
+#EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
 
 #EXTINF: -1 tvg-id="mixtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuhYQDVYSa8ld-tBHh_1DUryGII5E231PYw&usqp=CAU" group-title="Canais de Áudio" radio="true", Mix Belém HD
 https://streaming03.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "radiocluberede" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU" group-title="Canais de Áudio" radio="true", Rede Clube FM 
+#EXTINF: -1 tvg-id="radiocluberede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU" group-title="Canais de Áudio" radio="true", Rede Clube FM 
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="cbn.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio" radio="true", CBN São Paulo HD
+#EXTINF: -1 tvg-id="cbnsp.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio" radio="true", CBN São Paulo HD
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF: -1 tvg-id="radiomassa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1luLbSzlJT_kskhdBtEg-T6M8PdiOLz8Qww&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Massa FM
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Rádiotupi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGfTq0TwGbw2-hqAVIOGgCwDd0W0T9Gje4w&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Tupi FM
+#EXTINF: -1 tvg-id="radiotupi.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGfTq0TwGbw2-hqAVIOGgCwDd0W0T9Gje4w&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Tupi FM
 https://8923.brasilstream.com.br/stream?nocache=32711111
 
-#EXTINF: -1 tvg-id = "Rádio Clube AM PE" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title="Canais de Áudio" radio="true",Rádio Clube 720AM
+#EXTINF: -1 tvg-id="radioclubeampe.br" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title="Canais de Áudio" radio="true",Rádio Clube 720AM
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
 
-#EXTINF: -1 tvg-id = "Rádio Clube AM CE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYFTr-1feNBTIN-sMO1WKCuTeGBAvg8d9sg&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Clube 1200AM
+#EXTINF: -1 tvg-id = "radioclubeamce.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYFTr-1feNBTIN-sMO1WKCuTeGBAvg8d9sg&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Clube 1200AM
 https://r10.ciclano.io:15075/stream?1651714823719
 
 #EXTINF: -1 tvg-id="Rádiouniversitaria" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title="Canais de Áudio" radio="true",Rádio Universitaria FM
