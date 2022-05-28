@@ -302,8 +302,12 @@
 </programme>
        ########TVbs####
 
-<programme start="20220527140000 -0300" stop="20220527200000 -0300" channel="tvbs.br">
+<programme start="20220528000000 -0300" stop="20220520060000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
+ <desc lang="pt">anime</desc>
+</programme>
+<programme start="20220527213000 -0300" stop="20220528000000 -0300" channel="tvbs.br">
+ <title lang="pt">Especial loading</title>
  <desc lang="pt">anime</desc>
 </programme>
 
