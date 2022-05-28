@@ -304,6 +304,14 @@
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
+<programme start="20220528000000 -0300" stop="20220529000000 -0300" channel="Yeeaah.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20220529000000 -0300" stop="20220530000000 -0300" channel="Yeeaah.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
        ########TVbs####
 
 <programme start="20220528000000 -0300" stop="20220528060000 -0300" channel="tvbs.br">
@@ -314,11 +322,42 @@
  <title lang="pt">Especial loading</title>
  <desc lang="pt">anime</desc>
 </programme>
+<programme start="20220528060000 -0300" stop="20220528070000 -0300" channel="tvbs.br">
+ <title lang="pt">Budega do Maguila</title>
+ <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
+</programme>
+<programme start="20220528070000 -0300" stop="20220529000000 -0300" channel="tvbs.br">
+ <title lang="pt">Programação TV BS</title>
+ <desc lang="pt">anime</desc>
+</programme>
 
        ########damubiku.br#####
-<programme start="20220527140000 -0300" stop="20220528000000 -0300" channel="damubiku.br">
+<programme start="20220527230000 -0300" stop="20220528180000 -0300" channel="damubiku.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">anime</desc>
 </programme>
+
+      ########radioclubeam#####
+<programme start="20220527230000 -0300" stop="20220528080000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Programação Música</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220528080000 -0300" stop="20220528120000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Por Que Hoje é Sábado</title>
+ <desc lang="pt">musica</desc>
+</programme>
+</programme><programme start="20220528120000 -0300" stop="20220528140000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bola ao centro</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+</programme><programme start="20220528140000 -0300" stop="20220528210000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Jornada Esportiva/Programação Musical</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+</programme><programme start="20220528210000 -0300" stop="20220529160000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Programação Super Rádio Clube</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+
 
 </tv>
