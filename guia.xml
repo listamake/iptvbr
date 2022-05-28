@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 
-<channel id="radioclubeampe.br">
- <display-name lang="pt">Rádio Clube 720AM</display-name>
-  <url>mi.tv</url>
-</channel>
-
 <channel id="Yeeaah.br"
  <display-name lang="pt">Yeeaah HD</display-name>
   <url>mi.tv</url>
