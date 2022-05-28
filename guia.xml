@@ -342,22 +342,24 @@
  <title lang="pt">Programação Música</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
+
 <programme start="20220528080000 -0300" stop="20220528120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">musica</desc>
 </programme>
+
 </programme><programme start="20220528120000 -0300" stop="20220528140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
+
 </programme><programme start="20220528140000 -0300" stop="20220528210000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
+
 </programme><programme start="20220528210000 -0300" stop="20220529160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-
-
 </tv>
