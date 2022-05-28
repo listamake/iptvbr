@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
@@ -31,16 +31,6 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20220527200000 -0300" stop="20220527203000 -0300" channel="anitv.br">
- <title lang="en">My Hero Academia 2ª Temp</title>
- <desc lang="en">anime</desc>
-</programme>
-
-<programme start="20220527230000 -0300" stop="20220527210000 -0300" channel="anitv.br">
- <title lang="en">Urusei Yatsura</title>
- <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
-</programme>
-
 <programme start="20220527210000 -0300" stop="20220527213000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
