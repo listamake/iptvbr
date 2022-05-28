@@ -269,36 +269,5 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220528150000 -0300" stop="20220528173000 -0300" channel="anitv.br">
- <title lang="en">Maratona Urusei Yatsura</title>
- <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
-</programme>
-
-<programme start="20220528173000 -0300" stop="20220528220000 -0300" channel="anitv.br">
- <title lang="pt">Maratona Lenda - Um Luxo de Sonhar</title>
- <desc lang="pt">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo.</desc>
-</programme>
-   ####domingo anitv####
-<programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
- <title lang="pt">Shimoneta </title>
- <desc lang="pt">anime</desc>
-</programme>
-
-       #####yeeaah####
-
-       ########TVbs####
-
-
-<programme start="20220528070000 -0300" stop="20220529000000 -0300" channel="tvbs.br">
- <title lang="pt">Programação TV BS</title>
- <desc lang="pt">anime</desc>
-</programme>
-
-       ########damubiku.br#####
-<programme start="20220527230000 -0300" stop="20220528180000 -0300" channel="damubiku.br">
- <title lang="pt">Programação de Animes</title>
- <desc lang="pt">anime</desc>
-</programme>
-
 
 </tv>
