@@ -1,1 +1,32 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
+
+
+
+<channel id="Yeeaah.br"
+ <display-name lang="pt">Yeeaah HD</display-name>
+  <url>mi.tv</url>
+</channel>
+
+<channel id="StrikerVerso.br">
+ <display-name lang="pt">StrikerVerso HD</display-name>
+  <url>mi.tv</url>
+</channel>
+
+<channel id="damubiku.br">
+ <display-name lang="pt">Damu Biku HD</display-name>
+  <url>mi.tv</url>
+</channel>
+
+<channel id="tvbs.br">
+ <display-name lang="pt">TV BS HD</display-name>
+  <url>mi.tv</url>
+</channel>
+
+<channel id="anitv.br">
+ <display-name lang="pt">Ani TV HD</display-name>
+  <display-name lang="pt">AniTV</display-name>
+   <src>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp</src>
+</channel>
+</tv>
