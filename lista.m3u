@@ -177,7 +177,7 @@ https://stmv2.samcast.com.br/jose8272/jose8272/playlist.m3u8
 
 #EXTINF: -1 tvg-id="playch.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkzSgaqxrTFTvfT3DM2HGqrrCEURk2a19bQ&usqp=CAU" group-title = "TV" pltv-subgroup = "NTRU", Play Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://d2nvs31859zcd8.cloudfront.net/76c74b1a26e4f8142441_playchannelsp_40829559051_1653685983/360p30/index-muted-9XBE6BM748.m3u8
+https://google2-br.cdn.booyah.live/hls/1500038/116467679.m3u8
 
 #EXTINF: -1 tvg-id = "TVCH23" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso" pltv-subgroup = "Sis.Jornal do Comer.", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
