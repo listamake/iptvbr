@@ -42,7 +42,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220530000000 -0300" stop="20220530003000 -0300" channel="anitv.br">
+<programme start="20220531000000 -0300" stop="20220531003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -50,7 +50,7 @@
     </rating>
 </programme>
 
-<programme start="20220530003000 -0300" stop="20220530010000 -0300" channel="anitv.br">
+<programme start="20220531003000 -0300" stop="20220531010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -58,22 +58,22 @@
     </rating>
 </programme>
 
-<programme start="20220530010000 -0300" stop="20220530013000 -0300" channel="anitv.br">
+<programme start="20220531010000 -0300" stop="20220531013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220530013000 -0300" stop="20220530020000 -0300" channel="anitv.br">
+<programme start="20220531013000 -0300" stop="20220531020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220530020000 -0300" stop="20220530030000 -0300" channel="anitv.br">
+<programme start="20220531020000 -0300" stop="20220531030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220530030000 -0300" stop="20220530050000 -0300" channel="anitv.br">
+<programme start="20220530033000 -0300" stop="20220530050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
@@ -283,7 +283,11 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
+<programme start="20220529100000 -0300" stop="20220530000000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona de domingo</title>
+ <desc lang="pt">Com os Animes SK8 The Infinity, Ranking of King, My Hero Academia, Yu Yu Hakusho</desc>
+</programme>
+<programme start="20220530013000 -0300" stop="20220530033000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -293,7 +297,7 @@
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20220529000000 -0300" stop="20220530000000 -0300" channel="yaaeeh.br">
+<programme start="20220530000000 -0300" stop="20220601000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -307,11 +311,11 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####tv bs####
- <programme start="2022052900000 -0300" stop="20220529090000 -0300" channel="tvbs.br">
+<programme start="2022053000000 -0300" stop="20220531090000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
- <programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="tvbs.br">
+<programme start="20220604090000 -0300" stop="2022060410000 -0300" channel="tvbs.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
@@ -327,7 +331,7 @@
  
       ########radioclubeam#####
 
-<programme start="20220531230000 -0300" stop="20220601080000 -0300" channel="radioclubeampe.br">
+<programme start="20220529000000 -0300" stop="20220530050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -337,12 +341,12 @@
  <desc lang="pt">musica</desc>
 </programme>
 
-<programme start="20220528120000 -0300" stop="20220528140000 -0300" channel="radioclubeampe.br">
+<programme start="20220530120000 -0300" stop="20220530130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220529160000 -0300" stop="20220529000000 -0300" channel="radioclubeampe.br">
+<programme start="20220530160000 -0300" stop="20220531000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
