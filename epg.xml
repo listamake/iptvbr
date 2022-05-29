@@ -289,7 +289,7 @@
 </programme>
  
     ####yeeaah####
-<programme start="20220528060000 -0300" stop="20220529000000 -0300" channel="yaaeeh.br">
+<programme start="20220530000000 -0300" stop="20220531000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -298,8 +298,12 @@
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
     ####playch####
-<programme start="20220528143000 -0300" stop="20220528163000 -0300" channel="playch.br">
- <title lang="pt">Otacraze:The Future Diary</title>
+<programme start="2022052900000 -0300" stop="20220529163000 -0300" channel="playch.br">
+ <title lang="pt">Otacraze:Bakugan</title>
+ <desc lang="pt">anime</desc>
+</programme>
+<programme start="2022052916000 -0300" stop="20220530163000 -0300" channel="playch.br">
+ <title lang="pt">Programação Teste</title>
  <desc lang="pt">anime</desc>
 </programme>
    ####tv bs####
@@ -307,7 +311,7 @@
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
- <programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="anitv.br">
+ <programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="tvbs.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
