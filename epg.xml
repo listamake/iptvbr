@@ -214,7 +214,7 @@
 </programme>
  
    ####sabado anitv####
- <programme start="20220528030000 -0300" stop="20220528050000 -0300" channel="anitv.br">
+<programme start="20220528030000 -0300" stop="20220528050000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
@@ -254,6 +254,35 @@
  <desc lang="en">dorama</desc>
 </programme>
    ####domingo anitv####
+<programme start="20220529000000 -0300" stop="20220529003000 -0300" channel="anitv.br">
+ <title lang="pt">Cardcaptor Sakura</title>
+ <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
+</programme>
+<programme start="20220529003000 -0300" stop="20220529030000 -0300" channel="anitv.br">
+ <title lang="pt">Akame ga Kill !</title>
+ <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
+  <rating system="VCHIP">
+      <value>TV-14</value>
+    </rating>
+</programme>
+<programme start="20220529030000 -0300" stop="20220529053000 -0300" channel="anitv.br">
+ <title lang="pt">Kiss-x-sis</title>
+ <desc lang="pt">anime</desc>
+</programme>
+
+<programme start="20220529053000 -0300" stop="20220529063000 -0300" channel="anitv.br">
+ <title lang="pt">AniBox City Pop</title>
+ <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
+</programme>
+<programme start="20220529063000 -0300" stop="20220529090000 -0300" channel="anitv.br">
+ <title lang="pt">AniBox</title>
+ <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
+</programme>
+
+<programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="anitv.br">
+ <title lang="pt">Budega do Maguila</title>
+ <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
+</programme>
 <programme start="20220529230000 -0300" stop="20220529000000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta</title>
  <desc lang="pt">anime</desc>
@@ -274,16 +303,20 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####tv bs####
- <programme start="2022052806000 -0300" stop="20220529000000 -0300" channel="tvbs.br">
+ <programme start="2022052900000 -0300" stop="20220529090000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220529000000 -0300" stop="20220529160000 -0300" channel="tvbs.br">
+ <programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="anitv.br">
+ <title lang="pt">Budega do Maguila</title>
+ <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
+</programme>
+<programme start="20220529090000 -0300" stop="20220529160000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
    ####damubiku.br####
-<programme start="20220528140000 -0300" stop="20220529000000 -0300" channel="damubiku.br">
+<programme start="2022052900000 -0300" stop="20220530000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -305,7 +338,7 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220528140000 -0300" stop="20220528210000 -0300" channel="radioclubeampe.br">
+<programme start="20220529160000 -0300" stop="20220529000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
