@@ -36,7 +36,7 @@
   <url>mi.tv</url>
 </channel>     
        #####padrao especial anitv#####
-<programme start="20220531000000 -0300" stop="2022060100000 -0300" channel="anitv.br">
+<programme start="20220601000000 -0300" stop="2022060200000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -158,12 +158,12 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220530170000 -0300" stop="20220530190000 -0300" channel="anitv.br">
+<programme start="20220531170000 -0300" stop="20220531190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220530190000 -0300" stop="20220530193000 -0300" channel="anitv.br">
+<programme start="20220531190000 -0300" stop="20220531193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -258,23 +258,23 @@
  <title lang="pt">Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
-<programme start="20220529003000 -0300" stop="20220529030000 -0300" channel="anitv.br">
+<programme start="20220605003000 -0300" stop="20220605030000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220529030000 -0300" stop="20220529053000 -0300" channel="anitv.br">
+<programme start="20220605030000 -0300" stop="20220605053000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220529053000 -0300" stop="20220529063000 -0300" channel="anitv.br">
+<programme start="20220605053000 -0300" stop="20220605063000 -0300" channel="anitv.br">
  <title lang="pt">AniBox City Pop</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220529063000 -0300" stop="20220529090000 -0300" channel="anitv.br">
+<programme start="20220605063000 -0300" stop="20220605090000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
