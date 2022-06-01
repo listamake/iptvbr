@@ -3,27 +3,38 @@
 
 <channel id="yaaeeh.br">
  <display-name lang="pt">Yeeaah HD</display-name>
-  <url>mi.tv</url>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp"/>
+ <url>mi.tv</url>
 </channel>
  
 <channel id="playch.br">
  <display-name lang="pt">Play Channel HD</display-name>
   <url>mi.tv</url>
+  <icon src=""/>
 </channel>
 
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name>
-  <url>mi.tv</url>
+  <icon src=""/>
+   <url>mi.tv</url>
+</channel>
+
+<channel id="radiojornalpe.br">
+ <display-name lang="pt">Rádio Jornal Recife</display-name>
+  <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
+   <url>mi.tv</url>
 </channel>
 
 <channel id="damubiku.br">
  <display-name lang="pt">Damu Biku HD</display-name>
-  <url>mi.tv</url>
+  <icon src=""/>
+   <url>mi.tv</url>
 </channel>
 
 <channel id="tvbs.br">
  <display-name lang="pt">TV BS HD</display-name>
-  <url>mi.tv</url>
+   <icon src="https://media.discordapp.net/attachments/974885569547079792/974885762459922432/tvbs-logo.png"/>
+   <url>mi.tv</url>
 </channel>
  
 <channel id="anitv.br">
@@ -34,7 +45,8 @@
  
 <channel id="radioclubeampe.br">
  <display-name lang="pt">Rádio Clube 720AM</display-name>
-  <url>mi.tv</url>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU"/>
+    <url>mi.tv</url>
 </channel>     
        #####padrao especial anitv#####
 <programme start="20220601000000 -0300" stop="2022060200000 -0300" channel="anitv.br">
@@ -59,17 +71,17 @@
     </rating>
 </programme>
 
-<programme start="20220531010000 -0300" stop="20220531013000 -0300" channel="anitv.br">
+<programme start="20220602010000 -0300" stop="20220602013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220531013000 -0300" stop="20220531020000 -0300" channel="anitv.br">
+<programme start="20220602013000 -0300" stop="20220602020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531020000 -0300" stop="20220531030000 -0300" channel="anitv.br">
+<programme start="20220602020000 -0300" stop="20220602030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
@@ -326,40 +338,40 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####damubiku.br####
-<programme start="2022053121000 -0300" stop="20220601000000 -0300" channel="damubiku.br">
+<programme start="2022060121000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2022060100000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
+<programme start="2022060200000 -0300" stop="20220603000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">anime</desc>
 </programme>
  
       ########radioclubeam#####
 
-<programme start="20220531220000 -0300" stop="20220601050000 -0300" channel="radioclubeampe.br">
+<programme start="20220601220000 -0300" stop="20220602050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220601050000 -0300" stop="20220601070000 -0300" channel="radioclubeampe.br">
+<programme start="20220602050000 -0300" stop="20220602070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220601070000 -0300" stop="20220601073000 -0300" channel="radioclubeampe.br">
+<programme start="20220602070000 -0300" stop="20220602073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">Esporte</desc>
 </programme>
-<programme start="20220601083000 -0300" stop="20220601110000 -0300" channel="radioclubeampe.br">
+<programme start="20220602083000 -0300" stop="20220602110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220601110000 -0300" stop="20220601120000 -0300" channel="radioclubeampe.br">
+<programme start="20220602110000 -0300" stop="20220602120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
 
-<programme start="20220601120000 -0300" stop="20220601130000 -0300" channel="radioclubeampe.br">
+<programme start="20220602120000 -0300" stop="20220602130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
