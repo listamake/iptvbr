@@ -42,7 +42,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220531000000 -0300" stop="20220531003000 -0300" channel="anitv.br">
+<programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -50,7 +50,7 @@
     </rating>
 </programme>
 
-<programme start="20220531003000 -0300" stop="20220531010000 -0300" channel="anitv.br">
+<programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -208,7 +208,7 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220530233000 -0300" stop="20220531000000 -0300" channel="anitv.br">
+<programme start="20220531233000 -0300" stop="20220531000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -324,14 +324,18 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####damubiku.br####
-<programme start="2022053122000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
+<programme start="2022053121000 -0300" stop="20220601000000 -0300" channel="damubiku.br">
+ <title lang="pt">Black Clover</title>
+ <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
+</programme>
+<programme start="2022060100000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">anime</desc>
 </programme>
  
       ########radioclubeam#####
 
-<programme start="20220610220000 -0300" stop="20220601050000 -0300" channel="radioclubeampe.br">
+<programme start="20220531220000 -0300" stop="20220601050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -357,8 +361,16 @@
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
+<programme start="20220601130000 -0300" stop="20220601140000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bate bola</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
 <programme start="20220601140000 -0300" stop="20220601160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220601170000 -0300" stop="20220601180000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Uma Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
