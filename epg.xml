@@ -27,7 +27,7 @@
 
 <channel id="damubiku.br">
  <display-name lang="pt">Damu Biku HD</display-name>
-  <icon src=""/>
+  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
    <url>mi.tv</url>
 </channel>
 
@@ -45,7 +45,7 @@
  
 <channel id="radioclubeampe.br">
  <display-name lang="pt">Rádio Clube 720AM</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU"/>
+    <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
 </channel>     
        #####padrao especial anitv#####
@@ -370,7 +370,6 @@
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-
 <programme start="20220602120000 -0300" stop="20220602130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
@@ -388,7 +387,6 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-
 <programme start="20220604080000 -0300" stop="20220604120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">musica</desc>
@@ -404,3 +402,15 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
+       #####radiojornalpe.br ######
+
+<programme start="20220601140000 -0300" stop="20220601160000 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Rádio Livre</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220601160000 -0300" stop="20220601180000 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Balanço de Notícias</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+
+</tv>
