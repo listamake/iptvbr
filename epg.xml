@@ -168,22 +168,22 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531193000 -0300" stop="20220531200000 -0300" channel="anitv.br">
+<programme start="20220602193000 -0300" stop="20220531200000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531200000 -0300" stop="20220531203000 -0300" channel="anitv.br">
+<programme start="20220531200000 -0300" stop="20220602203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220531203000 -0300" stop="20220531210000 -0300" channel="anitv.br">
+<programme start="20220602203000 -0300" stop="20220602210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531210000 -0300" stop="20220531213000 -0300" channel="anitv.br">
+<programme start="20220602210000 -0300" stop="20220602213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
@@ -208,7 +208,7 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531233000 -0300" stop="20220531000000 -0300" channel="anitv.br">
+<programme start="20220531233000 -0300" stop="20220601000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -254,10 +254,11 @@
  <desc lang="en">dorama</desc>
 </programme>
    ####domingo anitv####
-<programme start="20220605000000 -0300" stop="20220605003000 -0300" channel="anitv.br">
+<programme start="20220604220000 -0300" stop="20220605003000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
+
 <programme start="20220605003000 -0300" stop="20220605030000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
