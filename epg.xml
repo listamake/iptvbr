@@ -55,7 +55,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="anitv.br">
+<programme start="20220602000000 -0300" stop="20220603003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -63,7 +63,7 @@
     </rating>
 </programme>
 
-<programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="anitv.br">
+<programme start="20220603003000 -0300" stop="20220603010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -71,17 +71,17 @@
     </rating>
 </programme>
 
-<programme start="20220602010000 -0300" stop="20220602013000 -0300" channel="anitv.br">
+<programme start="20220603010000 -0300" stop="20220603013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220602013000 -0300" stop="20220602020000 -0300" channel="anitv.br">
+<programme start="20220603013000 -0300" stop="20220603020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220602020000 -0300" stop="20220602030000 -0300" channel="anitv.br">
+<programme start="20220603020000 -0300" stop="20220603030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
@@ -146,22 +146,22 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220602133000 -0300" stop="20220602140000 -0300" channel="anitv.br">
+<programme start="20220603133000 -0300" stop="20220603140000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531140000 -0300" stop="20220531150000 -0300" channel="anitv.br">
+<programme start="20220603140000 -0300" stop="20220603150000 -0300" channel="anitv.br">
  <title lang="en">AniBox Compacto</title>
  <desc lang="en">musica </desc>
 </programme>
 
-<programme start="20220602150000 -0300" stop="20220602160000 -0300" channel="anitv.br">
+<programme start="20220603150000 -0300" stop="20220603160000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de sonhar </title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220603160000 -0300" stop="20220603163000 -0300" channel="anitv.br">
+<programme start="20220602160000 -0300" stop="20220602163000 -0300" channel="anitv.br">
  <title lang="en"> SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -171,7 +171,7 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220602170000 -0300" stop="2022060w190000 -0300" channel="anitv.br">
+<programme start="20220602170000 -0300" stop="20220602190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
@@ -325,7 +325,7 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####tv bs####
-<programme start="2022060100000 -0300" stop="20220602090000 -0300" channel="tvbs.br">
+<programme start="2022060200000 -0300" stop="20220603090000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -333,7 +333,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220531090000 -0300" stop="2022060100000 -0300" channel="tvbs.br">
+<programme start="20220603090000 -0300" stop="2022060400000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -349,16 +349,16 @@
  
       ########radioclubeam#####
 
-<programme start="20220601220000 -0300" stop="20220602050000 -0300" channel="radioclubeampe.br">
+<programme start="20220602220000 -0300" stop="20220603050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220602050000 -0300" stop="20220602070000 -0300" channel="radioclubeampe.br">
+<programme start="20220603050000 -0300" stop="20220603070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220602070000 -0300" stop="20220602073000 -0300" channel="radioclubeampe.br">
+<programme start="20220603070000 -0300" stop="20220603073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">Esporte</desc>
 </programme>
@@ -415,7 +415,7 @@
 
        #####radiojornalpe.br ######
 
-<programme start="20220602140000 -0300" stop="20220602160000 -0300" channel="radiojornalpe.br">
+<programme start="20220603140000 -0300" stop="20220603160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
