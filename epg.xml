@@ -156,27 +156,27 @@
  <desc lang="en">musica </desc>
 </programme>
 
-<programme start="20220531150000 -0300" stop="20220531160000 -0300" channel="anitv.br">
+<programme start="20220602150000 -0300" stop="20220602160000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de sonhar </title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220531160000 -0300" stop="20220531163000 -0300" channel="anitv.br">
+<programme start="20220603160000 -0300" stop="20220603163000 -0300" channel="anitv.br">
  <title lang="en"> SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531163000 -0300" stop="20220531170000 -0300" channel="anitv.br">
+<programme start="20220602163000 -0300" stop="20220602170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531170000 -0300" stop="20220531190000 -0300" channel="anitv.br">
+<programme start="20220602170000 -0300" stop="2022060w190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220531190000 -0300" stop="20220531193000 -0300" channel="anitv.br">
+<programme start="20220602190000 -0300" stop="20220602193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -206,22 +206,22 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531220000 -0300" stop="20220531223000 -0300" channel="anitv.br">
+<programme start="20220602220000 -0300" stop="20220531223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531223000 -0300" stop="20220531230000 -0300" channel="anitv.br">
+<programme start="20220602223000 -0300" stop="20220531230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531230000 -0300" stop="20220531233000 -0300" channel="anitv.br">
+<programme start="20220602230000 -0300" stop="20220531233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220531233000 -0300" stop="20220601000000 -0300" channel="anitv.br">
+<programme start="20220602233000 -0300" stop="20220601000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -394,7 +394,7 @@
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220601200000 -0300" stop="20220601220000 -0300" channel="radioclubeampe.br">
+<programme start="20220602200000 -0300" stop="20220602220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
@@ -423,7 +423,7 @@
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220601180000 -0300" stop="20220602140000 -0300" channel="radiojornalpe.br">
+<programme start="20220602180000 -0300" stop="20220603140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
