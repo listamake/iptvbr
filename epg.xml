@@ -27,7 +27,7 @@
 
 <channel id="AllSports.br">
  <display-name lang="pt">All Sport HD</display-name>
-  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslAusqp=CAU"/>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuoqKGsp7M4tww-PZQpo8klwthueQxugto2A&usqp=CAU"/>
    <url>mi.tv</url>
 </channel>
 
@@ -421,12 +421,12 @@
  <desc lang="pt">musica</desc>
 </programme>
 
-<programme start="20220604160000 -0300" stop="20220604000000 -0300" channel="radioclubeampe.br">
+<programme start="20220604160000 -0300" stop="20220605000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220604050000 -0300" stop="20220604080000 -0300" channel="radioclubeampe.br">
+<programme start="20220604120000 -0300" stop="20220604160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -457,4 +457,10 @@
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
 
+     ####RetroCartoon.br#####
+<programme start="20220604120000 -0300" stop="20220612140000 -0300" channel="RetroCartoon.br">
+ <title lang="pt">Retro Cartoon 24h</title>
+ <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.
+</desc>
+</programme>
 </tv>
