@@ -19,6 +19,24 @@
    <url>mi.tv</url>
 </channel>
 
+<channel id="Canalteste">
+ <display-name lang="pt">teste HD</display-name>
+  <icon src=""/>
+   <url>mi.tv</url>
+</channel>
+
+<channel id="AllSports.br">
+ <display-name lang="pt">All Sport HD</display-name>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU"/>
+   <url>mi.tv</url>
+</channel>
+
+<channel id="RetroCartoon.br">
+ <display-name lang="pt">RETRO CARTOON SD</display-name>
+  <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
+   <url>mi.tv</url>
+</channel>
+
 <channel id="radiojornalpe.br">
  <display-name lang="pt">Rádio Jornal Recife</display-name>
   <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
@@ -242,17 +260,17 @@
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
 
-<programme start="20220528070000 -0300" stop="20220528100000 -0300" channel="anitv.br">
+<programme start="20220604070000 -0300" stop="20220604100000 -0300" channel="anitv.br">
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
 
-<programme start="20220528100000 -0300" stop="20220528123000 -0300" channel="anitv.br">
+<programme start="20220604100000 -0300" stop="20220604123000 -0300" channel="anitv.br">
  <title lang="en">Maratona Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220528123000 -0300" stop="20220528150000 -0300" channel="anitv.br">
+<programme start="20220604123000 -0300" stop="20220604150000 -0300" channel="anitv.br">
  <title lang="en">Maratona Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -426,6 +444,17 @@
 <programme start="20220603180000 -0300" stop="20220605140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
+</programme>
+      ####Canalteste####
+<programme start="20220603180000 -0300" stop="20220612140000 -0300" channel="Canalteste">
+ <title lang="pt">Programação de Teste</title>
+ <desc lang="pt">Canal em fase de testes</desc>
+</programme>
+
+       ####AllSports.br####
+<programme start="20220603180000 -0300" stop="20220612140000 -0300" channel="AllSports.br">
+ <title lang="pt">Programação All Sports</title>
+ <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
 
 </tv>
