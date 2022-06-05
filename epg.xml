@@ -351,7 +351,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220604090000 -0300" stop="2022060500000 -0300" channel="tvbs.br">
+<programme start="20220605090000 -0300" stop="2022060700000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -360,8 +360,8 @@
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2022060300000 -0300" stop="20220605000000 -0300" channel="damubiku.br">
- <title lang="pt">Programação de Animes</title>
+<programme start="2022060500000 -0300" stop="20220607000000 -0300" channel="damubiku.br">
+ <title lang="pt">Programação Damu Biku</title>
  <desc lang="pt">anime</desc>
 </programme>
  
@@ -421,7 +421,7 @@
  <desc lang="pt">musica</desc>
 </programme>
 
-<programme start="20220604160000 -0300" stop="20220605000000 -0300" channel="radioclubeampe.br">
+<programme start="20220605160000 -0300" stop="20220606000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -441,7 +441,7 @@
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220603180000 -0300" stop="20220605140000 -0300" channel="radiojornalpe.br">
+<programme start="20220605180000 -0300" stop="20220606140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
