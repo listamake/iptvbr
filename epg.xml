@@ -73,7 +73,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220607000000 -0300" stop="20220607003000 -0300" channel="anitv.br">
+<programme start="20220608000000 -0300" stop="20220608003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -81,7 +81,7 @@
     </rating>
 </programme>
 
-<programme start="20220607003000 -0300" stop="20220607010000 -0300" channel="anitv.br">
+<programme start="20220608003000 -0300" stop="20220608010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -184,37 +184,37 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220606163000 -0300" stop="20220606170000 -0300" channel="anitv.br">
+<programme start="20220607163000 -0300" stop="20220607170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220606170000 -0300" stop="20220606190000 -0300" channel="anitv.br">
+<programme start="20220607170000 -0300" stop="20220607190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220606190000 -0300" stop="20220606193000 -0300" channel="anitv.br">
+<programme start="20220607190000 -0300" stop="20220607193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220606193000 -0300" stop="20220606200000 -0300" channel="anitv.br">
+<programme start="20220607193000 -0300" stop="20220607200000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220606200000 -0300" stop="20220606203000 -0300" channel="anitv.br">
+<programme start="20220607200000 -0300" stop="20220607203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220603203000 -0300" stop="20220603210000 -0300" channel="anitv.br">
+<programme start="20220607203000 -0300" stop="20220607210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220603210000 -0300" stop="20220603213000 -0300" channel="anitv.br">
+<programme start="20220607210000 -0300" stop="20220607213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
