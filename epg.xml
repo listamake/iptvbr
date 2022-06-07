@@ -73,7 +73,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220605000000 -0300" stop="20220604003000 -0300" channel="anitv.br">
+<programme start="20220607000000 -0300" stop="20220607003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -338,12 +338,12 @@
  <title lang="pt">Otacraze</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="2022052913000 -0300" stop="20220530163000 -0300" channel="playch.br">
+<programme start="2022060613000 -0300" stop="20220613163000 -0300" channel="playch.br">
  <title lang="pt">Programação Teste</title>
  <desc lang="pt">anime</desc>
 </programme>
    ####tv bs####
-<programme start="2022060300000 -0300" stop="20220604090000 -0300" channel="tvbs.br">
+<programme start="2022060700000 -0300" stop="20220609090000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -360,7 +360,7 @@
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2022060500000 -0300" stop="20220607000000 -0300" channel="damubiku.br">
+<programme start="2022060500000 -0300" stop="20220609000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação Damu Biku</title>
  <desc lang="pt">anime</desc>
 </programme>
