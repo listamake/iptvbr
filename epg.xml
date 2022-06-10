@@ -73,7 +73,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220610000000 -0300" stop="20220610003000 -0300" channel="anitv.br">
+<programme start="20220611000000 -0300" stop="20220611003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -81,7 +81,7 @@
     </rating>
 </programme>
 
-<programme start="20220610003000 -0300" stop="20220610010000 -0300" channel="anitv.br">
+<programme start="20220611003000 -0300" stop="20220611010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -89,17 +89,17 @@
     </rating>
 </programme>
 
-<programme start="20220610010000 -0300" stop="20220610013000 -0300" channel="anitv.br">
+<programme start="20220611010000 -0300" stop="20220611013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220610013000 -0300" stop="20220610020000 -0300" channel="anitv.br">
+<programme start="20220611013000 -0300" stop="20220611020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220610020000 -0300" stop="20220610030000 -0300" channel="anitv.br">
+<programme start="20220611020000 -0300" stop="20220611030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
@@ -184,12 +184,12 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220607163000 -0300" stop="20220607170000 -0300" channel="anitv.br">
+<programme start="20220610163000 -0300" stop="20220610170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220607170000 -0300" stop="20220607190000 -0300" channel="anitv.br">
+<programme start="20220610170000 -0300" stop="20220610190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
@@ -234,7 +234,7 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="202206010230000 -0300" stop="20220610233000 -0300" channel="anitv.br">
+<programme start="20220610230000 -0300" stop="20220610233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
