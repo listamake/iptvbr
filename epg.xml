@@ -285,7 +285,7 @@
  <desc lang="en">dorama</desc>
 </programme>
    ####domingo anitv####
-<programme start="20220612220000 -0300" stop="20220612003000 -0300" channel="anitv.br">
+<programme start="20220611220000 -0300" stop="20220612003000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
@@ -297,12 +297,12 @@
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220605030000 -0300" stop="20220605053000 -0300" channel="anitv.br">
+<programme start="20220612030000 -0300" stop="20220612053000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220605053000 -0300" stop="20220605063000 -0300" channel="anitv.br">
+<programme start="20220612053000 -0300" stop="20220612063000 -0300" channel="anitv.br">
  <title lang="pt">AniBox City Pop</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
@@ -360,7 +360,7 @@
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2022060700000 -0300" stop="20220611000000 -0300" channel="damubiku.br">
+<programme start="2022061100000 -0300" stop="20220614000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação Damu Biku</title>
  <desc lang="pt">anime</desc>
 </programme>
