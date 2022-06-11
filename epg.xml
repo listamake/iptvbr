@@ -73,7 +73,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220611000000 -0300" stop="20220611003000 -0300" channel="anitv.br">
+<programme start="20220614000000 -0300" stop="20220614003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -81,7 +81,7 @@
     </rating>
 </programme>
 
-<programme start="20220611003000 -0300" stop="20220611010000 -0300" channel="anitv.br">
+<programme start="20220614003000 -0300" stop="20220614010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -89,32 +89,32 @@
     </rating>
 </programme>
 
-<programme start="20220611010000 -0300" stop="20220611013000 -0300" channel="anitv.br">
+<programme start="20220614010000 -0300" stop="20220614013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220611013000 -0300" stop="20220611020000 -0300" channel="anitv.br">
+<programme start="20220614013000 -0300" stop="20220614020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220611020000 -0300" stop="20220611030000 -0300" channel="anitv.br">
+<programme start="20220614020000 -0300" stop="20220614030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220610030000 -0300" stop="20220610050000 -0300" channel="anitv.br">
+<programme start="20220613030000 -0300" stop="20220613050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220610050000 -0300" stop="20220610060000 -0300" channel="anitv.br">
+<programme start="20220613050000 -0300" stop="20220613060000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220610060000 -0300" stop="20220610070000 -0300" channel="anitv.br">
+<programme start="20220613060000 -0300" stop="20220613070000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">Educativo</desc>
 </programme>
@@ -306,20 +306,20 @@
  <title lang="pt">AniBox City Pop</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220605063000 -0300" stop="20220605090000 -0300" channel="anitv.br">
+<programme start="20220612063000 -0300" stop="20220612090000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220605090000 -0300" stop="20220605100000 -0300" channel="anitv.br">
+<programme start="20220612090000 -0300" stop="20220612100000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220605100000 -0300" stop="20220606013000 -0300" channel="anitv.br">
+<programme start="20220612100000 -0300" stop="20220612013000 -0300" channel="anitv.br">
  <title lang="pt">Maratona de domingo</title>
  <desc lang="pt">Com os Animes SK8 The Infinity, Ranking of King, My Hero Academia, Yu Yu Hakusho</desc>
 </programme>
-<programme start="20220606013000 -0300" stop="20220606033000 -0300" channel="anitv.br">
+<programme start="20220612013000 -0300" stop="20220613033000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta</title>
  <desc lang="pt">anime</desc>
 </programme>
