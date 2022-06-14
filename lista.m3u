@@ -264,7 +264,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-https://evpp.mm.uol.com.br/ne10/ne10_1080.sdp/playlist.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10_240.sdp/playlist.m3u8
   
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
