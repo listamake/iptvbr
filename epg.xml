@@ -16,7 +16,7 @@
 <channel id="Euronews.br">
  <display-name lang="pt">Euronews em português</display-name>
   <url>mi.tv</url>
-  <icon src=""/>
+  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU"/>
 </channel>
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name>
