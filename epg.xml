@@ -16,7 +16,7 @@
 <channel id="Euronews.br">
  <display-name lang="pt">Euronews em português</display-name>
   <url>mi.tv</url>
-  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU"/>
+  <icon src=""/>
 </channel>
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name>
@@ -467,13 +467,13 @@
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
 
-       ###AllSports.br####
+       ####AllSports.br####
 <programme start="20220613180000 -0300" stop="20220618140000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
 
-       ###Euronews.br####
+       ####Euronews.br####
 <programme start="20220613180000 -0300" stop="20220618140000 -0300" channel="Euronews.br">
  <title lang="pt">Programação Euronews</title>
  <desc lang="pt">Euronews é uma estação televisiva de informação multilingue e pan-europeia, fundada em 1993 e sediada em Lyon, em França. Foi o primeiro canal do mundo a difundir em várias línguas.</desc>
