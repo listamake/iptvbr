@@ -104,17 +104,17 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220615020000 -0300" stop="20220615030000 -0300" channel="anitv.br">
+<programme start="20220616020000 -0300" stop="20220616030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220615030000 -0300" stop="20220615050000 -0300" channel="anitv.br">
+<programme start="20220616030000 -0300" stop="20220616050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220615050000 -0300" stop="20220615060000 -0300" channel="anitv.br">
+<programme start="20220616050000 -0300" stop="20220616060000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
@@ -376,48 +376,48 @@
  
       ########radioclubeam#####
 
-<programme start="20220614220000 -0300" stop="20220615050000 -0300" channel="radioclubeampe.br">
+<programme start="20220615220000 -0300" stop="20220616050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220615050000 -0300" stop="20220615070000 -0300" channel="radioclubeampe.br">
+<programme start="20220616050000 -0300" stop="20220616070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220615070000 -0300" stop="20220615073000 -0300" channel="radioclubeampe.br">
+<programme start="20220616070000 -0300" stop="20220616073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">Esporte</desc>
 </programme>
-<programme start="20220615083000 -0300" stop="20220615110000 -0300" channel="radioclubeampe.br">
+<programme start="20220616083000 -0300" stop="20220616110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220615110000 -0300" stop="20220615120000 -0300" channel="radioclubeampe.br">
+<programme start="20220616110000 -0300" stop="20220615120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220615120000 -0300" stop="20220615130000 -0300" channel="radioclubeampe.br">
+<programme start="20220616120000 -0300" stop="20220615130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615130000 -0300" stop="20220615140000 -0300" channel="radioclubeampe.br">
+<programme start="20220616130000 -0300" stop="20220615140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615140000 -0300" stop="20220615160000 -0300" channel="radioclubeampe.br">
+<programme start="20220616140000 -0300" stop="20220615160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615160000 -0300" stop="20220615170000 -0300" channel="radioclubeampe.br">
+<programme start="20220616160000 -0300" stop="20220615170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615170000 -0300" stop="20220615180000 -0300" channel="radioclubeampe.br">
+<programme start="20220616170000 -0300" stop="20220616180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615180000 -0300" stop="20220615190000 -0300" channel="radioclubeampe.br">
+<programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
@@ -441,31 +441,31 @@
 </programme>
 
        #####radiojornalpe.br ######
-<programme start="20220615063000 -0300" stop="20220615070000 -0300" channel="radiojornalpe.br">
+<programme start="20220616063000 -0300" stop="20220616070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615070000 -0300" stop="20220615120000 -0300" channel="radiojornalpe.br">
+<programme start="20220616070000 -0300" stop="20220616120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615120000 -0300" stop="20220615123000 -0300" channel="radiojornalpe.br">
+<programme start="20220616120000 -0300" stop="20220616123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615123000 -0300" stop="20220615140000 -0300" channel="radiojornalpe.br">
+<programme start="20220616123000 -0300" stop="20220616140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615140000 -0300" stop="20220615160000 -0300" channel="radiojornalpe.br">
+<programme start="20220616140000 -0300" stop="20220616160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220615160000 -0300" stop="20220615180000 -0300" channel="radiojornalpe.br">
+<programme start="20220616160000 -0300" stop="20220616180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220614180000 -0300" stop="20220615063000 -0300" channel="radiojornalpe.br">
+<programme start="20220615180000 -0300" stop="20220616063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
