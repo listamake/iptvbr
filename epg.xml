@@ -78,7 +78,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220617000000 -0300" stop="20220617003000 -0300" channel="anitv.br">
+<programme start="20220618000000 -0300" stop="20220618003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -86,7 +86,7 @@
     </rating>
 </programme>
 
-<programme start="20220617003000 -0300" stop="20220617010000 -0300" channel="anitv.br">
+<programme start="20220618003000 -0300" stop="20220618010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -94,12 +94,12 @@
     </rating>
 </programme>
 
-<programme start="20220617010000 -0300" stop="20220617013000 -0300" channel="anitv.br">
+<programme start="20220618010000 -0300" stop="20220618013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220617013000 -0300" stop="20220617020000 -0300" channel="anitv.br">
+<programme start="20220618013000 -0300" stop="20220618020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -203,52 +203,52 @@
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220616190000 -0300" stop="20220616193000 -0300" channel="anitv.br">
+<programme start="20220617190000 -0300" stop="20220617193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616193000 -0300" stop="20220616200000 -0300" channel="anitv.br">
+<programme start="20220617193000 -0300" stop="20220617200000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616200000 -0300" stop="20220616203000 -0300" channel="anitv.br">
+<programme start="20220617200000 -0300" stop="20220617203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220616203000 -0300" stop="20220616210000 -0300" channel="anitv.br">
+<programme start="20220617203000 -0300" stop="20220617210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616210000 -0300" stop="20220616213000 -0300" channel="anitv.br">
+<programme start="20220617210000 -0300" stop="20220617213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
 
-<programme start="20220616213000 -0300" stop="20220616220000 -0300" channel="anitv.br">
+<programme start="20220617213000 -0300" stop="20220617220000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616220000 -0300" stop="20220616223000 -0300" channel="anitv.br">
+<programme start="20220617220000 -0300" stop="20220617223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616223000 -0300" stop="20220616230000 -0300" channel="anitv.br">
+<programme start="20220617223000 -0300" stop="20220617230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616230000 -0300" stop="20220616233000 -0300" channel="anitv.br">
+<programme start="20220617230000 -0300" stop="20220617233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616233000 -0300" stop="20220617000000 -0300" channel="anitv.br">
+<programme start="20220617233000 -0300" stop="20220618000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -376,7 +376,7 @@
  
       ########radioclubeam#####
 
-<programme start="20220616220000 -0300" stop="20220617050000 -0300" channel="radioclubeampe.br">
+<programme start="20220617220000 -0300" stop="20220618050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -417,11 +417,11 @@
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="radioclubeampe.br">
+<programme start="20220617180000 -0300" stop="20220617190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220615200000 -0300" stop="20220615220000 -0300" channel="radioclubeampe.br">
+<programme start="20220617200000 -0300" stop="20220617220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
