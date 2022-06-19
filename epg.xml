@@ -72,13 +72,13 @@
     <url>mi.tv</url>
 </channel>     
        #####padrao especial anitv#####
-<programme start="20220601000000 -0300" stop="2022060200000 -0300" channel="anitv.br">
+<programme start="20220601000000 -0300" stop="2022060100000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">anime</desc>
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220618000000 -0300" stop="20220618003000 -0300" channel="anitv.br">
+<programme start="20220621000000 -0300" stop="20220621003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -86,7 +86,7 @@
     </rating>
 </programme>
 
-<programme start="20220618003000 -0300" stop="20220618010000 -0300" channel="anitv.br">
+<programme start="20220621003000 -0300" stop="20220621010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -94,17 +94,17 @@
     </rating>
 </programme>
 
-<programme start="20220618010000 -0300" stop="20220618013000 -0300" channel="anitv.br">
+<programme start="20220621010000 -0300" stop="20220621013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220618013000 -0300" stop="20220618020000 -0300" channel="anitv.br">
+<programme start="20220621013000 -0300" stop="20220621020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220617020000 -0300" stop="20220617030000 -0300" channel="anitv.br">
+<programme start="20220621020000 -0300" stop="20220621030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
@@ -153,47 +153,47 @@
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220617093000 -0300" stop="20220617100000 -0300" channel="anitv.br">
+<programme start="20220620093000 -0300" stop="20220620100000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220617100000 -0300" stop="20220617120000 -0300" channel="anitv.br">
+<programme start="20220620100000 -0300" stop="20220620120000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220617120000 -0300" stop="20220617130000 -0300" channel="anitv.br">
+<programme start="20220620120000 -0300" stop="20220620130000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220617130000 -0300" stop="20220617133000 -0300" channel="anitv.br">
+<programme start="20220620130000 -0300" stop="20220620133000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220617133000 -0300" stop="20220617140000 -0300" channel="anitv.br">
+<programme start="20220620133000 -0300" stop="20220620140000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220617140000 -0300" stop="20220617150000 -0300" channel="anitv.br">
+<programme start="20220620140000 -0300" stop="20220620150000 -0300" channel="anitv.br">
  <title lang="en">AniBox Compacto</title>
  <desc lang="en">musica </desc>
 </programme>
 
-<programme start="20220617150000 -0300" stop="20220617160000 -0300" channel="anitv.br">
+<programme start="20220620150000 -0300" stop="20220620160000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de sonhar </title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220616160000 -0300" stop="20220616163000 -0300" channel="anitv.br">
+<programme start="20220620160000 -0300" stop="20220620163000 -0300" channel="anitv.br">
  <title lang="en"> SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220616163000 -0300" stop="20220616170000 -0300" channel="anitv.br">
+<programme start="20220620163000 -0300" stop="20220620170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -393,35 +393,35 @@
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220617110000 -0300" stop="20220617120000 -0300" channel="radioclubeampe.br">
+<programme start="20220621110000 -0300" stop="20220621120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220617120000 -0300" stop="20220617130000 -0300" channel="radioclubeampe.br">
+<programme start="20220621120000 -0300" stop="20220621130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617130000 -0300" stop="20220617140000 -0300" channel="radioclubeampe.br">
+<programme start="20220621130000 -0300" stop="20220621140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617140000 -0300" stop="20220617160000 -0300" channel="radioclubeampe.br">
+<programme start="20220621140000 -0300" stop="20220621160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617160000 -0300" stop="20220617170000 -0300" channel="radioclubeampe.br">
+<programme start="20220621160000 -0300" stop="20220621170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617170000 -0300" stop="20220617180000 -0300" channel="radioclubeampe.br">
+<programme start="20220621170000 -0300" stop="20220621180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617180000 -0300" stop="20220617190000 -0300" channel="radioclubeampe.br">
+<programme start="20220621180000 -0300" stop="20220621190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220617200000 -0300" stop="20220617220000 -0300" channel="radioclubeampe.br">
+<programme start="20220621200000 -0300" stop="20220621220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
@@ -453,19 +453,19 @@
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617123000 -0300" stop="20220617140000 -0300" channel="radiojornalpe.br">
+<programme start="20220620123000 -0300" stop="20220620140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617140000 -0300" stop="20220617160000 -0300" channel="radiojornalpe.br">
+<programme start="20220620140000 -0300" stop="20220620160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220617160000 -0300" stop="20220617180000 -0300" channel="radiojornalpe.br">
+<programme start="20220620160000 -0300" stop="20220620180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220618180000 -0300" stop="20220620063000 -0300" channel="radiojornalpe.br">
+<programme start="20220619180000 -0300" stop="20220620063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -488,7 +488,7 @@
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20220612120000 -0300" stop="20220619140000 -0300" channel="RetroCartoon.br">
+<programme start="20220619120000 -0300" stop="20220629140000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
