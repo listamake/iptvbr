@@ -54,11 +54,17 @@
    <url>mi.tv</url>
 </channel>
 
-<channel id="tvbs.br">
+<channel id="radioclubeampe.br">
  <display-name lang="pt">Rádio Clube 720AM</display-name>
     <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
 </channel>    
+
+<channel id="tvbs.br">
+ <display-name lang="pt">Damu Biku HD</display-name>
+  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
+   <url>mi.tv</url>
+</channel>
 
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
