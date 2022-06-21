@@ -58,7 +58,13 @@
  <display-name lang="pt">Rádio Clube 720AM</display-name>
     <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
-</channel>     
+</channel>    
+
+<channel id="anitv.br">
+ <display-name lang="pt">Ani TV HD</display-name>
+ <display-name lang="en">AniTV</display-name>
+</channel>
+
        #####padrao especial anitv#####
 <programme start="20220601000000 -0300" stop="20220601 00000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
