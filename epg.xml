@@ -55,24 +55,12 @@
 </channel>
 
 <channel id="tvbs.br">
- <display-name lang="pt">TV BS HD</display-name>
-   <icon src="https://media.discordapp.net/attachments/974885569547079792/974885762459922432/tvbs-logo.png"/>
-   <url>mi.tv</url>
-</channel>
- 
-<channel id="anitv.br">
- <display-name lang="pt">Ani TV HD</display-name>
-  <display-name lang="pt">AniTV</display-name>
-   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp"/>
-</channel>
- 
-<channel id="radioclubeampe.br">
  <display-name lang="pt">Rádio Clube 720AM</display-name>
     <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
 </channel>     
        #####padrao especial anitv#####
-<programme start="20220601000000 -0300" stop="2022060100000 -0300" channel="anitv.br">
+<programme start="20220601000000 -0300" stop="20220601 00000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -109,22 +97,22 @@
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220620030000 -0300" stop="20220620050000 -0300" channel="anitv.br">
+<programme start="20220621030000 -0300" stop="20220621050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220620050000 -0300" stop="20220620060000 -0300" channel="anitv.br">
+<programme start="20220621050000 -0300" stop="20220621060000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220620060000 -0300" stop="20220620070000 -0300" channel="anitv.br">
+<programme start="20220621060000 -0300" stop="20220621070000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">Educativo</desc>
 </programme>
 
-<programme start="20220620070000 -0300" stop="20220620093000 -0300" channel="anitv.br">
+<programme start="20220621070000 -0300" stop="20220621093000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Yu Yu Hakusho às 7h,Cardcaptor Sakura às 7h30,Super Campeões às 8h,Urusei Yatsura às 8h30 e Cowboy Bebop às 9h.</desc>
 </programme>
@@ -153,27 +141,27 @@
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220620093000 -0300" stop="20220620100000 -0300" channel="anitv.br">
+<programme start="20220621093000 -0300" stop="20220621100000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220620100000 -0300" stop="20220620120000 -0300" channel="anitv.br">
+<programme start="20220621100000 -0300" stop="20220621120000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220620120000 -0300" stop="20220620130000 -0300" channel="anitv.br">
+<programme start="20220621120000 -0300" stop="20220621130000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220620130000 -0300" stop="20220620133000 -0300" channel="anitv.br">
+<programme start="20220621130000 -0300" stop="20220621133000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220620133000 -0300" stop="20220620140000 -0300" channel="anitv.br">
+<programme start="20220621133000 -0300" stop="20220620140000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
