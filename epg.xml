@@ -61,7 +61,7 @@
 </channel>    
 
 <channel id="tvbs.br">
- <display-name lang="pt"TV BS HD</display-name>
+ <display-name lang="pt">TV BS HD</display-name>
   <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
    <url>mi.tv</url>
 </channel>
