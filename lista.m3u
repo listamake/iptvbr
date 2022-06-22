@@ -11,7 +11,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
   
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal Caruaru 
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
   
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -47,7 +47,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRnLl6bJS3uz8p68_CuNUN4wYftFlVNTGrjMeMHjoZ5U)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVk8RtCB9MaIZp3fRj5PneoKugfwsLvNc43AKOpy0PDx)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title="Variedades" pltv-subgroup = "Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -93,7 +93,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 https://cast.cdnseguro.com:1936/8044/8044/playlist.m3u8
 
 #EXTINF: -1 tvg-id="tvescola.br" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Canal Educação
-https://stream-03.dc3.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls8dBvoqwZ-1s5EHct3CrEz8NUdQCkBSYMxLOHyCpk4Ox)/dm/3/x8abdvf/s/live-2.m3u8#cell=lcore
+https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Lsx4I4HxCxtXZplD0U6GthXFoWg1otUlvCDcva6SbM4VP)/dm/3/x8abdvf/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="canalsaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -265,7 +265,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
