@@ -78,7 +78,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220623000000 -0300" stop="20220623003000 -0300" channel="anitv.br">
+<programme start="20220624000000 -0300" stop="20220624003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -86,7 +86,7 @@
     </rating>
 </programme>
 
-<programme start="20220623003000 -0300" stop="20220623010000 -0300" channel="anitv.br">
+<programme start="20220624003000 -0300" stop="20220624010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -94,37 +94,37 @@
     </rating>
 </programme>
 
-<programme start="20220623010000 -0300" stop="20220623013000 -0300" channel="anitv.br">
+<programme start="20220624010000 -0300" stop="20220624013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220623013000 -0300" stop="20220623020000 -0300" channel="anitv.br">
+<programme start="20220624013000 -0300" stop="20220624020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220623020000 -0300" stop="20220623030000 -0300" channel="anitv.br">
+<programme start="20220624020000 -0300" stop="20220624030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220623030000 -0300" stop="20220623050000 -0300" channel="anitv.br">
+<programme start="20220624030000 -0300" stop="20220624050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220623050000 -0300" stop="20220623060000 -0300" channel="anitv.br">
+<programme start="20220624050000 -0300" stop="20220624060000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220623060000 -0300" stop="20220623070000 -0300" channel="anitv.br">
+<programme start="20220624060000 -0300" stop="20220624070000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">Educativo</desc>
 </programme>
 
-<programme start="20220622070000 -0300" stop="20220622093000 -0300" channel="anitv.br">
+<programme start="20220624070000 -0300" stop="20220624093000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Yu Yu Hakusho às 7h,Cardcaptor Sakura às 7h30,Super Campeões às 8h,Urusei Yatsura às 8h30 e Cowboy Bebop às 9h.</desc>
 </programme>
@@ -153,97 +153,97 @@
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220622093000 -0300" stop="20220622100000 -0300" channel="anitv.br">
+<programme start="20220624093000 -0300" stop="20220622100000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en"> anime </desc>
 </programme>
 
-<programme start="20220622100000 -0300" stop="2022062220000 -0300" channel="anitv.br">
+<programme start="20220624100000 -0300" stop="20220624220000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220622120000 -0300" stop="20220622130000 -0300" channel="anitv.br">
+<programme start="20220624120000 -0300" stop="20220624130000 -0300" channel="anitv.br">
  <title lang="en">AniBox City Pop</title>
  <desc lang="en"> musica </desc>
 </programme>
 
-<programme start="20220622130000 -0300" stop="20220622133000 -0300" channel="anitv.br">
+<programme start="20220623130000 -0300" stop="20220623133000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622133000 -0300" stop="20220622140000 -0300" channel="anitv.br">
+<programme start="20220623133000 -0300" stop="20220623140000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622140000 -0300" stop="20220622150000 -0300" channel="anitv.br">
+<programme start="20220623140000 -0300" stop="20220623150000 -0300" channel="anitv.br">
  <title lang="en">AniBox Compacto</title>
  <desc lang="en">musica </desc>
 </programme>
 
-<programme start="20220622150000 -0300" stop="20220622160000 -0300" channel="anitv.br">
+<programme start="20220623150000 -0300" stop="20220623160000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de sonhar </title>
  <desc lang="en">dorama</desc>
 </programme>
 
-<programme start="20220622160000 -0300" stop="20220622163000 -0300" channel="anitv.br">
+<programme start="20220623160000 -0300" stop="20220623163000 -0300" channel="anitv.br">
  <title lang="en"> SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622163000 -0300" stop="20220622170000 -0300" channel="anitv.br">
+<programme start="20220623163000 -0300" stop="20220623170000 -0300" channel="anitv.br">
  <title lang="en"> Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622170000 -0300" stop="20220622190000 -0300" channel="anitv.br">
+<programme start="20220623170000 -0300" stop="20220623190000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">misica</desc>
 </programme>
 
-<programme start="20220622190000 -0300" stop="20220622193000 -0300" channel="anitv.br">
+<programme start="20220623190000 -0300" stop="20220623193000 -0300" channel="anitv.br">
  <title lang="en">Cardcaptor Sakura</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622193000 -0300" stop="20220622200000 -0300" channel="anitv.br">
+<programme start="20220623193000 -0300" stop="20220623200000 -0300" channel="anitv.br">
  <title lang="en">Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622200000 -0300" stop="20220622203000 -0300" channel="anitv.br">
+<programme start="20220623200000 -0300" stop="20220623203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220622203000 -0300" stop="20220622210000 -0300" channel="anitv.br">
+<programme start="20220623203000 -0300" stop="20220623210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 2ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622210000 -0300" stop="20220622213000 -0300" channel="anitv.br">
+<programme start="20220623210000 -0300" stop="20220623213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
 
-<programme start="20220622213000 -0300" stop="20220622220000 -0300" channel="anitv.br">
+<programme start="20220623213000 -0300" stop="20220623220000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622220000 -0300" stop="20220622223000 -0300" channel="anitv.br">
+<programme start="20220623220000 -0300" stop="20220623223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622223000 -0300" stop="20220622230000 -0300" channel="anitv.br">
+<programme start="20220623223000 -0300" stop="20220623230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220622230000 -0300" stop="20220622233000 -0300" channel="anitv.br">
+<programme start="20220623230000 -0300" stop="20220624233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -254,81 +254,81 @@
 </programme>
  
    ####sabado anitv####
-<programme start="2022061803000 -0300" stop="202206180400000 -0300" channel="anitv.br">
+<programme start="2022062503000 -0300" stop="202206250400000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220618050000 -0300" stop="20220618060000 -0300" channel="anitv.br">
+<programme start="20220625050000 -0300" stop="20220625060000 -0300" channel="anitv.br">
  <title lang="pt">AniBox City Pop</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220618060000 -0300" stop="20220618070000 -0300" channel="anitv.br">
+<programme start="20220625060000 -0300" stop="20220625070000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
 
-<programme start="20220618070000 -0300" stop="20220618100000 -0300" channel="anitv.br">
+<programme start="20220625070000 -0300" stop="20220625100000 -0300" channel="anitv.br">
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
 
-<programme start="20220618100000 -0300" stop="20220618123000 -0300" channel="anitv.br">
+<programme start="20220625100000 -0300" stop="20220625123000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220618123000 -0300" stop="20220618150000 -0300" channel="anitv.br">
+<programme start="20220625123000 -0300" stop="20220625150000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:Umaru-chan</title>
  <desc lang="en">anime</desc>
 </programme>
  
-<programme start="20220618150000 -0300" stop="20220618173000 -0300" channel="anitv.br">
+<programme start="20220625150000 -0300" stop="20220625173000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:Urusei Yatsura</title>
  <desc lang="en">anime</desc>
 </programme>
  
-<programme start="20220618173000 -0300" stop="20220618220000 -0300" channel="anitv.br">
+<programme start="20220625173000 -0300" stop="20220625220000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
    ####domingo anitv####
-<programme start="20220618220000 -0300" stop="20220619003000 -0300" channel="anitv.br">
+<programme start="20220625220000 -0300" stop="20220626003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
 
-<programme start="20220619003000 -0300" stop="20220619030000 -0300" channel="anitv.br">
+<programme start="20220626003000 -0300" stop="20220626030000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill !</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220619030000 -0300" stop="20220619053000 -0300" channel="anitv.br">
+<programme start="20220626030000 -0300" stop="20220626053000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220619053000 -0300" stop="20220619063000 -0300" channel="anitv.br">
+<programme start="20220626053000 -0300" stop="20220626063000 -0300" channel="anitv.br">
  <title lang="pt">AniBox City Pop</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220619063000 -0300" stop="20220619090000 -0300" channel="anitv.br">
+<programme start="20220626063000 -0300" stop="20220626090000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
 
-<programme start="20220619090000 -0300" stop="20220619100000 -0300" channel="anitv.br">
+<programme start="20220626090000 -0300" stop="20220626100000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220619100000 -0300" stop="20220620013000 -0300" channel="anitv.br">
+<programme start="20220626100000 -0300" stop="20220627013000 -0300" channel="anitv.br">
  <title lang="pt">Maratona de domingo</title>
  <desc lang="pt">Com os Animes SK8 The Infinity, Ranking of King, My Hero Academia, Yu Yu Hakusho</desc>
 </programme>
-<programme start="20220620013000 -0300" stop="20220620033000 -0300" channel="anitv.br">
+<programme start="20220627013000 -0300" stop="20220627033000 -0300" channel="anitv.br">
  <title lang="pt">Shimoneta</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -376,56 +376,56 @@
  
       ########radioclubeam#####
 
-<programme start="20220622220000 -0300" stop="20220623050000 -0300" channel="radioclubeampe.br">
+<programme start="20220623220000 -0300" stop="20220624050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220622050000 -0300" stop="20220622070000 -0300" channel="radioclubeampe.br">
+<programme start="20220624050000 -0300" stop="20220624070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220623070000 -0300" stop="20220623073000 -0300" channel="radioclubeampe.br">
+<programme start="20220624070000 -0300" stop="20220624073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">Esporte</desc>
 </programme>
-<programme start="20220622083000 -0300" stop="20220622110000 -0300" channel="radioclubeampe.br">
+<programme start="20220624083000 -0300" stop="20220624110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220622110000 -0300" stop="20220622120000 -0300" channel="radioclubeampe.br">
+<programme start="20220624110000 -0300" stop="20220624120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220622120000 -0300" stop="20220622130000 -0300" channel="radioclubeampe.br">
+<programme start="20220624120000 -0300" stop="20220624130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220622130000 -0300" stop="20220622140000 -0300" channel="radioclubeampe.br">
+<programme start="20220623130000 -0300" stop="20220623140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220622140000 -0300" stop="20220622160000 -0300" channel="radioclubeampe.br">
+<programme start="20220623140000 -0300" stop="20220623160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220622160000 -0300" stop="20220622170000 -0300" channel="radioclubeampe.br">
+<programme start="20220623160000 -0300" stop="20220623170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220622170000 -0300" stop="20220622180000 -0300" channel="radioclubeampe.br">
+<programme start="20220623170000 -0300" stop="20220623180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220622180000 -0300" stop="20220622190000 -0300" channel="radioclubeampe.br">
+<programme start="20220623180000 -0300" stop="20220623190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220622200000 -0300" stop="20220622220000 -0300" channel="radioclubeampe.br">
+<programme start="20220623200000 -0300" stop="20220623220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220618080000 -0300" stop="20220618120000 -0300" channel="radioclubeampe.br">
+<programme start="20220625080000 -0300" stop="20220625120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">musica</desc>
 </programme>
@@ -441,15 +441,15 @@
 </programme>
 
        #####radiojornalpe.br ######
-<programme start="20220623063000 -0300" stop="20220623070000 -0300" channel="radiojornalpe.br">
+<programme start="20220624063000 -0300" stop="20220624070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220623070000 -0300" stop="20220623120000 -0300" channel="radiojornalpe.br">
+<programme start="20220624070000 -0300" stop="20220624120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220623120000 -0300" stop="20220623123000 -0300" channel="radiojornalpe.br">
+<programme start="20220624120000 -0300" stop="20220624123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -461,11 +461,11 @@
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="2022g0623160000 -0300" stop="20220623180000 -0300" channel="radiojornalpe.br">
+<programme start="20220623160000 -0300" stop="20220623180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220620180000 -0300" stop="20220623063000 -0300" channel="radiojornalpe.br">
+<programme start="20220623180000 -0300" stop="20220624063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
