@@ -391,13 +391,13 @@
 </programme>
  
    ####FronteiraMovies.br####
-<programme start="2022060234000 -0300" stop="20220629000000 -0300" channel="FronteiraMovies.br">
+<programme start="2022062404000 -0300" stop="20220629000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
 
    ####cbnrede.br####
-<programme start="2022062414000 -0300" stop="20220602700000 -0300" channel="cbnrede.br">
+<programme start="2022062414000 -0300" stop="20220629000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
