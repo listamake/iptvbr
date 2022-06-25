@@ -365,15 +365,15 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####tv bs####
-<programme start="20220618223000 -0300" stop="2022061900000 -0300" channel="tvbs.br">
+<programme start="20220625223000 -0300" stop="2022062600000 -0300" channel="tvbs.br">
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220619090000 -0300" stop="2022061910000 -0300" channel="tvbs.br">
+<programme start="20220626090000 -0300" stop="2022062610000 -0300" channel="tvbs.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220619000000 -0300" stop="2022062822300 -0300" channel="tvbs.br">
+<programme start="20220626000000 -0300" stop="2022062822300 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -387,10 +387,10 @@
  <desc lang="pt">anime</desc>
 </programme>
  
-   ####damubiku.br####
-<programme start="2022060114000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
- <title lang="pt">Black Clover</title>
- <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
+   ####FronteiraMovies.br####
+<programme start="2022060234000 -0300" stop="20220629000000 -0300" channel="FronteiraMovies.br">
+ <title lang="pt">Seleção de Filmes</title>
+ <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
 
    ####cbnrede.br####
