@@ -18,6 +18,13 @@
   <url>mi.tv</url>
   <icon src=""/>
 </channel>
+
+<channel id="FronteiraMovies.br">
+ <display-name lang="pt">Fronteira Movies</display-name>
+  <url>mi.tv</url>
+  <icon src=""/>
+</channel>
+
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name>
   <icon src=""/>
@@ -48,17 +55,23 @@
    <url>mi.tv</url>
 </channel>
 
-<channel id="damubiku.br">
- <display-name lang="pt">Damu Biku HD</display-name>
-  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
-   <url>mi.tv</url>
-</channel>
-
 <channel id="radioclubeampe.br">
  <display-name lang="pt">Rádio Clube 720AM</display-name>
     <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
 </channel>    
+
+<channel id="cbnrede.br">
+ <display-name lang="pt">CBN Rede</display-name>
+  <url>mi.tv</url>
+  <icon src=""/>
+</channel>
+
+<channel id="damubiku.br">
+ <display-name lang="pt">Damu Biku HD</display-name>
+  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
+   <url>mi.tv</url>
+</channel>
 
 <channel id="tvbs.br">
  <display-name lang="pt">TV BS HD</display-name>
@@ -78,7 +91,7 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220624000000 -0300" stop="20220624003000 -0300" channel="anitv.br">
+<programme start="20220625000000 -0300" stop="20220625003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
@@ -86,7 +99,7 @@
     </rating>
 </programme>
 
-<programme start="20220624003000 -0300" stop="20220624010000 -0300" channel="anitv.br">
+<programme start="20220625003000 -0300" stop="20220625010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
 <rating system="VCHIP">
@@ -94,12 +107,12 @@
     </rating>
 </programme>
 
-<programme start="20220624010000 -0300" stop="20220624013000 -0300" channel="anitv.br">
+<programme start="20220625010000 -0300" stop="20220625013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
 
-<programme start="20220624013000 -0300" stop="20220624020000 -0300" channel="anitv.br">
+<programme start="20220625013000 -0300" stop="20220625020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
@@ -374,18 +387,30 @@
  <desc lang="pt">anime</desc>
 </programme>
  
+   ####damubiku.br####
+<programme start="2022060114000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
+ <title lang="pt">Black Clover</title>
+ <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
+</programme>
+
+   ####cbnrede.br####
+<programme start="2022062414000 -0300" stop="20220602700000 -0300" channel="cbnrede.br">
+ <title lang="pt">Programação Rádio CBN</title>
+ <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
+</programme>
+
       ########radioclubeam#####
 
-<programme start="20220623220000 -0300" stop="20220624050000 -0300" channel="radioclubeampe.br">
+<programme start="20220627220000 -0300" stop="20220628050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220624050000 -0300" stop="20220624070000 -0300" channel="radioclubeampe.br">
+<programme start="20220628050000 -0300" stop="20220628070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220624070000 -0300" stop="20220624073000 -0300" channel="radioclubeampe.br">
+<programme start="20220628070000 -0300" stop="20220628073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">Esporte</desc>
 </programme>
@@ -435,29 +460,29 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
-<programme start="20220618120000 -0300" stop="20220620220000 -0300" channel="radioclubeampe.br">
+<programme start="20220625120000 -0300" stop="20220627220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
        #####radiojornalpe.br ######
-<programme start="20220624063000 -0300" stop="20220624070000 -0300" channel="radiojornalpe.br">
+<programme start="20220627063000 -0300" stop="20220627070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624070000 -0300" stop="20220624120000 -0300" channel="radiojornalpe.br">
+<programme start="20220627070000 -0300" stop="20220627120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624120000 -0300" stop="20220624123000 -0300" channel="radiojornalpe.br">
+<programme start="20220627120000 -0300" stop="20220627123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624123000 -0300" stop="20220624140000 -0300" channel="radiojornalpe.br">
+<programme start="20220627123000 -0300" stop="20220627140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624140000 -0300" stop="20220624160000 -0300" channel="radiojornalpe.br">
+<programme start="20220627140000 -0300" stop="20220627160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -465,7 +490,7 @@
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220623180000 -0300" stop="20220624063000 -0300" channel="radiojornalpe.br">
+<programme start="20220624180000 -0300" stop="20220627063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
