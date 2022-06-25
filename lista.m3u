@@ -58,14 +58,14 @@ https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title = "TV" pltv-subgroup = "RBI", Canal Teste
 https://srv1.zcast.com.br/ulbtv/ulbtv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="RetroCartoon.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Canais de desenho" pltv-subgroup = "Sis.Jornal do Comer.", RETRO CARTOON SD
+#EXTINF: -1 tvg-id="RetroCartoon.br" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png" group-title="Canais de Desenho" pltv-subgroup = "Sis.Jornal do Comer.", RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF: -1 tvg-id="anitv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="Cultura POP", Ani TV HD
+#EXTINF: -1 tvg-id="anitv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="Canais Geek", Ani TV HD
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 
-#EXTINF: -1 tvg-id="yeeaah.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Cultura POP", Yeeaah HD
+#EXTINF: -1 tvg-id="yeeaah.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Canais Geek", Yeeaah HD
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AllSports.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="Canais de Esportes", All Sport HD
@@ -227,19 +227,19 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVE Bahia"  group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF: -1 tvg-id="loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title="Cultura POP" pltv-subgroup ="Sis.Jornal do Comer.", loading 
+#EXTINF: -1 tvg-id="loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title="Canais Geek", loading 
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrikerVerso.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Cultura POP", StrikerVerso HD
+#EXTINF:-1 tvg-id="StrikerVerso.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Canais Geek", StrikerVerso HD
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 
-#EXTINF:-1 tvg-id="damubiku.br" tvg-logo="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" group-title="Cultura POP", Damu Biku HD
+#EXTINF:-1 tvg-id="damubiku.br" tvg-logo="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" group-title="Canais Geek", Damu Biku HD
 https://stmv1.srvif.com/techsol/techsol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvbs.br" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/983823659183517706/Perfil.png" group-title="Cultura POP", TV BS HD
+#EXTINF:-1 tvg-id="tvbs.br" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/983823659183517706/Perfil.png" group-title="Canais Geek", TV BS HD
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
 
-#EXTINF: -1 tvg-id="locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Locomotion SD
+#EXTINF: -1 tvg-id="locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek", Locomotion SD
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3337d2f7661df3b60eae7c7b18b706d8.webp" group-title="Canais de Desenho" pltv-subgroup = "Sis.Jornal do Comer.", Kids TV HD
