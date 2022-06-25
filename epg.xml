@@ -63,8 +63,10 @@
 
 <channel id="cbnrede.br">
  <display-name lang="pt">CBN Rede</display-name>
+ <display-name lang="pt">CBN Rio HD</display-name>
+ <display-name lang="pt">CBN São Paulo</display-name>
   <url>mi.tv</url>
-  <icon src=""/>
+  <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
 </channel>
 
 <channel id="damubiku.br">
@@ -75,13 +77,14 @@
 
 <channel id="tvbs.br">
  <display-name lang="pt">TV BS HD</display-name>
-  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
    <url>mi.tv</url>
 </channel>
 
 <channel id="anitv.br">
  <display-name lang="pt">Ani TV HD</display-name>
  <display-name lang="en">AniTV</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp"/>
 </channel>
 
        #####padrao especial anitv#####
