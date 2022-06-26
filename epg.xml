@@ -367,8 +367,13 @@
  <title lang="pt">Programação Teste</title>
  <desc lang="pt">anime</desc>
 </programme>
+   ####StrikerVerso.br####
+<programme start="20220625213000 -0300" stop="2022062600000 -0300" channel="StrikerVerso.br">
+ <title lang="pt">Sábadão na Metro</title>
+ <desc lang="pt">anime</desc>
+</programme>
    ####tv bs####
-<programme start="20220625223000 -0300" stop="2022062600000 -0300" channel="tvbs.br">
+<programme start="20220625213000 -0300" stop="2022062600000 -0300" channel="tvbs.br">
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
