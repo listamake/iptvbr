@@ -88,7 +88,7 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20220601000000 -0300" stop="20220601000000 -0300" channel="anitv.br">
+<programme start="20220627030000 -0300" stop="20220628000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -120,9 +120,9 @@
  <desc lang="en">anime</desc>
 </programme>
 
-<programme start="20220624020000 -0300" stop="20220624030000 -0300" channel="anitv.br">
- <title lang="en">A Lenda - Um Luxo de Sonhar</title>
- <desc lang="en">dorama</desc>
+<programme start="20220627020000 -0300" stop="20220627030000 -0300" channel="anitv.br">
+ <title lang="en">A Confirma</title>
+ <desc lang="en">sem informações</desc>
 </programme>
 
 <programme start="20220624030000 -0300" stop="20220624050000 -0300" channel="anitv.br">
