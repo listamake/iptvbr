@@ -372,6 +372,10 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
+<programme start="20220626000000 -0300" stop="2022063000000 -0300" channel="StrikerVerso.br">
+ <title lang="pt">Programação StrikerVerso</title>
+ <desc lang="pt">Descubra o inesperado</desc>
+</programme>
    ####tv bs####
 <programme start="20220625213000 -0300" stop="2022062600000 -0300" channel="tvbs.br">
  <title lang="pt">Sábadão na Metro</title>
@@ -422,39 +426,39 @@
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">Esporte</desc>
 </programme>
-<programme start="20220624083000 -0300" stop="20220624110000 -0300" channel="radioclubeampe.br">
+<programme start="20220628083000 -0300" stop="20220628110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220624110000 -0300" stop="20220624120000 -0300" channel="radioclubeampe.br">
+<programme start="20220628110000 -0300" stop="20220628120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220624120000 -0300" stop="20220624130000 -0300" channel="radioclubeampe.br">
+<programme start="20220628120000 -0300" stop="20220628130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624130000 -0300" stop="20220624140000 -0300" channel="radioclubeampe.br">
+<programme start="20220628130000 -0300" stop="20220628140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624140000 -0300" stop="20220624160000 -0300" channel="radioclubeampe.br">
+<programme start="20220628140000 -0300" stop="20220628160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624160000 -0300" stop="20220624170000 -0300" channel="radioclubeampe.br">
+<programme start="20220628160000 -0300" stop="20220628170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624170000 -0300" stop="20220624180000 -0300" channel="radioclubeampe.br">
+<programme start="20220628170000 -0300" stop="20220628180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624180000 -0300" stop="20220624190000 -0300" channel="radioclubeampe.br">
+<programme start="20220628180000 -0300" stop="20220628190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220623200000 -0300" stop="20220623220000 -0300" channel="radioclubeampe.br">
+<programme start="20220628200000 -0300" stop="20220628220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
@@ -494,7 +498,7 @@
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624160000 -0300" stop="20220624180000 -0300" channel="radiojornalpe.br">
+<programme start="20220627160000 -0300" stop="20220627180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
