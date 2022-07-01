@@ -134,7 +134,7 @@
 </programme>
 <programme start="20220701080000 -0300" stop="20220701090000 -0300" channel="anitv.br">
  <title lang="pt">Código Play I</title>
- <desc lang="pt"> musica </desc>
+ <desc lang="pt">Sem informações</desc>
 </programme>
 <programme start="20220701090000 -0300" stop="20220701113000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
@@ -150,7 +150,7 @@
 </programme>
 <programme start="20220701140000 -0300" stop="20220701150000 -0300" channel="anitv.br">
  <title lang="pt">Código Play II</title>
- <desc lang="pt"> musica </desc>
+ <desc lang="pt">Sem informações</desc>
 </programme>
 <programme start="20220701150000 -0300" stop="20220701153000 -0300" channel="anitv.br">
  <title lang="pt">Recovery of an MMO Junkie</title>
@@ -174,7 +174,7 @@
 </programme>
 <programme start="20220701180000 -0300" stop="20220701190000 -0300" channel="anitv.br">
  <title lang="en">Código Play III</title>
- <desc lang="en"> musica </desc>
+ <desc lang="en">Sem informações</desc>
 </programme>
 <programme start="20220701190000 -0300" stop="20220701193000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura</title>
@@ -323,7 +323,7 @@
 </programme>
 <programme start="20220704080000 -0300" stop="20220704090000 -0300" channel="anitv.br">
  <title lang="pt">Código Play I</title>
- <desc lang="pt"> musica </desc>
+ <desc lang="pt">Sem informações</desc>
 </programme>
 <programme start="20220704090000 -0300" stop="20220704110000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
@@ -339,7 +339,7 @@
 </programme>
 <programme start="20220704140000 -0300" stop="20220704150000 -0300" channel="anitv.br">
  <title lang="pt">Código Play II</title>
- <desc lang="pt"> musica </desc>
+ <desc lang="pt">Sem informações</desc>
 </programme>
 <programme start="20220704150000 -0300" stop="20220704153000 -0300" channel="anitv.br">
  <title lang="pt">Recovery of an MMO Junkie</title>
@@ -356,6 +356,54 @@
 <programme start="20220704170000 -0300" stop="20220704173000 -0300" channel="anitv.br">
  <title lang="pt">Wonder Egg Priority</title>
  <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
+</programme>
+<programme start="20220704173000 -0300" stop="20220704180000 -0300" channel="anitv.br">
+ <title lang="pt">Serial Experiments Lain</title>
+ <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
+</programme>
+<programme start="20220704180000 -0300" stop="20220704190000 -0300" channel="anitv.br">
+ <title lang="en">Código Play III</title>
+ <desc lang="en">Sem informações</desc>
+</programme>
+<programme start="20220704190000 -0300" stop="20220704193000 -0300" channel="anitv.br">
+ <title lang="pt">Cardcaptor Sakura</title>
+ <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
+</programme>
+<programme start="20220704193000 -0300" stop="20220704200000 -0300" channel="anitv.br">
+ <title lang="pt">Recovery of an MMO Junkie</title>
+ <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
+</programme>
+<programme start="20220704200000 -0300" stop="20220704203000 -0300" channel="anitv.br">
+ <title lang="pt">Yu Yu Hakusho</title>
+ <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
+</programme>
+<programme start="20220704203000 -0300" stop="20220704210000 -0300" channel="anitv.br">
+ <title lang="en">My Hero Academia 3ª Temp</title>
+ <desc lang="en">anime</desc>
+</programme>
+<programme start="20220704210000 -0300" stop="20220704213000 -0300" channel="anitv.br">
+ <title lang="en">Urusei Yatsura</title>
+ <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
+</programme>
+<programme start="20220704213000 -0300" stop="20220704220000 -0300" channel="anitv.br">
+ <title lang="en">Super Campeões</title>
+ <desc lang="en">anime</desc>
+</programme>
+<programme start="20220704220000 -0300" stop="20220704223000 -0300" channel="anitv.br">
+<title lang="pt">DNA²</title>
+ <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
+</programme>
+<programme start="20220704223000 -0300" stop="20220704230000 -0300" channel="anitv.br">
+ <title lang="pt">Cowboy Bebop</title>
+ <desc lang="pt"> a série se passa no ano de 2071 e é centrada na vida de uma tripulação de caçadores de recompensas espaciais. O anime aborda questões não resolvidas do passado dos protagonistas, explorando temas como existencialismo, tédio, degradação ambiental e a solidão.</desc>
+</programme>
+<programme start="20220704230000 -0300" stop="20220704233000 -0300" channel="anitv.br">
+ <title lang="pt">Wonder Egg Priority</title>
+ <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
+</programme>
+<programme start="20220704233000 -0300" stop="20220705000000 -0300" channel="anitv.br">
+ <title lang="pt">Serial Experiments Lain</title>
+ <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
     ####yeeaah####
 <programme start="20220630000000 -0300" stop="20220705000000 -0300" channel="yaaeeh.br">
@@ -384,6 +432,7 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
+ 
    ####tv bs####
 <programme start="20220702213000 -0300" stop="2022070300000 -0300" channel="tvbs.br">
  <title lang="pt">Sábadão na Metro</title>
@@ -424,68 +473,225 @@
 </programme>
 
       ########radioclubeam#####
-
-<programme start="20220627220000 -0300" stop="20220628050000 -0300" channel="radioclubeampe.br">
- <title lang="pt">Programação Músical</title>
+<programme start="20220629120000 -0300" stop="20220705220000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-
-<programme start="20220628050000 -0300" stop="20220628070000 -0300" channel="radioclubeampe.br">
+            ########semanal radioclubeam#####
+<programme start="20220705220000 -0300" stop="20220706050000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube a dona da noite</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220706050000 -0300" stop="20220706070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220628070000 -0300" stop="20220628073000 -0300" channel="radioclubeampe.br">
+<programme start="20220706070000 -0300" stop="20220706073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
- <desc lang="pt">Esporte</desc>
+ <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20220628083000 -0300" stop="20220628110000 -0300" channel="radioclubeampe.br">
+<programme start="20220706073000 -0300" stop="20220628083000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube Notícias</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220706083000 -0300" stop="20220706110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220628110000 -0300" stop="20220628120000 -0300" channel="radioclubeampe.br">
+<programme start="20220706110000 -0300" stop="20220706120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220628120000 -0300" stop="20220628130000 -0300" channel="radioclubeampe.br">
+<programme start="20220706120000 -0300" stop="20220706130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220628130000 -0300" stop="20220628140000 -0300" channel="radioclubeampe.br">
+<programme start="20220706130000 -0300" stop="20220706140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220628140000 -0300" stop="20220628160000 -0300" channel="radioclubeampe.br">
+<programme start="20220706140000 -0300" stop="20220706160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220628160000 -0300" stop="20220628170000 -0300" channel="radioclubeampe.br">
+<programme start="20220706160000 -0300" stop="20220706170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220628170000 -0300" stop="20220628180000 -0300" channel="radioclubeampe.br">
+<programme start="20220706170000 -0300" stop="20220706180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220628180000 -0300" stop="20220628190000 -0300" channel="radioclubeampe.br">
+<programme start="20220706180000 -0300" stop="20220706190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220628200000 -0300" stop="20220628220000 -0300" channel="radioclubeampe.br">
+<programme start="20220706190000 -0300" stop="20220706200000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">A Voz do Brasil</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+<programme start="20220706200000 -0300" stop="20220706220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220625080000 -0300" stop="20220625120000 -0300" channel="radioclubeampe.br">
+<programme start="20220706220000 -0300" stop="20220707050000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube a dona da noite</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+ 
+<programme start="20220707050000 -0300" stop="20220707070000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Você faz a notícia</title>
+ <desc lang="pt">jonal</desc>
+</programme>
+<programme start="20220706070000 -0300" stop="20220707073000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Alvorada Esportiva</title>
+ <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
+</programme>
+<programme start="20220706073000 -0300" stop="20220707083000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube Notícias</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220707083000 -0300" stop="20220707110000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Manhã na Clube</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220707110000 -0300" stop="20220707120000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Momento Esportivo</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220707120000 -0300" stop="20220707130000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bola ao centro</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220707130000 -0300" stop="20220707140000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bate bola</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220707140000 -0300" stop="20220707160000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Boa Tarde Clube</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220707160000 -0300" stop="20220707170000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Programa Seja Leve</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220707170000 -0300" stop="20220707180000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Fim de Tarde na Fazenda</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220707180000 -0300" stop="20220707190000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">A Hora dos Esportes</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+<programme start="20220707190000 -0300" stop="20220707200000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">A Voz do Brasil</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+<programme start="20220707200000 -0300" stop="20220707220000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Pagode do Collaço</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+<programme start="20220707220000 -0300" stop="20220708050000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube a dona da noite</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+ 
+<programme start="20220708050000 -0300" stop="20220708070000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Você faz a notícia</title>
+ <desc lang="pt">jonal</desc>
+</programme>
+<programme start="20220708070000 -0300" stop="20220708073000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Alvorada Esportiva</title>
+ <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
+</programme>
+<programme start="20220708073000 -0300" stop="20220708083000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube Notícias</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220708083000 -0300" stop="20220708110000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Manhã na Clube</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220708110000 -0300" stop="20220708120000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Momento Esportivo</title>
+ <desc lang="pt">jornal</desc>
+</programme>
+<programme start="20220708120000 -0300" stop="20220708130000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bola ao centro</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220708130000 -0300" stop="20220708140000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bate bola</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220708140000 -0300" stop="20220708160000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Boa Tarde Clube</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220708160000 -0300" stop="20220708170000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Programa Seja Leve</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220708170000 -0300" stop="20220708180000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Fim de Tarde na Fazenda</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220708180000 -0300" stop="20220708190000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">A Hora dos Esportes</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+<programme start="20220708190000 -0300" stop="20220708200000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">A Voz do Brasil</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+<programme start="20220708200000 -0300" stop="20220708220000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Pagode do Collaço</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme> 
+     ###sabado###
+<programme start="20220708220000 -0300" stop="20220709080000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube a dona da noite</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220709080000 -0300" stop="20220709120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">musica</desc>
 </programme>
-
-<programme start="20220618160000 -0300" stop="20220619000000 -0300" channel="radioclubeampe.br">
+<programme start="20220709120000 -0300" stop="20220709130000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bola ao centro</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220709130000 -0300" stop="20220709140000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Bate bola</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220709140000 -0300" stop="20220709160000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Boa Tarde Clube</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220709160000 -0300" stop="20220709000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-
-<programme start="20220629120000 -0300" stop="20220705220000 -0300" channel="radioclubeampe.br">
- <title lang="pt">Programação Super Rádio Clube</title>
+     ####domingo####
+<programme start="20220710000000 -0300" stop="20220710090000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Clube a dona da noite</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220710090000 -0300" stop="20220710120000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Pagode do Collaço</title>
+ <desc lang="pt">musica</desc>
+</programme>
+<programme start="20220709120000 -0300" stop="20220710150000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Momento Esportivo</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220710150000 -0300" stop="20220710230000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Jornada Esportiva/Programação Musical</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220711230000 -0300" stop="20220711000000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Balaço da Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
