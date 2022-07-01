@@ -305,11 +305,11 @@
  <desc lang="pt">Com os Animes SK8 The Infinity, Ranking of King, My Hero Academia, Yu Yu Hakusho</desc>
 </programme>
     ###segunda anitv###
-<programme start="20220704010000 -0300" stop="20220704033kmkchannel="anitv.br">
+<programme start="20220704010000 -0300" stop="20220704030000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
 </programme>
-<programme start="20220704030000 -0300" stop="20220704060000" channel="anitv.br">
+<programme start="20220704030000 -0300" stop="20220704060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
