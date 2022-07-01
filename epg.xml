@@ -296,11 +296,11 @@
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220703063000 -0300" stop="20220703090000 -0300" channel="anitv.br">
+<programme start="20220703063000 -0300" stop="20220703073000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220703100000 -0300" stop="20220704010000 -0300" channel="anitv.br">
+<programme start="20220703073000 -0300" stop="20220704010000 -0300" channel="anitv.br">
  <title lang="pt">Maratona de domingo</title>
  <desc lang="pt">Com os Animes SK8 The Infinity, Ranking of King, My Hero Academia, Yu Yu Hakusho</desc>
 </programme>
@@ -333,11 +333,30 @@
  <title lang="en">My Hero Academia 3ª Temp</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20220704200000 -0300" stop="20220704400000 -0300" channel="anitv.br">
+<programme start="20220704120000 -0300" stop="20220704140000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
- 
+<programme start="20220704140000 -0300" stop="20220704150000 -0300" channel="anitv.br">
+ <title lang="pt">Código Play II</title>
+ <desc lang="pt"> musica </desc>
+</programme>
+<programme start="20220704150000 -0300" stop="20220704153000 -0300" channel="anitv.br">
+ <title lang="pt">Recovery of an MMO Junkie</title>
+ <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
+</programme>
+<programme start="20220704153000 -0300" stop="20220704160000 -0300" channel="anitv.br">
+ <title lang="pt">DNA²</title>
+ <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
+</programme>
+<programme start="20220704160000 -0300" stop="20220704170000 -0300" channel="anitv.br">
+ <title lang="pt">A Lenda - Um Luxo de Sonhar</title>
+ <desc lang="pt">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
+</programme>
+<programme start="20220704170000 -0300" stop="20220704173000 -0300" channel="anitv.br">
+ <title lang="pt">Wonder Egg Priority</title>
+ <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
+</programme>
     ####yeeaah####
 <programme start="20220630000000 -0300" stop="20220705000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
