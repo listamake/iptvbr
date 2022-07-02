@@ -7,7 +7,6 @@
 http://50.7.34.155:2200/BR/Globo_HD_SP-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
 #EXTINF: -1 tvg-id="SBTNacional.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
-https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
   
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
@@ -47,7 +46,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTBQfln964GGEPUfgVwErLfNr1lQdg2EbrRRoqjI1Fch)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXyYG284ZJW1dD6TN-a2o_cmOIoMzpVkbJRhkSxXX4Xg)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title="Variedades" pltv-subgroup = "Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -78,8 +77,7 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TV Cultura Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title= "Canais Públicos" pltv-subgroup = "Sis.Jornal do Comer.", TV Cultura
-https://59f2354c05961.streamlock.net:1443/tvguara/tvguara/playlist.m3u8
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6_dnIZHE8nfHX7Tx7u2gXwrWV0gPeIv9qlBOwdHUcSK)/dm/3/x7wur7g/s/live-1.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxJrOx_uuHHaIHNbxFlp5xbIzodZNcE21xk3zEj3ADIb)/dm/3/x7wur7g/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
@@ -94,7 +92,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 https://cast.cdnseguro.com:1936/8044/8044/playlist.m3u8
 
 #EXTINF: -1 tvg-id="tvescola.br" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Canal Educação
-https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls0oxQK-b76LrjnCcDVoT_V5_0Ok-lyUZmF9BjtnwmEWa)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls4VQzjaMYyvVqMrmFX7ot_Yz5F9gmpAq0mdXd1yswTCm)/dm/3/x8abdvf/s/live-1.m3u8#cell=lsv4
 
 #EXTINF: -1 tvg-id="canalsaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title = "TV" pltv-subgroup = "Sis.Jornal do Comer.", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -210,7 +208,7 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TVT" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROmT6OlIpR3m330tygj6IL8ZOZ8E5RS4jTg&usqp=CAU",TVT HD
-https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G21gnfWkL-us-jCk0wE5ezjPKnk7yz3p6du4RoVOgWLv)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G5XlEbtnWzjvWcltSKbuyq4VKgvJIbL7MhuJ6t8TQn7h)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="combrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU" group-title="Canais Públicos" pltv-subgroup = "Sis.Jornal do Comer.", TV Comunitária HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
@@ -281,8 +279,8 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF: -1 tvg-id="radiomassa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1luLbSzlJT_kskhdBtEg-T6M8PdiOLz8Qww&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Massa FM
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio" radio="true", CBN Rio HD
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio" radio="true", CBN São Paulo HD
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF: -1 tvg-id="radiotupi.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGfTq0TwGbw2-hqAVIOGgCwDd0W0T9Gje4w&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Tupi FM
 https://8923.brasilstream.com.br/stream?nocache=32711111
