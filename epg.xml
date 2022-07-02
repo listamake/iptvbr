@@ -94,57 +94,57 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220701000000 -0300" stop="20220701003000 -0300" channel="anitv.br">
+<programme start="20220706000000 -0300" stop="20220706003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220701003000 -0300" stop="20220701010000 -0300" channel="anitv.br">
+<programme start="20220706003000 -0300" stop="20220706010000 -0300" channel="anitv.br">
  <title lang="pt">Dororo</title>
  <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
 <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220701010000 -0300" stop="20220701013000 -0300" channel="anitv.br">
+<programme start="20220706010000 -0300" stop="20220701013000 -0300" channel="anitv.br">
  <title lang="pt">Yamada-kun and the Seven Witches</title>
  <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
 </programme>
-<programme start="20220701013000 -0300" stop="20220701020000 -0300" channel="anitv.br">
+<programme start="20220706013000 -0300" stop="20220706020000 -0300" channel="anitv.br">
  <title lang="en">Back Street Girls: Gokudolls</title>
  <desc lang="en">Kentarō Yamamoto, Ryō Tachibana e Kazuhiko Sugihara são três yakuza que depois de decepcionar seu chefe recebem duas opções para ele: cometer um suicídio honroso ou ir para a Tailândia para se submeter a uma cirurgia de redesignação sexual e, assim, se tornar ídolos femininos.</desc>
 </programme>
-<programme start="20220701020000 -0300" stop="20220701030000 -0300" channel="anitv.br">
+<programme start="20220706020000 -0300" stop="20220706030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
 </programme>
-<programme start="20220701030000 -0300" stop="20220701050000 -0300" channel="anitv.br">
+<programme start="20220706030000 -0300" stop="20220706050000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220701060000 -0300" stop="20220701070000 -0300" channel="anitv.br">
+<programme start="20220706060000 -0300" stop="20220706070000 -0300" channel="anitv.br">
  <title lang="en">InfoAni</title>
  <desc lang="en">Fique informado do que acontece no mundo.</desc>
 </programme>
-<programme start="20220701070000 -0300" stop="20220701080000 -0300" channel="anitv.br">
+<programme start="20220706070000 -0300" stop="20220701080000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20220701080000 -0300" stop="20220701090000 -0300" channel="anitv.br">
+<programme start="20220706080000 -0300" stop="20220706090000 -0300" channel="anitv.br">
  <title lang="pt">Código Play I</title>
  <desc lang="pt">Sem informações</desc>
 </programme>
-<programme start="20220701090000 -0300" stop="20220701113000 -0300" channel="anitv.br">
+<programme start="20220706090000 -0300" stop="20220706113000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Yu Yu Hakusho às 9h,Cardcaptor Sakura às 9h30,Super Campeões às 10h,Urusei Yatsura às 10h30 e Cowboy Bebop às 11h.</desc>
 </programme>
-<programme start="20220701113000 -0300" stop="20220701120000 -0300" channel="anitv.br">
+<programme start="20220706113000 -0300" stop="20220706120000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 3ª Temp</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20220701120000 -0300" stop="20220701140000 -0300" channel="anitv.br">
+<programme start="20220706120000 -0300" stop="20220706140000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
@@ -415,34 +415,34 @@
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
     ####playch####
-<programme start="2022060118000 -0300" stop="20220601120000 -0300" channel="playch.br">
+<programme start="20220601180000 -0300" stop="20220601120000 -0300" channel="playch.br">
  <title lang="pt">Otacraze</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="2022061813000 -0300" stop="20220629163000 -0300" channel="playch.br">
+<programme start="20220618130000 -0300" stop="20220629163000 -0300" channel="playch.br">
  <title lang="pt">Programação Teste</title>
  <desc lang="pt">anime</desc>
 </programme>
    ####StrikerVerso.br####
-<programme start="20220702213000 -0300" stop="2022070300000 -0300" channel="StrikerVerso.br">
+<programme start="202207022130000 -0300" stop="2022070300000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220626000000 -0300" stop="2022063000000 -0300" channel="StrikerVerso.br">
+<programme start="202206260000000 -0300" stop="2022063000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
  
    ####tv bs####
-<programme start="20220702213000 -0300" stop="2022070300000 -0300" channel="tvbs.br">
+<programme start="202207022130000 -0300" stop="2022070300000 -0300" channel="tvbs.br">
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220626090000 -0300" stop="2022062610000 -0300" channel="tvbs.br">
+<programme start="202206260900000 -0300" stop="2022062610000 -0300" channel="tvbs.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220626000000 -0300" stop="2022070522300 -0300" channel="tvbs.br">
+<programme start="202206260000000 -0300" stop="2022070522300 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -451,27 +451,149 @@
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2022061800000 -0300" stop="20220705628000000 -0300" channel="damubiku.br">
+<programme start="20220618000000 -0300" stop="20220705628000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação Damu Biku</title>
  <desc lang="pt">anime</desc>
 </programme>
  
    ####FronteiraMovies.br####
-<programme start="2022063004000 -0300" stop="20220705000000 -0300" channel="FronteiraMovies.br">
+<programme start="20220630040000 -0300" stop="20220705000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="2022070504000 -0300" stop="20220710000000 -0300" channel="FronteiraMovies.br">
+<programme start="20220705040000 -0300" stop="20220710000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
 
    ####cbnrede.br####
-<programme start="2022062914000 -0300" stop="20220705000000 -0300" channel="cbnrede.br">
+<programme start="20220629140000 -0300" stop="20220705000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-
+ 
+<programme start="20220705000000 -0300" stop="20220705060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Madrugada</title>
+ <desc lang="pt">Com Paulo Galvão</desc>
+</programme>
+<programme start="20220705050000 -0300" stop="20220705060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Primeiras Notícias</title>
+ <desc lang="pt">bem informado</desc>
+</programme>
+<programme start="20220705060000 -0300" stop="20220705093000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title>
+ <desc lang="pt">Noticiario</desc>
+</programme>
+<programme start="20220705093000 -0300" stop="20220705100000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN em Foco</title>
+ <desc lang="pt">Com Paulo Galvão</desc>
+</programme>
+<programme start="20220705100000 -0300" stop="20220705120000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Plaça</title>
+ <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
+</programme>
+<programme start="20220705120000 -0300" stop="20220705140000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Brasil</title>
+ <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
+</programme>
+<programme start="20220705140000 -0300" stop="20220705170000 -0300" channel="cbnrede.br">
+ <title lang="pt">Estúdio CBN</title>
+ <desc lang="pt">Revista eletronica.</desc>
+</programme>
+<programme start="20220705170000 -0300" stop="20220705200000 -0300" channel="cbnrede.br">
+ <title lang="pt">Ponto Final CBN</title>
+ <desc lang="pt">Resumo do que aconteceu no dia com Rodrigo Bocardi e Carolina Morand.</desc>
+</programme>
+<programme start="20220705200000 -0300" stop="20220705210000 -0300" channel="cbnrede.br">
+ <title lang="pt">Quatro em Campo</title>
+ <desc lang="pt">Resenha esportiva com a equipe de craques da cbn. com Carlos Eduardo Eboli, Paulo Massini, Francisco Aiello e André Sanches.</desc>
+</programme>
+<programme start="20220705210000 -0300" stop="20220706000000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Noite Total</title>
+ <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
+</programme>
+ 
+<programme start="20220706000000 -0300" stop="20220706060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Madrugada</title>
+ <desc lang="pt">Com Paulo Galvão</desc>
+</programme>
+<programme start="20220706050000 -0300" stop="20220706060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Primeiras Notícias</title>
+ <desc lang="pt">bem informado</desc>
+</programme>
+<programme start="20220706060000 -0300" stop="20220706093000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title>
+ <desc lang="pt">Noticiario</desc>
+</programme>
+<programme start="20220706093000 -0300" stop="20220706100000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN em Foco</title>
+ <desc lang="pt">Com Paulo Galvão</desc>
+</programme>
+<programme start="20220706100000 -0300" stop="20220706120000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Plaça</title>
+ <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
+</programme>
+<programme start="20220706120000 -0300" stop="20220706140000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Brasil</title>
+ <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
+</programme>
+<programme start="20220706140000 -0300" stop="20220706170000 -0300" channel="cbnrede.br">
+ <title lang="pt">Estúdio CBN</title>
+ <desc lang="pt">Revista eletronica.</desc>
+</programme>
+<programme start="20220706170000 -0300" stop="20220706200000 -0300" channel="cbnrede.br">
+ <title lang="pt">Ponto Final CBN</title>
+ <desc lang="pt">Resumo do que aconteceu no dia com Rodrigo Bocardi e Carolina Morand.</desc>
+</programme>
+<programme start="20220706200000 -0300" stop="20220706210000 -0300" channel="cbnrede.br">
+ <title lang="pt">Quatro em Campo</title>
+ <desc lang="pt">Resenha esportiva com a equipe de craques da cbn. com Carlos Eduardo Eboli, Paulo Massini, Francisco Aiello e André Sanches.</desc>
+</programme>
+<programme start="20220706210000 -0300" stop="20220707000000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Noite Total</title>
+ <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
+</programme>
+     ###sab###
+<programme start="20220709000000 -0300" stop="20220709060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Madrugada</title>
+ <desc lang="pt">Com Paulo Galvão</desc>
+</programme>
+<programme start="20220709050000 -0300" stop="20220709060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Primeiras Notícias</title>
+ <desc lang="pt">bem informado</desc>
+</programme>
+<programme start="20220709060000 -0300" stop="20220709090000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title>
+ <desc lang="pt">Noticiario</desc>
+</programme>
+<programme start="20220709090000 -0300" stop="20220709093000 -0300" channel="cbnrede.br">
+ <title lang="pt">O Mundo em Meia Hora</title>
+ <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
+</programme>
+<programme start="202207090930000 -0300" stop="20220709100000 -0300" channel="cbnrede.br">
+ <title lang="pt">Bem-estar e Movimento</title>
+ <desc lang="pt">fique bem brasil.</desc>
+</programme>
+<programme start="20220709100000 -0300" stop="20220709120000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Plaça</title>
+ <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
+</programme>
+<programme start="20220709120000 -0300" stop="20220709150000 -0300" channel="cbnrede.br">
+ <title lang="pt">Revista CBN</title>
+ <desc lang="pt">Revista eletronica.</desc>
+</programme>
+<programme start="20220709150000 -0300" stop="20220709210000 -0300" channel="cbnrede.br">
+ <title lang="pt">Show da Notícia e/ou Futebol</title>
+ <desc lang="pt">noticias ou jornadas esportivas.</desc>
+</programme>
+<programme start="20220709210000 -0300" stop="20220709230000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Noite Total</title>
+ <desc lang="pt">fique bem informado do que acontece no dia.</desc>
+</programme>
+<programme start="20220709230000 -0300" stop="20220710000000 -0300" channel="cbnrede.br">
+ <title lang="pt">Globo News Painel</title>
+ <desc lang="pt">interligado a globo newws</desc>
+</programme>
       ########radioclubeam#####
 <programme start="20220629120000 -0300" stop="20220705220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
@@ -696,6 +818,11 @@
 </programme>
 
        #####radiojornalpe.br ######
+<programme start="20220624180000 -0300" stop="20220705063000 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Programação Rádio Jornal Recife</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+ 
 <programme start="20220627063000 -0300" stop="20220627070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
@@ -720,10 +847,7 @@
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220624180000 -0300" stop="20220705063000 -0300" channel="radiojornalpe.br">
- <title lang="pt">Programação Rádio Jornal Recife</title>
- <desc lang="pt">Seleção musical</desc>
-</programme>
+
       ####Canalteste####
 <programme start="20220610180000 -0300" stop="20220705140000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
