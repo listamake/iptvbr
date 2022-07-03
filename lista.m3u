@@ -28,7 +28,7 @@ http://60d88f8ce1206.streamlock.net/id84/id84/playlist.m3u8
 #EXTINF: -1 tvg-id="Redetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! Tocantins 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF: -1 tvg-id="recordnews.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias" pltv-subgroup = "NTRU", Record News
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias", Record News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
@@ -46,7 +46,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbwdDVqo3PnCMQ5LIsBDEAQHsvy_rx6Us7-QCBUcDFxITLtNz_caLzRr2JXm9WInhNg&dmTs=819891&dmV1st=72C9CADDB3B01E53427D853447A7538B
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcnh29o5bugyv9QK4NTXZXSiuFqMwqYzTxN1BxOWfzFT)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://pbs.twimg.com/profile_images/1074734081148104704/lYU3jC8e_400x400.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -73,26 +73,26 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgwezRVvJUahz7PoTvY92dfkzHCq1iFd_EA&usqp=CAU" group-title="Canais de Esportes" pltv-subgroup = "NTRU", Canal Teste 2
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TvBrasil.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Canais Públicos", TVE RS
+#EXTINF: -1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Canais Públicos", TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TV Cultura Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos", TV Cultura
-https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxJrOx_uuHHaIHNbxFlp5xbIzodZNcE21xk3zEj3ADIb)/dm/3/x7wur7g/s/live-2.m3u8#cell=lsv4
+#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos", TV Cultura
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8GJ_0h0kBQOdGowKe8FAaNcayUKzfwokkT11OKRVAkB)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-name="Rede Minas" group-title="Canais Públicos" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF: -1 tvg-id="Univesp TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", TV Master
+#EXTINF: -1 tvg-id="UnivespTV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", TV Master
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Canal Futura" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Futura 
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF: -1 tvg-id="tvescola.br" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", TV Escola
-https://cast.cdnseguro.com:1936/8044/8044/playlist.m3u8
+#EXTINF: -1 tvg-id="SESCTV.br" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", TV Escola
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 
 #EXTINF: -1 tvg-id="tvescola.br" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Canal Educação
-https://stream-03.sv4.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls4VQzjaMYyvVqMrmFX7ot_Yz5F9gmpAq0mdXd1yswTCm)/dm/3/x8abdvf/s/live-1.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls2k_mA-Oh5vgtiUmp0CkekE8Npu9XhTt-HAB2xgb8wMm)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="canalsaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Canais Públicos", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -185,10 +185,10 @@ https://centurylink.br.cdn.booyah.live/hls/1500058/116467679.m3u8
 #EXTINF: -1 tvg-id = "TVCH23" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso" pltv-subgroup = "Sis.Jornal do Comer.", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "TV27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title="Religioso" pltv-subgroup = "Sis.Jornal do Comer.", Novo Tempo
+#EXTINF: -1 tvg-id="TVNovoTempoBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title="Religioso" pltv-subgroup = "Sis.Jornal do Comer.", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="redevida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Religioso" pltv-subgroup = "NTRU", Rede Vida
+#EXTINF: -1 tvg-id="RedeVida.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Religioso" pltv-subgroup = "NTRU", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF: -1 tvg-id="redeestacao.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuJlWyJ2YLEi-GCuScjTSxrN79ocxJRzY7w&usqp=CAU" group-title="Religioso" pltv-subgroup = "NTRU", Rede Estação HD
@@ -203,11 +203,11 @@ https://alanza.iptv2022.com/RSCTV_Brasil/index.m3u8
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title="Regionais", TV BRASIL OESTE HD
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title="Canais Públicos",TV Câmara
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title="Canais Públicos",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TVT" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROmT6OlIpR3m330tygj6IL8ZOZ8E5RS4jTg&usqp=CAU",TVT HD
-https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G5XlEbtnWzjvWcltSKbuyq4VKgvJIbL7MhuJ6t8TQn7h)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6gXCaZvEIS-vhxwWX4rvoEFwc5v2E9z4yA2q4LbR7IV)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="combrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU" group-title="Canais Públicos" pltv-subgroup = "Sis.Jornal do Comer.", TV Comunitária HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
@@ -221,10 +221,10 @@ http://200.189.113.201/hls/tve.m3u8
 #EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title="Regionais" pltv-subgroup = "NTRU", Rede Cultura HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVE Bahia"  group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
+#EXTINF:-1 tvg-id="TVEBahia.br"  group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF: -1 tvg-id="loading" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title="Canais Geek", loading 
+#EXTINF: -1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title="Canais Geek", loading 
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StrikerVerso.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Canais Geek", StrikerVerso HD
