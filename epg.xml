@@ -6,49 +6,52 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp"/>
  <url>mi.tv</url>
 </channel>
- 
 <channel id="playch.br">
  <display-name lang="pt">Play Channel HD</display-name>
   <url>mi.tv</url>
   <icon src=""/>
 </channel>
-
 <channel id="Euronews.br">
  <display-name lang="pt">Euronews em português</display-name>
   <url>mi.tv</url>
-  <icon src=""/>
+  <icon src="https://pbs.twimg.com/profile_images/1168825837396869122/9s0sF91N_400x400.jpg"/>
 </channel>
-
+<channel id="TVMax.br">
+ <display-name lang="pt">TV Max RIO</display-name>
+  <url>mi.tv</url>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp"/>
+</channel>
+<channel id="CentralTV.br">
+ <display-name lang="pt">Central TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
+</channel>
+<channel id="awtv.br">
+ <display-name lang="pt">AWTV HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp"/>
+</channel>
 <channel id="FronteiraMovies.br">
  <display-name lang="pt">Fronteira Movies</display-name>
   <url>mi.tv</url>
   <icon src=""/>
 </channel>
-
 <channel id="StrikerVerso.br">
  <display-name lang="pt">StrikerVerso HD</display-name>
-  <icon src=""/>
-   <url>mi.tv</url>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
-
 <channel id="Canalteste">
  <display-name lang="pt">teste HD</display-name>
   <icon src=""/>
-   <url>mi.tv</url>
 </channel>
-
 <channel id="AllSports.br">
  <display-name lang="pt">All Sport HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
    <url>mi.tv</url>
 </channel>
-
 <channel id="RetroCartoon.br">
  <display-name lang="pt">RETRO CARTOON SD</display-name>
   <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
    <url>mi.tv</url>
 </channel>
-
 <channel id="radiojornalpe.br">
  <display-name lang="pt">Rádio Jornal Recife</display-name>
   <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
@@ -531,6 +534,37 @@
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
+ 
+    ###TVMax.br###
+<programme start="20220704080000 -0300" stop="20220704100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20220704100000 -0300" stop="20220704120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20220704120000 -0300" stop="20220704130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20220704130000 -0300" stop="20220704150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20220704150000 -0300" stop="20220704153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20220704153000 -0300" stop="20220704160000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Fala Garotinho</title>
+ <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
+</programme>
+<programme start="20220704160000 -0300" stop="20220705080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação Max TV</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
     ####playch####
 <programme start="20220601180000 -0300" stop="20220601120000 -0300" channel="playch.br">
  <title lang="pt">Otacraze</title>
