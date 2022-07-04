@@ -67,7 +67,7 @@
 <channel id="cbnrede.br">
  <display-name lang="pt">CBN Rede</display-name>
  <display-name lang="pt">CBN Rio HD</display-name>
- <display-name lang="pt">CBN São Paulo</display-name>
+ <display-name lang="pt">CBN São Paulo HD</display-name>
   <url>mi.tv</url>
   <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
 </channel>
@@ -671,7 +671,11 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="202206260000000 -0300" stop="2022070500000 -0300" channel="tvbs.br">
+<programme start="202207040000000 -0300" stop="2022070800000 -0300" channel="tvbs.br">
+ <title lang="pt">Programação TV BS</title>
+ <desc lang="pt">anime</desc>
+</programme>
+<programme start="202207080000000 -0300" stop="2022071400000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
