@@ -39,6 +39,10 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
 <channel id="Canalteste">
+ <display-name lang="pt">teste HD</display-name> 
+ <display-name lang="pt">Canal Teste 1</display-name>
+ <display-name lang="pt">Canal Teste 2</display-name>
+ <display-name lang="pt">Canal Teste 3</display-name>
  <display-name lang="pt">teste HD</display-name>
   <icon src=""/>
 </channel>
@@ -614,33 +618,63 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
     ###TVMax.br###
-<programme start="20220704080000 -0300" stop="20220704100000 -0300" channel="TVMax.br">
- <title lang="pt">Show do Clóvis Monteiro</title>
- <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
-</programme>
-<programme start="20220704100000 -0300" stop="20220704120000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Francisco Barbosa</title>
- <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
-</programme>
-<programme start="20220704120000 -0300" stop="20220704130000 -0300" channel="TVMax.br">
- <title lang="pt">Patrulha da Cidade</title>
- <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
-</programme>
-<programme start="20220704130000 -0300" stop="20220704150000 -0300" channel="TVMax.br">
- <title lang="pt">Cidinha Livre</title>
- <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
-</programme>
-<programme start="20220704150000 -0300" stop="20220704153000 -0300" channel="TVMax.br">
- <title lang="pt">Zinzane</title>
- <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
-</programme>
-<programme start="20220704153000 -0300" stop="20220704160000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Fala Garotinho</title>
- <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
-</programme>
+ 
 <programme start="20220704160000 -0300" stop="20220705080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20220705080000 -0300" stop="20220705100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20220705100000 -0300" stop="20220705120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20220705120000 -0300" stop="20220705130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20220705130000 -0300" stop="20220705150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20220705150000 -0300" stop="20220705153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20220705153000 -0300" stop="20220705160000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Fala Garotinho</title>
+ <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
+</programme>
+ 
+<programme start="20220705160000 -0300" stop="20220706080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação Max TV</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20220706080000 -0300" stop="20220706100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20220706100000 -0300" stop="20220706120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20220706120000 -0300" stop="20220706130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20220706130000 -0300" stop="20220706150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20220706150000 -0300" stop="20220706153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20220706153000 -0300" stop="20220706160000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Fala Garotinho</title>
+ <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
  
     ####playch####
@@ -653,11 +687,11 @@
  <desc lang="pt">anime</desc>
 </programme>
    ####StrikerVerso.br####
-<programme start="202207022130000 -0300" stop="2022070300000 -0300" channel="StrikerVerso.br">
+<programme start="20220702213000 -0300" stop="2022070300000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="202207030000000 -0300" stop="2022070800000 -0300" channel="StrikerVerso.br">
+<programme start="20220703000000 -0300" stop="2022070800000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -667,15 +701,15 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="202206260900000 -0300" stop="2022062610000 -0300" channel="tvbs.br">
+<programme start="20220709090000 -0300" stop="2022070910000 -0300" channel="tvbs.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="202207040000000 -0300" stop="2022070800000 -0300" channel="tvbs.br">
+<programme start="20220705000000 -0300" stop="2022070800000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="202207080000000 -0300" stop="2022071400000 -0300" channel="tvbs.br">
+<programme start="20220708000000 -0300" stop="2022071400000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -684,17 +718,17 @@
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="20220618000000 -0300" stop="20220705628000000 -0300" channel="damubiku.br">
+<programme start="2022070500000 -0300" stop="20220710000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação Damu Biku</title>
  <desc lang="pt">anime</desc>
 </programme>
  
    ####FronteiraMovies.br####
-<programme start="20220630040000 -0300" stop="20220705000000 -0300" channel="FronteiraMovies.br">
+<programme start="20220705000000 -0300" stop="20220710000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20220705040000 -0300" stop="20220710000000 -0300" channel="FronteiraMovies.br">
+<programme start="20220710000000 -0300" stop="20220715000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1180,17 +1214,21 @@
  
 
       ####Canalteste####
-<programme start="20220610180000 -0300" stop="20220705140000 -0300" channel="Canalteste">
+<programme start="20220705000000 -0300" stop="20220710000000 -0300" channel="Canalteste">
+ <title lang="pt">Programação de Teste</title>
+ <desc lang="pt">Canal em fase de testes</desc>
+</programme>
+<programme start="20220610000000 -0300" stop="20220705150000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
 
        ####AllSports.br####
-<programme start="20220630180000 -0300" stop="20220705000000 -0300" channel="AllSports.br">
+<programme start="20220705000000 -0300" stop="20220710000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20220705180000 -0300" stop="20220710140000 -0300" channel="AllSports.br">
+<programme start="20220710000000 -0300" stop="20220715000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
@@ -1206,11 +1244,11 @@
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20220630120000 -0300" stop="20220705000000 -0300" channel="RetroCartoon.br">
+<programme start="20220705120000 -0300" stop="2022070800000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
-<programme start="20220705000000 -0300" stop="2022071000000 -0300" channel="RetroCartoon.br">
+<programme start="20220708000000 -0300" stop="2022071000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
