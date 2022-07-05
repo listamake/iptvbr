@@ -100,7 +100,7 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF: -1 tvg-id="milagrotv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Milagro HD
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 
-#EXTINF: -1 tvg-id="terraviva.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio" pltv-subgroup = "Canais NewCom", Terraviva HD
+#EXTINF: -1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio" pltv-subgroup = "Canais NewCom", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Agro+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
@@ -119,10 +119,10 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF: -1 tvg-id="TVMaisFamilia.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYwEo99hniHqmAOlgAQrjL5AAJYwL6G5Gjw&usqp=CAU" group-title="Religioso", Rede Mais Família HD
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Rede21.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title="Variedades", Rede 21 HD
+#EXTINF: -1 tvg-id="Rede21.br" tvg-name="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title="Variedades", Rede 21 HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="IdealTV.br" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title="Variedades", IDEAL TV HD
+#EXTINF: -1 tvg-id="IdealTV.br" tvg-name="Ideal TV" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title="Variedades", IDEAL TV HD
 https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", CNT HD
@@ -227,13 +227,13 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF: -1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/profile_images/1328446899272167431/MzMV0zkr_400x400.jpg" group-title="Canais Geek", loading 
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrikerVerso.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Canais Geek", StrikerVerso HD
+#EXTINF:-1 tvg-id="StrikerVerso.br" tvg-name="StrikerVerso HD" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Canais Geek", StrikerVerso HD
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 
-#EXTINF:-1 tvg-id="damubiku.br" tvg-logo="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" group-title="Canais Geek", Damu Biku HD
+#EXTINF:-1 tvg-id="damubiku.br" tvg-name="Damu Biku HD" tvg-logo="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" group-title="Canais Geek", Damu Biku HD
 https://stmv1.srvif.com/techsol/techsol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvbs.br" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/983823659183517706/Perfil.png" group-title="Canais Geek", TV BS HD
+#EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/983823659183517706/Perfil.png" group-title="Canais Geek", TV BS HD
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
 
 #EXTINF: -1 tvg-id="locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek", Locomotion SD
