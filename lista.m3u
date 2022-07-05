@@ -85,25 +85,25 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 #EXTINF: -1 tvg-id="UnivespTV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2b51a02ccbbfcd95f531d2bec137d6dc.webp" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", TV Master
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canal Futura" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Futura 
+#EXTINF: -1 tvg-id="CanalFutura.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_futura-hd_m.png" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Futura 
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF: -1 tvg-id="SESCTV.br" tvg-logo="https://play-lh.googleusercontent.com/Q6yjrH1sViWgxH2KAXTvMwWPdPMgE7X8yveLfhXsWWGf9Q774lxbfcQaUZmCjpmRyA" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", TV Escola
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 
-#EXTINF: -1 tvg-id="tvescola.br" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Canal Educação
-https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls2k_mA-Oh5vgtiUmp0CkekE8Npu9XhTt-HAB2xgb8wMm)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
+#EXTINF: -1 tvg-id="TVEscola.br" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" pltv-subgroup = "Sis.Jornal do Comer.", Canal Educação
+https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswtefpeyjEuePDVJnJvD2VAEV37Tmc-4YyL99jN6cmrL)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="canalsaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Canais Públicos", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
-#EXTINF: -1 tvg-id="milagrotv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Milagro HD
+#EXTINF: -1 tvg-id="TVMilagro.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title = "TV" pltv-subgroup = "NTRU", TV Milagro HD
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio" pltv-subgroup = "Canais NewCom", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Agro+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
+#EXTINF: -1 tvg-id="AgroMais.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
