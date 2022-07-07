@@ -3,32 +3,32 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" channel-id="00001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário
 https://proxy-05.nyc.dailymotion.com/sec(yz7C7zAq75CjlYcDfiRgVd1k0q3KFbaDYNFFGxk1ZF58ujiqlxKictadW4YEuyFRB-AfyObFDT5VyvHfVwrbcCsoFnVp-8IrB2ewcd7IIC0)/video/331/803/500308133_mp4_h264_aac.m3u8#cell=nyc
 
-#EXTINF: -1 tvg-id="SBTNacional.br" tvg-chno="131" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
+#EXTINF: -1 tvg-id="SBTNacional.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
   
-#EXTINF: -1 tvg-id="TVJornalCaruaru.br" channel-id="00003" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
+#EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-chno="003" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
   
-#EXTINF: -1 tvg-id="RecordTV.br" tvg-name="RecordTV" channel-id="00004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV MT
+#EXTINF: -1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-#EXTINF: -1 tvg-id="BandSaoPaulo.br" channel-id="00005"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band HD
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="005" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
-#EXTINF: -1 tvg-id="RBATV.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band Belém 
+#EXTINF: -1 tvg-id="RBATV.br" tvg-chno="006" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band Belém 
 https://streaming.gruporba.com.br/rba.m3u8
 
-#EXTINF: -1 tvg-id="Redetv.br" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!
+#EXTINF: -1 tvg-id="Redetv.br" tvg-chno="007" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV!
 http://60d88f8ce1206.streamlock.net/id84/id84/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Redetv.br" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! Tocantins 
+#EXTINF: -1 tvg-id="Redetv.br" tvg-chno="008" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! Tocantins 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF: -1 tvg-id="RecordNews.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias", Record News
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-chno="009" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias", Record News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
