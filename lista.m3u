@@ -3,10 +3,10 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário
+#EXTINF: -1 tvg-id="Canalteste" tvh-chnum="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário
 https://proxy-05.nyc.dailymotion.com/sec(yz7C7zAq75CjlYcDfiRgVd1k0q3KFbaDYNFFGxk1ZF58ujiqlxKictadW4YEuyFRB-AfyObFDT5VyvHfVwrbcCsoFnVp-8IrB2ewcd7IIC0)/video/331/803/500308133_mp4_h264_aac.m3u8#cell=nyc
 
-#EXTINF: -1 tvg-id="SBTNacional.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
+#EXTINF: -1 tvg-id="SBTNacional.br" tvh-chnum="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", SBT HD
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
   
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-jornal_m.png" group-title="Regionais" pltv-subgroup = "Sis.Jornal do Comer.", TV Jornal
