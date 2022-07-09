@@ -539,19 +539,19 @@
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
     ###awtv.br###
-<programme start="20220704000000 -0300" stop="20220705000000 -0300" channel="awtv.br">
+<programme start="20220709000000 -0300" stop="20220710000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20220705000000 -0300" stop="20220706000000 -0300" channel="awtv.br">
+<programme start="20220710000000 -0300" stop="20220712000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20220706000000 -0300" stop="20220707000000 -0300" channel="awtv.br">
+<programme start="20220712000000 -0300" stop="20220714000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20220707000000 -0300" stop="20220709000000 -0300" channel="awtv.br">
+<programme start="20220714000000 -0300" stop="20220715000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
@@ -1079,7 +1079,7 @@
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20220709120000 -0300" stop="20220710150000 -0300" channel="radioclubeampe.br">
+<programme start="20220710120000 -0300" stop="20220710150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
@@ -1216,27 +1216,27 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###SAB###
-<programme start="20220709000000 -0300" stop="20220709020000 -0300" channel="radiojornalpe.br">
+<programme start="20220710000000 -0300" stop="20220710020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709020000 -0300" stop="20220709030000 -0300" channel="radiojornalpe.br">
+<programme start="20220710020000 -0300" stop="20220710030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709030000 -0300" stop="20220709050000 -0300" channel="radiojornalpe.br">
+<programme start="202207100000 -0300" stop="20220710050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709050000 -0300" stop="20220709063000 -0300" channel="radiojornalpe.br">
+<programme start="202207100000 -0300" stop="20220709063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709063000 -0300" stop="20220709070000 -0300" channel="radiojornalpe.br">
+<programme start="202207100000 00300" stop="20220710070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709070000 -0300" stop="20220709110000 -0300" channel="radiojornalpe.br">
+<programme start="20220710070000 -0300" stop="20220710110000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã - Edição de Sábado</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1252,32 +1252,32 @@
  <title lang="pt">Comando Geral Fim de Semana</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709150000 -0300" stop="20220709200000 -0300" channel="radiojornalpe.br">
+<programme start="20220710150000 -0300" stop="20220710200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709200000 -0300" stop="20220710000000 -0300" channel="radiojornalpe.br">
+<programme start="20220710200000 -0300" stop="20220711000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###DOM###
-<programme start="20220710000000 -0300" stop="20220710020000 -0300" channel="radiojornalpe.br">
+<programme start="20220711000000 -0300" stop="20220711020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710020000 -0300" stop="20220710024000 -0300" channel="radiojornalpe.br">
+<programme start="20220711020000 -0300" stop="20220711024000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Debate da Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710024000 -0300" stop="20220710032000 -0300" channel="radiojornalpe.br">
+<programme start="20220711024000 -0300" stop="20220711032000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã / Passando a limpo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710032000 -0300" stop="20220710040000 -0300" channel="radiojornalpe.br">
+<programme start="20220711032000 -0300" stop="20220711040000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Consultório do Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710040000 -0300" stop="20220710070000 -0300" channel="radiojornalpe.br">
+<programme start="20220711040000 -0300" stop="20220711070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Nossa Saudade</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1297,7 +1297,7 @@
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710210000 -0300" stop="20220711000000 -0300" channel="radiojornalpe.br">
+<programme start="20220711210000 -0300" stop="20220712000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
