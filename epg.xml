@@ -410,30 +410,30 @@
  <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
  
-<programme start="20220707000000 -0300" stop="20220707003000 -0300" channel="anitv.br">
+<programme start="20220712000000 -0300" stop="20220707003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
 </programme>
-<programme start="20220707003000 -0300" stop="20220707010000 -0300" channel="anitv.br">
+<programme start="20220712003000 -0300" stop="20220707010000 -0300" channel="anitv.br">
  <title lang="pt">Dororo</title>
  <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
 <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220707010000 -0300" stop="20220707013000 -0300" channel="anitv.br">
+<programme start="20220712010000 -0300" stop="20220712013000 -0300" channel="anitv.br">
  <title lang="pt">Yamada-kun and the Seven Witches</title>
  <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
 </programme>
-<programme start="20220707013000 -0300" stop="20220707020000 -0300" channel="anitv.br">
+<programme start="20220712013000 -0300" stop="20220712020000 -0300" channel="anitv.br">
  <title lang="en">Back Street Girls: Gokudolls</title>
  <desc lang="en">Kentarō Yamamoto, Ryō Tachibana e Kazuhiko Sugihara são três yakuza que depois de decepcionar seu chefe recebem duas opções para ele: cometer um suicídio honroso ou ir para a Tailândia para se submeter a uma cirurgia de redesignação sexual e, assim, se tornar ídolos femininos.</desc>
 </programme>
-<programme start="20220707020000 -0300" stop="20220707030000 -0300" channel="anitv.br">
+<programme start="20220712020000 -0300" stop="20220712030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
 </programme>
-<programme start="20220707030000 -0300" stop="20220707060000 -0300" channel="anitv.br">
+<programme start="20220712030000 -0300" stop="20220712060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
@@ -556,44 +556,48 @@
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
     ###CentralTV.br###
-<programme start="20220708080000 -0300" stop="20220708120000 -0300" channel="CentralTV.br">
- <title lang="pt">Clube da Criança</title>
- <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
-</programme>
-<programme start="20220708120000 -0300" stop="20220708140000 -0300" channel="CentralTV.br">
+<programme start="20220710183000 -0300" stop="20220711080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220708140000 -0300" stop="20220708143000 -0300" channel="CentralTV.br">
+<programme start="20220711080000 -0300" stop="20220708120000 -0300" channel="CentralTV.br">
+ <title lang="pt">Clube da Criança</title>
+ <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+</programme>
+<programme start="20220711120000 -0300" stop="20220711140000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title>
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="20220711140000 -0300" stop="20220711143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20220708143000 -0300" stop="20220708150000 -0300" channel="CentralTV.br">
+<programme start="20220711143000 -0300" stop="20220711150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20220708150000 -0300" stop="20220708160000 -0300" channel="CentralTV.br">
+<programme start="20220711150000 -0300" stop="20220711160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20220708160000 -0300" stop="20220708173000 -0300" channel="CentralTV.br">
+<programme start="20220711160000 -0300" stop="20220711173000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20220708173000 -0300" stop="20220709183000 -0300" channel="CentralTV.br">
+<programme start="20220711173000 -0300" stop="20220709183000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20220708183000 -0300" stop="20220709080000 -0300" channel="CentralTV.br">
+<programme start="20220711183000 -0300" stop="20220712080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
-<programme start="20220709080000 -0300" stop="20220709120000 -0300" channel="CentralTV.br">
+<programme start="20220712080000 -0300" stop="20220712120000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20220709120000 -0300" stop="20220709140000 -0300" channel="CentralTV.br">
+<programme start="20220712120000 -0300" stop="20220712140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -623,23 +627,23 @@
 </programme>
     ###TVMax.br###
  
-<programme start="20220707160000 -0300" stop="20220708080000 -0300" channel="TVMax.br">
+<programme start="20220710160000 -0300" stop="20220711080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20220708080000 -0300" stop="20220708100000 -0300" channel="TVMax.br">
+<programme start="20220711080000 -0300" stop="20220711100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20220708100000 -0300" stop="20220708120000 -0300" channel="TVMax.br">
+<programme start="20220711100000 -0300" stop="20220711120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20220708120000 -0300" stop="20220708130000 -0300" channel="TVMax.br">
+<programme start="20220711120000 -0300" stop="20220711130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20220708130000 -0300" stop="20220708150000 -0300" channel="TVMax.br">
+<programme start="20220711130000 -0300" stop="20220711150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
@@ -738,7 +742,7 @@
 </programme>
 
    ####cbnrede.br####
-<programme start="20220707000000 -0300" stop="20220709000000 -0300" channel="cbnrede.br">
+<programme start="20220710000000 -0300" stop="20220711000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
