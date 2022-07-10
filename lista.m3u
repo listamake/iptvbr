@@ -310,7 +310,7 @@ https://radiomecfm-stream.ebc.com.br/index.m3u8
 #EXTINF: -1 tvg-id="SICInternacional.pt" tvg-chno="180" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp" group-title="Internacionais", SIC Internacional
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF: -1 tvg-id="DWEspanol.de" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="Internacionais", DW HD
+#EXTINF: -1 tvg-id="DWDeutsch.de" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="Internacionais", DW HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
 #EXTINF: -1 tvg-id="NHKWorldJapan.jp" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="Internacionais", NHK WORLD HD
