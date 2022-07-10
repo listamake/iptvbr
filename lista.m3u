@@ -218,7 +218,7 @@ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 
 #EXTINF:-1 tvg-id="damubiku.br" tvg-name="Damu Biku HD" tvg-logo="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" group-title="Canais Geek", Damu Biku HD
-https://stmv1.srvif.com/techsol/techsol/playlist.m3u8
+https://video01.kshost.com.br:4443/murilo9207/murilo9207/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/983823659183517706/Perfil.png" group-title="Canais Geek", TV BS HD
 https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
@@ -249,9 +249,6 @@ http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title="Regionais" pltv-subgroup = "NTRU", Rede Cultura HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVEBahia.br"  group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF: -1 tvg-id="TV Ceará" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlMcqYTS7REZLyNpzNP6Xwk1PU80pCvMyvw&usqp=CAU" group-title="Canais Públicos" pltv-subgroup = "Sis.Jornal do Comer.", TV Ceará HD
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
@@ -310,9 +307,18 @@ http://cast2.youngtech.radio.br:8120/radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://radiomecfm-stream.ebc.com.br/index.m3u8
 
-#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="150" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band HD
+#EXTINF: -1 tvg-id="SICInternacional.pt" tvg-chno="180" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp" group-title="Internacionais", SIC Internacional
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF: -1 tvg-id="DWEspanol.de" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72c2e755583c084db6d912451f548194.webp" group-title="Internacionais", DW HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
+#EXTINF: -1 tvg-id="NHKWorldJapan.jp" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="Internacionais", NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="190" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TVGazeta.br" tvg-chno="152" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", Gazeta HD
+#EXTINF: -1 tvg-id="TVGazeta.br" tvg-chno="191" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", Gazeta HD
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
