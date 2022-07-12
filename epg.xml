@@ -874,12 +874,12 @@
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
       ########radioclubeam#####
-<programme start="20220713120000 -0300" stop="20220714220000 -0300" channel="radioclubeampe.br">
+<programme start="20220713000000 -0300" stop="20220714220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
             ########semanal radioclubeam#####
-<programme start="20220712220000 -0300" stop="20220712050000 -0300" channel="radioclubeampe.br">
+<programme start="20220711220000 -0300" stop="20220712050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -940,11 +940,11 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20220707050000 -0300" stop="20220707070000 -0300" channel="radioclubeampe.br">
+<programme start="20220714050000 -0300" stop="20220714070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220707070000 -0300" stop="20220707073000 -0300" channel="radioclubeampe.br">
+<programme start="20220714070000 -0300" stop="20220714073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
@@ -992,7 +992,7 @@
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220714220000 -0300" stop="20220714050000 -0300" channel="radioclubeampe.br">
+<programme start="20220714220000 -0300" stop="20220715050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1045,12 +1045,12 @@
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20220708200000 -0300" stop="20220708220000 -0300" channel="radioclubeampe.br">
+<programme start="20220715200000 -0300" stop="20220715220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
      ###sabado###
-<programme start="20220708220000 -0300" stop="20220709080000 -0300" channel="radioclubeampe.br">
+<programme start="20220715220000 -0300" stop="20220716080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1105,7 +1105,7 @@
 </programme>
 
        #####radiojornalpe.br ######
-<programme start="20220624180000 -0300" stop="20220702060000 -0300" channel="radiojornalpe.br">
+<programme start="20220712000000 -0300" stop="20220714060000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
