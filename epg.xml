@@ -25,6 +25,10 @@
  <display-name lang="pt">Central TV HD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
 </channel>
+<channel id="ETCTV.cl">
+ <display-name lang="pt">ETC TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1498392356495712266/wHrj2T5d_400x400.jpg"/>
+</channel>
 <channel id="awtv.br">
  <display-name lang="pt">AWTV HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp"/>
@@ -260,47 +264,47 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220709070000 -0300" stop="20220709100000 -0300" channel="anitv.br">
+<programme start="20220716070000 -0300" stop="20220716100000 -0300" channel="anitv.br">
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20220709100000 -0300" stop="20220709123000 -0300" channel="anitv.br">
+<programme start="20220716100000 -0300" stop="20220716123000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
-<programme start="20220709123000 -0300" stop="20220709150000 -0300" channel="anitv.br">
+<programme start="20220716123000 -0300" stop="20220716150000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Recovery of an MMO Junkie</title>
  <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
 </programme>
-<programme start="20220709150000 -0300" stop="20220709173000 -0300" channel="anitv.br">
+<programme start="20220716150000 -0300" stop="20220716173000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:Urusei Yatsura</title>
  <desc lang="en">anime</desc>
 </programme>
-<programme start="20220709173000 -0300" stop="20220709220000 -0300" channel="anitv.br">
+<programme start="20220716173000 -0300" stop="20220716220000 -0300" channel="anitv.br">
  <title lang="en">Maratona do #FDS:A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">dorama</desc>
 </programme>
    ####domingo anitv####
-<programme start="20220709220000 -0300" stop="20220710003000 -0300" channel="anitv.br">
+<programme start="20220716220000 -0300" stop="20220717003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
-<programme start="20220710003000 -0300" stop="20220710030000 -0300" channel="anitv.br">
+<programme start="20220717003000 -0300" stop="20220717030000 -0300" channel="anitv.br">
  <title lang="pt">Yamada-kun and the Seven Witches</title>
  <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220710030000 -0300" stop="20220710053000 -0300" channel="anitv.br">
+<programme start="20220717030000 -0300" stop="20220717053000 -0300" channel="anitv.br">
  <title lang="pt">Back Street Girls: Gokudolls</title>
  <desc lang="pt">Kentarō Yamamoto, Ryō Tachibana e Kazuhiko Sugihara são três yakuza que depois de decepcionar seu chefe recebem duas opções para ele: cometer um suicídio honroso ou ir para a Tailândia para se submeter a uma cirurgia de redesignação sexual e, assim, se tornar ídolos femininos.</desc>
 </programme>
-<programme start="20220710053000 -0300" stop="20220710063000 -0300" channel="anitv.br">
+<programme start="20220717053000 -0300" stop="20220717063000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220710063000 -0300" stop="20220710073000 -0300" channel="anitv.br">
+<programme start="20220717063000 -0300" stop="20220717073000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
@@ -309,19 +313,19 @@
  <desc lang="pt">Com os Animes SK8 The Infinity, Ranking of King, My Hero Academia, Yu Yu Hakusho</desc>
 </programme>
     ###segunda anitv###
-<programme start="20220711010000 -0300" stop="20220711030000 -0300" channel="anitv.br">
+<programme start="20220718010000 -0300" stop="20220718030000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
 </programme>
-<programme start="20220711030000 -0300" stop="20220711060000 -0300" channel="anitv.br">
+<programme start="20220718030000 -0300" stop="20220718060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220711060000 -0300" stop="20220711070000 -0300" channel="anitv.br">
+<programme start="20220718060000 -0300" stop="20220718070000 -0300" channel="anitv.br">
  <title lang="en">InfoAni</title>
  <desc lang="en">Fique informado do que acontece no mundo.</desc>
 </programme>
-<programme start="20220711070000 -0300" stop="20220711090000 -0300" channel="anitv.br">
+<programme start="20220718070000 -0300" stop="20220718090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
@@ -588,7 +592,7 @@
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20220712183000 -0300" stop="20220713080000 -0300" channel="CentralTV.br">
+<programme start="20220714183000 -0300" stop="20220715080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -656,19 +660,19 @@
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
  
-<programme start="20220712160000 -0300" stop="20220713080000 -0300" channel="TVMax.br">
+<programme start="20220714160000 -0300" stop="20220715080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20220713080000 -0300" stop="20220712100000 -0300" channel="TVMax.br">
+<programme start="20220715080000 -0300" stop="20220715100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20220713100000 -0300" stop="20220713120000 -0300" channel="TVMax.br">
+<programme start="20220715100000 -0300" stop="20220715120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20220713120000 -0300" stop="20220713130000 -0300" channel="TVMax.br">
+<programme start="20220715120000 -0300" stop="20220715130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
@@ -717,13 +721,56 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220710000000 -0300" stop="2022071500000 -0300" channel="tvbs.br">
+<programme start="202207100000000 -0300" stop="2022071500000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220715000000 -0300" stop="2022072000000 -0300" channel="tvbs.br">
+<programme start="202207150000000 -0300" stop="2022072000000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
+</programme>
+ 
+   ###ETCTV.cl###
+<programme start="20220713000000 -0300" stop="20220713200000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Sinal Fechado</title>
+ <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno</desc>
+</programme>
+<programme start="20220713200000 -0300" stop="20220713203000 -0300" channel="ETCTV.cl">
+ <title lang="pt">The Code</title>
+ <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
+</programme>
+<programme start="20220713203000 -0300" stop="20220713210000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Zero Lag</title>
+ <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos esports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
+</programme>
+<programme start="20220713210000 -0300" stop="20220713220000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Free To Play</title>
+ <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
+</programme>
+<programme start="20220713220000 -0300" stop="20220714000000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Sinal Fechado</title>
+ <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
+</programme>
+ 
+<programme start="20220714000000 -0300" stop="20220714200000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Sinal Fechado</title>
+ <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
+</programme>
+<programme start="20220714200000 -0300" stop="20220714203000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Reporte Gaming </title>
+ <desc lang="pt">Reporte Gaming É o primeiro noticiário dedicado à cultura geek de uma perspectiva jornalística, um lugar onde você pode ver as questões que importam para nossa comunidade. Os últimos lançamentos de videogames, avanços tecnológicos, a chegada de novos aplicativos e o outdoor de cinema e séries da Salfate, são apenas alguns dos nossos conteúdos.</desc>
+</programme>
+<programme start="20220714203000 -0300" stop="20220714210000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Zero Lag</title>
+ <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos esports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
+</programme>
+<programme start="20220714210000 -0300" stop="20220714220000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Free To Play</title>
+ <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
+</programme>
+<programme start="20220714220000 -0300" stop="20220715000000 -0300" channel="ETCTV.cl">
+ <title lang="pt">Sinal Fechado</title>
+ <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
    ####damubiku.br####
 <programme start="2022060114000 -0300" stop="20220602000000 -0300" channel="damubiku.br">
@@ -841,19 +888,19 @@
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220709060000 -0300" stop="20220709090000 -0300" channel="cbnrede.br">
+<programme start="20220716060000 -0300" stop="20220716090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20220709090000 -0300" stop="20220709093000 -0300" channel="cbnrede.br">
+<programme start="20220716090000 -0300" stop="20220716093000 -0300" channel="cbnrede.br">
  <title lang="pt">O Mundo em Meia Hora</title>
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
-<programme start="202207090930000 -0300" stop="20220709100000 -0300" channel="cbnrede.br">
+<programme start="202207160930000 -0300" stop="20220716100000 -0300" channel="cbnrede.br">
  <title lang="pt">Bem-estar e Movimento</title>
  <desc lang="pt">fique bem brasil.</desc>
 </programme>
-<programme start="20220709100000 -0300" stop="20220709120000 -0300" channel="cbnrede.br">
+<programme start="20220716100000 -0300" stop="20220716120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
@@ -1025,23 +1072,23 @@
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220708140000 -0300" stop="20220708160000 -0300" channel="radioclubeampe.br">
+<programme start="20220715140000 -0300" stop="20220715160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708160000 -0300" stop="20220708170000 -0300" channel="radioclubeampe.br">
+<programme start="20220715160000 -0300" stop="20220715170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Cena Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708170000 -0300" stop="20220708180000 -0300" channel="radioclubeampe.br">
+<programme start="20220715170000 -0300" stop="20220715180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708180000 -0300" stop="20220708190000 -0300" channel="radioclubeampe.br">
+<programme start="20220715180000 -0300" stop="20220715190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="20220708190000 -0300" stop="20220708200000 -0300" channel="radioclubeampe.br">
+<programme start="20220715190000 -0300" stop="20220715200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
@@ -1054,52 +1101,52 @@
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709080000 -0300" stop="20220709120000 -0300" channel="radioclubeampe.br">
+<programme start="20220716080000 -0300" stop="20220716120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20220709120000 -0300" stop="20220709130000 -0300" channel="radioclubeampe.br">
+<programme start="20220716120000 -0300" stop="20220716130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20220709130000 -0300" stop="20220709140000 -0300" channel="radioclubeampe.br">
+<programme start="20220716130000 -0300" stop="20220716140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220709140000 -0300" stop="20220709160000 -0300" channel="radioclubeampe.br">
+<programme start="20220716140000 -0300" stop="20220716160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709160000 -0300" stop="20220710000000 -0300" channel="radioclubeampe.br">
+<programme start="20220716160000 -0300" stop="20220717000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Transmissão dos jogos dos clubes de Pernambuco, do Nordeste e do Brasil com a equipe número um do Rádio. Os Campeões da Bola levam: notícias, informações, entrevistas, comentários e a narração em cima do lance com o futebol moderno da Clube.</desc>
 </programme>
      ####domingo####
-<programme start="20220710000000 -0300" stop="20220710090000 -0300" channel="radioclubeampe.br">
+<programme start="20220717000000 -0300" stop="20220717090000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710090000 -0300" stop="20220710110000 -0300" channel="radioclubeampe.br">
+<programme start="20220717090000 -0300" stop="20220717110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20220710110000 -0300" stop="20220710120000 -0300" channel="radioclubeampe.br">
+<programme start="20220717110000 -0300" stop="20220717120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20220710120000 -0300" stop="20220710150000 -0300" channel="radioclubeampe.br">
+<programme start="20220717120000 -0300" stop="20220717150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
-<programme start="20220710150000 -0300" stop="20220710220000 -0300" channel="radioclubeampe.br">
+<programme start="20220717150000 -0300" stop="20220717220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Transmissão dos jogos dos clubes de Pernambuco, do Nordeste e do Brasil com a equipe número um do Rádio. Os Campeões da Bola levam: notícias, informações, entrevistas, comentários e a narração em cima do lance com o futebol moderno da Clube.</desc>
 </programme>
-<programme start="20220710220000 -0300" stop="20220710230000 -0300" channel="radioclubeampe.br">
+<programme start="20220717220000 -0300" stop="20220717230000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20220710230000 -0300" stop="20220711000000 -0300" channel="radioclubeampe.br">
+<programme start="20220717230000 -0300" stop="20220718000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube da Seresta</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1142,23 +1189,23 @@
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20220708140000 -0300" stop="20220708160000 -0300" channel="radiojornalpe.br">
+<programme start="20220714140000 -0300" stop="20220714160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708160000 -0300" stop="20220708180000 -0300" channel="radiojornalpe.br">
+<programme start="20220714160000 -0300" stop="20220714180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708180000 -0300" stop="20220708190000 -0300" channel="radiojornalpe.br">
+<programme start="20220714180000 -0300" stop="20220714190000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Bola Rolando</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708190000 -0300" stop="20220708200000 -0300" channel="radiojornalpe.br">
+<programme start="20220714190000 -0300" stop="20220714200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento Esportivo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220708200000 -0300" stop="20220708210000 -0300" channel="radiojornalpe.br">
+<programme start="20220714200000 -0300" stop="20220714210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
@@ -1167,117 +1214,117 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20220701500000 -0300" stop="20220715020000 -0300" channel="radiojornalpe.br">
+<programme start="2022071500000 -0300" stop="20220715020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706020000 -0300" stop="20220706030000 -0300" channel="radiojornalpe.br">
+<programme start="20220715020000 -0300" stop="20220715030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706030000 -0300" stop="20220706050000 -0300" channel="radiojornalpe.br">
+<programme start="20220715030000 -0300" stop="20220715050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706050000 -0300" stop="20220706063000 -0300" channel="radiojornalpe.br">
+<programme start="20220715050000 -0300" stop="20220715063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706063000 -0300" stop="20220706070000 -0300" channel="radiojornalpe.br">
+<programme start="20220715063000 -0300" stop="20220715070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706070000 -0300" stop="20220706120000 -0300" channel="radiojornalpe.br">
+<programme start="20220715070000 -0300" stop="20220715120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706120000 -0300" stop="20220706123000 -0300" channel="radiojornalpe.br">
+<programme start="20220715120000 -0300" stop="20220715123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706123000 -0300" stop="20220706140000 -0300" channel="radiojornalpe.br">
+<programme start="20220715123000 -0300" stop="20220715140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20220706140000 -0300" stop="20220706160000 -0300" channel="radiojornalpe.br">
+<programme start="20220715140000 -0300" stop="20220715160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706160000 -0300" stop="20220706180000 -0300" channel="radiojornalpe.br">
+<programme start="20220715160000 -0300" stop="20220715180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706180000 -0300" stop="20220706190000 -0300" channel="radiojornalpe.br">
+<programme start="20220715180000 -0300" stop="20220715190000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Bola Rolando</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706190000 -0300" stop="20220706200000 -0300" channel="radiojornalpe.br">
+<programme start="20220715190000 -0300" stop="20220715200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento Esportivo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220706200000 -0300" stop="20220706210000 -0300" channel="radiojornalpe.br">
+<programme start="20220715200000 -0300" stop="20220715210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
-<programme start="20220706210000 -0300" stop="20220707000000 -0300" channel="radiojornalpe.br">
+<programme start="20220715210000 -0300" stop="20220716000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###SAB###
-<programme start="20220710000000 -0300" stop="20220710020000 -0300" channel="radiojornalpe.br">
+<programme start="20220716000000 -0300" stop="20220716020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710020000 -0300" stop="20220710030000 -0300" channel="radiojornalpe.br">
+<programme start="20220716020000 -0300" stop="20220716030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710030000 -0300" stop="20220710050000 -0300" channel="radiojornalpe.br">
+<programme start="20220716030000 -0300" stop="20220716050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710050000 -0300" stop="20220709063000 -0300" channel="radiojornalpe.br">
+<programme start="20220716050000 -0300" stop="20220716063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710063000 -0300" stop="20220710070000 -0300" channel="radiojornalpe.br">
+<programme start="20220716063000 -0300" stop="20220716070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710070000 -0300" stop="20220710110000 -0300" channel="radiojornalpe.br">
+<programme start="20220716070000 -0300" stop="20220716110000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã - Edição de Sábado</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709110000 -0300" stop="20220709123000 -0300" channel="radiojornalpe.br">
+<programme start="20220716110000 -0300" stop="20220716123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Mesa de Bar</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709123000 -0300" stop="20220709140000 -0300" channel="radiojornalpe.br">
+<programme start="20220716123000 -0300" stop="20220716140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20220715140000 -0300" stop="20220715150000 -0300" channel="radiojornalpe.br">
+<programme start="20220716140000 -0300" stop="20220716150000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Comando Geral Fim de Semana</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709150000 -0300" stop="20220709200000 -0300" channel="radiojornalpe.br">
+<programme start="20220716150000 -0300" stop="20220716200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220709200000 -0300" stop="20220710000000 -0300" channel="radiojornalpe.br">
+<programme start="20220716200000 -0300" stop="20220717000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###DOM###
-<programme start="20220710000000 -0300" stop="20220710020000 -0300" channel="radiojornalpe.br">
+<programme start="20220717000000 -0300" stop="20220717020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710020000 -0300" stop="20220710024000 -0300" channel="radiojornalpe.br">
+<programme start="20220717020000 -0300" stop="20220717024000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Debate da Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220710024000 -0300" stop="20220710032000 -0300" channel="radiojornalpe.br">
+<programme start="20220717024000 -0300" stop="20220717032000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã / Passando a limpo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
