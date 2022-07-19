@@ -102,14 +102,14 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220720000000 -0300" stop="20220714003000 -0300" channel="anitv.br">
+<programme start="20220720000000 -0300" stop="20220720003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="2022072003000 -0300" stop="20220714010000 -0300" channel="anitv.br">
+<programme start="2022072003000 -0300" stop="20220720010000 -0300" channel="anitv.br">
  <title lang="pt">Dororo</title>
  <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
 <rating system="VCHIP">
@@ -442,7 +442,7 @@
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
 </programme>
-<programme start="20220719003000 -0300" stop="20220715010000 -0300" channel="anitv.br">
+<programme start="20220719003000 -0300" stop="20220719010000 -0300" channel="anitv.br">
  <title lang="pt">Dororo</title>
  <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
 <rating system="VCHIP">
