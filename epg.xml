@@ -102,41 +102,41 @@
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220720000000 -0300" stop="20220720003000 -0300" channel="anitv.br">
+<programme start="20220722000000 -0300" stop="20220722003000 -0300" channel="anitv.br">
  <title lang="pt">Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220720030000 -0300" stop="20220720010000 -0300" channel="anitv.br">
+<programme start="20220722030000 -0300" stop="20220722010000 -0300" channel="anitv.br">
  <title lang="pt">Dororo</title>
  <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
 <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220720010000 -0300" stop="20220720013000 -0300" channel="anitv.br">
+<programme start="20220722010000 -0300" stop="20220722013000 -0300" channel="anitv.br">
  <title lang="pt">Yamada-kun and the Seven Witches</title>
  <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
 </programme>
-<programme start="20220720013000 -0300" stop="20220720020000 -0300" channel="anitv.br">
+<programme start="20220722013000 -0300" stop="20220722020000 -0300" channel="anitv.br">
  <title lang="en">Back Street Girls: Gokudolls</title>
  <desc lang="en">Kentarō Yamamoto, Ryō Tachibana e Kazuhiko Sugihara são três yakuza que depois de decepcionar seu chefe recebem duas opções para ele: cometer um suicídio honroso ou ir para a Tailândia para se submeter a uma cirurgia de redesignação sexual e, assim, se tornar ídolos femininos.</desc>
 </programme>
-<programme start="20220720020000 -0300" stop="20220720030000 -0300" channel="anitv.br">
+<programme start="20220722020000 -0300" stop="20220722030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
 </programme>
-<programme start="20220720030000 -0300" stop="20220720060000 -0300" channel="anitv.br">
+<programme start="20220722030000 -0300" stop="20220722060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220720060000 -0300" stop="20220720070000 -0300" channel="anitv.br">
+<programme start="20220722060000 -0300" stop="20220722070000 -0300" channel="anitv.br">
  <title lang="en">InfoAni</title>
  <desc lang="en">Fique informado do que acontece no mundo.</desc>
 </programme>
-<programme start="20220720070000 -0300" stop="20220720090000 -0300" channel="anitv.br">
+<programme start="20220722070000 -0300" stop="20220722090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
@@ -144,15 +144,15 @@
  <title lang="pt">Código Play I</title>
  <desc lang="pt">Sem informações</desc>
 </programme>
-<programme start="20220720090000 -0300" stop="20220720113000 -0300" channel="anitv.br">
+<programme start="20220722090000 -0300" stop="20220722113000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Yu Yu Hakusho às 9h,Cardcaptor Sakura às 9h30,Super Campeões às 10h,Urusei Yatsura às 10h30 e Cowboy Bebop às 11h.</desc>
 </programme>
-<programme start="20220720113000 -0300" stop="20220720120000 -0300" channel="anitv.br">
+<programme start="20220722113000 -0300" stop="20220722120000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 3ª Temp</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20220720120000 -0300" stop="20220720140000 -0300" channel="anitv.br">
+<programme start="20220722120000 -0300" stop="20220722140000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
@@ -361,79 +361,79 @@
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Yu Yu Hakusho às 9h,Cardcaptor Sakura às 9h30,Super Campeões às 10h,Urusei Yatsura às 10h30 e Cowboy Bebop às 11h.</desc>
 </programme>
-<programme start="20220718113000 -0300" stop="20220718120000 -0300" channel="anitv.br">
+<programme start="20220725113000 -0300" stop="20220725120000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 3ª Temp</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20220718120000 -0300" stop="20220718140000 -0300" channel="anitv.br">
+<programme start="20220725120000 -0300" stop="20220725140000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en"> musica </desc>
 </programme>
-<programme start="20220718140000 -0300" stop="20220718150000 -0300" channel="anitv.br">
+<programme start="20220725140000 -0300" stop="20220725150000 -0300" channel="anitv.br">
  <title lang="pt">Código Play II</title>
  <desc lang="pt">Sem informações</desc>
 </programme>
-<programme start="20220718150000 -0300" stop="20220718153000 -0300" channel="anitv.br">
+<programme start="20220725150000 -0300" stop="20220725153000 -0300" channel="anitv.br">
  <title lang="pt">Recovery of an MMO Junkie</title>
  <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
 </programme>
-<programme start="20220718153000 -0300" stop="20220718160000 -0300" channel="anitv.br">
+<programme start="20220725153000 -0300" stop="20220725160000 -0300" channel="anitv.br">
  <title lang="pt">DNA²</title>
  <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
 </programme>
-<programme start="20220718160000 -0300" stop="20220718170000 -0300" channel="anitv.br">
+<programme start="20220725160000 -0300" stop="20220725170000 -0300" channel="anitv.br">
  <title lang="pt">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="pt">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
 </programme>
-<programme start="20220718170000 -0300" stop="20220718173000 -0300" channel="anitv.br">
+<programme start="20220725170000 -0300" stop="20220725173000 -0300" channel="anitv.br">
  <title lang="pt">Wonder Egg Priority</title>
  <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
 </programme>
-<programme start="20220718173000 -0300" stop="20220718180000 -0300" channel="anitv.br">
+<programme start="20220725173000 -0300" stop="20220725180000 -0300" channel="anitv.br">
  <title lang="pt">Serial Experiments Lain</title>
  <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
-<programme start="20220718180000 -0300" stop="20220718190000 -0300" channel="anitv.br">
+<programme start="20220725180000 -0300" stop="20220725190000 -0300" channel="anitv.br">
  <title lang="en">Código Play III</title>
  <desc lang="en">Sem informações</desc>
 </programme>
-<programme start="20220718190000 -0300" stop="20220718193000 -0300" channel="anitv.br">
+<programme start="20220725190000 -0300" stop="20220725193000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura</title>
  <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
 </programme>
-<programme start="20220718193000 -0300" stop="20220718200000 -0300" channel="anitv.br">
+<programme start="20220725193000 -0300" stop="20220725200000 -0300" channel="anitv.br">
  <title lang="pt">Recovery of an MMO Junkie</title>
  <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
 </programme>
-<programme start="20220718200000 -0300" stop="20220718203000 -0300" channel="anitv.br">
+<programme start="20220725200000 -0300" stop="20220725203000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20220718203000 -0300" stop="20220718210000 -0300" channel="anitv.br">
+<programme start="20220725203000 -0300" stop="20220725210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 3ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
-<programme start="20220718210000 -0300" stop="20220718213000 -0300" channel="anitv.br">
+<programme start="20220725210000 -0300" stop="20220725213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
-<programme start="20220718213000 -0300" stop="20220718220000 -0300" channel="anitv.br">
+<programme start="20220725213000 -0300" stop="20220725220000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
-<programme start="20220718220000 -0300" stop="20220718223000 -0300" channel="anitv.br">
+<programme start="20220725220000 -0300" stop="20220725223000 -0300" channel="anitv.br">
 <title lang="pt">DNA²</title>
  <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
 </programme>
-<programme start="20220718223000 -0300" stop="20220718230000 -0300" channel="anitv.br">
+<programme start="20220725223000 -0300" stop="20220725230000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt"> a série se passa no ano de 2071 e é centrada na vida de uma tripulação de caçadores de recompensas espaciais. O anime aborda questões não resolvidas do passado dos protagonistas, explorando temas como existencialismo, tédio, degradação ambiental e a solidão.</desc>
 </programme>
-<programme start="20220718230000 -0300" stop="20220718233000 -0300" channel="anitv.br">
+<programme start="20220725230000 -0300" stop="20220725233000 -0300" channel="anitv.br">
  <title lang="pt">Wonder Egg Priority</title>
  <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
 </programme>
-<programme start="20220718233000 -0300" stop="20220719000000 -0300" channel="anitv.br">
+<programme start="20220725233000 -0300" stop="20220726000000 -0300" channel="anitv.br">
  <title lang="pt">Serial Experiments Lain</title>
  <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
@@ -616,16 +616,32 @@
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20220719183000 -0300" stop="20220720080000 -0300" channel="CentralTV.br">
+<programme start="20220721183000 -0300" stop="20220721210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
+<programme start="20220721210000 -0300" stop="20220721223000 -0300" channel="CentralTV.br">
+ <title lang="pt">Super Séries</title>
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="20220721223000 -0300" stop="20220721224500 -0300" channel="CentralTV.br">
+ <title lang="pt">Momento Mario Celso</title>
+ <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
+</programme>
+<programme start="20220721224500 -0300" stop="20220722003000 -0300" channel="CentralTV.br">
+ <title lang="pt">CentralTV CineClassic</title>
+ <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
+</programme>
  
-<programme start="20220720080000 -0300" stop="20220720120000 -0300" channel="CentralTV.br">
+<programme start="20220722003000 -0300" stop="20220722080000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title>
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="20220722080000 -0300" stop="20220722120000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20220720120000 -0300" stop="20220720140000 -0300" channel="CentralTV.br">
+<programme start="20220722120000 -0300" stop="20220722140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -856,27 +872,27 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20220720000000 -0300" stop="20220720050000 -0300" channel="cbnrede.br">
+<programme start="20220722000000 -0300" stop="20220722050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220720050000 -0300" stop="20220720060000 -0300" channel="cbnrede.br">
+<programme start="20220722050000 -0300" stop="20220722060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220720060000 -0300" stop="20220720093000 -0300" channel="cbnrede.br">
+<programme start="20220722060000 -0300" stop="20220722093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20220720093000 -0300" stop="20220720100000 -0300" channel="cbnrede.br">
+<programme start="20220722093000 -0300" stop="20220722100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220720100000 -0300" stop="20220720120000 -0300" channel="cbnrede.br">
+<programme start="20220722100000 -0300" stop="20220722120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220720120000 -0300" stop="20220720140000 -0300" channel="cbnrede.br">
+<programme start="20220722120000 -0300" stop="20220722140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
@@ -1402,64 +1418,64 @@
  <title lang="pt">Super Manhã - Edição de Sábado</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220716110000 -0300" stop="20220716123000 -0300" channel="radiojornalpe.br">
+<programme start="20220723110000 -0300" stop="20220723123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Mesa de Bar</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220716123000 -0300" stop="20220716140000 -0300" channel="radiojornalpe.br">
+<programme start="20220723123000 -0300" stop="20220723140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20220716140000 -0300" stop="20220716150000 -0300" channel="radiojornalpe.br">
+<programme start="20220723140000 -0300" stop="20220723150000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Comando Geral Fim de Semana</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220716150000 -0300" stop="20220716200000 -0300" channel="radiojornalpe.br">
+<programme start="20220723150000 -0300" stop="20220723200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220716200000 -0300" stop="20220717000000 -0300" channel="radiojornalpe.br">
+<programme start="20220723200000 -0300" stop="20220724000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###DOM###
-<programme start="20220717000000 -0300" stop="20220717020000 -0300" channel="radiojornalpe.br">
+<programme start="20220724000000 -0300" stop="20220724020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717020000 -0300" stop="20220717024000 -0300" channel="radiojornalpe.br">
+<programme start="20220724020000 -0300" stop="20220724024000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Debate da Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717024000 -0300" stop="20220717032000 -0300" channel="radiojornalpe.br">
+<programme start="20220724024000 -0300" stop="20220724032000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã / Passando a limpo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717032000 -0300" stop="20220717040000 -0300" channel="radiojornalpe.br">
+<programme start="20220724032000 -0300" stop="20220724040000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Consultório do Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717040000 -0300" stop="20220717070000 -0300" channel="radiojornalpe.br">
+<programme start="20220724040000 -0300" stop="20220724070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Nossa Saudade</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717070000 -0300" stop="20220717110000 -0300" channel="radiojornalpe.br">
+<programme start="20220724070000 -0300" stop="20220724110000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Domingo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717110000 -0300" stop="20220717120000 -0300" channel="radiojornalpe.br">
+<programme start="20220724110000 -0300" stop="20220724120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Cartaz Músical</title>
  <desc lang="pt">Rihi</desc>
 </programme>
-<programme start="20220717120000 -0300" stop="20220717150000 -0300" channel="radiojornalpe.br">
+<programme start="20220724120000 -0300" stop="20220724150000 -0300" channel="radiojornalpe.br">
   <title lang="pt">Domingo Esportivo</title>
  <desc lang="pt">escrete de ouro</desc>
 </programme>
-<programme start="20220717150000 -0300" stop="20220717210000 -0300" channel="radiojornalpe.br">
+<programme start="20220724150000 -0300" stop="20220724210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220717210000 -0300" stop="20220718000000 -0300" channel="radiojornalpe.br">
+<programme start="20220724210000 -0300" stop="20220724000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
