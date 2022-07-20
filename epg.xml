@@ -55,6 +55,11 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
    <url>mi.tv</url>
 </channel>
+<channel id="TVMaisFamilia.br">
+ <display-name lang="pt">Rede Mais Família HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp"/>
+   <url>mi.tv</url>
+</channel>
 <channel id="RetroCartoon.br">
  <display-name lang="pt">RETRO CARTOON SD</display-name>
   <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
@@ -669,8 +674,8 @@
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-    ###TVMax.br###
  
+    ###TVMax.br###
 <programme start="20220720060000 -0300" stop="20220720080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
@@ -733,6 +738,27 @@
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
+    ####TVMaisFamilia.br####
+<programme start="20220720150000 -0300" stop="20220720180000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Sempre Melhor</title>
+ <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
+</programme>
+<programme start="20220720180000 -0300" stop="20220720200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
+</programme>
+<programme start="20220720200000 -0300" stop="20220720220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Escrava Isaura</title>
+ <desc lang="pt">No Rio de Janeiro do século 19, durante a campanha abolicionista, Isaura é uma escrava mestiça, de pele branca, que é criada com uma educação esmerada.</desc>
+</programme>
+<programme start="20220720220000 -0300" stop="20220720000000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Nossa Noite</title>
+ <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+</programme>
+<programme start="20220721000000 -0300" stop="20220721150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
     ####playch####
 <programme start="20220601180000 -0300" stop="20220601120000 -0300" channel="playch.br">
  <title lang="pt">Otacraze</title>
