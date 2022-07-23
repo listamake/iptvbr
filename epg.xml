@@ -576,7 +576,7 @@
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
     ###awtv.br###
-<programme start="20220715000000 -0300" stop="20220714000000 -0300" channel="awtv.br">
+<programme start="20220722000000 -0300" stop="20220725000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
@@ -749,8 +749,8 @@
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
-<programme start="20220719160000 -0300" stop="20220720080000 -0300" channel="TVMax.br">
- <title lang="pt">Programação Max TV</title>
+<programme start="20220722160000 -0300" stop="20220725080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
@@ -948,7 +948,11 @@
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2022071500000 -0300" stop="20220720000000 -0300" channel="damubiku.br">
+<programme start="2022072200000 -0300" stop="20220724000000 -0300" channel="damubiku.br">
+ <title lang="pt">Programação Murilo TV</title>
+ <desc lang="pt">anime</desc>
+</programme> 
+<programme start="2022072400000 -0300" stop="20220727000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação Murilo TV</title>
  <desc lang="pt">anime</desc>
 </programme> 
