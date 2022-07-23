@@ -42,11 +42,15 @@
  <display-name lang="pt">StrikerVerso HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
+<channel id="StrikerVersobeta.br">
+ <display-name lang="pt">Canal Teste 2</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
+</channel>
 <channel id="Canalteste">
  <display-name lang="pt">teste HD</display-name> 
  <display-name lang="pt">Canal Teste 1</display-name>
- <display-name lang="pt">Canal Teste 2</display-name>
  <display-name lang="pt">Canal Teste 3</display-name>
+ <display-name lang="pt">Canal Teste 4</display-name>
  <display-name lang="pt">teste HD</display-name>
   <icon src=""/>
 </channel>
@@ -841,6 +845,14 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
+<programme start="20220720000000 -0300" stop="20220725000000 -0300" channel="StrikerVersobeta.br">
+ <title lang="pt">Programação StrikerVerso Beta</title>
+ <desc lang="pt">Descubra o inesperado</desc>
+</programme>
+<programme start="20220725000000 -0300" stop="20220728000000 -0300" channel="StrikerVersobeta.br">
+ <title lang="pt">Programação StrikerVerso Beta</title>
+ <desc lang="pt">Descubra o inesperado</desc>
+</programme>
  
    ####tv bs####
 <programme start="202207162130000 -0300" stop="2022071600000 -0300" channel="tvbs.br">
@@ -923,11 +935,11 @@
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220722230000 -0300" stop="20220722000000 -0300" channel="ETCTV.cl">
+<programme start="20220722230000 -0300" stop="20220723000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Inter-S.O.S.</title>
  <desc lang="pt">Cansado de sextas-feiras sem panorama? Cansado de ver a mesma TV velha? Exausto depois de uma semana árdua? Pegar leve... E Thomas mudará suas noites, com toda a intensidade que precisar.</desc>
 </programme>
-<programme start="20220722000000 -0300" stop="20220725000000 -0300" channel="ETCTV.cl">
+<programme start="20220723000000 -0300" stop="20220725000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
