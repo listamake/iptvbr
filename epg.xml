@@ -756,69 +756,78 @@
  
     ####TVMaisFamilia.br####
  
-<programme start="20220722010000 -0300" stop="20220722030000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Nossa Noite-Reprise</title>
- <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+<programme start="20220725010000 -0300" stop="20220725030000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220722030000 -0300" stop="20220722050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220725030000 -0300" stop="20220725050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20220722050000 -0300" stop="20220722070000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Nossa Noite-Reprise</title>
- <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+<programme start="20220725050000 -0300" stop="20220725070000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220722070000 -0300" stop="20220722083000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS MÚSICA</title>
+<programme start="20220725070000 -0300" stop="20220725080000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20220722083000 -0300" stop="20220722150000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Parque Patata Patatá</title>
+<programme start="20220725080000 -0300" stop="20220725083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Joseph Prince</title>
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
+</programme>
+<programme start="20220725083000 -0300" stop="20220725090000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20220725090000 -0300" stop="20220725100000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">IN TOUCH</title>
+ <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
+</programme>
+<programme start="20220725100000 -0300" stop="20220725150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Parque Patati Patatá</title>
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
-<programme start="20220722150000 -0300" stop="20220722180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220725150000 -0300" stop="20220725180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20220722180000 -0300" stop="20220722200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220725180000 -0300" stop="20220725200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20220722200000 -0300" stop="20220722220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220725200000 -0300" stop="20220725220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Escrava Isaura</title>
  <desc lang="pt">No Rio de Janeiro do século 19, durante a campanha abolicionista, Isaura é uma escrava mestiça, de pele branca, que é criada com uma educação esmerada.</desc>
 </programme>
-<programme start="20220722220000 -0300" stop="20220722230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220725220000 -0300" stop="20220725230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20220722230000 -0300" stop="20220722010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220725230000 -0300" stop="20220726010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
- 
-<programme start="20220723010000 -0300" stop="20220723030000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Nossa Noite-Reprise</title>
- <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
-</programme>
-<programme start="20220723030000 -0300" stop="20220723050000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS FÉ</title>
- <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
-</programme>
-<programme start="20220723050000 -0300" stop="20220723070000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Nossa Noite-Reprise</title>
- <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
-</programme>
-<programme start="20220723070000 -0300" stop="20220723083000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS MÚSICA</title>
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
-</programme>
-<programme start="20220723083000 -0300" stop="20220723150000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Parque Patata Patatá</title>
+  ###sab###
+<programme start="20220723100000 -0300" stop="20220723200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Parque Patati Patatá</title>
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
+<programme start="20220723200000 -0300" stop="20220723210000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20220723210000 -0300" stop="20220723220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20220723220000 -0300" stop="20220723230000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Cine Mais Fámilia</title>
+ <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
+</programme>
 
-<programme start="20220721000000 -0300" stop="20220721150000 -0300" channel="TVMaisFamilia.br">
+
+<programme start="20220723230000 -0300" stop="20220725010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
@@ -1227,31 +1236,31 @@
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220721120000 -0300" stop="20220721130000 -0300" channel="radioclubeampe.br">
+<programme start="20220726120000 -0300" stop="20220726130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20220721130000 -0300" stop="20220721140000 -0300" channel="radioclubeampe.br">
+<programme start="20220726130000 -0300" stop="20220726140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220721140000 -0300" stop="20220721160000 -0300" channel="radioclubeampe.br">
+<programme start="20220726140000 -0300" stop="20220726160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220721160000 -0300" stop="20220721170000 -0300" channel="radioclubeampe.br">
+<programme start="20220726160000 -0300" stop="20220726170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220721170000 -0300" stop="20220721180000 -0300" channel="radioclubeampe.br">
+<programme start="20220726170000 -0300" stop="20220726180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220721180000 -0300" stop="20220721190000 -0300" channel="radioclubeampe.br">
+<programme start="20220726180000 -0300" stop="20220726190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220721190000 -0300" stop="20220721200000 -0300" channel="radioclubeampe.br">
+<programme start="20220726190000 -0300" stop="20220726200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
@@ -1321,7 +1330,7 @@
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220723080000 -0300" stop="20220723320000 -0300" channel="radioclubeampe.br">
+<programme start="20220723080000 -0300" stop="20220723120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">musica</desc>
 </programme>
