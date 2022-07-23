@@ -164,9 +164,9 @@ https://stream.ichibantv.ga:3904/hybrid/play.m3u8
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 3
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkzSgaqxrTFTvfT3DM2HGqrrCEURk2a19bQ&usqp=CAU" group-title = "TV" pltv-subgroup = "NTRU", Play Channel HD
+#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CsMFsTVuMHL7nsR2MAM3Hd7N3WwhsfDaz3rngyOUhRsXbO-mQqEDvqsdbM5AXjPTIWkWCRQixmMSQV2bNOjd9yfP8mGLRYCQNBc1dy0MvMnfuCW1OIgz-t2NfmWa6upfNW4ffDe3-E4_3enQBtkLgkOGpf2N8D6czNHXNcj1nmA4F6OrmiT85Oi4723Qg7T8djQ9qa2EnIkO-OWTO40yIFBfqa-i1nfjDUPuIXAKGYcvkfC_d8I416qRPogJmvyr8Bsw3ABxfpC19NFgoHbTMG7aUQ5eeIWI2YU25YfcJpgXh7X6IpOgmS9rRv1T4plgOfsCc5fZgHxE6VbPABM65Ar39Fnul74BhecxnNNG51mWAj6fdTCmcaPbAPfZ0N0SnejoMupYK83krKFdU-fZDqd3YZf-1ZNMuoqfCSUe4yHRZPX-u0blkKy-3ZOFjHKRcfrK3UPolr9cv6LXrByuHozneuIb65wgZs3gOsqQkslHsfitxhOOAvIuk44hpZx2XSDTZOzaaZ5xnr8bK-o_NxbV25KAI-Kpba5EwOqOfCmsWOhqG0-caKVg60fNHNfmDmdr5noVdgecH0ihac9VLRlQ3VAKcrMQHBIM6pk686fs3kBpmJDnmP8uE-L1c6NC9x8ks03xANYg86kxjUfwPT8cEj20KkKN-pckMoBT00uYwu2Sgr41KN683SWxzc05_RM_Ek0LImTBpxGUUA02MvtCQUmQTSZthAvuOErG_WIQcvRprc4QbZawKoog9vJJsaplXx9QIu8_3-OmVYmyHEuXNHx0rxtokc-pkNyJKMbRY7oOfIzaIjapYPjKwBd2cSMcx584rPWRnsqCFNwz-VTxaEo2O-RI9ajWuA9-tHX7H4Fvh79pj197uCM9QWHOqiVqUTpxeSBlro3G6I-NoqGWE73gIwG5ZasnP4hait_k-rN4Im8aDP8HJIKaf2i7i__8WCABKgl1cy1lYXN0LTIwmwQ.m3u8
+https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
 
 #EXTINF: -1 tvg-id="CanalSaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Canais Públicos", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -230,7 +230,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF: -1 tvg-id="IdealTV.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", TV Manajoara HD
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 4
+#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 5
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://pbs.twimg.com/profile_images/962034223371599872/qOcZfK-o_400x400.jpg" group-title="Canais Públicos",TV Câmara
