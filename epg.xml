@@ -1312,12 +1312,12 @@
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20220722200000 -0300" stop="20220723220000 -0300" channel="radioclubeampe.br">
+<programme start="20220722200000 -0300" stop="20220722220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Rodrigo Collaço Tocando o Melhor do Pagode quando nâo houver futebol</desc>
 </programme> 
      ###sabado###
-<programme start="20220723220000 -0300" stop="20220723080000 -0300" channel="radioclubeampe.br">
+<programme start="20220722220000 -0300" stop="20220723080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube a dona da noite</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
