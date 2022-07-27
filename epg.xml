@@ -562,7 +562,7 @@
  <title lang="pt">Wonder Egg Priority</title>
  <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
 </programme>
-<programme start="20220726233000 -0300" stop="20220727000000 -0300" channel="anitv.br">
+<programme start="20220728233000 -0300" stop="20220729000000 -0300" channel="anitv.br">
  <title lang="pt">Serial Experiments Lain</title>
  <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
@@ -692,64 +692,68 @@
 </programme>
  
     ###TVMax.br###
-<programme start="202207270060000 -0300" stop="202207270080000 -0300" channel="TVMax.br">
+<programme start="20220727060000 -0300" stop="20220727080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="202207270080000 -0300" stop="202207270100000 -0300" channel="TVMax.br">
+<programme start="20220727080000 -0300" stop="20220727100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="202207270100000 -0300" stop="202207270120000 -0300" channel="TVMax.br">
+<programme start="20220727100000 -0300" stop="20220727120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="202207270120000 -0300" stop="202207270130000 -0300" channel="TVMax.br">
+<programme start="20220727120000 -0300" stop="20220727130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="202207270130000 -0300" stop="202207270150000 -0300" channel="TVMax.br">
+<programme start="20220727130000 -0300" stop="20220727150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="202207270150000 -0300" stop="2022072718153000 -0300" channel="TVMax.br">
+<programme start="20220727150000 -0300" stop="20220727153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="202207271530000 -0300" stop="202207271600000 -0300" channel="TVMax.br">
+<programme start="20220727153000 -0300" stop="20220727160000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
+</programme>
+<programme start="202207271600000 -0300" stop="2022072800000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="202207270160000 -0300" stop="202207281080000 -0300" channel="TVMax.br">
+<programme start="20220728000000 -0300" stop="20220728080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="202207281080000 -0300" stop="202207281100000 -0300" channel="TVMax.br">
+<programme start="20220728080000 -0300" stop="20220727100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="202207281100000 -0300" stop="202207281120000 -0300" channel="TVMax.br">
+<programme start="20220728100000 -0300" stop="20220728120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="202207281200000 -0300" stop="202207281130000 -0300" channel="TVMax.br">
+<programme start="20220728120000 -0300" stop="20220728130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="202207281300000 -0300" stop="202207281150000 -0300" channel="TVMax.br">
+<programme start="20220728130000 -0300" stop="20220728150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="202207281500000 -0300" stop="202207281153000 -0300" channel="TVMax.br">
+<programme start="20220727150000 -0300" stop="20220728153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="202207281153000 -0300" stop="202207281160000 -0300" channel="TVMax.br">
+<programme start="20220728153000 -0300" stop="20220728160000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
-<programme start="202207281600000 -0300" stop="202207290800000 -0300" channel="TVMax.br">
+<programme start="20220728160000 -0300" stop="20220729080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
