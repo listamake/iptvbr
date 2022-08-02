@@ -321,9 +321,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTINF: -1 tvg-id="NHKWorldJapan.jp" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="Internacionais", NHK WORLD HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 
-#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="190" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", Band HD
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="190" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2tlbjBs8RnBEUnfBOFAwSbvXqWz9poURIig7Gj1eWIIw)/dm/3/x80o7x4/d/live-2.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2j4ko19Jjy0rliFlk5kjvM_jD3TViWgBxXTD5Ihv3OEW)/dm/3/x80o7x4/d/live-2.m3u8#cell=lsv4
 
 #EXTINF: -1 tvg-id="TVGazeta.br" tvg-chno="191" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", Gazeta HD
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
