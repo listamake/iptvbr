@@ -114,7 +114,7 @@ https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8
 #EXTINF: -1 tvg-id="tvrbc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/23bd43f2aa3a7c5772c2ca92d67dbf3a.webp" group-title="Entretenimento", TV RBC HD
 https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ISTVHD.br" tvg-logo="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg" group-title="Entretenimento", ISTV HD
+#EXTINF: -1 tvg-id="ISTVHD.br" tvg-logo="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg" group-title="Entretenimento",ISTV HD
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMax.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="Canais de Música" ,TV Max RIO
