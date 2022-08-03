@@ -11,6 +11,10 @@
   <url>mi.tv</url>
   <icon src=""/>
 </channel>
+<channel id="ISTVHD.br">
+ <display-name lang="pt">ISTV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
+</channel>
 <channel id="Euronews.br">
  <display-name lang="pt">Euronews em português</display-name>
   <url>mi.tv</url>
@@ -178,8 +182,8 @@
  <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
 </programme>
 <programme start="20220803160000 -0300" stop="20220803170000 -0300" channel="anitv.br">
- <title lang="pt">A Lenda - Um Luxo de Sonhar</title>
- <desc lang="pt">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
+ <title lang="pt">REPRISES</title>
+ <desc lang="pt">Reveja parete da programação</desc>
 </programme>
 <programme start="20220803170000 -0300" stop="20220803173000 -0300" channel="anitv.br">
  <title lang="pt">Wonder Egg Priority</title>
@@ -934,16 +938,29 @@
  <desc lang="pt">anime</desc>
 </programme>
  
+    ####ISTVHD.br####
+<programme start="20220803000000 -0300" stop="20220808000000 -0300" channel="ISTVHD.br">
+ <title lang="pt">Programação  ISTV</title>
+ <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
+</programme>
+<programme start="20220808000000 -0300" stop="20220812000000 -0300" channel="ISTVHD.br">
+ <title lang="pt">Programação  ISTV</title>
+ <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
+</programme>
+<programme start="20220812000000 -0300" stop="20220818000000 -0300" channel="ISTVHD.br">
+ <title lang="pt">Programação  ISTV</title>
+ <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
+</programme>
    ####StrikerVerso.br####
 <programme start="20220730203000 -0300" stop="20220730230000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220728000000 -0300" stop="20220731000000 -0300" channel="StrikerVerso.br">
+<programme start="20220803000000 -0300" stop="20220808000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20220731000000 -0300" stop="20220803000000 -0300" channel="StrikerVerso.br">
+<programme start="20220808000000 -0300" stop="20220812000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -975,53 +992,53 @@
 </programme>
  
    ###ETCTV.cl###
-<programme start="20220801000000 -0300" stop="20220801200000 -0300" channel="ETCTV.cl">
+<programme start="20220803000000 -0300" stop="20220803200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno</desc>
 </programme>
-<programme start="20220801200000 -0300" stop="20220801203000 -0300" channel="ETCTV.cl">
+<programme start="20220803200000 -0300" stop="20220803203000 -0300" channel="ETCTV.cl">
  <title lang="pt">The Code</title>
  <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
 </programme>
-<programme start="20220801203000 -0300" stop="20220801210000 -0300" channel="ETCTV.cl">
+<programme start="20220803203000 -0300" stop="20220803210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20220801210000 -0300" stop="20220801220000 -0300" channel="ETCTV.cl">
+<programme start="20220803210000 -0300" stop="20220803220000 -0300" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20220801220000 -0300" stop="20220802000000 -0300" channel="ETCTV.cl">
+<programme start="20220803220000 -0300" stop="20220804000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20220802000000 -0300" stop="20220802200000 -0300" channel="ETCTV.cl">
+<programme start="20220804000000 -0300" stop="20220804200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220802200000 -0300" stop="20220802203000 -0300" channel="ETCTV.cl">
+<programme start="20220804200000 -0300" stop="20220804203000 -0300" channel="ETCTV.cl">
  <title lang="pt">Reporte Gaming </title>
  <desc lang="pt">Reporte Gaming É o primeiro noticiário dedicado à cultura geek de uma perspectiva jornalística, um lugar onde você pode ver as questões que importam para nossa comunidade. Os últimos lançamentos de videogames, avanços tecnológicos, a chegada de novos aplicativos e o outdoor de cinema e séries da Salfate, são apenas alguns dos nossos conteúdos.</desc>
 </programme>
-<programme start="20220802203000 -0300" stop="20220802210000 -0300" channel="ETCTV.cl">
+<programme start="20220804203000 -0300" stop="20220804210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20220802210000 -0300" stop="20220802220000 -0300" channel="ETCTV.cl">
+<programme start="20220804210000 -0300" stop="20220804220000 -0300" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20220802220000 -0300" stop="20220803000000 -0300" channel="ETCTV.cl">
+<programme start="20220804220000 -0300" stop="20220805000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20220729000000 -0300" stop="20220729200000 -0300" channel="ETCTV.cl">
+<programme start="20220804000000 -0300" stop="20220805200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno</desc>
 </programme>
-<programme start="20220729200000 -0300" stop="20220729203000 -0300" channel="ETCTV.cl">
+<programme start="20220805200000 -0300" stop="20220805203000 -0300" channel="ETCTV.cl">
  <title lang="pt">The Code</title>
  <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
 </programme>
