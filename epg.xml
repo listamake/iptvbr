@@ -116,7 +116,7 @@
 
         ####grade semanal anitv####
 <programme start="20220805000000 -0300" stop="20220805003000 -0300" channel="anitv.br">
- <title lang="pt">Akame ga Kill!</title>
+ <title lang="pt">REPRISES</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
@@ -146,7 +146,7 @@
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 <programme start="20220805060000 -0300" stop="20220805070000 -0300" channel="anitv.br">
- <title lang="en">InfoAni</title>
+ <title lang="en">REPRISES</title>
  <desc lang="en">Fique informado do que acontece no mundo.</desc>
 </programme>
 <programme start="20220805070000 -0300" stop="20220805090000 -0300" channel="anitv.br">
@@ -455,11 +455,11 @@
  <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
  
-<programme start="20220804000000 -0300" stop="20220802003000 -0300" channel="anitv.br">
- <title lang="pt">Akame ga Kill!</title>
+<programme start="20220804000000 -0300" stop="20220804003000 -0300" channel="anitv.br">
+ <title lang="pt">REPRISES</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
 </programme>
-<programme start="20220804003000 -0300" stop="20220802010000 -0300" channel="anitv.br">
+<programme start="20220804003000 -0300" stop="20220804010000 -0300" channel="anitv.br">
  <title lang="pt">Dororo</title>
  <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
 <rating system="VCHIP">
@@ -483,7 +483,7 @@
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 <programme start="20220804060000 -0300" stop="20220804070000 -0300" channel="anitv.br">
- <title lang="en">InfoAni</title>
+ <title lang="en">REPRISES</title>
  <desc lang="en">Fique informado do que acontece no mundo.</desc>
 </programme>
 <programme start="20220804070000 -0300" stop="20220804090000 -0300" channel="anitv.br">
@@ -519,7 +519,7 @@
  <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
 </programme>
 <programme start="20220804160000 -0300" stop="20220804170000 -0300" channel="anitv.br">
- <title lang="pt">A Lenda - Um Luxo de Sonhar</title>
+ <title lang="pt">REPRISES</title>
  <desc lang="pt">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
 </programme>
 <programme start="20220804170000 -0300" stop="20220804173000 -0300" channel="anitv.br">
