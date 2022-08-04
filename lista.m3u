@@ -125,7 +125,7 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
 #EXTINF: -1 tvg-id="TVUniaoFortaleza.br" group-title="Canais de Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEy7yWHiwi3OisMMDHXSBW_b_icqsBUH7sZA&usqp=CAU",Rede União HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b10da2b15bc6334e02544c206dc08d58.webp" group-title="Canais de Música", Kiss TV HD
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
@@ -232,7 +232,7 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/play
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TVT.br" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROmT6OlIpR3m330tygj6IL8ZOZ8E5RS4jTg&usqp=CAU",TVT HD
-https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6bbAMR8lfw7dFOghh5aHbHRPDoZ3RlsLTJhQMvAGYgB)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3yaLFmEN6j0Ed1SfgHH1-Xuu3dg7jhGviMus8jEb4OL)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="COMBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU" group-title="Canais Públicos", TV Comunitária HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
@@ -323,7 +323,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="190" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2j4ko19Jjy0rliFlk5kjvM_jD3TViWgBxXTD5Ihv3OEW)/dm/3/x80o7x4/d/live-2.m3u8#cell=lsv4
+https://stream-03.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2gUAsZB1SLDZ1YNX57e1ECQS8j0qL_e81UkGa0YoS_xk)/dm/3/x80o7x4/d/live-3.m3u8#cell=lsv4
 
 #EXTINF: -1 tvg-id="TVGazeta.br" tvg-chno="191" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", Gazeta HD
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
