@@ -109,7 +109,11 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20220806000000 -0300" stop="20220807000000 -0300" channel="anitv.br">
+<programme start="20220808000000 -0300" stop="20220810000000 -0300" channel="anitv.br">
+ <title lang="pt">Programação AniTV</title>
+ <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
+<programme start="20220810000000 -0300" stop="20220812000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -321,7 +325,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220731073000 -0300" stop="20220801030000 -0300" channel="anitv.br">
+<programme start="20220807000000 -0300" stop="20220808030000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #DOM</title>
  <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
@@ -796,7 +800,7 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
     ###TVMax.br###
-<programme start="20220808000000 -0300" stop="20220808080000 -0300" channel="TVMax.br">
+<programme start="20220807000000 -0300" stop="20220808080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1088,44 +1092,44 @@
 </programme>
  
    ###ETCTV.cl###
-<programme start="20220803000000 -0300" stop="20220803200000 -0300" channel="ETCTV.cl">
+<programme start="20220808000000 -0300" stop="20220808200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno</desc>
 </programme>
-<programme start="20220803200000 -0300" stop="20220803203000 -0300" channel="ETCTV.cl">
+<programme start="20220808200000 -0300" stop="20220808203000 -0300" channel="ETCTV.cl">
  <title lang="pt">The Code</title>
  <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
 </programme>
-<programme start="20220803203000 -0300" stop="20220803210000 -0300" channel="ETCTV.cl">
+<programme start="20220808203000 -0300" stop="20220808210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20220803210000 -0300" stop="20220803220000 -0300" channel="ETCTV.cl">
+<programme start="20220808210000 -0300" stop="20220808220000 -0300" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20220803220000 -0300" stop="20220804000000 -0300" channel="ETCTV.cl">
+<programme start="20220808220000 -0300" stop="20220809000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20220804000000 -0300" stop="20220804200000 -0300" channel="ETCTV.cl">
+<programme start="20220809000000 -0300" stop="20220809200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220804200000 -0300" stop="20220804203000 -0300" channel="ETCTV.cl">
+<programme start="20220809200000 -0300" stop="20220809203000 -0300" channel="ETCTV.cl">
  <title lang="pt">Reporte Gaming </title>
  <desc lang="pt">Reporte Gaming É o primeiro noticiário dedicado à cultura geek de uma perspectiva jornalística, um lugar onde você pode ver as questões que importam para nossa comunidade. Os últimos lançamentos de videogames, avanços tecnológicos, a chegada de novos aplicativos e o outdoor de cinema e séries da Salfate, são apenas alguns dos nossos conteúdos.</desc>
 </programme>
-<programme start="20220804203000 -0300" stop="20220804210000 -0300" channel="ETCTV.cl">
+<programme start="20220809203000 -0300" stop="20220809210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20220804210000 -0300" stop="20220804220000 -0300" channel="ETCTV.cl">
+<programme start="20220809210000 -0300" stop="20220809220000 -0300" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20220804220000 -0300" stop="20220805000000 -0300" channel="ETCTV.cl">
+<programme start="20220809220000 -0300" stop="20220810000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
