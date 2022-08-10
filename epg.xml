@@ -73,14 +73,19 @@
   <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
    <url>mi.tv</url>
 </channel>
+ 
+<channel id="radiometroweb.br">
+ <display-name lang="pt">Rádio Metró</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1523521106430279680/vr8af8BO_400x400.jpg"/>
+   <url>mi.tv</url>
+</channel>
 <channel id="radiojornalpe.br">
  <display-name lang="pt">Rádio Jornal Recife</display-name>
   <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
    <url>mi.tv</url>
 </channel>
-
 <channel id="radioclubeampe.br">
- <display-name lang="pt">Rádio Clube 720AM</display-name>
+ <display-name lang="pt">Rádio Clube Recife AM</display-name>
     <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
 </channel>    
@@ -1154,11 +1159,11 @@
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220812230000 -0300" stop="20220812000000 -0300" channel="ETCTV.cl">
+<programme start="20220812230000 -0300" stop="202208132000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Inter-S.O.S.</title>
  <desc lang="pt">Cansado de sextas-feiras sem panorama? Cansado de ver a mesma TV velha? Exausto depois de uma semana árdua? Pegar leve... E Thomas mudará suas noites, com toda a intensidade que precisar.</desc>
 </programme>
-<programme start="20220812000000 -0300" stop="20220815000000 -0300" channel="ETCTV.cl">
+<programme start="202208132000000 -0300" stop="20220815000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
@@ -1186,6 +1191,17 @@
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
 
+ 
+   ####radiometroweb.br####
+<programme start="202208100000 -0300" stop="20220814000000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Programação Rádio Metró</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+<programme start="20220814000000 -0300" stop="20220818000000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Programação Rádio Metró</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+ 
    ####cbnrede.br####
 <programme start="20220712000000 -0300" stop="20220714000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
@@ -1208,7 +1224,7 @@
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220808100000 -0300" stop="20220810120000 -0300" channel="cbnrede.br">
+<programme start="20220810100000 -0300" stop="20220810120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
