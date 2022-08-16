@@ -114,33 +114,33 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20220816000000 -0300" stop="20220819000000 -0300" channel="anitv.br">
+<programme start="20220816000000 -0300" stop="20220817000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20220819000000 -0300" stop="20220820000000 -0300" channel="anitv.br">
+<programme start="20220817000000 -0300" stop="20220818000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
 
         ####grade semanal anitv####
-<programme start="20220805000000 -0300" stop="20220805003000 -0300" channel="anitv.br">
- <title lang="pt">REPRISES</title>
- <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
+<programme start="20220818000000 -0300" stop="20220818003000 -0300" channel="anitv.br">
+ <title lang="pt">MIDNIGHT:Akashic Records of Bastard Magic Instructor</title>
+ <desc lang="pt">A Academia Imperial de Magia de Alzano está localizada no sul do Império Alzano, um dos maiores reinos mágicos, e é considerada uma das mais prestigiadas academias do mundo, onde estudantes podem aprender as formas mais elevadas de magia.</desc>
   <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220805003000 -0300" stop="20220805010000 -0300" channel="anitv.br">
- <title lang="pt">Dororo</title>
- <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
+<programme start="20220818003000 -0300" stop="20220818010000 -0300" channel="anitv.br">
+ <title lang="pt">MIDNIGHT:Planet With</title>
+ <desc lang="pt">Apesar de não lembrar de seu passado, Kuroi Soya leva uma vida pacata como aluno colegial.</desc>
 <rating system="VCHIP">
       <value>TV-14</value>
     </rating>
 </programme>
-<programme start="20220805010000 -0300" stop="20220805013000 -0300" channel="anitv.br">
- <title lang="pt">Yamada-kun and the Seven Witches</title>
- <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
+<programme start="20220818010000 -0300" stop="20220818013000 -0300" channel="anitv.br">
+ <title lang="pt">Descendentes do Sol - Reprise</title>
+ <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles./desc>
 </programme>
 <programme start="20220805013000 -0300" stop="20220805020000 -0300" channel="anitv.br">
  <title lang="en">Back Street Girls: Gokudolls</title>
