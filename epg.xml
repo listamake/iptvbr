@@ -114,7 +114,7 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20220816000000 -0300" stop="20220817000000 -0300" channel="anitv.br">
+<programme start="20220815000000 -0300" stop="20220817000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -584,11 +584,11 @@
  <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
 </programme>
     ####yeeaah####
-<programme start="20220810000000 -0300" stop="20220813000000 -0300" channel="yaaeeh.br">
+<programme start="20220815000000 -0300" stop="20220819000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20220813000000 -0300" stop="20220816000000 -0300" channel="yaaeeh.br">
+<programme start="20220819000000 -0300" stop="20220822000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
