@@ -125,11 +125,11 @@
 
         ####grade semanal anitv####
 <programme start="20220818000000 -0300" stop="20220818003000 -0300" channel="anitv.br">
- <title lang="pt">MIDNIGHT:Akashic Records of Bastard Magic Instructor</title>
+ <title lang="pt">Akashic Records of Bastard Magic Instructor</title>
  <desc lang="pt">A Academia Imperial de Magia de Alzano está localizada no sul do Império Alzano, um dos maiores reinos mágicos, e é considerada uma das mais prestigiadas academias do mundo, onde estudantes podem aprender as formas mais elevadas de magia.</desc>
 </programme>
 <programme start="20220818003000 -0300" stop="20220818010000 -0300" channel="anitv.br">
- <title lang="pt">MIDNIGHT:Planet With</title>
+ <title lang="pt">Planet With</title>
  <desc lang="pt">Apesar de não lembrar de seu passado, Kuroi Soya leva uma vida pacata como aluno colegial.</desc>
 </programme>
 <programme start="20220818010000 -0300" stop="20220818010000 -0300" channel="anitv.br">
@@ -137,7 +137,7 @@
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
 <programme start="20220818020000 -0300" stop="20220818040000 -0300" channel="anitv.br">
- <title lang="en">REPRISES das 2h</title>
+ <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
 <programme start="20220818040000 -0300" stop="20220818060000 -0300" channel="anitv.br">
@@ -162,14 +162,14 @@
 </programme>
 <programme start="20220818100000 -0300" stop="20220819120000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
- <desc lang="en">Com yu Yu Hakusho às 9h,Cardcaptor Sakura às 9h30,Super Campeões às 10h,Urusei Yatsura às 10h30 e Cowboy Bebop às 11h.</desc>
+ <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30 e Cardcaptor Sakura às 11h30.</desc>
 </programme>
 <programme start="20220818120000 -0300" stop="20220818140000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 <programme start="20220818140000 -0300" stop="20220818150000 -0300" channel="anitv.br">
- <title lang="en">REPRISES das 14h</title>
+ <title lang="en">REPRISES da Tarde</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
 <programme start="20220818150000 -0300" stop="20220818153000 -0300" channel="anitv.br">
@@ -357,109 +357,113 @@
  <title lang="pt">Maratona #DOM:Akame ga Kill!</title>
  <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
 </programme>
-<programme start="20220801030000 -0300" stop="20220801060000 -0300" channel="anitv.br">
+<programme start="20220822020000 -0300" stop="20220822040000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Madrugada</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
+</programme>
+<programme start="20220822040000 -0300" stop="20220822060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220801060000 -0300" stop="20220801070000 -0300" channel="anitv.br">
- <title lang="en">REPRISES</title>
- <desc lang="en">Reprise</desc>
+<programme start="20220822060000 -0300" stop="20220822070000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES das 6h</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
-<programme start="20220801070000 -0300" stop="20220801090000 -0300" channel="anitv.br">
+<programme start="20220822070000 -0300" stop="20220822090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20220704080000 -0300" stop="20220401090000 -0300" channel="anitv.br">
- <title lang="pt">Código Play I</title>
- <desc lang="pt">Sem informações</desc>
-</programme>
-<programme start="20220801090000 -0300" stop="20220801110000 -0300" channel="anitv.br">
- <title lang="en">Faixa dos Animes Clássicos!</title>
- <desc lang="en">Com Yu Yu Hakusho às 9h,Cardcaptor Sakura às 9h30,Super Campeões às 10h,Urusei Yatsura às 10h30 e Cowboy Bebop às 11h.</desc>
-</programme>
-<programme start="20220801113000 -0300" stop="20220801120000 -0300" channel="anitv.br">
- <title lang="en">My Hero Academia 3ª Temp</title>
- <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
-</programme>
-<programme start="20220801120000 -0300" stop="20220801140000 -0300" channel="anitv.br">
- <title lang="en">AniBox</title>
- <desc lang="en"> musica </desc>
-</programme>
-<programme start="20220801140000 -0300" stop="20220801150000 -0300" channel="anitv.br">
- <title lang="pt">REPRISES II</title>
- <desc lang="pt">Sem informações</desc>
-</programme>
-<programme start="20220801150000 -0300" stop="20220801153000 -0300" channel="anitv.br">
- <title lang="pt">Recovery of an MMO Junkie</title>
- <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
-</programme>
-<programme start="20220801153000 -0300" stop="20220801160000 -0300" channel="anitv.br">
- <title lang="pt">DNA²</title>
- <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
-</programme>
-<programme start="20220801160000 -0300" stop="20220801170000 -0300" channel="anitv.br">
- <title lang="pt">A Lenda - Um Luxo de Sonhar</title>
- <desc lang="pt">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
-</programme>
-<programme start="20220801170000 -0300" stop="20220801173000 -0300" channel="anitv.br">
- <title lang="pt">Wonder Egg Priority</title>
- <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
-</programme>
-<programme start="20220801173000 -0300" stop="20220801180000 -0300" channel="anitv.br">
- <title lang="pt">Serial Experiments Lain</title>
- <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
-</programme>
-<programme start="20220801180000 -0300" stop="20220801190000 -0300" channel="anitv.br">
- <title lang="en">REPRISES III</title>
- <desc lang="en">Sem informações</desc>
-</programme>
-<programme start="20220801190000 -0300" stop="20220801193000 -0300" channel="anitv.br">
- <title lang="pt">Cardcaptor Sakura</title>
- <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
-</programme>
-<programme start="20220801193000 -0300" stop="20220801200000 -0300" channel="anitv.br">
- <title lang="pt">Recovery of an MMO Junkie</title>
- <desc lang="pt">Morioka Moriko,tem 30 anos de idade, é solteira. Em busca de uma vida mais recompensadora, se tornou uma NEET completa e, em suas viagens pela rede, foi parar em um jogo online. No mundo desse jogo online, Moriko começa sua nova vida como Hayashi, um jovial e belo rapaz de cabelos sedosos.</desc>
-</programme>
-<programme start="20220801200000 -0300" stop="20220801203000 -0300" channel="anitv.br">
+<programme start="20220822090000 -0300" stop="20220822093000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20220801203000 -0300" stop="20220801210000 -0300" channel="anitv.br">
+<programme start="20220822093000 -0300" stop="20220822100000 -0300" channel="anitv.br">
+ <title lang="en">My Hero Academia 3ª Temp</title>
+ <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
+</programme>
+<programme start="20220822100000 -0300" stop="20220822120000 -0300" channel="anitv.br">
+ <title lang="en">Faixa dos Animes Clássicos!</title>
+ <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30 e Cardcaptor Sakura às 11h30.</desc>
+</programme>
+<programme start="20220822120000 -0300" stop="20220822140000 -0300" channel="anitv.br">
+ <title lang="en">AniBox</title>
+ <desc lang="en">as melhores músicas de anime estão aqui.</desc>
+</programme>
+<programme start="20220822140000 -0300" stop="20220822150000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Tarde</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
+</programme>
+<programme start="20220822150000 -0300" stop="20220822153000 -0300" channel="anitv.br">
+ <title lang="pt">In Another World With My Smartphone</title>
+ <desc lang="pt">Depois de morrer por um engano de Deus, o protagonista vai parar num mundo paralelo, onde ele começa sua nova vida.Suas únicas posses são o corpo que Deus lhe devolveu e um smartphone, que ainda funciona nesse outro mundo.</desc>
+</programme>
+<programme start="20220822153000 -0300" stop="20220822160000 -0300" channel="anitv.br">
+ <title lang="pt">Ranking of Kings</title>
+ <desc lang="pt">Filho de gigantes, a expectativa de que o príncipe Bojji fosse um rei grandioso cai por terra quando o reino se depara com um pequenino rei mudo e sem talento para espada, mas um encontro fatídico muda completamente seu destino.</desc>
+</programme>
+<programme start="20220822160000 -0300" stop="20220822170000 -0300" channel="anitv.br">
+ <title lang="pt">Descendentes do Sol</title>
+ <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
+</programme>
+<programme start="20220822170000 -0300" stop="20220822173000 -0300" channel="anitv.br">
+ <title lang="pt">Assassination Classroom</title>
+ <desc lang="pt">Esqueça lições de casa e provas relâmpago. A Classe 3-E tem uma tarefa muito mais importante: matar seu professor antes do fim do ano!</desc>
+</programme>
+<programme start="20220822173000 -0300" stop="20220822180000 -0300" channel="anitv.br">
+ <title lang="pt">KONOSUBA!</title>
+ <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
+</programme>
+<programme start="20220822180000 -0300" stop="20220822190000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES das 18h</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
+</programme>
+<programme start="20220822190000 -0300" stop="20220822193000 -0300" channel="anitv.br">
+ <title lang="pt">Cardcaptor Sakura</title>
+ <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
+</programme>
+<programme start="20220822193000 -0300" stop="20220822200000 -0300" channel="anitv.br">
+ <title lang="pt">SK8 the Infinity</title>
+ <desc lang="pt">Langa entra no torneio que irá decidir a nata da "S". Porém, Reki não vai participar. Seu complexo de inferioridade em relação ao Langa o distancia dele. A ausência do Reki joga uma sombra sobre o coração do Langa, enquanto as eliminatórias começam. </desc>
+</programme>
+<programme start="20220822200000 -0300" stop="20220822203000 -0300" channel="anitv.br">
+ <title lang="pt">Yu Yu Hakusho</title>
+ <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
+</programme>
+<programme start="20220822203000 -0300" stop="20220822210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia 3ª Temp</title>
  <desc lang="en">anime</desc>
 </programme>
-<programme start="20220801210000 -0300" stop="20220801213000 -0300" channel="anitv.br">
+<programme start="20220822210000 -0300" stop="20220822213000 -0300" channel="anitv.br">
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
-<programme start="20220801213000 -0300" stop="20220801220000 -0300" channel="anitv.br">
+<programme start="20220822213000 -0300" stop="20220822220000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
- <desc lang="en">anime</desc>
+ <desc lang="en">Oliver Tsubasa é um grande jogador de futebol japonês que recorda os seus momentos de infância durante a rivalidade entre os colégios Shuutesu e Nankatsu, um clube de futebol fraco mas que melhora bastante com a adição de Tsubasa. Mas o Shutesu tem um guarda-redes imbatível, Benji Price e Tsubasa consegue ser o primeiro a marcar-lhe um golo, durante um jogo para uso do campo de treinos.</desc>
 </programme>
-<programme start="20220801220000 -0300" stop="20220801223000 -0300" channel="anitv.br">
-<title lang="pt">DNA²</title>
- <desc lang="pt">Junta Momonari, um jovem adolescente que é como muitos outros garotos, com exceção de que tem alergia a mulheres, e toda vez que ocorre algo muito íntimo, ele acaba vomitando. Karín Aoi, uma operadora de DNA, veio do futuro para impedir a super população do mundo devido ao chamado "mega playboy", que é na verdade o próprio Junta.</desc>
+<programme start="20220822220000 -0300" stop="20220822223000 -0300" channel="anitv.br">
+ <title lang="pt">In Another World With My Smartphone</title>
+ <desc lang="pt">Depois de morrer por um engano de Deus, o protagonista vai parar num mundo paralelo, onde ele começa sua nova vida.Suas únicas posses são o corpo que Deus lhe devolveu e um smartphone, que ainda funciona nesse outro mundo.</desc>
 </programme>
-<programme start="20220801223000 -0300" stop="20220801230000 -0300" channel="anitv.br">
- <title lang="pt">Cowboy Bebop</title>
- <desc lang="pt"> a série se passa no ano de 2071 e é centrada na vida de uma tripulação de caçadores de recompensas espaciais. O anime aborda questões não resolvidas do passado dos protagonistas, explorando temas como existencialismo, tédio, degradação ambiental e a solidão.</desc>
+<programme start="20220822223000 -0300" stop="20220822230000 -0300" channel="anitv.br">
+ <title lang="pt">Ranking of Kings</title>
+ <desc lang="pt">Filho de gigantes, a expectativa de que o príncipe Bojji fosse um rei grandioso cai por terra quando o reino se depara com um pequenino rei mudo e sem talento para espada, mas um encontro fatídico muda completamente seu destino.</desc>
 </programme>
-<programme start="20220801230000 -0300" stop="20220801233000 -0300" channel="anitv.br">
- <title lang="pt">Wonder Egg Priority</title>
- <desc lang="pt">A jovem reclusa Ai ganha um misterioso ovo e seu destino começa a mudar a partir daquele momento.</desc>
+<programme start="20220822230000 -0300" stop="20220822233000 -0300" channel="anitv.br">
+ <title lang="pt">Assassination Classroom</title>
+ <desc lang="pt">Esqueça lições de casa e provas relâmpago. A Classe 3-E tem uma tarefa muito mais importante: matar seu professor antes do fim do ano!</desc>
 </programme>
-<programme start="20220801233000 -0300" stop="20220802000000 -0300" channel="anitv.br">
- <title lang="pt">Serial Experiments Lain</title>
- <desc lang="pt">Lain é um anime complexo que demonstra abranger influências de Filosofia, história da computação, literatura cyberpunk, ordens místicas, hermetismo, alquimia e teorias da conspiração, e foi assunto de vários artigos acadêmicos.</desc>
+<programme start="20220822233000 -0300" stop="20220823000000 -0300" channel="anitv.br">
+ <title lang="pt">KONOSUBA!</title>
+ <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
 </programme>
  
 <programme start="20220819000000 -0300" stop="20220819003000 -0300" channel="anitv.br">
- <title lang="pt">MIDNIGHT:Akashic Records of Bastard Magic Instructor</title>
+ <title lang="pt">Akashic Records of Bastard Magic Instructor</title>
  <desc lang="pt">A Academia Imperial de Magia de Alzano está localizada no sul do Império Alzano, um dos maiores reinos mágicos, e é considerada uma das mais prestigiadas academias do mundo, onde estudantes podem aprender as formas mais elevadas de magia.</desc>
 </programme>
 <programme start="20220819003000 -0300" stop="20220819010000 -0300" channel="anitv.br">
- <title lang="pt">MIDNIGHT:Planet With</title>
+ <title lang="pt">Planet With</title>
  <desc lang="pt">Apesar de não lembrar de seu passado, Kuroi Soya leva uma vida pacata como aluno colegial.</desc>
 </programme>
 <programme start="20220819010000 -0300" stop="20220819010000 -0300" channel="anitv.br">
@@ -467,7 +471,7 @@
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
 <programme start="20220819020000 -0300" stop="20220819040000 -0300" channel="anitv.br">
- <title lang="en">REPRISES das 2h</title>
+ <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
 <programme start="20220819040000 -0300" stop="20220819060000 -0300" channel="anitv.br">
@@ -492,14 +496,14 @@
 </programme>
 <programme start="20220819100000 -0300" stop="20220819120000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
- <desc lang="en">Com yu Yu Hakusho às 9h,Cardcaptor Sakura às 9h30,Super Campeões às 10h,Urusei Yatsura às 10h30 e Cowboy Bebop às 11h.</desc>
+ <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30 e Cardcaptor Sakura às 11h30.</desc>
 </programme>
 <programme start="20220819120000 -0300" stop="20220819140000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
 <programme start="20220819140000 -0300" stop="20220819150000 -0300" channel="anitv.br">
- <title lang="en">REPRISES das 14h</title>
+ <title lang="en">REPRISES da Tarde</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
 <programme start="20220819150000 -0300" stop="20220819153000 -0300" channel="anitv.br">
@@ -594,64 +598,64 @@
 </programme>
  
     ###CentralTV.br###
-<programme start="20220816003000 -0300" stop="20220816080000 -0300" channel="CentralTV.br">
+<programme start="20220818003000 -0300" stop="20220818080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220816080000 -0300" stop="20220816120000 -0300" channel="CentralTV.br">
+<programme start="20220818080000 -0300" stop="20220818120000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20220816120000 -0300" stop="20220816140000 -0300" channel="CentralTV.br">
+<programme start="20220818120000 -0300" stop="20220818140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220816140000 -0300" stop="20220816143000 -0300" channel="CentralTV.br">
+<programme start="20220818140000 -0300" stop="20220818143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20220816143000 -0300" stop="20220816150000 -0300" channel="CentralTV.br">
+<programme start="20220818143000 -0300" stop="20220818150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20220816150000 -0300" stop="20220816160000 -0300" channel="CentralTV.br">
+<programme start="20220818150000 -0300" stop="20220818160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20220816160000 -0300" stop="20220816173000 -0300" channel="CentralTV.br">
+<programme start="20220818160000 -0300" stop="20220818173000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20220816173000 -0300" stop="20220816183000 -0300" channel="CentralTV.br">
+<programme start="20220818173000 -0300" stop="20220818183000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20220816183000 -0300" stop="20220816210000 -0300" channel="CentralTV.br">
+<programme start="20220818183000 -0300" stop="20220818210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220816210000 -0300" stop="20220816223000 -0300" channel="CentralTV.br">
+<programme start="20220818210000 -0300" stop="20220818223000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220816223000 -0300" stop="20220816224500 -0300" channel="CentralTV.br">
+<programme start="20220818223000 -0300" stop="20220818224500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20220816224500 -0300" stop="20220817003000 -0300" channel="CentralTV.br">
+<programme start="20220818224500 -0300" stop="20220819003000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
  
-<programme start="20220817003000 -0300" stop="20220817080000 -0300" channel="CentralTV.br">
+<programme start="20220819003000 -0300" stop="20220819080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220817080000 -0300" stop="20220817120000 -0300" channel="CentralTV.br">
+<programme start="20220819080000 -0300" stop="20220819120000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20220817120000 -0300" stop="20220817140000 -0300" channel="CentralTV.br">
+<programme start="20220819120000 -0300" stop="20220819140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -693,27 +697,27 @@
 </programme>
 
     ###sab.centraltv###
-<programme start="20220813003000 -0300" stop="20220813010000 -0300" channel="CentralTV.br">
+<programme start="20220820003000 -0300" stop="20220820010000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220813010000 -0300" stop="20220813030000 -0300" channel="CentralTV.br">
+<programme start="20220820010000 -0300" stop="20220820030000 -0300" channel="CentralTV.br">
  <title lang="pt">Do Fundo do Baú</title>
  <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
 </programme>
-<programme start="20220813030000 -0300" stop="20220813040000 -0300" channel="CentralTV.br">
+<programme start="20220820030000 -0300" stop="20220820040000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20220813040000 -0300" stop="20220813080000 -0300" channel="CentralTV.br">
+<programme start="20220820040000 -0300" stop="20220820080000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20220813080000 -0300" stop="20220813090000 -0300" channel="CentralTV.br">
+<programme start="20220820080000 -0300" stop="20220820090000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20220813090000 -0300" stop="20220813110000 -0300" channel="CentralTV.br">
+<programme start="20220820090000 -0300" stop="20220820110000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
@@ -788,52 +792,52 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
     ###TVMax.br###
-<programme start="20220816000000 -0300" stop="20220816080000 -0300" channel="TVMax.br">
+<programme start="20220818000000 -0300" stop="20220818080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20220816080000 -0300" stop="20220816100000 -0300" channel="TVMax.br">
+<programme start="20220818080000 -0300" stop="20220818100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20220816100000 -0300" stop="20220816120000 -0300" channel="TVMax.br">
+<programme start="20220818100000 -0300" stop="20220818120000 -0300" channel="TVMax.br">
  <title lang="pt">Conexão no Ar</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20220816120000 -0300" stop="20220816130000 -0300" channel="TVMax.br">
+<programme start="20220818120000 -0300" stop="20220818130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20220816130000 -0300" stop="20220816150000 -0300" channel="TVMax.br">
+<programme start="20220818130000 -0300" stop="20220818150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20220816150000 -0300" stop="20220816153000 -0300" channel="TVMax.br">
+<programme start="20220818150000 -0300" stop="20220818153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="20220816153000 -0300" stop="20220816160000 -0300" channel="TVMax.br">
+<programme start="20220818153000 -0300" stop="20220818160000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
-<programme start="202208161600000 -0300" stop="2022081700000 -0300" channel="TVMax.br">
+<programme start="202208181600000 -0300" stop="2022081900000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="20220817000000 -0300" stop="20220817080000 -0300" channel="TVMax.br">
+<programme start="20220819000000 -0300" stop="20220819080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20220817080000 -0300" stop="20220817100000 -0300" channel="TVMax.br">
+<programme start="20220819080000 -0300" stop="20220819100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20220817100000 -0300" stop="20220817120000 -0300" channel="TVMax.br">
+<programme start="20220819100000 -0300" stop="20220819120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20220817120000 -0300" stop="20220817130000 -0300" channel="TVMax.br">
+<programme start="20220819120000 -0300" stop="20220819130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
@@ -856,92 +860,92 @@
  
     ####TVMaisFamilia.br####
  
-<programme start="20220816010000 -0300" stop="20220816030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818010000 -0300" stop="20220818030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220816030000 -0300" stop="20220816050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818030000 -0300" stop="20220818050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20220816050000 -0300" stop="20220816070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818050000 -0300" stop="20220818070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220816070000 -0300" stop="20220816080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818070000 -0300" stop="20220818080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20220816080000 -0300" stop="20220816083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818080000 -0300" stop="20220818083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20220816083000 -0300" stop="20220816100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818083000 -0300" stop="20220818100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20220816100000 -0300" stop="20220816110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818100000 -0300" stop="20220818110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20220816110000 -0300" stop="20220816120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818110000 -0300" stop="20220818120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20220816120000 -0300" stop="20220816150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818120000 -0300" stop="20220818150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20220816150000 -0300" stop="20220816180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818150000 -0300" stop="20220818180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20220816080000 -0300" stop="20220816200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818080000 -0300" stop="20220818200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20220816200000 -0300" stop="20220816220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818200000 -0300" stop="20220818220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20220816220000 -0300" stop="20220816230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818220000 -0300" stop="20220818230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20220816230000 -0300" stop="20220817010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220818230000 -0300" stop="20220819010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
  
-<programme start="20220817010000 -0300" stop="20220817030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819010000 -0300" stop="20220819030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220817030000 -0300" stop="20220817050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819030000 -0300" stop="20220819050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20220817050000 -0300" stop="20220817070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819050000 -0300" stop="20220819070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220817070000 -0300" stop="20220817080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819070000 -0300" stop="20220819080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20220817080000 -0300" stop="20220817083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819080000 -0300" stop="20220819083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20220817083000 -0300" stop="20220817100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819083000 -0300" stop="20220819100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20220817100000 -0300" stop="20220817110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819100000 -0300" stop="20220819110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20220817110000 -0300" stop="20220817120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220819110000 -0300" stop="20220819120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
@@ -1027,15 +1031,15 @@
 </programme>
  
     ####ISTVHD.br####
-<programme start="20220810000000 -0300" stop="20220812000000 -0300" channel="ISTVHD.br">
+<programme start="20220817000000 -0300" stop="20220819000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20220812000000 -0300" stop="20220814000000 -0300" channel="ISTVHD.br">
+<programme start="20220820000000 -0300" stop="20220824000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20220814000000 -0300" stop="20220816000000 -0300" channel="ISTVHD.br">
+<programme start="20220824000000 -0300" stop="20220826000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -1101,52 +1105,52 @@
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20220816000000 -0300" stop="20220816200000 -0300" channel="ETCTV.cl">
+<programme start="20220818000000 -0300" stop="20220818200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220816200000 -0300" stop="20220816203000 -0300" channel="ETCTV.cl">
+<programme start="20220818200000 -0300" stop="20220818203000 -0300" channel="ETCTV.cl">
  <title lang="pt">Reporte Gaming </title>
  <desc lang="pt">Reporte Gaming É o primeiro noticiário dedicado à cultura geek de uma perspectiva jornalística, um lugar onde você pode ver as questões que importam para nossa comunidade. Os últimos lançamentos de videogames, avanços tecnológicos, a chegada de novos aplicativos e o outdoor de cinema e séries da Salfate, são apenas alguns dos nossos conteúdos.</desc>
 </programme>
-<programme start="20220816203000 -0300" stop="20220816210000 -0300" channel="ETCTV.cl">
+<programme start="20220818203000 -0300" stop="20220818210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20220816210000 -0300" stop="20220816220000 -0300" channel="ETCTV.cl">
+<programme start="20220818210000 -0300" stop="20220818220000 -0300" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20220816220000 -0300" stop="20220817000000 -0300" channel="ETCTV.cl">
+<programme start="20220818220000 -0300" stop="20220819000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20220812000000 -0300" stop="20220812200000 -0300" channel="ETCTV.cl">
+<programme start="20220819000000 -0300" stop="20220819200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno</desc>
 </programme>
-<programme start="20220812200000 -0300" stop="20220812203000 -0300" channel="ETCTV.cl">
+<programme start="20220819200000 -0300" stop="20220819203000 -0300" channel="ETCTV.cl">
  <title lang="pt">The Code</title>
  <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
 </programme>
-<programme start="20220812203000 -0300" stop="20220812210000 -0300" channel="ETCTV.cl">
+<programme start="20220819203000 -0300" stop="20220819210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos esports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20220812210000 -0300" stop="20220812220000 -0300" channel="ETCTV.cl">
+<programme start="20220819210000 -0300" stop="20220819220000 -0300" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20220812220000 -0300" stop="20220812230000 -0300" channel="ETCTV.cl">
+<programme start="20220819220000 -0300" stop="20220819230000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220812230000 -0300" stop="202208132000000 -0300" channel="ETCTV.cl">
+<programme start="20220819230000 -0300" stop="202208190000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Inter-S.O.S.</title>
  <desc lang="pt">Cansado de sextas-feiras sem panorama? Cansado de ver a mesma TV velha? Exausto depois de uma semana árdua? Pegar leve... E Thomas mudará suas noites, com toda a intensidade que precisar.</desc>
 </programme>
-<programme start="202208132000000 -0300" stop="20220815000000 -0300" channel="ETCTV.cl">
+<programme start="202208200000000 -0300" stop="20220822000000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
@@ -1165,11 +1169,11 @@
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="20220816000000 -0300" stop="20220818000000 -0300" channel="FronteiraMovies.br">
+<programme start="20220816000000 -0300" stop="20220819000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20220801800000 -0300" stop="20220821000000 -0300" channel="FronteiraMovies.br">
+<programme start="20220819000000 -0300" stop="20220821000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1191,68 +1195,68 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20220816000000 -0300" stop="20220816050000 -0300" channel="cbnrede.br">
+<programme start="20220818000000 -0300" stop="20220818050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220816050000 -0300" stop="20220816060000 -0300" channel="cbnrede.br">
+<programme start="20220818050000 -0300" stop="20220818060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220816060000 -0300" stop="20220816093000 -0300" channel="cbnrede.br">
+<programme start="20220818060000 -0300" stop="20220818093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20220816093000 -0300" stop="20220816100000 -0300" channel="cbnrede.br">
+<programme start="20220818093000 -0300" stop="20220818100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220816100000 -0300" stop="20220816120000 -0300" channel="cbnrede.br">
+<programme start="20220818100000 -0300" stop="20220818120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220816120000 -0300" stop="20220816140000 -0300" channel="cbnrede.br">
+<programme start="20220818120000 -0300" stop="20220818140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20220816140000 -0300" stop="20220816170000 -0300" channel="cbnrede.br">
+<programme start="20220818140000 -0300" stop="20220818170000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20220816170000 -0300" stop="20220816200000 -0300" channel="cbnrede.br">
+<programme start="20220818170000 -0300" stop="20220818200000 -0300" channel="cbnrede.br">
  <title lang="pt">Ponto Final CBN</title>
  <desc lang="pt">Resumo do que aconteceu no dia com Rodrigo Bocardi e Carolina Morand.</desc>
 </programme>
-<programme start="20220816200000 -0300" stop="20220816210000 -0300" channel="cbnrede.br">
+<programme start="20220818200000 -0300" stop="20220818210000 -0300" channel="cbnrede.br">
  <title lang="pt">Quatro em Campo</title>
  <desc lang="pt">Resenha esportiva com a equipe de craques da cbn. com Carlos Eduardo Eboli, Paulo Massini, Francisco Aiello e André Sanches.</desc>
 </programme>
-<programme start="20220816210000 -0300" stop="20220817000000 -0300" channel="cbnrede.br">
+<programme start="20220818210000 -0300" stop="20220819000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
  
-<programme start="20220817000000 -0300" stop="20220817050000 -0300" channel="cbnrede.br">
+<programme start="20220819000000 -0300" stop="20220819050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220817050000 -0300" stop="20220817060000 -0300" channel="cbnrede.br">
+<programme start="20220819050000 -0300" stop="20220819060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220817060000 -0300" stop="20220817093000 -0300" channel="cbnrede.br">
+<programme start="20220819060000 -0300" stop="20220819093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20220817093000 -0300" stop="20220817100000 -0300" channel="cbnrede.br">
+<programme start="20220819093000 -0300" stop="20220819100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220817100000 -0300" stop="20220817120000 -0300" channel="cbnrede.br">
+<programme start="20220819100000 -0300" stop="20220819120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220817120000 -0300" stop="20220817140000 -0300" channel="cbnrede.br">
+<programme start="20220819120000 -0300" stop="20220819140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
@@ -1273,43 +1277,43 @@
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
      ###sab###
-<programme start="20220813000000 -0300" stop="20220813050000 -0300" channel="cbnrede.br">
+<programme start="20220820000000 -0300" stop="20220820050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220813050000 -0300" stop="20220813060000 -0300" channel="cbnrede.br">
+<programme start="20220820050000 -0300" stop="20220820060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220813060000 -0300" stop="20220813090000 -0300" channel="cbnrede.br">
+<programme start="20220820060000 -0300" stop="20220820090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20220813090000 -0300" stop="20220813093000 -0300" channel="cbnrede.br">
+<programme start="20220820090000 -0300" stop="20220820093000 -0300" channel="cbnrede.br">
  <title lang="pt">O Mundo em Meia Hora</title>
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
-<programme start="20220813093000 -0300" stop="20220813100000 -0300" channel="cbnrede.br">
+<programme start="20220820093000 -0300" stop="20220820100000 -0300" channel="cbnrede.br">
  <title lang="pt">Bem-estar e Movimento</title>
  <desc lang="pt">fique bem brasil.</desc>
 </programme>
-<programme start="20220813100000 -0300" stop="20220813120000 -0300" channel="cbnrede.br">
+<programme start="20220820100000 -0300" stop="20220820120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220813120000 -0300" stop="20220813150000 -0300" channel="cbnrede.br">
+<programme start="20220820120000 -0300" stop="20220820150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20220813150000 -0300" stop="20220813210000 -0300" channel="cbnrede.br">
+<programme start="20220820150000 -0300" stop="20220820210000 -0300" channel="cbnrede.br">
  <title lang="pt">Show da Notícia e/ou Futebol</title>
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20220813210000 -0300" stop="20220813230000 -0300" channel="cbnrede.br">
+<programme start="20220820210000 -0300" stop="20220820230000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no dia.</desc>
 </programme>
-<programme start="20220813230000 -0300" stop="20220814000000 -0300" channel="cbnrede.br">
+<programme start="20220820230000 -0300" stop="20220821000000 -0300" channel="cbnrede.br">
  <title lang="pt">Globo News Painel</title>
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
@@ -1368,59 +1372,59 @@
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20220816050000 -0300" stop="20220816070000 -0300" channel="radioclubeampe.br">
+<programme start="20220818050000 -0300" stop="20220818070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220816070000 -0300" stop="20220816073000 -0300" channel="radioclubeampe.br">
+<programme start="20220818070000 -0300" stop="20220818073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20220816073000 -0300" stop="20220816083000 -0300" channel="radioclubeampe.br">
+<programme start="20220818073000 -0300" stop="20220818083000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220816083000 -0300" stop="20220816110000 -0300" channel="radioclubeampe.br">
+<programme start="20220818083000 -0300" stop="20220818110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220816110000 -0300" stop="20220816120000 -0300" channel="radioclubeampe.br">
+<programme start="20220818110000 -0300" stop="20220818120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220816120000 -0300" stop="20220816130000 -0300" channel="radioclubeampe.br">
+<programme start="20220818120000 -0300" stop="20220818130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20220816130000 -0300" stop="20220816140000 -0300" channel="radioclubeampe.br">
+<programme start="20220818130000 -0300" stop="20220818140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220816140000 -0300" stop="20220816160000 -0300" channel="radioclubeampe.br">
+<programme start="20220818140000 -0300" stop="20220818160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816160000 -0300" stop="20220816170000 -0300" channel="radioclubeampe.br">
+<programme start="20220818160000 -0300" stop="20220818170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programa Seja Leve</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816170000 -0300" stop="20220816180000 -0300" channel="radioclubeampe.br">
+<programme start="20220818170000 -0300" stop="20220818180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816180000 -0300" stop="20220816190000 -0300" channel="radioclubeampe.br">
+<programme start="20220818180000 -0300" stop="20220818190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="20220816190000 -0300" stop="20220816200000 -0300" channel="radioclubeampe.br">
+<programme start="20220818190000 -0300" stop="20220818200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220816200000 -0300" stop="20220816220000 -0300" channel="radioclubeampe.br">
+<programme start="20220818200000 -0300" stop="20220818220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Rodrigo Collaço Tocando o Melhor do Pagode quando nâo houver futebol</desc>
 </programme> 
-<programme start="20220816220000 -0300" stop="20220817050000 -0300" channel="radioclubeampe.br">
+<programme start="20220818220000 -0300" stop="20220819050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
@@ -1482,68 +1486,68 @@
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
    ###sex###
-<programme start="20220812050000 -0300" stop="20220812070000 -0300" channel="radioclubeampe.br">
+<programme start="20220819050000 -0300" stop="20220819070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220812070000 -0300" stop="20220812073000 -0300" channel="radioclubeampe.br">
+<programme start="20220819070000 -0300" stop="20220819073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20220812073000 -0300" stop="20220812083000 -0300" channel="radioclubeampe.br">
+<programme start="20220819073000 -0300" stop="20220819083000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220812083000 -0300" stop="20220812110000 -0300" channel="radioclubeampe.br">
+<programme start="20220819083000 -0300" stop="20220819110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220812110000 -0300" stop="20220812120000 -0300" channel="radioclubeampe.br">
+<programme start="20220819110000 -0300" stop="20220819120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220812120000 -0300" stop="20220812130000 -0300" channel="radioclubeampe.br">
+<programme start="20220819120000 -0300" stop="20220819130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20220812130000 -0300" stop="20220812140000 -0300" channel="radioclubeampe.br">
+<programme start="20220819130000 -0300" stop="20220819140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220812140000 -0300" stop="20220812160000 -0300" channel="radioclubeampe.br">
+<programme start="20220819140000 -0300" stop="20220819160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220812160000 -0300" stop="20220812170000 -0300" channel="radioclubeampe.br">
+<programme start="20220819160000 -0300" stop="20220819170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Cena Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220812170000 -0300" stop="20220812180000 -0300" channel="radioclubeampe.br">
+<programme start="20220819170000 -0300" stop="20220819180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220812180000 -0300" stop="20220812190000 -0300" channel="radioclubeampe.br">
+<programme start="20220819180000 -0300" stop="20220819190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="20220812190000 -0300" stop="20220812200000 -0300" channel="radioclubeampe.br">
+<programme start="20220819190000 -0300" stop="20220819200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20220812200000 -0300" stop="20220812220000 -0300" channel="radioclubeampe.br">
+<programme start="20220819200000 -0300" stop="20220819220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Rodrigo Collaço Tocando o Melhor do Pagode quando nâo houver futebol</desc>
 </programme> 
      ###sabado###
-<programme start="20220812220000 -0300" stop="20220813080000 -0300" channel="radioclubeampe.br">
+<programme start="20220819220000 -0300" stop="20220820080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20220813080000 -0300" stop="20220813120000 -0300" channel="radioclubeampe.br">
+<programme start="20220820080000 -0300" stop="20220820120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">Carnaval é o tema. Os momentos, os destaques, os nomes que fazem e já fizeram esta festa que movimenta Pernambuco, principalmente, com nosso ritmo, o frevo. A comunicação é outra grande atração, este programa é orquestrado pelo mestre Zuca Show.</desc>
 </programme>
-<programme start="20220813120000 -0300" stop="20220813160000 -0300" channel="radioclubeampe.br">
+<programme start="20220820120000 -0300" stop="20220820160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1607,92 +1611,92 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20220816000000 -0300" stop="20220816020000 -0300" channel="radiojornalpe.br">
+<programme start="20220818000000 -0300" stop="20220818020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816020000 -0300" stop="20220816030000 -0300" channel="radiojornalpe.br">
+<programme start="20220818020000 -0300" stop="20220818030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816030000 -0300" stop="20220816050000 -0300" channel="radiojornalpe.br">
+<programme start="20220818030000 -0300" stop="20220818050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816050000 -0300" stop="20220816063000 -0300" channel="radiojornalpe.br">
+<programme start="20220818050000 -0300" stop="20220818063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816063000 -0300" stop="20220816070000 -0300" channel="radiojornalpe.br">
+<programme start="20220818063000 -0300" stop="20220818070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816070000 -0300" stop="20220816120000 -0300" channel="radiojornalpe.br">
+<programme start="20220818070000 -0300" stop="20220818120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816120000 -0300" stop="20220816123000 -0300" channel="radiojornalpe.br">
+<programme start="20220818120000 -0300" stop="20220818123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816123000 -0300" stop="20220816140000 -0300" channel="radiojornalpe.br">
+<programme start="20220818123000 -0300" stop="20220818140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20220816140000 -0300" stop="20220816160000 -0300" channel="radiojornalpe.br">
+<programme start="20220818140000 -0300" stop="20220818160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816160000 -0300" stop="20220816180000 -0300" channel="radiojornalpe.br">
+<programme start="20220818160000 -0300" stop="20220818180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816180000 -0300" stop="20220816190000 -0300" channel="radiojornalpe.br">
+<programme start="20220818180000 -0300" stop="20220818190000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Bola Rolando</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816190000 -0300" stop="20220816200000 -0300" channel="radiojornalpe.br">
+<programme start="20220818190000 -0300" stop="20220818200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento Esportivo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220816200000 -0300" stop="20220816210000 -0300" channel="radiojornalpe.br">
+<programme start="20220818200000 -0300" stop="20220818210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
-<programme start="20220816210000 -0300" stop="20220817000000 -0300" channel="radiojornalpe.br">
+<programme start="20220818210000 -0300" stop="20220819000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20220817000000 -0300" stop="20220817020000 -0300" channel="radiojornalpe.br">
+<programme start="20220819000000 -0300" stop="20220819020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817020000 -0300" stop="20220817030000 -0300" channel="radiojornalpe.br">
+<programme start="20220819020000 -0300" stop="20220819030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817030000 -0300" stop="20220817050000 -0300" channel="radiojornalpe.br">
+<programme start="20220819030000 -0300" stop="20220819050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817050000 -0300" stop="20220817063000 -0300" channel="radiojornalpe.br">
+<programme start="20220819050000 -0300" stop="20220819063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817063000 -0300" stop="20220817070000 -0300" channel="radiojornalpe.br">
+<programme start="20220819063000 -0300" stop="20220819070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817670000 -0300" stop="20220817120000 -0300" channel="radiojornalpe.br">
+<programme start="20220819670000 -0300" stop="20220819120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817120000 -0300" stop="20220817123000 -0300" channel="radiojornalpe.br">
+<programme start="20220819120000 -0300" stop="20220819123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220817123000 -0300" stop="20220817140000 -0300" channel="radiojornalpe.br">
+<programme start="20220819123000 -0300" stop="20220819140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
