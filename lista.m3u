@@ -102,7 +102,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 
 #EXTINF: -1 tvg-id="awtv.br" tvg-chno="034" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento", AWTV HD
-https://cast.ebosystems.com.br:19360/awtv_abr/awtv_abr.m3u8
+https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
 
 #EXTINF: -1 tvg-id="TVaracati.br" tvg-chno="035" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJofP8Z8OC3mA9DyMVC-FTBNcWv0OiCGR5A&usqp=CAU" group-title="Entretenimento", TV Aracati HD
 https://livefocamundo.com:8081/tvaracati/index.m3u8
