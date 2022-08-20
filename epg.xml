@@ -238,51 +238,33 @@
 </programme>
  
    ####sabado anitv####
-<programme start="20220706000000 -0300" stop="20220723003000 -0300" channel="anitv.br">
- <title lang="pt">Akame ga Kill!</title>
- <desc lang="pt">Tatsumi é um jovem guerreiro que acaba de ser enganado e roubado por uma linda mulher.</desc>
-  <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
+<programme start="20220820000000 -0300" stop="20220820010000 -0300" channel="anitv.br">
+ <title lang="pt">A Anunciar</title>
+ <desc lang="pt">programa.</desc>
 </programme>
-<programme start="20220723003000 -0300" stop="20220723010000 -0300" channel="anitv.br">
- <title lang="pt">Dororo</title>
- <desc lang="pt">Hyakkimaru conhece uma criança chamada Dororo que decide segui-lo, ensinando-o a viver e lutar contra demônios em troca de comida quando visita aldeias.</desc>
-<rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
+<programme start="20220820010000 -0300" stop="20220820010000 -0300" channel="anitv.br">
+ <title lang="pt">Descendentes do Sol - Reprise</title>
+ <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20220730010000 -0300" stop="20220730003000 -0300" channel="anitv.br">
- <title lang="pt">Yamada-kun and the Seven Witches</title>
- <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
+<programme start="20220820020000 -0300" stop="20220820040000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Madrugada</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
-<programme start="20220730013000 -0300" stop="20220730200000 -0300" channel="anitv.br">
- <title lang="pt">Back Street Girls: Gokudolls</title>
- <desc lang="pt">Kentarō Yamamoto, Ryō Tachibana e Kazuhiko Sugihara são três yakuza que depois de decepcionar seu chefe recebem duas opções para ele: cometer um suicídio honroso ou ir para a Tailândia para se submeter a uma cirurgia de redesignação sexual e, assim, se tornar ídolos femininos.</desc>
+<programme start="20220820040000 -0300" stop="20220820060000 -0300" channel="anitv.br">
+ <title lang="en">AniBox</title>
+ <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20220730020000 -0300" stop="20220730030000 -0300" channel="anitv.br">
- <title lang="en">A Lenda - Um Luxo de Sonhar</title>
- <desc lang="en">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo</desc>
-</programme>
-<programme start="2022073003000 -0300" stop="202207300400000 -0300" channel="anitv.br">
- <title lang="pt">AniBox</title>
- <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
-</programme>
-<programme start="20220730040000 -0300" stop="20220730060000 -0300" channel="anitv.br">
- <title lang="pt">AniBox</title>
- <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
-</programme>
-<programme start="20220730060000 -0300" stop="20220730070000 -0300" channel="anitv.br">
+<programme start="20220820060000 -0300" stop="20220820070000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220730070000 -0300" stop="20220730100000 -0300" channel="anitv.br">
+<programme start="20220820070000 -0300" stop="20220820800000 -0300" channel="anitv.br">
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20220730100000 -0300" stop="20220730123000 -0300" channel="anitv.br">
- <title lang="en">Maratona do #FDS:Super Campeões</title>
- <desc lang="en">anime</desc>
+<programme start="20220820070000 -0300" stop="20220820220000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS</title>
+ <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
 <programme start="20220730123000 -0300" stop="20220730150000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Recovery of an MMO Junkie</title>
@@ -297,20 +279,9 @@
  <desc lang="en">dorama</desc>
 </programme>
    ####domingo anitv####
-<programme start="20220806220000 -0300" stop="20220807003000 -0300" channel="anitv.br">
+<programme start="20220820220000 -0300" stop="20220821003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
-</programme>
-<programme start="20220807003000 -0300" stop="20220807030000 -0300" channel="anitv.br">
- <title lang="pt">Maratona do #FDS:Yamada-kun and the Seven Witches</title>
- <desc lang="pt">Yamada estava muito cansado das aulas após um ano de frequentar a escola. Um dia, ele tropeça acidentalmente na escada e acaba caindo em cima de Urara Shiraishi,ele acorda e descobre que ele e Urara tem seus corpos trocados.</desc>
-  <rating system="VCHIP">
-      <value>TV-14</value>
-    </rating>
-</programme>
-<programme start="20220731030000 -0300" stop="20220731053000 -0300" channel="anitv.br">
- <title lang="pt">Maratona do #FDS:Back Street Girls: Gokudolls</title>
- <desc lang="pt">Kentarō Yamamoto, Ryō Tachibana e Kazuhiko Sugihara são três yakuza que depois de decepcionar seu chefe recebem duas opções para ele: cometer um suicídio honroso ou ir para a Tailândia para se submeter a uma cirurgia de redesignação sexual e, assim, se tornar ídolos femininos.</desc>
 </programme>
 <programme start="20220731053000 -0300" stop="20220731063000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
@@ -320,7 +291,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20220820000000 -0300" stop="20220822030000 -0300" channel="anitv.br">
+<programme start="20220821000000 -0300" stop="20220822030000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
@@ -575,7 +546,7 @@
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20220822000000 -0300" stop="20220823000000 -0300" channel="yaaeeh.br">
+<programme start="20220823000000 -0300" stop="20220824000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -1122,19 +1093,19 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220816000000 -0300" stop="20220818000000 -0300" channel="StrikerVerso.br">
+<programme start="20220820000000 -0300" stop="20220824000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20220818000000 -0300" stop="20220820000000 -0300" channel="StrikerVerso.br">
+<programme start="20220824000000 -0300" stop="20220828000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20220816000000 -0300" stop="20220818000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20220820000000 -0300" stop="20220823000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">O StrikerVerso é o seu novo canal de web-streaming, feito de fã para fã, com um conteúdo inesperado, mas diferenciado de tudo o que você já viu!</desc>
 </programme>
-<programme start="20220818000000 -0300" stop="20220822000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20220823000000 -0300" stop="20220828000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -1148,11 +1119,11 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="202208160000000 -0300" stop="2022081800000 -0300" channel="tvbs.br">
+<programme start="202208200000000 -0300" stop="2022082300000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="202208180000000 -0300" stop="2022082100000 -0300" channel="tvbs.br">
+<programme start="202208230000000 -0300" stop="2022082800000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV BS</title>
  <desc lang="pt">anime</desc>
 </programme>
@@ -1886,7 +1857,7 @@
 </programme>
 
       ####Canalteste####
-<programme start="20220818000000 -0300" stop="2022082000000 -0300" channel="Canalteste">
+<programme start="20220824000000 -0300" stop="2022082900000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
@@ -1896,11 +1867,11 @@
 </programme>
 
        ####AllSports.br####
-<programme start="20220816000000 -0300" stop="2022081800000 -0300" channel="AllSports.br">
+<programme start="20220820000000 -0300" stop="2022082400000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20220818000000 -0300" stop="20220820000000 -0300" channel="AllSports.br">
+<programme start="20220824000000 -0300" stop="20220828000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
