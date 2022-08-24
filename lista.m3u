@@ -24,7 +24,7 @@ https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF: -1 tvg-id="Redetv.br" tvg-chno="007" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" , RedeTV! Paraná
 http://60d88f8ce1206.streamlock.net/id84/id84/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Redetv.br" tvg-chno="008" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! Tocantins 
+#EXTINF: -1 tvg-id="RedeTVRondonia.br" tvg-chno="008" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RedeTV! Tocantins 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RecordNews.br" tvg-chno="009" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias", Record News ES
