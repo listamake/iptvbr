@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (22/08/2202)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (23/08/2202)
 https://proxy-21.nyc.dailymotion.com/sec(jTKgwcrKhv91TFF2DjnhPiYj-nqI0eXD7lRAwmBp_L2Ydg8mPAVTl6lipCsd5IDCDp9UI9S9hPjFUrtwj-tju9gRskbCKEl5ngJ6rF6mhmc)/video/678/720/503027876_mp4_h264_aac_hq.m3u8#cell=nyc
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Pará
@@ -169,7 +169,7 @@ https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVAparecida.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
