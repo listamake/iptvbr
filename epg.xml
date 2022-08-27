@@ -901,119 +901,151 @@
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
-<programme start="20220827160000 -0300" stop="20220828080000 -0300" channel="TVMax.br">
+<programme start="20220827160000 -0300" stop="20220829080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
     ####TVMaisFamilia.br####
  
-<programme start="20220825010000 -0300" stop="20220825030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829010000 -0300" stop="20220829030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220825030000 -0300" stop="20220825050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829030000 -0300" stop="20220829050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20220825050000 -0300" stop="20220825070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829050000 -0300" stop="20220829070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220825070000 -0300" stop="20220825080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829070000 -0300" stop="20220829080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20220825080000 -0300" stop="20220825083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829080000 -0300" stop="20220829083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20220825083000 -0300" stop="20220825100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829083000 -0300" stop="20220829100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20220825100000 -0300" stop="20220825110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829100000 -0300" stop="20220829110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20220825110000 -0300" stop="20220825120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829110000 -0300" stop="20220829120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20220825120000 -0300" stop="20220825150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829120000 -0300" stop="20220829130000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20220825150000 -0300" stop="20220825180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829130000 -0300" stop="20220829134500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829134500 -0300" stop="20220829150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Alegria</title>
+ <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+</programme>
+<programme start="20220829150000 -0300" stop="20220829180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20220825080000 -0300" stop="20220825200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829080000 -0300" stop="20220829200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20220825200000 -0300" stop="20220825220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829200000 -0300" stop="20220829203000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20220825220000 -0300" stop="20220825230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829203000 -0300" stop="20220829205500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829205500 -0300" stop="20220829220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20220829220000 -0300" stop="20220829230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20220825230000 -0300" stop="20220826010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829230000 -0300" stop="20220830010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
  
-<programme start="20220826010000 -0300" stop="20220826030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830010000 -0300" stop="20220830030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220826030000 -0300" stop="20220826050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830030000 -0300" stop="20220830050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20220826050000 -0300" stop="20220826070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830050000 -0300" stop="20220830070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20220826070000 -0300" stop="20220826080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830070000 -0300" stop="20220830080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20220826080000 -0300" stop="20220826083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830080000 -0300" stop="20220830083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20220826083000 -0300" stop="20220826100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830083000 -0300" stop="20220830100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20220826100000 -0300" stop="20220826110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830100000 -0300" stop="20220830110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20220826110000 -0300" stop="20220826120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830110000 -0300" stop="20220830120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20220826120000 -0300" stop="20220826150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830120000 -0300" stop="20220830130000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20220826150000 -0300" stop="20220826180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830130000 -0300" stop="20220830134500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830134500 -0300" stop="20220830150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Alegria</title>
+ <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+</programme>
+<programme start="20220830150000 -0300" stop="20220830180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20220826180000 -0300" stop="20220826200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830180000 -0300" stop="20220830200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20220826200000 -0300" stop="20220826220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830200000 -0300" stop="20220830203000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20220826220000 -0300" stop="20220826230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830203000 -0300" stop="20220830205500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830205500 -0300" stop="20220830220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20220830220000 -0300" stop="20220830230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
@@ -1050,11 +1082,15 @@
  <title lang="pt">Parque Patati Patatá</title>
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
-<programme start="20220827200000 -0300" stop="20220827210000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220827200000 -0300" stop="20220827203000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20220827210000 -0300" stop="20220827220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220827203000 -0300" stop="20220827205500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220827205500 -0300" stop="20220827220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
@@ -1153,15 +1189,15 @@
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20220825000000 -0300" stop="20220825200000 -0300" channel="ETCTV.cl">
+<programme start="20220830000000 -0300" stop="20220830200000 -0300" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20220825200000 -0300" stop="20220825203000 -0300" channel="ETCTV.cl">
+<programme start="20220830200000 -0300" stop="20220830203000 -0300" channel="ETCTV.cl">
  <title lang="pt">Reporte Gaming </title>
  <desc lang="pt">Reporte Gaming É o primeiro noticiário dedicado à cultura geek de uma perspectiva jornalística, um lugar onde você pode ver as questões que importam para nossa comunidade. Os últimos lançamentos de videogames, avanços tecnológicos, a chegada de novos aplicativos e o outdoor de cinema e séries da Salfate, são apenas alguns dos nossos conteúdos.</desc>
 </programme>
-<programme start="20220825203000 -0300" stop="20220825210000 -0300" channel="ETCTV.cl">
+<programme start="20220830203000 -0300" stop="20220830210000 -0300" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
