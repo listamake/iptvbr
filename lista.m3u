@@ -292,7 +292,7 @@ https://streaming.ebosystems.com.br/canalwaagro/stream/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RBITV.br" tvg-logo="https://pbs.twimg.com/profile_images/1403206096454574081/_Np6uTBL_400x400.jpg" group-title="Variedades", RBI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-ak.vimeocdn.com/exp=1661592487~acl=%2F952a84ec-2f5e-4832-9ad8-c2352ba2b42d%2F%2A~hmac=f192eb528fa6002ecfbd3c85be94caa6b50261b522512f505e1d1c18427845fc/952a84ec-2f5e-4832-9ad8-c2352ba2b42d/hls.m3u8
+https://live-ak.vimeocdn.com/exp=1661621892~acl=%2F6b1d13da-dbc3-40ba-90b1-a3758f2fcb86%2F%2A~hmac=b829d7899a7ef8f41de25bc859d4a3933130dc5001bd07c846bd71139e462645/6b1d13da-dbc3-40ba-90b1-a3758f2fcb86/chunklist_b3256000.m3u8?max_segments=10
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
