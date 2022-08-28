@@ -1676,7 +1676,7 @@
  <title lang="pt">Santa Cruz x Tocantinópolis EC</title>
  <desc lang="pt">Transmissão dos jogos dos clubes de Pernambuco, do Nordeste e do Brasil com a equipe número um do Rádio. Os Campeões da Bola levam: notícias, informações, entrevistas, comentários e a narração em cima do lance com o futebol moderno da Clube.</desc>
 </programme>
-<programme start="20220828180000 -0300" stop="20220828200000 -0300" channel="radioclubeampe.br">
+<programme start="20220828180000 -0300" stop="20220828210000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
@@ -1684,7 +1684,11 @@
  <title lang="pt">Clube da Seresta</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220828000000 -0300" stop="20220829050000 -0300" channel="radioclubeampe.br">
+<programme start="20220828210000 -0300" stop="20220829000000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Eleições 2022: Debate dos Candidatos à Presidência - 1º Turno</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220829000000 -0300" stop="20220829050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
@@ -1890,8 +1894,12 @@
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220828210000 -0300" stop="20220829000000 -0300" channel="radiojornalpe.br">
+<programme start="20220828210000 -0300" stop="20220820000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
+ <desc lang="pt">Seleção musical</desc>
+</programme>
+<programme start="20220828210000 -0300" stop="20220829000000 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Eleições 2022: Debate dos Candidatos à Presidência - 1º Turno</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 
