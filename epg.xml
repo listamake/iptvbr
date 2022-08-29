@@ -1308,15 +1308,15 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20220829000000 -0300" stop="20220829050000 -0300" channel="cbnrede.br">
+<programme start="20220831000000 -0300" stop="20220831050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20220829050000 -0300" stop="20220829060000 -0300" channel="cbnrede.br">
+<programme start="20220831050000 -0300" stop="20220831060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220829060000 -0300" stop="20220829070000 -0300" channel="cbnrede.br">
+<programme start="20220831060000 -0300" stop="20220831070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
@@ -1760,23 +1760,23 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20220829000000 -0300" stop="20220829020000 -0300" channel="radiojornalpe.br">
+<programme start="20220831000000 -0300" stop="20220831020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220829020000 -0300" stop="20220829030000 -0300" cannel="radiojornalpe.br">
+<programme start="20220831020000 -0300" stop="20220831030000 -0300" cannel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220829030000 -0300" stop="20220826050000 -0300" channel="radiojornalpe.br">
+<programme start="20220831030000 -0300" stop="20220831050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220829050000 -0300" stop="20220829063000 -0300" channel="radiojornalpe.br">
+<programme start="20220831050000 -0300" stop="20220831063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220829063000 -0300" stop="20220829070000 -0300" channel="radiojornalpe.br">
+<programme start="20220831063000 -0300" stop="20220831070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1849,7 +1849,7 @@
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220830725000 -0300" stop="20220830120000 -0300" channel="radiojornalpe.br">
+<programme start="20220830072500 -0300" stop="20220830120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
