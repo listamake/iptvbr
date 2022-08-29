@@ -1912,11 +1912,11 @@
 </programme>
 
       ####Canalteste####
-<programme start="20220824000000 -0300" stop="2022082900000 -0300" channel="Canalteste">
+<programme start="20220829000000 -0300" stop="2022083100000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20220802000000 -0300" stop="2022082400000 -0300" channel="Canalteste">
+<programme start="20220831000000 -0300" stop="2022090400000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
