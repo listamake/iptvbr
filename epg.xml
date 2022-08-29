@@ -944,11 +944,11 @@
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20220829130000 -0300" stop="20220829134500 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829130000 -0300" stop="20220829132500 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Propaganda Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220829134500 -0300" stop="20220829150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220829132500 -0300" stop="20220829150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
@@ -1017,11 +1017,11 @@
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20220830130000 -0300" stop="20220830134500 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830130000 -0300" stop="20220830132500 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Propaganda Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220830134500 -0300" stop="20220830150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20220830132500 -0300" stop="20220830150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
@@ -1132,6 +1132,27 @@
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
 <programme start="20220829205500 -0300" stop="20220830000000 -0300" channel="ISTVHD.br">
+ <title lang="pt">Programação  ISTV</title>
+ <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
+</programme>
+ 
+<programme start="20220830000000 -0300" stop="20220830130000 -0300" channel="ISTVHD.br">
+ <title lang="pt">Programação  ISTV</title>
+ <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
+</programme>
+<programme start="20220830130000 -0300" stop="20220830132500 -0300" channel="ISTVHD.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830134500 -0300" stop="20220830203000 -0300" channel="ISTVHD.br">
+ <title lang="pt">Programação  ISTV</title>
+ <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
+</programme>
+<programme start="20220830203000 -0300" stop="20220830205500 -0300" channel="ISTVHD.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830205500 -0300" stop="20220831000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
