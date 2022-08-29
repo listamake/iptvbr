@@ -295,13 +295,13 @@ https://streaming.ebosystems.com.br/canalwaagro/stream/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RBITV.br" tvg-logo="https://pbs.twimg.com/profile_images/1403206096454574081/_Np6uTBL_400x400.jpg" group-title="Variedades", RBI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-ak.vimeocdn.com/exp=1661773891~acl=%2F17031c68-68c4-4f66-8131-d27e3bb10d83%2F%2A~hmac=fad165413be8f232b0dafc3d2602208a5f2b2c1fcdd0e0372363f7002a4e4b39/17031c68-68c4-4f66-8131-d27e3bb10d83/hls.m3u8?min_seconds=30956862f15abe2910384a75f1b9deb3e/885a0172-c315-4eea-9874-b6b02e40100a/chunklist_b416000.m3u8?max_segments=10/f221f61e-b8f0-4f83-8838-aead4dd36179/hls.m3u8?min_seconds=30
+https://live-ak.vimeocdn.com/exp=1661806874~acl=%2F3e1575d1-4b14-4668-bdd5-53a267be49fa%2F%2A~hmac=48c5d47539ba768f541865b13e7bb6d509f16b7b2c497e97daf4e020e03ae974/3e1575d1-4b14-4668-bdd5-53a267be49fa/hls.m3u8?min_seconds=30
 
-#EXTINF: -1 tvg-id="RedeSuper.br" tvg-logo="https://pbs.twimg.com/media/E_J4BNLWEAQfQeX?format=jpg&name=large" group-title="Religioso", Rede Super
-https://player-api.new.livestream.com/accounts/10205943/events/10199127/broadcasts/232702190.secure.m3u8?dw=80&hdnea=st=1661770130~exp=1661771930~acl=/i/10205943_10199127_lsitcn0654ju216qn1k_1@129366/*~hmac=6a05884c3deb4297eaade9c93a54d7ab4e1bc66eae2929e1acb4df11a4e437a5&token=630c9abe_52f7c1ca969e5e1c25542a3a5a46978792620a07
+#EXTINF: -1 tvg-id="RedeGospel.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgabutR5PnQaoDe45Nu7TqZbciBnehmfofLg&usqp=CAU" group-title="Religioso", Rede Gospel HD 
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF: -1 tvg-id="BoasNovas.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8tL9K8X8RKybBEnnF_vk36IusErnDIxJpiX3j-GQ=s900-c-k-c0x00ffffff-no-rj" group-title="Religioso", Boas Novas Belém
-https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVCITVCOMUNICACOESINTERATIVASLTDA.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-l5XdA59qWpjppvB16DYj9z8bYarcqe5aaG8jpnA=s900-c-k-c0x00ffffff-no-rj" group-title="Religioso", TVCI HD
 https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
