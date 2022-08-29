@@ -1316,7 +1316,15 @@
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220829060000 -0300" stop="20220829093000 -0300" channel="cbnrede.br">
+<programme start="20220829060000 -0300" stop="20220829070000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title>
+ <desc lang="pt">Noticiario</desc>
+</programme>
+<programme start="20220829070000 -0300" stop="20220829072500 -0300" channel="cbnrede.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829072500 -0300" stop="20220829093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
@@ -1328,7 +1336,11 @@
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220829120000 -0300" stop="20220829140000 -0300" channel="cbnrede.br">
+<programme start="20220829120000 -0300" stop="20220829123000 -0300" channel="cbnrede.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829123000 -0300" stop="20220829140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
@@ -1357,7 +1369,15 @@
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20220830060000 -0300" stop="20220830093000 -0300" channel="cbnrede.br">
+<programme start="20220830060000 -0300" stop="20220830070000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title>
+ <desc lang="pt">Noticiario</desc>
+</programme>
+<programme start="20220830070000 -0300" stop="20220830072500 -0300" channel="cbnrede.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830072500 -0300" stop="20220830093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
@@ -1369,7 +1389,11 @@
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220830120000 -0300" stop="20220830140000 -0300" channel="cbnrede.br">
+<programme start="20220830120000 -0300" stop="20220830123000 -0300" channel="cbnrede.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830123000 -0300" stop="20220830140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
@@ -1505,7 +1529,11 @@
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220829120000 -0300" stop="20220829130000 -0300" channel="radioclubeampe.br">
+<programme start="20220829120000 -0300" stop="20220829123000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829123000 -0300" stop="20220829130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
@@ -1562,7 +1590,11 @@
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220830120000 -0300" stop="20220830130000 -0300" channel="radioclubeampe.br">
+<programme start="20220830120000 -0300" stop="20220830123000 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830123000 -0300" stop="20220830130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
@@ -1748,11 +1780,19 @@
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220829070000 -0300" stop="20220829120000 -0300" channel="radiojornalpe.br">
+<programme start="20220829070000 -0300" stop="20220829072500 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829072500 -0300" stop="20220829120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 <programme start="20220829120000 -0300" stop="20220829123000 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220829120000 -0300" stop="20220827123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1805,11 +1845,19 @@
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220830670000 -0300" stop="20220830120000 -0300" channel="radiojornalpe.br">
+<programme start="20220829070000 -0300" stop="20220829072500 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830725000 -0300" stop="20220830120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
 <programme start="20220830120000 -0300" stop="20220830123000 -0300" channel="radiojornalpe.br">
+ <title lang="pt">Propaganda Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220830120000 -0300" stop="2022082313000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
