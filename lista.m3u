@@ -69,7 +69,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 
 #EXTINF: -1 tvg-id="yeeaah.br" tvg-chno="022" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Canais Geek", Yeeaah HD
-https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
 
 #EXTINF: -1 tvg-id="AllSports.br" tvg-chno="023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="Canais de Esportes", All Sport HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
