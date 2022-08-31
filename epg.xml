@@ -431,7 +431,7 @@
  <title lang="pt">Descendentes do Sol - Reprise</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20220831020000 -0300" stop="20220831040000 -0300" channel="anitv.br">
+<programme start="20220831010000 -0300" stop="20220831040000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -573,7 +573,7 @@
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20220902080000 -0300" stop="20220826100000 -0300" channel="yaaeeh.br">
+<programme start="20220902080000 -0300" stop="20220902100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -601,9 +601,13 @@
  <title lang="pt">Disparada</title>
  <desc lang="pt">Seleção de videoclipes sem intervalo. Além do Top 10 dos mais pedidos, você pode pedir seu som favorito, versões traduzidas com legenda, remixes exclusivos, batalhas de clipes e informações na tela.</desc>
 </programme>
-<programme start="20220902183000 -0300" stop="20220902193000 -0300" channel="yaaeeh.br">
+<programme start="20220902183000 -0300" stop="20220902190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20220902190000 -0300" stop="20220902193000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Homem-Haranha (1966)</title>
+ <desc lang="pt">Spider-Man é uma série de televisão animada de super-heróis que foi a primeira série de televisão baseada na série de quadrinhos do Homem-Aranha criada pelo escritor Stan Lee e pelo artista Steve Ditko..</desc>
 </programme>
 <programme start="20220902193000 -0300" stop="20220902200000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
