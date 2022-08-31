@@ -128,11 +128,7 @@
  <title lang="pt">A Anunciar</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
-<programme start="20220901010000 -0300" stop="20220901010000 -0300" channel="anitv.br">
- <title lang="pt">Descendentes do Sol - Reprise</title>
- <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
-</programme>
-<programme start="20220901020000 -0300" stop="20220901040000 -0300" channel="anitv.br">
+<programme start="20220901010000 -0300" stop="20220901040000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -1177,19 +1173,19 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20220824000000 -0300" stop="20220827000000 -0300" channel="StrikerVerso.br">
+<programme start="20220831000000 -0300" stop="20220902000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20220827000000 -0300" stop="20220831000000 -0300" channel="StrikerVerso.br">
+<programme start="20220902000000 -0300" stop="20220909000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20220825000000 -0300" stop="20220828000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20220830000000 -0300" stop="20220904000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">O StrikerVerso é o seu novo canal de web-streaming, feito de fã para fã, com um conteúdo inesperado, mas diferenciado de tudo o que você já viu!</desc>
 </programme>
-<programme start="20220828000000 -0300" stop="20220831000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20220904000000 -0300" stop="20220908000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
