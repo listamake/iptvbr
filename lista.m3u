@@ -130,7 +130,7 @@ https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b10da2b15bc6334e02544c206dc08d58.webp" group-title="Canais de Música", Kiss TV HD
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
-#EXTINF: -1 tvg-id="Clc.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTYF_KrysV3Iwsc3H5beiNFzso9AJqinZaUA&usqp=CAU" group-title="Canais de Filmes" pltv-subgroup = "Sis.Jornal do Comer.", Cine Life Classic HD
+#EXTINF: -1 tvg-id="Clc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp" group-title="Canais de Filmes" pltv-subgroup = "Sis.Jornal do Comer.", Cine Life Classic HD
 https://alanza.iptv2022.com/CLC/index.m3u8
 
 #EXTINF: -1 tvg-id="FronteiraMovies.br" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEim3dFDsR1wuS1OUItQg9QvQhBWaE08ty7LjZ5DURMt0NIZLDgN7MK2NhYXPG0nOrd6fDU-gzU8VuTNtgqlgopCxXWMgQFzBiVGDaG9voC0y3WElbdu-0o_yc4OPKkbpkuX1JcooJXk8VOq2kSVLlApJL4fiazIoCs2Bz5dIzSGC--ptHMuVbBiopVI=s320" group-title="Canais de Filmes", Fronteira Movies HD
