@@ -29,7 +29,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 
 #EXTINF: -1 tvg-id="RecordNews.br" tvg-chno="009" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias", Record News ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="Euronews.br" tvg-chno="010" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="Notícias",Euronews em português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
