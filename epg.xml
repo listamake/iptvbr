@@ -15,6 +15,14 @@
  <display-name lang="pt">ISTV HD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
+<channel id="TVMarAlagoas.br">
+ <display-name lang="pt">TV Mar HD</display-name>
+  <icon src="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png"/>
+</channel>
+<channel id="TVTop.br">
+ <display-name lang="pt">Top TV HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp"/>
+</channel>
 <channel id="KpopTVPlay.br">
  <display-name lang="pt">Kpop TV Play</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg"/>
@@ -900,76 +908,76 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
     ###TVMax.br###
-<programme start="20220901000000 -0300" stop="20220901080000 -0300" channel="TVMax.br">
+<programme start="20220905000000 -0300" stop="20220905080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Maxt</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20220901080000 -0300" stop="20220901100000 -0300" channel="TVMax.br">
+<programme start="20220905080000 -0300" stop="20220905100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20220901100000 -0300" stop="20220901110000 -0300" channel="TVMax.br">
+<programme start="20220905100000 -0300" stop="20220905110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20220901110000 -0300" stop="20220901120000 -0300" channel="TVMax.br">
+<programme start="20220905110000 -0300" stop="20220905120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20220901120000 -0300" stop="20220901130000 -0300" channel="TVMax.br">
+<programme start="20220905120000 -0300" stop="20220905130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20220901130000 -0300" stop="20220901150000 -0300" channel="TVMax.br">
+<programme start="20220905130000 -0300" stop="20220905150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20220901150000 -0300" stop="20220901153000 -0300" channel="TVMax.br">
+<programme start="20220905150000 -0300" stop="20220905153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="20220901153000 -0300" stop="20220901160000 -0300" channel="TVMax.br">
+<programme start="20220905153000 -0300" stop="20220901160000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
-<programme start="202209011600000 -0300" stop="2022090200000 -0300" channel="TVMax.br">
+<programme start="202209051600000 -0300" stop="2022090600000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="20220902000000 -0300" stop="20220902080000 -0300" channel="TVMax.br">
+<programme start="20220906000000 -0300" stop="20220906080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20220902080000 -0300" stop="20220902100000 -0300" channel="TVMax.br">
+<programme start="20220906080000 -0300" stop="20220906100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20220902100000 -0300" stop="20220902110000 -0300" channel="TVMax.br">
+<programme start="20220906100000 -0300" stop="20220906110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20220902110000 -0300" stop="20220902120000 -0300" channel="TVMax.br">
+<programme start="20220906110000 -0300" stop="20220906120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20220902120000 -0300" stop="20220902130000 -0300" channel="TVMax.br">
+<programme start="20220906120000 -0300" stop="20220906130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20220902130000 -0300" stop="20220902150000 -0300" channel="TVMax.br">
+<programme start="20220906130000 -0300" stop="20220906150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20220902150000 -0300" stop="20220902153000 -0300" channel="TVMax.br">
+<programme start="20220906150000 -0300" stop="20220906153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="20220902153000 -0300" stop="20220902160000 -0300" channel="TVMax.br">
+<programme start="20220906153000 -0300" stop="20220906160000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Fala Garotinho</title>
  <desc lang="pt"> No “Fala Garotinho” você ouve mensagens que falam ao seu coração, sempre com bom humor e muita diversão.</desc>
 </programme>
-<programme start="20220902160000 -0300" stop="20220903080000 -0300" channel="TVMax.br">
+<programme start="20220906160000 -0300" stop="20220907+80000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1573,67 +1581,67 @@
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
             ########semanal radioclubeam#####
-<programme start="20220815220000 -0300" stop="20220816050000 -0300" channel="radioclubeampe.br">
+<programme start="20220905220000 -0300" stop="20220906050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20220902050000 -0300" stop="20220902070000 -0300" channel="radioclubeampe.br">
+<programme start="20220906050000 -0300" stop="20220906070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220902070000 -0300" stop="20220902072500 -0300" channel="radioclubeampe.br">
+<programme start="20220906070000 -0300" stop="20220906072500 -0300" channel="radioclubeampe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220902072500 -0300" stop="20220902008000 -0300" channel="radioclubeampe.br">
+<programme start="20220906072500 -0300" stop="20220906008000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20220902080000 -0300" stop="20220902083000 -0300" channel="radioclubeampe.br">
+<programme start="20220906080000 -0300" stop="20220906083000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220902083000 -0300" stop="20220902110000 -0300" channel="radioclubeampe.br">
+<programme start="20220906083000 -0300" stop="20220906110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220902110000 -0300" stop="20220902120000 -0300" channel="radioclubeampe.br">
+<programme start="20220906110000 -0300" stop="20220906120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20220902120000 -0300" stop="20220902123000 -0300" channel="radioclubeampe.br">
+<programme start="20220906120000 -0300" stop="20220906123000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220902123000 -0300" stop="20220902130000 -0300" channel="radioclubeampe.br">
+<programme start="20220906123000 -0300" stop="20220906130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20220902130000 -0300" stop="20220902140000 -0300" channel="radioclubeampe.br">
+<programme start="20220906130000 -0300" stop="20220906140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220902140000 -0300" stop="20220902170000 -0300" channel="radioclubeampe.br">
+<programme start="20220906140000 -0300" stop="20220906170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220902170000 -0300" stop="20220902180000 -0300" channel="radioclubeampe.br">
+<programme start="20220906170000 -0300" stop="20220906180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220902180000 -0300" stop="20220902190000 -0300" channel="radioclubeampe.br">
+<programme start="20220906180000 -0300" stop="20220906190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="20220902190000 -0300" stop="20220902200000 -0300" channel="radioclubeampe.br">
+<programme start="20220906190000 -0300" stop="20220906200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20220902200000 -0300" stop="20220902220000 -0300" channel="radioclubeampe.br">
+<programme start="20220906200000 -0300" stop="20220906220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Rodrigo Collaço Tocando o Melhor do Pagode quando nâo houver futebol</desc>
 </programme> 
-<programme start="20220901220000 -0300" stop="20220902050000 -0300" channel="radioclubeampe.br">
+<programme start="20220906220000 -0300" stop="20220907050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
@@ -1642,11 +1650,15 @@
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20220905070000 -0300" stop="20220905073000 -0300" channel="radioclubeampe.br">
+<programme start="20220905070000 -0300" stop="20220905072500 -0300" channel="radioclubeampe.br">
+ <title lang="pt">Guia Eleitoral</title>
+ <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
+</programme>
+<programme start="20220905072500 -0300" stop="20220905008000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20220905073000 -0300" stop="20220905083000 -0300" channel="radioclubeampe.br">
+<programme start="20220905080000 -0300" stop="20220905083000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
@@ -1941,19 +1953,19 @@
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220902180000 -0300" stop="20220902190000 -0300" channel="radiojornalpe.br">
+<programme start="20220906180000 -0300" stop="20220906190000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Bola Rolando</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220902190000 -0300" stop="20220902200000 -0300" channel="radiojornalpe.br">
+<programme start="20220906190000 -0300" stop="20220906200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento Esportivo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220902200000 -0300" stop="20220902210000 -0300" channel="radiojornalpe.br">
+<programme start="20220906200000 -0300" stop="20220906210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
-<programme start="20220902210000 -0300" stop="20220903000000 -0300" channel="radiojornalpe.br">
+<programme start="20220906210000 -0300" stop="20220907000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -2049,37 +2061,73 @@
 </programme>
 
       ####Canalteste####
-<programme start="20220829000000 -0300" stop="2022083100000 -0300" channel="Canalteste">
+<programme start="20220904000000 -0300" stop="2022090600000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20220831000000 -0300" stop="2022090400000 -0300" channel="Canalteste">
+<programme start="20220906000000 -0300" stop="2022091400000 -0300" channel="Canalteste">
+ <title lang="pt">Programação de Teste</title>
+ <desc lang="pt">Canal em fase de testes</desc>
+</programme>
+<programme start="20220914000000 -0300" stop="2022092400000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
 
        ####AllSports.br####
-<programme start="20220901000000 -0300" stop="2022090400000 -0300" channel="AllSports.br">
+<programme start="20220904000000 -0300" stop="2022090800000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20220904000000 -0300" stop="20220908000000 -0300" channel="AllSports.br">
+<programme start="20220908000000 -0300" stop="20220918000000 -0300" channel="AllSports.br">
+ <title lang="pt">Programação All Sports</title>
+ <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
+</programme>
+<programme start="20220918000000 -0300" stop="20220928000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
 
        ####Euronews.br####
-<programme start="20220824000000 -0300" stop="20220828000000 -0300" channel="Euronews.br">
+<programme start="20220904000000 -0300" stop="20220907000000 -0300" channel="Euronews.br">
  <title lang="pt">Programação Euronews</title>
  <desc lang="pt">Euronews é uma estação televisiva de informação multilingue e pan-europeia, fundada em 1993 e sediada em Lyon, em França. Foi o primeiro canal do mundo a difundir em várias línguas.</desc>
 </programme>
-<programme start="20220828000000 -0300" stop="20220830000000 -0300" channel="Euronews.br">
+<programme start="20220907000000 -0300" stop="20220910000000 -0300" channel="Euronews.br">
  <title lang="pt">Programação Euronews</title>
  <desc lang="pt">Euronews é uma estação televisiva de informação multilingue e pan-europeia, fundada em 1993 e sediada em Lyon, em França. Foi o primeiro canal do mundo a difundir em várias línguas.</desc>
 </programme>
-<programme start="20220830000000 -0300" stop="20220902000000 -0300" channel="Euronews.br">
+<programme start="20220910000000 -0300" stop="20220918000000 -0300" channel="Euronews.br">
  <title lang="pt">Programação Euronews</title>
  <desc lang="pt">Euronews é uma estação televisiva de informação multilingue e pan-europeia, fundada em 1993 e sediada em Lyon, em França. Foi o primeiro canal do mundo a difundir em várias línguas.</desc>
+</programme>
+ 
+   ####TVMarAlagoas.br####
+<programme start="20220904000000 -0300" stop="20220908000000 -0300" channel="TVMarAlagoas.br">
+ <title lang="pt">Programação TV Mar</title>
+ <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
+</programme>
+<programme start="20220908000000 -0300" stop="20220915000000 -0300" channel="TVMarAlagoas.br">
+ <title lang="pt">Programação TV Mar</title>
+ <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
+</programme>
+<programme start="20220915000000 -0300" stop="20220920000000 -0300" channel="TVMarAlagoas.br">
+ <title lang="pt">Programação TV Mar</title>
+ <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
+</programme>
+ 
+   ####TVTop.br####
+<programme start="20220904000000 -0300" stop="20220908000000 -0300" channel="TVTop.br">
+ <title lang="pt">Programação Músical</title>
+ <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+</programme>
+<programme start="20220908000000 -0300" stop="20220912000000 -0300" channel="TVTop.br">
+ <title lang="pt">Programação Músical</title>
+ <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+</programme>
+<programme start="20220912000000 -0300" stop="20220922000000 -0300" channel="TVTop.br">
+ <title lang="pt">Programação Músical</title>
+ <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
  
      ####RetroCartoon.br#####
