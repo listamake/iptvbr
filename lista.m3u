@@ -127,7 +127,7 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b10da2b15bc6334e02544c206dc08d58.webp" group-title="Canais de Música", Kiss TV HD
+#EXTINF: -1 tvg-id="TVTop.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b10da2b15bc6334e02544c206dc08d58.webp" group-title="Canais de Música", Kiss TV HD
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
 #EXTINF: -1 tvg-id="Clc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp" group-title="Canais de Filmes" pltv-subgroup = "Sis.Jornal do Comer.", Cine Life Classic HD
