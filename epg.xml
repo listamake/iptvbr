@@ -88,11 +88,11 @@
 </channel>
 <channel id="COMBrasil.br">
  <display-name lang="pt">TV Comunitária HD</display-name>
-  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU"/>
+  <icon src="https://encrypted-tbn0.gstatic.com/"/>
 </channel>
 <channel id="TVCITVCOMUNICACOESINTERATIVASLTDA.br">
  <display-name lang="pt">TVCI HD</display-name>
-  <icon src="https://yt3.ggpht.com/ytc/AMLnZu-l5XdA59qWpjppvB16DYj9z8bYarcqe5aaG8jpnA=s900-c-k-c0x00ffffff-no-rj"/>
+  <icon src="https://yt3.ggpht.com"/>
 </channel>
 <channel id="RetroCartoon.br">
  <display-name lang="pt">RETRO CARTOON SD</display-name>
@@ -107,7 +107,7 @@
 </channel>
 <channel id="MixFMBelem.br">
  <display-name lang="pt">Mix Belém HD</display-name>
-  <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuhYQDVYSa8ld-tBHh_1DUryGII5E231PYw&usqp=CAU"/>
+  <icon src="https://encrypted-tbn0.gstatic.com"/>
 </channel>
 <channel id="ManajoaraAMBelem.br">
  <display-name lang="pt">Super Manajoara HD</display-name>
