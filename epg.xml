@@ -21,6 +21,7 @@
 </channel>
 <channel id="TVTop.br">
  <display-name lang="pt">Top TV HD</display-name>
+ <display-name lang="pt">Catve FM HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp"/>
 </channel>
 <channel id="KpopTVPlay.br">
@@ -107,8 +108,7 @@
 </channel>
 <channel id="MixFMBelem.br">
  <display-name lang="pt">Mix Belém HD</display-name>
- <display-name lang="pt">Catve FM HD</display-name>
-  <icon src="https://encrypted-tbn0.gstatic.com"/>
+  <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
 </channel>
 <channel id="ManajoaraAMBelem.br">
  <display-name lang="pt">Super Manajoara HD</display-name>
