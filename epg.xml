@@ -107,6 +107,7 @@
 </channel>
 <channel id="MixFMBelem.br">
  <display-name lang="pt">Mix Belém HD</display-name>
+ <display-name lang="pt">Catve FM HD</display-name>
   <icon src="https://encrypted-tbn0.gstatic.com"/>
 </channel>
 <channel id="ManajoaraAMBelem.br">
@@ -664,49 +665,70 @@
 </programme>
 
     ###KpopTVPlay.br###
-<programme start="20220905000000 -0300" stop="20220905190000 -0300" channel="KpopTVPlay.br">
+<programme start="20220907000000 -0300" stop="20220907190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20220905190000 -0300" stop="20220905200000 -0300" channel="KpopTVPlay.br">
+<programme start="20220907190000 -0300" stop="20220907200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20220905200000 -0300" stop="20220905213000 -0300" channel="KpopTVPlay.br">
+<programme start="20220907200000 -0300" stop="20220907213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20220905213000 -0300" stop="20220905233000 -0300" channel="KpopTVPlay.br">
+<programme start="20220907213000 -0300" stop="20220907233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20220905233000 -0300" stop="20220906000000 -0300" channel="KpopTVPlay.br">
+<programme start="20220907233000 -0300" stop="20220908000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20220906000000 -0300" stop="20220906190000 -0300" channel="KpopTVPlay.br">
+<programme start="20220908000000 -0300" stop="20220908190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20220906190000 -0300" stop="20220906200000 -0300" channel="KpopTVPlay.br">
+<programme start="20220908190000 -0300" stop="20220908200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20220906200000 -0300" stop="20220906213000 -0300" channel="KpopTVPlay.br">
+<programme start="20220908200000 -0300" stop="20220908213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20220906213000 -0300" stop="20220906233000 -0300" channel="KpopTVPlay.br">
+<programme start="20220908213000 -0300" stop="20220908233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20220906233000 -0300" stop="20220907000000 -0300" channel="KpopTVPlay.br">
+<programme start="20220908233000 -0300" stop="20220909000000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Old KPop</title>
+ <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
+</programme>
+ 
+<programme start="20220909000000 -0300" stop="20220909190000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Programação Kpop TV Play</title>
+ <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
+</programme>
+<programme start="20220909190000 -0300" stop="20220909200000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Hits on Top</title>
+ <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
+</programme>
+<programme start="20220909200000 -0300" stop="20220909213000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Boys VS. Girls</title>
+ <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
+</programme>
+<programme start="20220909213000 -0300" stop="20220909233000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Dança e Joga</title>
+ <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
+</programme>
+<programme start="20220909233000 -0300" stop="20220910000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
 
-<programme start="20220904000000 -0300" stop="20220905000000 -0300" channel="KpopTVPlay.br">
+<programme start="20220906000000 -0300" stop="20220907000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
