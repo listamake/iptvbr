@@ -294,6 +294,12 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF: -1 tvg-id="TVAratu.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9Ti980YfMbMdRec_c-m5SiV4haSnIlTc8mxjPr=s88-c-k-c0x00ffffff-no-rj" group-title="Regionais", TV Aratu HD
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
+#EXTINF: -1 tvg-id="TVGazeta.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c1b16402c98da43a39e97fca49875675.webp" group-title="Regionais", TV Alternativa HD
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF: -1 tvg-id="TVGazeta.br" tvg-logo="https://play-lh.googleusercontent.com/elNxnvEYEpvJ4cCXbHpktj4IW_pwZ0x1LH1yi3OHMVhMwz0N8uxlLEGDA7319aKPBmI" group-title="Regionais", TV Gazeta PA HD
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
 #EXTINF: -1 tvg-id="CanaldoBoi.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d312151d9e78ff54528d3fbe3659ac4.webp" group-title="Variedades", TV WA
 https://streaming.ebosystems.com.br/canalwaagro/stream/playlist.m3u8
 
