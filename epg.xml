@@ -1252,19 +1252,19 @@
 </programme>
  
     ####ISTVHD.br####
-<programme start="20220914000000 -0300" stop="20220914130000 -0300" channel="ISTVHD.br">
+<programme start="20220916000000 -0300" stop="20220916130000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20220914130000 -0300" stop="20220914132500 -0300" channel="ISTVHD.br">
+<programme start="20220916130000 -0300" stop="20220916132500 -0300" channel="ISTVHD.br">
  <title lang="pt">Propaganda Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220914132500 -0300" stop="20220914203000 -0300" channel="ISTVHD.br">
+<programme start="20220916132500 -0300" stop="20220916203000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20220914203000 -0300" stop="20220914205500 -0300" channel="ISTVHD.br">
+<programme start="20220916203000 -0300" stop="20220916205500 -0300" channel="ISTVHD.br">
  <title lang="pt">Propaganda Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
@@ -1289,7 +1289,7 @@
  <title lang="pt">Propaganda Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220913205500 -0300" stop="20220914000000 -0300" channel="ISTVHD.br">
+<programme start="20220915205500 -0300" stop="20220916000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
