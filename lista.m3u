@@ -167,8 +167,8 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF: -1 tvg-id="StrikerVersobeta.br" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 2
 https://stream.ichibantv.ga:3904/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-id="RedeTV.br" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 3 HD
-https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 3 HD
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
