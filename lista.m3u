@@ -224,7 +224,7 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://media.discordapp.net/attachments/974885569547079792/983823659183517706/Perfil.png" group-title="Entretenimento", TV Rabelo HD
+#EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4bf3578c64e92314038908ff72abf969.webp" group-title="Entretenimento", TV Rabelo HD
 https://cdn.jmvstream.com/w/AVJ-10593/playlist/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 5
