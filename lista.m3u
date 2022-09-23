@@ -19,7 +19,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF: -1 tvg-id="RBATV.br" tvg-chno="006" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="Variedades", Band Belém 
-https://streaming.gruporba.com.br/rba.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RedeTV.br" tvg-chno="007" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades" , RedeTV! Mais
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
