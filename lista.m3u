@@ -253,6 +253,7 @@ https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=165134
 https://streaming03.zas.media:1936/rbatv/rbatv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVBrasil.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu85CGqs2wK3OtPbr4Juj-VaCFBTMISKHNGC8qIB=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Canais Públicos" , TV Universitária Recife HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://150.161.93.220/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="Canais Públicos" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj",TV Paraná Turismo
