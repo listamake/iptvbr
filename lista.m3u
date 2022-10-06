@@ -218,11 +218,15 @@ https://video01.kshost.com.br:4443/murilo9207/murilo9207/playlist.m3u8
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg" group-title="Canais Geek", Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ETCTV.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_U3nSngH2FeignKjvrlJdNzw09XvQJg_bg&usqp=CAU" group-title="Canais Geek", ETC TV HD
+#EXTINF: -1 tvg-id="ETCTV.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_U3nSngH2FeignKjvrlJdNzw09XvQJg_bg&usqp=CAU" group-title="Canais Geek", ETC TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="locomotion.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
+#EXTINF: -1 tvg-id="energeek.cl" tvg-logo="https://yt3.ggpht.com/EUuMLgrvwKkWK50isyPhriguy1GexJipqardXFtw4HOlixTHkF_E211wf205mBqrUYjA-5kR6y8=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Geek" , EnerGeek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
+
+#EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4bf3578c64e92314038908ff72abf969.webp" group-title="Entretenimento", TV Rabelo HD
