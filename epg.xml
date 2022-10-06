@@ -1906,7 +1906,7 @@
 </programme>
 
        #####radiojornalpe.br ######
-<programme start="20221002000000 -0300" stop="20221005000000 -0300" channel="radiojornalpe.br">
+<programme start="20221006000000 -0300" stop="20221007000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1976,31 +1976,31 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20220927000000 -0300" stop="20220927020000 -0300" channel="radiojornalpe.br">
+<programme start="20221007000000 -0300" stop="20221007020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927020000 -0300" stop="20220927030000 -0300" channel="radiojornalpe.br">
+<programme start="20221007020000 -0300" stop="20221007030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927030000 -0300" stop="20220927050000 -0300" channel="radiojornalpe.br">
+<programme start="20221007030000 -0300" stop="20221007050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927050000 -0300" stop="20220927063000 -0300" channel="radiojornalpe.br">
+<programme start="20221007050000 -0300" stop="20221007063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927063000 -0300" stop="20220927070000 -0300" channel="radiojornalpe.br">
+<programme start="20221007063000 -0300" stop="20221007070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927070000 -0300" stop="20220927072500 -0300" channel="radiojornalpe.br">
+<programme start="20221007070000 -0300" stop="20221007072500 -0300" channel="radiojornalpe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220927072500 -0300" stop="20220927120000 -0300" channel="radiojornalpe.br">
+<programme start="20221007072500 -0300" stop="20221007120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -2132,15 +2132,15 @@
 </programme>
 
       ####Canalteste####
-<programme start="20220914000000 -0300" stop="20220916000000 -0300" channel="Canalteste">
+<programme start="20221006000000 -0300" stop="20221016000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20220916000000 -0300" stop="20220924000000 -0300" channel="Canalteste">
+<programme start="20221016000000 -0300" stop="20221024000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20220924000000 -0300" stop="20221006000000 -0300" channel="Canalteste">
+<programme start="20221024000000 -0300" stop="20221028000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
