@@ -6,8 +6,8 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp"/>
  <url>mi.tv</url>
 </channel>
-<channel id="playch.br">
- <display-name lang="pt">Play Channel HD</display-name>
+<channel id="PLAYTV.br">
+ <display-name lang="pt">TV WA</display-name>
   <url>mi.tv</url>
   <icon src=""/>
 </channel>
@@ -1230,14 +1230,15 @@
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
-    ####playch####
-<programme start="20220601180000 -0300" stop="20220601120000 -0300" channel="playch.br">
- <title lang="pt">Otacraze</title>
- <desc lang="pt">anime</desc>
+    ####PLAYTV.br####
+ 
+<programme start="20221008000000 -0300" stop="20220601120000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Programação PlayTV</title>
+ <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
-<programme start="20220618130000 -0300" stop="20220629163000 -0300" channel="playch.br">
- <title lang="pt">Programação Teste</title>
- <desc lang="pt">anime</desc>
+<programme start="20220618130000 -0300" stop="20220629163000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Programação PlayTV</title>
+ <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
  
     ####ISTVHD.br####
