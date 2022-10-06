@@ -974,7 +974,7 @@
 </programme>
     ###TVMax.br###
 <programme start="20221006000000 -0300" stop="20221006080000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Maxt</title>
+ <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
 <programme start="20221006080000 -0300" stop="20221006100000 -0300" channel="TVMax.br">
@@ -1232,11 +1232,11 @@
 </programme>
     ####PLAYTV.br####
  
-<programme start="20221008000000 -0300" stop="20220601120000 -0300" channel="PLAYTV.br">
+<programme start="20221006000000 -0300" stop="20221090000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
-<programme start="20220618130000 -0300" stop="20220629163000 -0300" channel="PLAYTV.br">
+<programme start="20221009000000 -0300" stop="20221010000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
