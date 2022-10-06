@@ -1287,7 +1287,7 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20221006000000 -0300" stop="20221001000000 -0300" channel="StrikerVerso.br">
+<programme start="20221006000000 -0300" stop="20221010000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -1295,7 +1295,7 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20221006000000 -0300" stop="20221001200000 -0300" channel="StrikerVersobeta.br">
+<programme start="20221006000000 -0300" stop="20221012000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">O StrikerVerso é o seu novo canal de web-streaming, feito de fã para fã, com um conteúdo inesperado, mas diferenciado de tudo o que você já viu!</desc>
 </programme>
@@ -1455,31 +1455,31 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20221003000000 -0300" stop="20221003050000 -0300" channel="cbnrede.br">
+<programme start="20221007000000 -0300" stop="20221007050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20221003050000 -0300" stop="20221003060000 -0300" channel="cbnrede.br">
+<programme start="20221007050000 -0300" stop="20221007060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20221003060000 -0300" stop="20221003070000 -0300" channel="cbnrede.br">
+<programme start="20221007060000 -0300" stop="20221007070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20221003070000 -0300" stop="20221003072500 -0300" channel="cbnrede.br">
+<programme start="20221007070000 -0300" stop="20221007072500 -0300" channel="cbnrede.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20221003072500 -0300" stop="20221003093000 -0300" channel="cbnrede.br">
+<programme start="20221007072500 -0300" stop="20221007093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20221003093000 -0300" stop="20221003100000 -0300" channel="cbnrede.br">
+<programme start="20221007093000 -0300" stop="20221007100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20221003100000 -0300" stop="20221003120000 -0300" channel="cbnrede.br">
+<programme start="20221007100000 -0300" stop="20221007120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
