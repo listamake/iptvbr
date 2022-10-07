@@ -1248,10 +1248,45 @@
 </programme>
     ####PLAYTV.br####
  
-<programme start="20221006000000 -0300" stop="20221009000000 -0300" channel="PLAYTV.br">
+<programme start="20221010000000 -0300" stop="20221011000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
+ 
+<programme start="20221007000000 -0300" stop="20221007150000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Prévia da Programação Play TV</title>
+ <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
+</programme>
+<programme start="20221007150000 -0300" stop="20221007180000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Medalhão Persa</title>
+ <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
+</programme>
+<programme start="20221007180000 -0300" stop="20221007200000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Prévia da Programação Play TV</title>
+ <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
+</programme>
+<programme start="20221007200000 -0300" stop="20221008000000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Agro Canal</title>
+ <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
+</programme>
+ 
+<programme start="20221008000000 -0300" stop="20221008150000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Prévia da Programação Play TV</title>
+ <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
+</programme>
+<programme start="20221008150000 -0300" stop="20221008180000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Medalhão Persa</title>
+ <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
+</programme>
+<programme start="20221008180000 -0300" stop="20221008200000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Prévia da Programação Play TV</title>
+ <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
+</programme>
+<programme start="20221008200000 -0300" stop="20221009000000 -0300" channel="PLAYTV.br">
+ <title lang="pt">Agro Canal</title>
+ <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
+</programme>
+ 
 <programme start="20221009000000 -0300" stop="20221010000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
@@ -1602,24 +1637,24 @@
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20220924120000 -0300" stop="20220924150000 -0300" channel="cbnrede.br">
+<programme start="20221008120000 -0300" stop="20221008150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20220924150000 -0300" stop="20220924210000 -0300" channel="cbnrede.br">
+<programme start="20221008150000 -0300" stop="20221008210000 -0300" channel="cbnrede.br">
  <title lang="pt">Show da Notícia e/ou Futebol</title>
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20220924210000 -0300" stop="20220924230000 -0300" channel="cbnrede.br">
+<programme start="20221008210000 -0300" stop="20221008230000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no dia.</desc>
 </programme>
-<programme start="20220924230000 -0300" stop="20220925000000 -0300" channel="cbnrede.br">
+<programme start="20221008230000 -0300" stop="20221009000000 -0300" channel="cbnrede.br">
  <title lang="pt">Globo News Painel</title>
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
    ###dom###
-<programme start="20220925000000 -0300" stop="20220925060000 -0300" channel="cbnrede.br">
+<programme start="20221009000000 -0300" stop="20221009060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
@@ -1823,48 +1858,48 @@
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20220916130000 -0300" stop="20220916140000 -0300" channel="radioclubeampe.br">
+<programme start="20221007130000 -0300" stop="20221007140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20220916140000 -0300" stop="20220916160000 -0300" channel="radioclubeampe.br">
+<programme start="20221007140000 -0300" stop="20221007160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220916160000 -0300" stop="20220916170000 -0300" channel="radioclubeampe.br">
+<programme start="20220916160000 -0300" stop="20220907170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Cena Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220916170000 -0300" stop="20220916180000 -0300" channel="radioclubeampe.br">
+<programme start="20221007170000 -0300" stop="20221007180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220916180000 -0300" stop="20220916190000 -0300" channel="radioclubeampe.br">
+<programme start="20221007180000 -0300" stop="20221007190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="20220916190000 -0300" stop="20220916200000 -0300" channel="radioclubeampe.br">
+<programme start="20221007190000 -0300" stop="20221007200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20220916200000 -0300" stop="20220916220000 -0300" channel="radioclubeampe.br">
+<programme start="20221007200000 -0300" stop="20221007220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Rodrigo Collaço Tocando o Melhor do Pagode quando nâo houver futebol</desc>
 </programme> 
      ###sabado###
-<programme start="20220923220000 -0300" stop="20220924080000 -0300" channel="radioclubeampe.br">
+<programme start="20221007220000 -0300" stop="20221008080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20220924080000 -0300" stop="20220924120000 -0300" channel="radioclubeampe.br">
+<programme start="20221008080000 -0300" stop="20221008120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">Carnaval é o tema. Os momentos, os destaques, os nomes que fazem e já fizeram esta festa que movimenta Pernambuco, principalmente, com nosso ritmo, o frevo. A comunicação é outra grande atração, este programa é orquestrado pelo mestre Zuca Show.</desc>
 </programme>
-<programme start="20220924120000 -0300" stop="20220924160000 -0300" channel="radioclubeampe.br">
+<programme start="20221008120000 -0300" stop="20221008160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220924160000 -0300" stop="20220824182000 -0300" channel="radioclubeampe.br">
+<programme start="20221008160000 -0300" stop="20221008182000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Transmissão dos jogos dos clubes de Pernambuco, do Nordeste e do Brasil com a equipe número um do Rádio. Os Campeões da Bola levam: notícias, informações, entrevistas, comentários e a narração em cima do lance com o futebol moderno da Clube.</desc>
 </programme>
@@ -2021,60 +2056,60 @@
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927120000 -0300" stop="20220927123000 -0300" channel="radiojornalpe.br">
+<programme start="20221007120000 -0300" stop="20221007123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20220927120000 -0300" stop="2022092713000 -0300" channel="radiojornalpe.br">
+<programme start="20221007120000 -0300" stop="2022100713000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927123000 -0300" stop="20220927140000 -0300" channel="radiojornalpe.br">
+<programme start="20221007123000 -0300" stop="20221007140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20220927140000 -0300" stop="20220927160000 -0300" channel="radiojornalpe.br">
+<programme start="20221007140000 -0300" stop="20221007160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927160000 -0300" stop="20220927180000 -0300" channel="radiojornalpe.br">
+<programme start="20221007160000 -0300" stop="20221007180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220927180000 -0300" stop="20220927190000 -0300" channel="radiojornalpe.br">
+<programme start="20221007180000 -0300" stop="20221007190000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Bola Rolando</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220923190000 -0300" stop="20220923200000 -0300" channel="radiojornalpe.br">
+<programme start="20221007190000 -0300" stop="20221007200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento Esportivo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220923800000 -0300" stop="20220923210000 -0300" channel="radiojornalpe.br">
+<programme start="20221007800000 -0300" stop="20221007210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
-<programme start="20220923210000 -0300" stop="20220924000000 -0300" channel="radiojornalpe.br">
+<programme start="20221007210000 -0300" stop="20221008000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###SAB###
-<programme start="20220924000000 -0300" stop="20220924020000 -0300" channel="radiojornalpe.br">
+<programme start="20221008000000 -0300" stop="20221008020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220924020000 -0300" stop="20220924030000 -0300" channel="radiojornalpe.br">
+<programme start="20221008020000 -0300" stop="20221008030000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220924030000 -0300" stop="20220924050000 -0300" channel="radiojornalpe.br">
+<programme start="20221008030000 -0300" stop="20221008050000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Reprise Super manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220924050000 -0300" stop="20220924063000 -0300" channel="radiojornalpe.br">
+<programme start="20221008050000 -0300" stop="20221008063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Povo/O Redator de Platão</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20220924063000 -0300" stop="202209240700000 -0300" channel="radiojornalpe.br">
+<programme start="20221008063000 -0300" stop="202210080700000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
