@@ -380,7 +380,7 @@ https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio", CBN São Paulo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTVLCOPT:http-referrer=https://cbn.globoradio.globo.com/aefb9047-601a-434f-a611-be1a625743fc
+#EXTVLCOPT:http-referrer=https://www.dailymotion.com/cdn/live/video/x8abdvf.m3u8?sec=7U06dg5mQ6xiy_dQ4-eXoP8t53yGBnvbrBI0pMZNKBOpZx8DsWkQRCtKHhhSQGCwE2rSk2xUy3_I6XTmCIIZTw&dmTs=603482&dmV1st=C2F1F6FF83324C4530024732D587BCC1
 
 
 #EXTINF: -1 tvg-id="radiobandnewssp.br" tvg-logo="https://pubimg.band.uol.com.br/files/b68bc843684d9a97822c.png" group-title="Canais de Áudio",Rádio Band News SP FM
