@@ -153,11 +153,11 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221006150000 -0300" stop="20221007000000 -0300" channel="anitv.br">
+<programme start="20221011000000 -0300" stop="20221012000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20220930090000 -0300" stop="20221001000000 -0300" channel="anitv.br">
+<programme start="20221010090000 -0300" stop="20221011000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -575,7 +575,7 @@
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221007000000 -0300" stop="20221010000000 -0300" channel="yaaeeh.br">
+<programme start="20221012000000 -0300" stop="20221013000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
