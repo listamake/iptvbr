@@ -115,6 +115,14 @@
  <display-name lang="pt">Mix Belém HD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
 </channel>
+<channel id="energeek.cl">
+ <display-name lang="pt">EnerGeek</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
+</channel>
+<channel id="radiobandnewssp.br">
+ <display-name lang="pt">Rádio Band News SP</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1397295714628218884/A6Efk-71_400x400.jpg"/>
+</channel>
 <channel id="ManajoaraAMBelem.br">
  <display-name lang="pt">Super Manajoara HD</display-name>
   <icon src="https://img.radios.com.br/radio/xl/radio18948_1636027882.jpeg"/>
@@ -1506,6 +1514,12 @@
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
  
+  ####radiobandnewssp.br####
+<programme start="20221011000000 -0300" stop="20221014000000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Programação Rádio Band News</title>
+ <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
+</programme>
+ 
    ####cbnrede.br####
 <programme start="20221006000000 -0300" stop="20221007000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
@@ -1581,39 +1595,39 @@
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20221011072000 -0300" stop="20221011093000 -0300" channel="cbnrede.br">
+<programme start="20221013072000 -0300" stop="20221013093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20221011093000 -0300" stop="20221011100000 -0300" channel="cbnrede.br">
+<programme start="20221013093000 -0300" stop="20221013100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20221011100000 -0300" stop="20221011120000 -0300" channel="cbnrede.br">
+<programme start="20221013100000 -0300" stop="20221013120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20221011120000 -0300" stop="20221011123000 -0300" channel="cbnrede.br">
+<programme start="20221013120000 -0300" stop="20221013123000 -0300" channel="cbnrede.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20221011123000 -0300" stop="20221011140000 -0300" channel="cbnrede.br">
+<programme start="20221013123000 -0300" stop="20221013140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20221011140000 -0300" stop="20221011170000 -0300" channel="cbnrede.br">
+<programme start="20221013140000 -0300" stop="20221013170000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20221011170000 -0300" stop="20221011200000 -0300" channel="cbnrede.br">
+<programme start="20221013170000 -0300" stop="20221013200000 -0300" channel="cbnrede.br">
  <title lang="pt">Ponto Final CBN</title>
  <desc lang="pt">Resumo do que aconteceu no dia com Rodrigo Bocardi e Carolina Morand.</desc>
 </programme>
-<programme start="20221010200000 -0300" stop="20221011210000 -0300" channel="cbnrede.br">
+<programme start="20221013200000 -0300" stop="20221013210000 -0300" channel="cbnrede.br">
  <title lang="pt">Quatro em Campo</title>
  <desc lang="pt">Resenha esportiva com a equipe de craques da cbn. com Carlos Eduardo Eboli, Paulo Massini, Francisco Aiello e André Sanches.</desc>
 </programme>
-<programme start="20221010210000 -0300" stop="20221012000000 -0300" channel="cbnrede.br">
+<programme start="20221013210000 -0300" stop="20221014000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
@@ -1709,47 +1723,47 @@
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
             ########semanal radioclubeam#####
-<programme start="20221009220000 -0300" stop="20221010050000 -0300" channel="radioclubeampe.br">
+<programme start="20221011220000 -0300" stop="20221012050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20221010050000 -0300" stop="20221010070000 -0300" channel="radioclubeampe.br">
+<programme start="20221012050000 -0300" stop="20221012070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20221010070000 -0300" stop="20221010072500 -0300" channel="radioclubeampe.br">
+<programme start="20221012070000 -0300" stop="20221012072500 -0300" channel="radioclubeampe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20221010072500 -0300" stop="20221010008000 -0300" channel="radioclubeampe.br">
+<programme start="20221012072500 -0300" stop="20221012008000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20221010080000 -0300" stop="20221010083000 -0300" channel="radioclubeampe.br">
+<programme start="20221012080000 -0300" stop="20221012083000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221010083000 -0300" stop="20221010110000 -0300" channel="radioclubeampe.br">
+<programme start="20221012083000 -0300" stop="20221012110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221010110000 -0300" stop="20221010120000 -0300" channel="radioclubeampe.br">
+<programme start="20221012110000 -0300" stop="20221012120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221010120000 -0300" stop="20221010123000 -0300" channel="radioclubeampe.br">
+<programme start="20221012120000 -0300" stop="20221012123000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
-<programme start="20221010123000 -0300" stop="20221010130000 -0300" channel="radioclubeampe.br">
+<programme start="20221012123000 -0300" stop="20221012130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20221010130000 -0300" stop="20221010140000 -0300" channel="radioclubeampe.br">
+<programme start="20221012130000 -0300" stop="20221012140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20221010140000 -0300" stop="20221010170000 -0300" channel="radioclubeampe.br">
+<programme start="20221012140000 -0300" stop="20221012170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
