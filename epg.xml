@@ -161,17 +161,17 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221019150000 -0300" stop="20221020000000 -0300" channel="anitv.br">
+<programme start="20221020150000 -0300" stop="20221021000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20221020150000 -0300" stop="20221021000000 -0300" channel="anitv.br">
+<programme start="20221024150000 -0300" stop="20221025000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
 
         ####grade semanal anitv####
-<programme start="20221019000000 -0300" stop="20221019003000 -0300" channel="anitv.br">
+<programme start="20221020000000 -0300" stop="20221020010000 -0300" channel="anitv.br">
  <title lang="pt">A Confirmar</title>
  <desc lang="pt">Um programa a ser confirmado.</desc>
 </programme>
@@ -179,7 +179,7 @@
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20221019010000 -0300" stop="20221019070000 -0300" channel="anitv.br">
+<programme start="20221020010000 -0300" stop="20221020070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -187,27 +187,27 @@
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221019070000 -0300" stop="20221019090000 -0300" channel="anitv.br">
+<programme start="20221020070000 -0300" stop="20221020090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20221019090000 -0300" stop="20221019093000 -0300" channel="anitv.br">
+<programme start="20221020090000 -0300" stop="20221020093000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho - Reprise</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20221019093000 -0300" stop="20221019100000 -0300" channel="anitv.br">
+<programme start="20221020093000 -0300" stop="20221020100000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia - Reprise</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20221019100000 -0300" stop="20221019113000 -0300" channel="anitv.br">
+<programme start="20221020100000 -0300" stop="20221020113000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30.</desc>
 </programme>
-<programme start="20221019113000 -0300" stop="20221019120000 -0300" channel="anitv.br">
+<programme start="20221020113000 -0300" stop="20221020120000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura - Reprise</title>
  <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
 </programme>
-<programme start="20221019120000 -0300" stop="20221019150000 -0300" channel="anitv.br">
+<programme start="20221020120000 -0300" stop="20221020150000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Tarde</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -277,7 +277,7 @@
 </programme>
  
    ####sabado anitv####
-<programme start="20221015000000 -0300" stop="20221015010000 -0300" channel="anitv.br">
+<programme start="20221021000000 -0300" stop="20221021010000 -0300" channel="anitv.br">
  <title lang="pt">A Anunciar</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
@@ -285,7 +285,7 @@
  <title lang="pt">Descendentes do Sol - Reprise</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20221018010000 -0300" stop="20221015040000 -0300" channel="anitv.br">
+<programme start="20221021010000 -0300" stop="20221021060000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -474,7 +474,7 @@
  <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
 </programme>
  
-<programme start="20221020000000 -0300" stop="20221020010000 -0300" channel="anitv.br">
+<programme start="20221024000000 -0300" stop="20221024010000 -0300" channel="anitv.br">
  <title lang="pt">A Confirmar</title>
  <desc lang="pt">Um programa a ser confirmado.</desc>
 </programme>
@@ -482,7 +482,7 @@
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20221020020000 -0300" stop="20221020070000 -0300" channel="anitv.br">
+<programme start="20221024010000 -0300" stop="20221024070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -490,27 +490,27 @@
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221020070000 -0300" stop="20221020090000 -0300" channel="anitv.br">
+<programme start="20221024070000 -0300" stop="20221024090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20221020090000 -0300" stop="20221020093000 -0300" channel="anitv.br">
+<programme start="20221024090000 -0300" stop="20221024093000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho - Reprise</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20221020093000 -0300" stop="20221020100000 -0300" channel="anitv.br">
+<programme start="20221024093000 -0300" stop="20221024100000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia - Reprise</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20221020100000 -0300" stop="20221020113000 -0300" channel="anitv.br">
+<programme start="20221024100000 -0300" stop="20221024113000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30.</desc>
 </programme>
-<programme start="20221020113000 -0300" stop="20221020120000 -0300" channel="anitv.br">
+<programme start="20221024113000 -0300" stop="20221024120000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura - Reprise</title>
  <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
 </programme>
-<programme start="20221020120000 -0300" stop="20221020150000 -0300" channel="anitv.br">
+<programme start="20221024120000 -0300" stop="20221024150000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Tarde</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
