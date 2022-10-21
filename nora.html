@@ -1,20 +1,22 @@
-<HTML>
-	<HEAD><TITLE>Exibir Data e Hora em HTML </TITLE>
+<!DOCTYPE html>
+<html>
+<head> 
+ <TITLE>Exibir Data e Hora em HTML </TITLE>
 		<script src="https://code.jquery.com/jquery-1.11.2.js"></script>
 		<script type="text/javascript">
 			jQuery(window).load(function($){
 				atualizaRelogio();
 			});
 		</script>
-	</HEAD>
-	<BODY>
+</head>
+<body>
 		<div>
 			<output id="data" style="font-family: 'arial black', 'avant garde'; font-size: 24px;"></output>
 		</div>
 		<div>
 			<output id="hora" style="font-family: 'arial black', 'avant garde'; font-size: 24px;"></output>				
 		</div>			
-	</BODY>
+</body>
 	<script>
 		function atualizaRelogio(){ 
 			var momentoAtual = new Date();
@@ -42,4 +44,4 @@
 			setTimeout("atualizaRelogio()",1000);
 		}
 	</script>	
-</HTML>
+</html>
