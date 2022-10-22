@@ -285,7 +285,7 @@
  <title lang="pt">Descendentes do Sol - Reprise</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20221021010000 -0300" stop="20221021060000 -0300" channel="anitv.br">
+<programme start="20221021010000 -0300" stop="20221021070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -297,7 +297,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20221015070000 -0300" stop="20221015140000 -0300" channel="anitv.br">
+<programme start="20221021070000 -0300" stop="20221021140000 -0300" channel="anitv.br">
  <title lang="pt">InforAni</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
@@ -305,7 +305,7 @@
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20221015140000 -0300" stop="20221016030000 -0300" channel="anitv.br">
+<programme start="20221021140000 -0300" stop="20221022030000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
@@ -335,7 +335,7 @@
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20221016050000 -0300" stop="20221016070000 -0300" channel="anitv.br">
+<programme start="20221021030000 -0300" stop="20221021070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -579,28 +579,28 @@
  <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
 </programme>
     ####yeeaah####
-<programme start="20221020000000 -0300" stop="20221021000000 -0300" channel="yaaeeh.br">
+<programme start="20221021000000 -0300" stop="20221022000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221017000000 -0300" stop="20221019000000 -0300" channel="yaaeeh.br">
+<programme start="20221022000000 -0300" stop="20221023000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20221019000000 -0300" stop="20221019003000 -0300" channel="yaaeeh.br">
+<programme start="20221023000000 -0300" stop="20221023003000 -0300" channel="yaaeeh.br">
  <title lang="pt">Disparada</title>
  <desc lang="pt">Seleção de videoclipes sem intervalo. Além do Top 10 dos mais pedidos, você pode pedir seu som favorito, versões traduzidas com legenda, remixes exclusivos, batalhas de clipes e informações na tela.</desc>
 </programme>
-<programme start="20221019003000 -0300" stop="20221019010000 -0300" channel="yaaeeh.br">
+<programme start="20221023003000 -0300" stop="20221023010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Zone</title>
  <desc lang="pt">Os lançamentos do mundo dos games, séries e cinema. Aqui você confere trailers dos principais títulos e confere novidades das principais plataformas.</desc>
 </programme>
-<programme start="20221019010000 -0300" stop="20221019030000 -0300" channel="yaaeeh.br">
+<programme start="20221023010000 -0300" stop="20221023030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20221019030000 -0300" stop="20221019040000 -0300" channel="yaaeeh.br">
+<programme start="20221023030000 -0300" stop="20221023040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
