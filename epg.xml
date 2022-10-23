@@ -161,11 +161,11 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221020150000 -0300" stop="20221021000000 -0300" channel="anitv.br">
+<programme start="20221024150000 -0300" stop="20221025000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20221021150000 -0300" stop="20221022000000 -0300" channel="anitv.br">
+<programme start="20221025150000 -0300" stop="20221026000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -373,7 +373,7 @@
 </programme>
 
     ###segunda anitv###
-<programme start="20221017010000 -0300" stop="20221017040000 -0300" channel="anitv.br">
+<programme start="20221024010000 -0300" stop="20221024070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -385,7 +385,7 @@
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221017070000 -0300" stop="20221017090000 -0300" channel="anitv.br">
+<programme start="20221024070000 -0300" stop="20221024090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
@@ -397,7 +397,7 @@
  <title lang="en">My Hero Academia - Reprise</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20221017100000 -0300" stop="20221017113000 -0300" channel="anitv.br">
+<programme start="20221024080000 -0300" stop="20221024120000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30.</desc>
 </programme>
@@ -405,7 +405,7 @@
  <title lang="pt">Cardcaptor Sakura - Reprise</title>
  <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
 </programme>
-<programme start="20221017120000 -0300" stop="20221017150000 -0300" channel="anitv.br">
+<programme start="20221024120000 -0300" stop="20221024150000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Tarde</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -474,7 +474,7 @@
  <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
 </programme>
  
-<programme start="20221024000000 -0300" stop="20221024010000 -0300" channel="anitv.br">
+<programme start="20221025000000 -0300" stop="20221025010000 -0300" channel="anitv.br">
  <title lang="pt">A Confirmar</title>
  <desc lang="pt">Um programa a ser confirmado.</desc>
 </programme>
@@ -482,7 +482,7 @@
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20221024010000 -0300" stop="20221024070000 -0300" channel="anitv.br">
+<programme start="20221025010000 -0300" stop="20221025070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -490,7 +490,7 @@
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221024070000 -0300" stop="20221024090000 -0300" channel="anitv.br">
+<programme start="20221025070000 -0300" stop="20221025090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
@@ -579,7 +579,7 @@
  <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
 </programme>
     ####yeeaah####
-<programme start="20221021000000 -0300" stop="20221023000000 -0300" channel="yaaeeh.br">
+<programme start="20221025000000 -0300" stop="20221026000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -1127,7 +1127,7 @@
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20221025050000 -0300" stop="20221025570000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221025050000 -0300" stop="20221025070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
@@ -1143,7 +1143,7 @@
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>8
-<programme start="20221020103000 -0300" stop="20221025110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221025103000 -0300" stop="20221025110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
