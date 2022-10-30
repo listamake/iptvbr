@@ -1018,12 +1018,12 @@
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20221101110000 -0300" stop="20221018110000 -0300" channel="TVMax.br">
+<programme start="20221101110000 -0300" stop="20221101110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20221001110000 -0300" stop="202211-1120000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Francisco Barbosa</title>----
+<programme start="20221101110000 -0300" stop="20221101120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
 <programme start="20221028120000 -0300" stop="20221028130000 -0300" channel="TVMax.br">
@@ -1058,23 +1058,23 @@
  
     ####TVMaisFamilia.br####
  
-<programme start="20221026010000 -0300" stop="20221026030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031010000 -0300" stop="20221031030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221026030000 -0300" stop="20221026050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031030000 -0300" stop="20221031050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20221026050000 -0300" stop="20221026070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031050000 -0300" stop="20221031070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221026070000 -0300" stop="20221026080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031070000 -0300" stop="20221031080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20221026080000 -0300" stop="20221026083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031080000 -0300" stop="20221031083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
