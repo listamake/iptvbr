@@ -2200,42 +2200,42 @@
 </programme>
 
       ####Canalteste####
-<programme start="20221006000000 -0300" stop="20221016000000 -0300" channel="Canalteste">
+<programme start="20221106000000 -0300" stop="20221116000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20221016000000 -0300" stop="20221024000000 -0300" channel="Canalteste">
+<programme start="20221116000000 -0300" stop="20221124000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20221024000000 -0300" stop="20221028000000 -0300" channel="Canalteste">
+<programme start="20221028000000 -0300" stop="20221106000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
 
        ####RSNewsSports.br####
-<programme start="20221024000000 -0300" stop="20221028000000 -0300" channel="RSNewsSports.br">
+<programme start="20221029000000 -0300" stop="20221108000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20221008000000 -0300" stop="20221018000000 -0300" channel="RSNewsSports.br">
+<programme start="20221108000000 -0300" stop="20221118000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20221018000000 -0300" stop="20221024000000 -0300" channel="RSNewsSports.br">
+<programme start="20221118000000 -0300" stop="20221124000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
        ####AllSports.br####
-<programme start="20221026000000 -0300" stop="20221028000000 -0300" channel="AllSports.br">
+<programme start="20221030000000 -0300" stop="20221108000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20221008000000 -0300" stop="20221018000000 -0300" channel="AllSports.br">
+<programme start="20221108000000 -0300" stop="20221118000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20221018000000 -0300" stop="20221026000000 -0300" channel="AllSports.br">
+<programme start="20221118000000 -0300" stop="20221126000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
