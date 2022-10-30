@@ -288,7 +288,7 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm44o_SGBGbjmtYW6kTElJi8RNUJx0nCwTAFqW3V2D-xml)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2pN3SQVQ1lhYVXh_I5P4BBXlaY8G_uF_o1_tnBpJfiFM)/dm/3/x80o7x4/d/live-2.m3u8#cell=lsv4
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU9go3gGSDtSJr5DPduhc_dzrWASN-gewoQ&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", BR Super TV HD
 http://177.137.208.46:9080/hls/brsupertv.m3u8
