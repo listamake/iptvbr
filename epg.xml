@@ -1494,15 +1494,15 @@
 </programme>
  
    ####radiometroweb.br####
-<programme start="20220902800000 -0300" stop="20221004000000 -0300" channel="radiometroweb.br">
+<programme start="20221028000000 -0300" stop="20221104000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20221004000000 -0300" stop="20221015000000 -0300" channel="radiometroweb.br">
+<programme start="20221104000000 -0300" stop="20221115000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20221015000000 -0300" stop="20221028000000 -0300" channel="radiometroweb.br">
+<programme start="20221115000000 -0300" stop="20221128000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -2333,15 +2333,15 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20221024000000 -0300" stop="20221028000000 -0300" channel="TVTop.br">
+<programme start="20221028000000 -0300" stop="20221105000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20221028000000 -0300" stop="20221104000000 -0300" channel="TVTop.br">
+<programme start="20221118000000 -0300" stop="20221124000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20221014000000 -0300" stop="20221024000000 -0300" channel="TVTop.br">
+<programme start="20221124000000 -0300" stop="20221028000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
