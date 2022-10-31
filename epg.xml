@@ -767,11 +767,11 @@
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20221026000000 -0300" stop="20221028000000 -0300" channel="awtv.br">
+<programme start="20221116000000 -0300" stop="20221128000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20221028000000 -0300" stop="20221102000000 -0300" channel="awtv.br">
+<programme start="20221128000000 -0300" stop="20221102000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
@@ -1026,23 +1026,23 @@
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20221028120000 -0300" stop="20221028130000 -0300" channel="TVMax.br">
+<programme start="20221101120000 -0300" stop="20221101130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20221028130000 -0300" stop="20221028150000 -0300" channel="TVMax.br">
+<programme start="20221101130000 -0300" stop="20221101150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20221028150000 -0300" stop="20221028153000 -0300" channel="TVMax.br">
+<programme start="20221101150000 -0300" stop="20221101153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="20221028153000 -0300" stop="20221028160000 -0300" channel="TVMax.br">
+<programme start="20221101153000 -0300" stop="20221101160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20221028160000 -0300" stop="20221029080000 -0300" channel="TVMax.br">
+<programme start="20221101160000 -0300" stop="20221102080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1102,96 +1102,80 @@
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20221026200000 -0300" stop="20221026203000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031200000 -0300" stop="20221031203000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20221026203000 -0300" stop="20221026220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031203000 -0300" stop="20221031220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20221026220000 -0300" stop="20221026230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031220000 -0300" stop="20221031230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20221026230000 -0300" stop="20221027010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031230000 -0300" stop="20221101010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
  
-<programme start="20221028010000 -0300" stop="20221027030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101010000 -0300" stop="20221101030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221028030000 -0300" stop="20221028050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101030000 -0300" stop="20221101050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20221028050000 -0300" stop="20221028070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101050000 -0300" stop="20221101070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221028070000 -0300" stop="20221028080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101070000 -0300" stop="20221101080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20221028080000 -0300" stop="20221028083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101080000 -0300" stop="20221101083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20221028083000 -0300" stop="20221028100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101083000 -0300" stop="20221101100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>8
-<programme start="20221028103000 -0300" stop="20221028110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101103000 -0300" stop="20221101110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20221028110000 -0300" stop="20221028120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221128110000 -0300" stop="20221028120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20221028120000 -0300" stop="20221028130000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101120000 -0300" stop="20221101500000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20221028133000 -0300" stop="20221028132000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Propaganda Eleitoral</title>
- <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
-</programme>
-<programme start="20221028132000 -0300" stop="20221028150000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Alegria</title>
- <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
-</programme>
-<programme start="20221028150000 -0300" stop="20221028180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101150000 -0300" stop="20221101180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20221027180000 -0300" stop="20221027200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101180000 -0300" stop="20221101200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20221027200000 -0300" stop="20221027203000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101200000 -0300" stop="20221101213000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20221027203000 -0300" stop="20221027205000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Propaganda Eleitoral</title>
- <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
-</programme>
-<programme start="20221027205000 -0300" stop="20221027213000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Terra Prometida</title>
- <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
-</programme>
-<programme start="20221027213000 -0300" stop="20221027220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101213000 -0300" stop="20221101220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20221027220000 -0300" stop="20221027230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101220000 -0300" stop="20221101230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20221027230000 -0300" stop="20221028010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221101230000 -0300" stop="20221102010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
@@ -1254,36 +1238,36 @@
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
  
-<programme start="20221026000000 -0300" stop="20221026150000 -0300" channel="PLAYTV.br">
+<programme start="20221031000000 -0300" stop="20221031150000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221026150000 -0300" stop="20221026180000 -0300" channel="PLAYTV.br">
+<programme start="20221031150000 -0300" stop="20221031180000 -0300" channel="PLAYTV.br">
  <title lang="pt">Medalhão Persa</title>
  <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
 </programme>
-<programme start="20221026180000 -0300" stop="20221026210000 -0300" channel="PLAYTV.br">
+<programme start="20221031180000 -0300" stop="20221031210000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221026210000 -0300" stop="20221027000000 -0300" channel="PLAYTV.br">
+<programme start="20221031210000 -0300" stop="20221101000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Agro Canal</title>
  <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
 </programme>
  
-<programme start="20221027000000 -0300" stop="20221027150000 -0300" channel="PLAYTV.br">
+<programme start="20221101000000 -0300" stop="20221101150000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221027150000 -0300" stop="20221027180000 -0300" channel="PLAYTV.br">
+<programme start="20221101150000 -0300" stop="20221101180000 -0300" channel="PLAYTV.br">
  <title lang="pt">Medalhão Persa</title>
  <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
 </programme>
-<programme start="20221027180000 -0300" stop="20221027210000 -0300" channel="PLAYTV.br">
+<programme start="20221101180000 -0300" stop="20221102210000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221027210000 -0300" stop="20221028000000 -0300" channel="PLAYTV.br">
+<programme start="20221101210000 -0300" stop="20221102000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Agro Canal</title>
  <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
 </programme>
@@ -1294,28 +1278,22 @@
 </programme>
  
     ####ISTVHD.br####
-<programme start="20221026000000 -0300" stop="20221026130000 -0300" channel="ISTVHD.br">
+<programme start="20221031000000 -0300" stop="20221101130000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20221026130000 -0300" stop="20221026132000 -0300" channel="ISTVHD.br">
- <title lang="pt">Propaganda Eleitoral</title>
- <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
-</programme>
-<programme start="20221026132000 -0300" stop="20221026203000 -0300" channel="ISTVHD.br">
+
+<programme start="20221101000000 -0300" stop="20221102000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20221026203000 -0300" stop="20221026205500 -0300" channel="ISTVHD.br">
- <title lang="pt">Propaganda Eleitoral</title>
- <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
-</programme>
-<programme start="20221026205500 -0300" stop="20221027000000 -0300" channel="ISTVHD.br">
+
+<programme start="20221102000000 -0300" stop="20221103000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
  
-<programme start="20221027000000 -0300" stop="20221027130000 -0300" channel="ISTVHD.br">
+<programme start="20221103000000 -0300" stop="20221104000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -1466,29 +1444,29 @@
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="20221025000000 -0300" stop="20221028000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221029000000 -0300" stop="20221101000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20221026000000 -0300" stop="20221030000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221101000000 -0300" stop="20221104000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20221030000000 -0300" stop="20221105000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221104000000 -0300" stop="20221115000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
  
  ####Clc.br####
-<programme start="20221006000000 -0300" stop="20221014000000 -0300" channel="Clc.br">
+<programme start="20221028000000 -0300" stop="20221104000000 -0300" channel="Clc.br">
  <title lang="pt">Programção Cine Life Classic</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20221026000000 -0300" stop="20221028000000 -0300" channel="Clc.br">
+<programme start="20221104000000 -0300" stop="20221113000000 -0300" channel="Clc.br">
  <title lang="pt">Programção Cine Life Classic</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20221028000000 -0300" stop="20221106000000 -0300" channel="Clc.br">
+<programme start="20221113000000 -0300" stop="20221118000000 -0300" channel="Clc.br">
  <title lang="pt">Programção Cine Life Classic</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1508,11 +1486,11 @@
 </programme>
  
   ####radiobandnewssp.br####
-<programme start="20221028000000 -0300" stop="20221101000000 -0300" channel="radiobandnewssp.br">
+<programme start="20221028000000 -0300" stop="20221105000000 -0300" channel="radiobandnewssp.br">
  <title lang="pt">Programação Rádio Band News</title>
  <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
 </programme>
-<programme start="20221021000000 -0300" stop="20221028000000 -0300" channel="radiobandnewssp.br">
+<programme start="20221105000000 -0300" stop="20221118000000 -0300" channel="radiobandnewssp.br">
  <title lang="pt">Programação Rádio Band News</title>
  <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
 </programme>
