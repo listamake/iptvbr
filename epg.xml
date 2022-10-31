@@ -161,7 +161,7 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221028150000 -0300" stop="20221029000000 -0300" channel="anitv.br">
+<programme start="20221031150000 -0300" stop="20221101000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -373,11 +373,11 @@
 </programme>
 
     ###segunda anitv###
-<programme start="20221024010000 -0300" stop="20221024070000 -0300" channel="anitv.br">
+<programme start="20221031010000 -0300" stop="20221031070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
-<programme start="20221017040000 -0300" stop="20221017060000 -0300" channel="anitv.br">
+<programme start="20221031040000 -0300" stop="20221031060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
@@ -385,7 +385,7 @@
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221024070000 -0300" stop="20221024090000 -0300" channel="anitv.br">
+<programme start="20221031070000 -0300" stop="20221031090000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
@@ -397,7 +397,7 @@
  <title lang="en">My Hero Academia - Reprise</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20221024080000 -0300" stop="20221024120000 -0300" channel="anitv.br">
+<programme start="20221031080000 -0300" stop="20221031120000 -0300" channel="anitv.br">
  <title lang="en">Faixa dos Animes Clássicos!</title>
  <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30.</desc>
 </programme>
@@ -405,7 +405,7 @@
  <title lang="pt">Cardcaptor Sakura - Reprise</title>
  <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
 </programme>
-<programme start="20221024120000 -0300" stop="20221024150000 -0300" channel="anitv.br">
+<programme start="20221031120000 -0300" stop="20221031150000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Tarde</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -1078,27 +1078,27 @@
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20221026083000 -0300" stop="20221026100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031083000 -0300" stop="20221031100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20221026100000 -0300" stop="20221026110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031100000 -0300" stop="20221031110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20221026110000 -0300" stop="20221026120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031110000 -0300" stop="20221031120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20221026120000 -0300" stop="20221026150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031120000 -0300" stop="20221031150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20221026650000 -0300" stop="20221026180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031650000 -0300" stop="20221031180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20221026180000 -0300" stop="20221026200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221031180000 -0300" stop="20221031200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
@@ -1353,7 +1353,7 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20221023000000 -0300" stop="20221028000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20221029000000 -0300" stop="20221108000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">O StrikerVerso é o seu novo canal de web-streaming, feito de fã para fã, com um conteúdo inesperado, mas diferenciado de tudo o que você já viu!</desc>
 </programme>
@@ -1381,32 +1381,32 @@
 </programme>
  
    ###ETCTV.cl###
-<programme start="20221026000000 -0300" stop="20221026200000 -0200" channel="ETCTV.cl">
+<programme start="20221031000000 -0300" stop="20221031200000 -0200" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno</desc>
 </programme>
-<programme start="20221026200000 -0200" stop="20221026203000 -0200" channel="ETCTV.cl">
+<programme start="20221031200000 -0200" stop="20221031203000 -0200" channel="ETCTV.cl">
  <title lang="pt">The Code</title>
  <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
 </programme>
-<programme start="20221026203000 -0200" stop="20221026210000 -0200" channel="ETCTV.cl">
+<programme start="20221031203000 -0200" stop="20221031210000 -0200" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20221026210000 -0200" stop="20221026220000 -0200" channel="ETCTV.cl">
+<programme start="20221031210000 -0200" stop="20221031220000 -0200" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20221026220000 -0200" stop="20221027000000 -0200" channel="ETCTV.cl">
+<programme start="20221031220000 -0200" stop="20221101000000 -0200" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
  
-<programme start="20221027000000 -0200" stop="20221027200000 -0200" channel="ETCTV.cl">
+<programme start="20221101000000 -0200" stop="20221101200000 -0200" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20221027200000 -0200" stop="20221027203000 -0200" channel="ETCTV.cl">
+<programme start="20221101200000 -0200" stop="20221101203000 -0200" channel="ETCTV.cl">
  <title lang="pt">Reporte Gaming </title>
  <desc lang="pt">Reporte Gaming É o primeiro noticiário dedicado à cultura geek de uma perspectiva jornalística, um lugar onde você pode ver as questões que importam para nossa comunidade. Os últimos lançamentos de videogames, avanços tecnológicos, a chegada de novos aplicativos e o outdoor de cinema e séries da Salfate, são apenas alguns dos nossos conteúdos.</desc>
 </programme>
