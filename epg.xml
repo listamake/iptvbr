@@ -161,11 +161,11 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221101000000 -0300" stop="20221102000000 -0300" channel="anitv.br">
+<programme start="20221103000000 -0300" stop="20221104000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20221102000000 -0300" stop="20221103000000 -0300" channel="anitv.br">
+<programme start="20221104000000 -0300" stop="20221105000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -579,11 +579,11 @@
  <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
 </programme>
     ####yeeaah####
-<programme start="20221101000000 -0300" stop="20221102000000 -0300" channel="yaaeeh.br">
+<programme start="20221104000000 -0300" stop="20221105000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221102000000 -0300" stop="20221103000000 -0300" channel="yaaeeh.br">
+<programme start="20221105000000 -0300" stop="20221106000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -678,52 +678,52 @@
 </programme>
 
     ###KpopTVPlay.br###
-<programme start="20221031000000 -0300" stop="20221031190000 -0300" channel="KpopTVPlay.br">
+<programme start="20221103000000 -0300" stop="20221103190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20221031190000 -0300" stop="20221031200000 -0300" channel="KpopTVPlay.br">
+<programme start="20221103190000 -0300" stop="20221103200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20221031200000 -0300" stop="20221031210000 -0300" channel="KpopTVPlay.br">
+<programme start="20221103200000 -0300" stop="20221103210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20221031210000 -0300" stop="20221031213000 -0300" channel="KpopTVPlay.br">
+<programme start="20221103210000 -0300" stop="20221103213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20221031213000 -0300" stop="20221031233000 -0300" channel="KpopTVPlay.br">
+<programme start="20221103213000 -0300" stop="20221103233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20221031233000 -0300" stop="20221101000000 -0300" channel="KpopTVPlay.br">
+<programme start="20221103233000 -0300" stop="20221104000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20221101000000 -0300" stop="20221101190000 -0300" channel="KpopTVPlay.br">
+<programme start="20221104000000 -0300" stop="20221104190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20221101190000 -0300" stop="20221101200000 -0300" channel="KpopTVPlay.br">
+<programme start="20221104190000 -0300" stop="20221104200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20221101200000 -0300" stop="20221101210000 -0300" channel="KpopTVPlay.br">
+<programme start="20221104200000 -0300" stop="20221104210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20221101210000 -0300" stop="20221101213000 -0300" channel="KpopTVPlay.br">
+<programme start="20221104210000 -0300" stop="20221104213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20221101213000 -0300" stop="20221101233000 -0300" channel="KpopTVPlay.br">
+<programme start="20221104213000 -0300" stop="20221104233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20221101233000 -0300" stop="20221102000000 -0300" channel="KpopTVPlay.br">
+<programme start="20221104233000 -0300" stop="20221105000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
@@ -781,100 +781,100 @@
 </programme>
  
     ###CentralTV.br###
-<programme start="20221102003000 -0300" stop="20221102080000 -0300" channel="CentralTV.br">
+<programme start="20221103003000 -0300" stop="20221103080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221102080000 -0300" stop="20221102123000 -0300" channel="CentralTV.br">
+<programme start="20221103080000 -0300" stop="20221103123000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20221102123000 -0300" stop="20221102140000 -0300" channel="CentralTV.br">
+<programme start="20221103123000 -0300" stop="20221103140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221102140000 -0300" stop="20221102143000 -0300" channel="CentralTV.br">
+<programme start="20221103140000 -0300" stop="20221103143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20221102143000 -0300" stop="20221102150000 -0300" channel="CentralTV.br">
+<programme start="20221103143000 -0300" stop="20221103150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20221102150000 -0300" stop="20221102160000 -0300" channel="CentralTV.br">
+<programme start="20221103150000 -0300" stop="20221103160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221102160000 -0300" stop="20221102173000 -0300" channel="CentralTV.br">
+<programme start="20221103160000 -0300" stop="20221103173000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20221102173000 -0300" stop="20221102183000 -0300" channel="CentralTV.br">
+<programme start="20221103173000 -0300" stop="20221103183000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221102183000 -0300" stop="20221102210000 -0300" channel="CentralTV.br">
+<programme start="20221103183000 -0300" stop="20221103210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221102210000 -0300" stop="20221102223000 -0300" channel="CentralTV.br">
+<programme start="20221103210000 -0300" stop="20221103223000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221102223000 -0300" stop="20221102224500 -0300" channel="CentralTV.br">
+<programme start="20221103223000 -0300" stop="20221103224500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20221102224500 -0300" stop="20221103003000 -0300" channel="CentralTV.br">
+<programme start="20221103224500 -0300" stop="20221104003000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
  
-<programme start="20221101003000 -0300" stop="20221101080000 -0300" channel="CentralTV.br">
+<programme start="20221104003000 -0300" stop="20221104080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221101080000 -0300" stop="20221101123000 -0300" channel="CentralTV.br">
+<programme start="20221104080000 -0300" stop="20221104123000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20221101123000 -0300" stop="20221101140000 -0300" channel="CentralTV.br">
+<programme start="20221104123000 -0300" stop="20221104140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221101140000 -0300" stop="20221101143000 -0300" channel="CentralTV.br">
+<programme start="20221104140000 -0300" stop="20221104143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20221101143000 -0300" stop="20221101150000 -0300" channel="CentralTV.br">
+<programme start="20221104143000 -0300" stop="20221104150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20221101150000 -0300" stop="20221101160000 -0300" channel="CentralTV.br">
+<programme start="20221104150000 -0300" stop="20221104160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221101160000 -0300" stop="20221101173000 -0300" channel="CentralTV.br">
+<programme start="20221104160000 -0300" stop="20221104173000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20221101173000 -0300" stop="20221101183000 -0300" channel="CentralTV.br">
+<programme start="20221104173000 -0300" stop="20221104183000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221101183000 -0300" stop="20221101210000 -0300" channel="CentralTV.br">
+<programme start="20221104183000 -0300" stop="20221104210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221101210000 -0300" stop="20221101220000 -0300" channel="CentralTV.br">
+<programme start="20221104210000 -0300" stop="20221104220000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221101220000 -0300" stop="20221101224500 -0300" channel="CentralTV.br">
+<programme start="20221104220000 -0300" stop="20221104224500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20221101224500 -0300" stop="20221102003000 -0300" channel="CentralTV.br">
+<programme start="20221104224500 -0300" stop="20221105003000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
@@ -1058,51 +1058,51 @@
  
     ####TVMaisFamilia.br####
  
-<programme start="20221102010000 -0300" stop="20221102030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103010000 -0300" stop="20221103030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221102030000 -0300" stop="20221102050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103030000 -0300" stop="20221103050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20221102050000 -0300" stop="20221102070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103050000 -0300" stop="20221103070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221102070000 -0300" stop="20221102080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103070000 -0300" stop="20221103080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20221102080000 -0300" stop="20221102083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103080000 -0300" stop="20221103083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20221102083000 -0300" stop="20221102100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103083000 -0300" stop="20221103100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20221102100000 -0300" stop="20221102110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103100000 -0300" stop="20221103110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20221031110000 -0300" stop="20221031120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103110000 -0300" stop="20221103120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20221031120000 -0300" stop="20221031150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103120000 -0300" stop="20221103150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20221031650000 -0300" stop="20221031180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103650000 -0300" stop="20221103180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20221031180000 -0300" stop="20221031200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103180000 -0300" stop="20221103200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20221031200000 -0300" stop="20221031203000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221103200000 -0300" stop="20221103203000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
