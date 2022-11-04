@@ -161,12 +161,20 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221103000000 -0300" stop="20221104000000 -0300" channel="anitv.br">
+<programme start="20221107000000 -0300" stop="20221108000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20221104000000 -0300" stop="20221105000000 -0300" channel="anitv.br">
+<programme start="20221104000000 -0300" stop="20221104193000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
+ <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
+<programme start="20221104193000 -0300" stop="20221104210000 -0300" channel="anitv.br">
+ <title lang="pt">Roda a Roda - TV Litoral</title>
+ <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
+<programme start="20221104210000 -0300" stop="20221105000000 -0300" channel="anitv.br">
+ <title lang="pt">Aquercimento Teleton - Radio Metró</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
 
@@ -281,14 +289,23 @@
  <title lang="pt">A Anunciar</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
-<programme start="20221001010000 -0300" stop="20221005010000 -0300" channel="anitv.br">
- <title lang="pt">Descendentes do Sol - Reprise</title>
- <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
-</programme>
-<programme start="20221105010000 -0300" stop="20221105070000 -0300" channel="anitv.br">
+<programme start="20221105010000 -0300" stop="20221105060000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
+<programme start="20221105060000 -0300" stop="20221105180000 -0300" channel="anitv.br">
+ <title lang="en">ESPECIAL - Lives Teleton</title>
+ <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
+</programme> 
+<programme start="20221105180000 -0300" stop="20221105200000 -0300" channel="anitv.br">
+ <title lang="en">Festa do Enantes</title>
+ <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
+</programme> 
+<programme start="20221105200000 -0300" stop="20221105220000 -0300" channel="anitv.br">
+ <title lang="en">Live Especial Teleton - Rádio Metró</title>
+ <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
+</programme>
+ 
 <programme start="20221015040000 -0300" stop="20221015060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
@@ -309,25 +326,14 @@
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
-<programme start="20220917140000 -0300" stop="20220810163000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS:Ranking of Kings</title>
- <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
-</programme>
-<programme start="20220903163000 -0300" stop="20220903180000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS:Super Campeões J</title>
- <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
-</programme>
-<programme start="20220903180000 -0300" stop="20220903203000 -0300" channel="anitv.br">
- <title lang="en">Maratona #FDS:SK8 the Infinity</title>
- <desc lang="en">Maratone os animes da semana, aproveite es #FDS.</desc>
-</programme>
+
 <programme start="20220910203000 -0300" stop="20220903220000 -0300" channel="anitv.br">
  <title lang="en">Maratona #FDS:Urusei Yatsura</title>
  <desc lang="en">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
 
    ####domingo anitv####
-<programme start="20220924220000 -0300" stop="20220925003000 -0300" channel="anitv.br">
+<programme start="20221105220000 -0300" stop="20221106003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
@@ -335,7 +341,7 @@
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20221030030000 -0300" stop="20221030070000 -0300" channel="anitv.br">
+<programme start="20221106030000 -0300" stop="20221106070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
@@ -347,7 +353,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20221030070000 -0300" stop="20221031010000 -0300" channel="anitv.br">
+<programme start="20221106070000 -0300" stop="20221107010000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
 </programme>
@@ -1320,11 +1326,19 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20221026000000 -0300" stop="20221030000000 -0300" channel="StrikerVerso.br">
+<programme start="20221104000000 -0300" stop="20221104193000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20221030000000 -0300" stop="20221105000000 -0300" channel="StrikerVerso.br">
+<programme start="20221104193000 -0300" stop="20221104210000 -0300" channel="StrikerVerso.br">
+ <title lang="pt">Roda a Roda - TV Litoral</title>
+ <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
+<programme start="20221104210000 -0300" stop="20221105000000 -0300" channel="StrikerVerso.br">
+ <title lang="pt">Aquercimento Teleton - Radio Metró</title>
+ <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
+<programme start="20221105000000 -0300" stop="20221105060000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
