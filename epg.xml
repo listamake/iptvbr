@@ -173,9 +173,13 @@
  <title lang="pt">Roda a Roda - TV Litoral</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20221104210000 -0300" stop="20221105000000 -0300" channel="anitv.br">
+<programme start="20221104210000 -0300" stop="20221104223000 -0300" channel="anitv.br">
  <title lang="pt">Aquercimento Teleton - Radio Metró</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
+<programme start="20221104223000 -0300" stop="20221105010000 -0300" channel="anitv.br">
+ <title lang="pt">Teleton 2022</title>
+ <desc lang="pt">O evento reúne diferentes gerações de personalidades da televisão, da música e da internet. O objetivo é arrecadar fundos para a AACD, instituição que realiza cerca de 800 mil atendimentos anuais a pessoas com deficiência física.</desc>
 </programme>
 
         ####grade semanal anitv####
