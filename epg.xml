@@ -8,6 +8,7 @@
 </channel>
 <channel id="PLAYTV.br">
  <display-name lang="pt">TV WA</display-name>
+ <display-name lang="pt">PlayTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
 </channel>
 <channel id="ISTVHD.br">
@@ -117,7 +118,7 @@
 </channel>
 <channel id="energeek.cl">
  <display-name lang="pt">EnerGeek</display-name>
-  <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
+  <icon src="https://pbs.twimg.com/profile_images/1507190273662726147/sS_Z9Ki7_400x400.jpg"/>
 </channel>
 <channel id="radiobandnewssp.br">
  <display-name lang="pt">Rádio Band News SP</display-name>
@@ -1954,7 +1955,7 @@
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">Carnaval é o tema. Os momentos, os destaques, os nomes que fazem e já fizeram esta festa que movimenta Pernambuco, principalmente, com nosso ritmo, o frevo. A comunicação é outra grande atração, este programa é orquestrado pelo mestre Zuca Show.</desc>
 </programme>
-<programme start="20221015120000 -0300" stop="20221015160000 -0300" channel="radioclubeampe.br">
+<programme start="20221105120000 -0300" stop="20221105160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -1966,32 +1967,32 @@
  <title lang="pt">Vasco x Chapecoense</title>
  <desc lang="pt">Transmissão dos jogos dos clubes de Pernambuco, do Nordeste e do Brasil com a equipe número um do Rádio. Os Campeões da Bola levam: notícias, informações, entrevistas, comentários e a narração em cima do lance com o futebol moderno da Clube.</desc>
 </programme>
-<programme start="20221015182000 -0300" stop="20221015190000 -0300" channel="radioclubeampe.br">
+<programme start="20221105182000 -0300" stop="20221105190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20221015190000 -0300" stop="20221016000000 -0300" channel="radioclubeampe.br">
+<programme start="20221105190000 -0300" stop="20221106000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Musical</title>
  <desc lang="pt">Transmissão de musicas enquanto não tiver transmissão de futebol.</desc>
 </programme>
      ####domingo####
-<programme start="20221016000000 -0300" stop="20221016090000 -0300" channel="radioclubeampe.br">
+<programme start="20221106000000 -0300" stop="20221106090000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20221016090000 -0300" stop="20221016110000 -0300" channel="radioclubeampe.br">
+<programme start="20221106090000 -0300" stop="20221106110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20221016110000 -0300" stop="20221016120000 -0300" channel="radioclubeampe.br">
+<programme start="20221106110000 -0300" stop="20221106120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20221016120000 -0300" stop="20221016150000 -0300" channel="radioclubeampe.br">
+<programme start="20221106120000 -0300" stop="20221106150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
-<programme start="20221016150000 -0300" stop="20221016180000 -0300" channel="radioclubeampe.br">
+<programme start="20221106150000 -0300" stop="20221106180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Jornada Esportiva/Programação Musical</title>
  <desc lang="pt">Transmissão dos jogos dos clubes de Pernambuco, do Nordeste e do Brasil com a equipe número um do Rádio. Os Campeões da Bola levam: notícias, informações, entrevistas, comentários e a narração em cima do lance com o futebol moderno da Clube.</desc>
 </programme>
@@ -2003,21 +2004,17 @@
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20221009200000 -0300" stop="20221006000000 -0300" channel="radioclubeampe.br">
+<programme start="20221106200000 -0300" stop="20221106000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube da Seresta</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221016200000 -0300" stop="20221016220000 -0300" channel="radioclubeampe.br">
- <title lang="pt">Eleições 2022: Debate dos Candidatos à Presidência - 2 Turno</title>
- <desc lang="pt">Os candidatos à Presidência da República apresentam suas propostas eleitorais e planos de governo.</desc>
-</programme>
-<programme start="20221016220000 -0300" stop="20221016050000 -0300" channel="radioclubeampe.br">
+<programme start="20221106220000 -0300" stop="20221107050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
 
        #####radiojornalpe.br ######
-<programme start="20221006000000 -0300" stop="20221007000000 -0300" channel="radiojornalpe.br">
+<programme start="20221106000000 -0300" stop="20221107000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -2180,19 +2177,19 @@
  <title lang="pt">Mesa de Bar</title>
  <desc lang="pt">No mesa de bar descutimos e debatemos dos mais váriados assunto, com muiita resenha e bom humor.</desc>
 </programme>
-<programme start="20221015123000 -0300" stop="20221015140000 -0300" channel="radiojornalpe.br">
+<programme start="20221105123000 -0300" stop="20221105140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20221008140000 -0300" stop="20221008150000 -0300" channel="radiojornalpe.br">
+<programme start="20221105140000 -0300" stop="20221105150000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Comando Geral Fim de Semana</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221015150000 -0300" stop="20221015200000 -0300" channel="radiojornalpe.br">
+<programme start="20221105150000 -0300" stop="20221105200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221015200000 -0300" stop="20221016000000 -0300" channel="radiojornalpe.br">
+<programme start="20221105200000 -0300" stop="20221106000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -2326,24 +2323,24 @@
 </programme>
  
    ####ManajoaraAMBelem.br####
-<programme start="20221002000000 -0300" stop="20221028000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20221105000000 -0300" stop="20221118000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
-<programme start="20221028000000 -0300" stop="20221108000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20221118000000 -0300" stop="20221128000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
    ####MixFMBelem.br####
-<programme start="20221002000000 -0300" stop="20221028000000 -0300" channel="MixFMBelem.br">
+<programme start="20221102000000 -0300" stop="20221118000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20221028000000 -0300" stop="20221105000000 -0300" channel="MixFMBelem.br">
+<programme start="20221118000000 -0300" stop="20221125000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20221015000000 -0300" stop="20221020000000 -0300" channel="MixFMBelem.br">
+<programme start="20221125000000 -0300" stop="20221129000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
@@ -2376,15 +2373,15 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20221028000000 -0300" stop="20221105000000 -0300" channel="TVTop.br">
+<programme start="20221105000000 -0300" stop="20221115000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20221118000000 -0300" stop="20221124000000 -0300" channel="TVTop.br">
+<programme start="20221115000000 -0300" stop="20221124000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20221124000000 -0300" stop="20221028000000 -0300" channel="TVTop.br">
+<programme start="20221124000000 -0300" stop="20221128000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
