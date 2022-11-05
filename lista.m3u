@@ -230,7 +230,7 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="energeek.cl" tvg-logo="https://yt3.ggpht.com/EUuMLgrvwKkWK50isyPhriguy1GexJipqardXFtw4HOlixTHkF_E211wf205mBqrUYjA-5kR6y8=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Geek" , EnerGeek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 http://51.222.85.85:81/hls/loco/index.m3u8
