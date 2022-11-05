@@ -1405,9 +1405,17 @@
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211050000000 -0300" stop="2022110600000 -0300" channel="energeek.cl">
+<programme start="20221105103000 -0300" stop="20221105210000 -0300" channel="energeek.cl">
+ <title lang="pt">Teleton 2022</title>
+ <desc lang="pt">O evento reúne diferentes gerações de personalidades da televisão, da música e da internet. O objetivo é arrecadar fundos para a AACD, instituição que realiza cerca de 800 mil atendimentos anuais a pessoas com deficiência física.</desc>
+</programme>
+<programme start="202211052100000 -0300" stop="2022110522000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+</programme>
+<programme start="20221105220000 -0300" stop="20221106010000 -0300" channel="energeek.cl">
+ <title lang="pt">Teleton 2022</title>
+ <desc lang="pt">O evento reúne diferentes gerações de personalidades da televisão, da música e da internet. O objetivo é arrecadar fundos para a AACD, instituição que realiza cerca de 800 mil atendimentos anuais a pessoas com deficiência física.</desc>
 </programme>
 <programme start="202211060000000 -0300" stop="2022110700000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
