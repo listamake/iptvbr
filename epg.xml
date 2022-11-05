@@ -746,7 +746,7 @@
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20221102300000 -0300" stop="20221102210000 -0300" channel="KpopTVPlay.br">
+<programme start="20221102200000 -0300" stop="20221102210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
@@ -935,25 +935,25 @@
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20221029193000 -0300" stop="20221030000000 -0300" channel="CentralTV.br">
+<programme start="20221105193000 -0300" stop="20221106000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 
     ###don.centraltv###
-<programme start="20221030000000 -0300" stop="20221030070000 -0300" channel="CentralTV.br">
+<programme start="20221106000000 -0300" stop="20221106070000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20221030070000 -0300" stop="20221030104500 -0300" channel="CentralTV.br">
+<programme start="20221106070000 -0300" stop="20221106104500 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221030104500 -0300" stop="20221030113000 -0300" channel="CentralTV.br">
+<programme start="20221106104500 -0300" stop="20221106113000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221030113000 -0300" stop="20221030120000 -0300" channel="CentralTV.br">
+<programme start="20221106113000 -0300" stop="20221106120000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Câmera Brasil</title>
  <desc lang="pt"></desc>
 </programme>
@@ -1061,7 +1061,7 @@
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20221160000000 -0300" stop="20221171080000 -0300" channel="TVMax.br">
+<programme start="20221106000000 -0300" stop="20221107080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1343,6 +1343,24 @@
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
 <programme start="20221105000000 -0300" stop="20221105060000 -0300" channel="StrikerVerso.br">
+ <title lang="pt">Programação StrikerVerso</title>
+ <desc lang="pt">Descubra o inesperado</desc>
+</programme>
+ 
+<programme start="20221105060000 -0300" stop="20221105180000 -0300" channel="StrikerVerso.br">
+ <title lang="en">ESPECIAL - Lives Teleton</title>
+ <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
+</programme> 
+<programme start="20221105180000 -0300" stop="20221105200000 -0300" channel="StrikerVerso.br">
+ <title lang="en">Festa do Enantes</title>
+ <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
+</programme> 
+<programme start="20221105200000 -0300" stop="20221105220000 -0300" channel="StrikerVerso.br">
+ <title lang="en">Live Especial Teleton - Rádio Metró</title>
+ <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
+</programme>
+
+<programme start="20221105220000 -0300" stop="20221107000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
