@@ -169,7 +169,7 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF: -1 tvg-id="StrikerVersobeta.br" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 2
-https://stream.ichibantv.ga:3904/hybrid/play.m3u8
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 3 HD
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/playlist.m3u8
@@ -213,7 +213,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StrikerVerso.br" tvg-name="StrikerVerso HD" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Canais Geek", StrikerVerso HD
-https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+https://stream.ichibantv.ga:3904/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="Canais Geek", TV Teen Net HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
@@ -230,7 +230,7 @@ https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="energeek.cl" tvg-logo="https://yt3.ggpht.com/EUuMLgrvwKkWK50isyPhriguy1GexJipqardXFtw4HOlixTHkF_E211wf205mBqrUYjA-5kR6y8=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Geek" , EnerGeek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?WebM3UCL
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 http://51.222.85.85:81/hls/loco/index.m3u8
