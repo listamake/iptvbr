@@ -183,11 +183,45 @@
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221107070000 -0300" stop="20221107110000 -0300" channel="anitv.br">
+<programme start="20221107070000 -0300" stop="20221107130000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-<programme start="20221107110000 -0300" stop="20221108000000 -0300" channel="anitv.br">
+<programme start="20221107130000 -0300" stop="20221108000000 -0300" channel="anitv.br">
+ <title lang="en">Reprises de Animes</title>
+ <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
+</programme>
+ 
+<programme start="20221108010000 -0300" stop="20221108060000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Madrugada</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
+</programme>
+<programme start="20221108060000 -0300" stop="20221108070000 -0300" channel="anitv.br">
+ <title lang="pt">InforAni</title>
+ <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
+</programme>
+<programme start="20221108070000 -0300" stop="20221108130000 -0300" channel="anitv.br">
+ <title lang="en">Tecendo o Saber</title>
+ <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
+</programme>
+<programme start="20221108130000 -0300" stop="20221109000000 -0300" channel="anitv.br">
+ <title lang="en">Reprises de Animes</title>
+ <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
+</programme>
+ 
+<programme start="20221109010000 -0300" stop="20221109060000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Madrugada</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
+</programme>
+<programme start="20221109060000 -0300" stop="20221109070000 -0300" channel="anitv.br">
+ <title lang="pt">InforAni</title>
+ <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
+</programme>
+<programme start="20221109070000 -0300" stop="20221109130000 -0300" channel="anitv.br">
+ <title lang="en">Tecendo o Saber</title>
+ <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
+</programme>
+<programme start="20221109130000 -0300" stop="20221110000000 -0300" channel="anitv.br">
  <title lang="en">Reprises de Animes</title>
  <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
 </programme>
@@ -1245,11 +1279,11 @@
  <title lang="pt">Medalhão Persa</title>
  <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
 </programme>
-<programme start="20221104180000 -0300" stop="20221104210000 -0300" channel="PLAYTV.br">
+<programme start="20221108180000 -0300" stop="20221108210000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221104210000 -0300" stop="20221105000000 -0300" channel="PLAYTV.br">
+<programme start="20221108210000 -0300" stop="20221109000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Agro Canal</title>
  <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
 </programme>
@@ -1336,11 +1370,11 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20221029000000 -0300" stop="20221108000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20221107000000 -0300" stop="20221108000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">O StrikerVerso é o seu novo canal de web-streaming, feito de fã para fã, com um conteúdo inesperado, mas diferenciado de tudo o que você já viu!</desc>
 </programme>
-<programme start="20221108000000 -0300" stop="20221123000000 -0300" channel="StrikerVersobeta.br">
+<programme start="20221108000000 -0300" stop="20221111000000 -0300" channel="StrikerVersobeta.br">
  <title lang="pt">Programação StrikerVerso Beta</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -1354,19 +1388,19 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="202211050000000 -0300" stop="2022110600000 -0300" channel="tvbs.br">
+<programme start="202211070000000 -0300" stop="2022110800000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211060000000 -0300" stop="2022110700000 -0300" channel="tvbs.br">
+<programme start="202211080000000 -0300" stop="2022110900000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211030000000 -0300" stop="2022110400000 -0300" channel="tvbs.br">
+<programme start="202211090000000 -0300" stop="2022111000000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211040000000 -0300" stop="2022110500000 -0300" channel="tvbs.br">
+<programme start="202211100000000 -0300" stop="2022111100000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
