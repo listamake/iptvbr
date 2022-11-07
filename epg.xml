@@ -163,7 +163,7 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20221107000000 -0300" stop="20221108000000 -0300" channel="anitv.br">
+<programme start="20221108000000 -0300" stop="20221109000000 -0300" channel="anitv.br">
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
@@ -171,40 +171,28 @@
  <title lang="pt">Programação AniTV</title>
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
-<programme start="20221104193000 -0300" stop="20221104210000 -0300" channel="anitv.br">
- <title lang="pt">Roda a Roda - TV Litoral</title>
- <desc lang="pt">é Steam na net é anime na veia !!</desc>
-</programme>
-<programme start="20221104210000 -0300" stop="20221104223000 -0300" channel="anitv.br">
- <title lang="pt">Aquercimento Teleton - Radio Metró</title>
- <desc lang="pt">é Steam na net é anime na veia !!</desc>
-</programme>
-<programme start="20221104223000 -0300" stop="20221105010000 -0300" channel="anitv.br">
- <title lang="pt">Teleton 2022</title>
- <desc lang="pt">O evento reúne diferentes gerações de personalidades da televisão, da música e da internet. O objetivo é arrecadar fundos para a AACD, instituição que realiza cerca de 800 mil atendimentos anuais a pessoas com deficiência física.</desc>
-</programme>
+
 
         ####grade semanal anitv####
-<programme start="20221027000000 -0300" stop="20221027010000 -0300" channel="anitv.br">
- <title lang="pt">A Confirmar</title>
- <desc lang="pt">Um programa a ser confirmado.</desc>
-</programme>
-<programme start="20221019003000 -0300" stop="20221019020000 -0300" channel="anitv.br">
- <title lang="en">AniBox</title>
- <desc lang="en">as melhores músicas de anime estão aqui.</desc>
-</programme>
-<programme start="20221028010000 -0300" stop="20221028070000 -0300" channel="anitv.br">
+
+<programme start="20221107010000 -0300" stop="20221107060000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
-<programme start="20221014060000 -0300" stop="20221014070000 -0300" channel="anitv.br">
+<programme start="20221107060000 -0300" stop="20221107070000 -0300" channel="anitv.br">
  <title lang="pt">InforAni</title>
  <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
 </programme>
-<programme start="20221028070000 -0300" stop="20221028090000 -0300" channel="anitv.br">
+<programme start="20221107070000 -0300" stop="20221107110000 -0300" channel="anitv.br">
  <title lang="en">Tecendo o Saber</title>
  <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
+<programme start="20221107110000 -0300" stop="20221108000000 -0300" channel="anitv.br">
+ <title lang="en">Reprises de Animes</title>
+ <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
+</programme>
+ 
+ 
 <programme start="20221027090000 -0300" stop="20221027093000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho - Reprise</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
@@ -213,10 +201,7 @@
  <title lang="en">My Hero Academia - Reprise</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20221028090000 -0300" stop="20221028120000 -0300" channel="anitv.br">
- <title lang="en">Faixa dos Animes Clássicos!</title>
- <desc lang="en">Com Urusei Yatsura às 10h,Super Campeões às 10h30, SK8 the Infinity às 11h30.</desc>
-</programme>
+
 <programme start="20221027113000 -0300" stop="20221027120000 -0300" channel="anitv.br">
  <title lang="pt">Cardcaptor Sakura - Reprise</title>
  <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
@@ -295,22 +280,7 @@
  <title lang="pt">A Anunciar</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
-<programme start="20221105010000 -0300" stop="20221105060000 -0300" channel="anitv.br">
- <title lang="en">REPRISES da Madrugada</title>
- <desc lang="en">Conteúdos aliatorios</desc>
-</programme>
-<programme start="20221105060000 -0300" stop="20221105180000 -0300" channel="anitv.br">
- <title lang="en">ESPECIAL - Lives Teleton</title>
- <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
-</programme> 
-<programme start="20221105180000 -0300" stop="20221105200000 -0300" channel="anitv.br">
- <title lang="en">Festa do Enantes</title>
- <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
-</programme> 
-<programme start="20221105200000 -0300" stop="20221105220000 -0300" channel="anitv.br">
- <title lang="en">Live Especial Teleton - Rádio Metró</title>
- <desc lang="en"> todos vão estar juntos e unidos pelo#JuntosPeloTeleton</desc>
-</programme>
+
  
 <programme start="20221015040000 -0300" stop="20221015060000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
@@ -595,7 +565,7 @@
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221105000000 -0300" stop="20221106000000 -0300" channel="yaaeeh.br">
+<programme start="20221108000000 -0300" stop="20221109000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -752,15 +722,15 @@
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20221102210000 -0300" stop="20221102213000 -0300" channel="KpopTVPlay.br">
+<programme start="20221109210000 -0300" stop="20221109213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20221102213000 -0300" stop="20221102233000 -0300" channel="KpopTVPlay.br">
+<programme start="20221109213000 -0300" stop="20221109233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20221102233000 -0300" stop="20221103000000 -0300" channel="KpopTVPlay.br">
+<programme start="20221109233000 -0300" stop="20221110000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
@@ -854,39 +824,39 @@
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221104140000 -0300" stop="20221104143000 -0300" channel="CentralTV.br">
+<programme start="20221108140000 -0300" stop="20221108143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20221104143000 -0300" stop="20221104150000 -0300" channel="CentralTV.br">
+<programme start="20221108143000 -0300" stop="20221108150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20221104150000 -0300" stop="20221104160000 -0300" channel="CentralTV.br">
+<programme start="20221108150000 -0300" stop="20221108160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221104160000 -0300" stop="20221104173000 -0300" channel="CentralTV.br">
+<programme start="20221108160000 -0300" stop="20221108173000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20221104173000 -0300" stop="20221104183000 -0300" channel="CentralTV.br">
+<programme start="20221108173000 -0300" stop="20221108183000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221104183000 -0300" stop="20221104210000 -0300" channel="CentralTV.br">
+<programme start="20221108183000 -0300" stop="20221108210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221104210000 -0300" stop="20221104220000 -0300" channel="CentralTV.br">
+<programme start="20221108210000 -0300" stop="20221108220000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221104220000 -0300" stop="20221104224500 -0300" channel="CentralTV.br">
+<programme start="20221108220000 -0300" stop="20221108224500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20221104224500 -0300" stop="20221105003000 -0300" channel="CentralTV.br">
+<programme start="20221108224500 -0300" stop="20221109003000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
@@ -1403,7 +1373,7 @@
  
  ###energeek.cl####
 
-<programme start="202211040000000 -0300" stop="2022110500000 -0300" channel="energeek.cl">
+<programme start="202211070000000 -0300" stop="2022110800000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1411,7 +1381,7 @@
  <title lang="pt">Teleton 2022</title>
  <desc lang="pt">O evento reúne diferentes gerações de personalidades da televisão, da música e da internet. O objetivo é arrecadar fundos para a AACD, instituição que realiza cerca de 800 mil atendimentos anuais a pessoas com deficiência física.</desc>
 </programme>
-<programme start="202211052100000 -0300" stop="2022110522000 -0300" channel="energeek.cl">
+<programme start="202211080000000 -0300" stop="2022110900000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1419,7 +1389,7 @@
  <title lang="pt">Teleton 2022</title>
  <desc lang="pt">O evento reúne diferentes gerações de personalidades da televisão, da música e da internet. O objetivo é arrecadar fundos para a AACD, instituição que realiza cerca de 800 mil atendimentos anuais a pessoas com deficiência física.</desc>
 </programme>
-<programme start="202211060000000 -0300" stop="2022110700000 -0300" channel="energeek.cl">
+<programme start="202211090000000 -0300" stop="2022111000000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1515,11 +1485,11 @@
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="20221029000000 -0300" stop="20221101000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221115000000 -0300" stop="20221121000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20221101000000 -0300" stop="20221104000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221121000000 -0300" stop="20221104000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
@@ -1769,35 +1739,31 @@
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
             ########semanal radioclubeam#####
-<programme start="20221018220000 -0300" stop="20221019050000 -0300" channel="radioclubeampe.br">
+<programme start="20221106220000 -0300" stop="20221107050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20221024050000 -0300" stop="20221024070000 -0300" channel="radioclubeampe.br">
+<programme start="20221107050000 -0300" stop="20221107070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20221024070000 -0300" stop="20221024072500 -0300" channel="radioclubeampe.br">
- <title lang="pt">Guia Eleitoral</title>
- <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
-</programme>
-<programme start="20221024072500 -0300" stop="20221024008000 -0300" channel="radioclubeampe.br">
+<programme start="20221107070000 -0300" stop="20221107080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20221024080000 -0300" stop="20221024083000 -0300" channel="radioclubeampe.br">
+<programme start="20221107080000 -0300" stop="20221107083000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221024083000 -0300" stop="20221024110000 -0300" channel="radioclubeampe.br">
+<programme start="20221107083000 -0300" stop="20221107110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221024110000 -0300" stop="20221024120000 -0300" channel="radioclubeampe.br">
+<programme start="20221107110000 -0300" stop="20221107120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221024120000 -0300" stop="20221024123000 -0300" channel="radioclubeampe.br">
+<programme start="20221024120000 -0300" stop="20221124123000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Guia Eleitoral</title>
  <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
 </programme>
