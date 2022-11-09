@@ -1110,7 +1110,7 @@
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20221109650000 -0300" stop="20221109180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221109150000 -0300" stop="20221109180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
@@ -1171,7 +1171,7 @@
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20221111050000 -0300" stop="20221110180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221111150000 -0300" stop="20221110180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
@@ -1229,11 +1229,7 @@
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20221105203000 -0300" stop="20221105205000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Propaganda Eleitoral</title>
- <desc lang="pt">Espaço dedicado aos candidatos e partidos políticos para exporem suas metas e projetos de trabalho.</desc>
-</programme>
-<programme start="20221105205000 -0300" stop="20221105220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221105203000 -0300" stop="20221105220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
@@ -1243,7 +1239,7 @@
 </programme>
 
 
-<programme start="20221105230000 -0300" stop="20221107010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221108230000 -0300" stop="20221109010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
@@ -1493,7 +1489,7 @@
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
-<programme start="20221106000000 -0200" stop="20221107000000 -0200" channel="ETCTV.cl">
+<programme start="20221108000000 -0200" stop="20221109000000 -0200" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
