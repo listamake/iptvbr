@@ -172,9 +172,6 @@
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
 
-
-        ####grade semanal anitv####
-
 <programme start="20221109010000 -0300" stop="20221109060000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
@@ -213,32 +210,32 @@
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
-<programme start="20221111060000 -0300" stop="20221111070000 -0300" channel="anitv.br">
- <title lang="pt">InforAni</title>
- <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
-</programme>
-<programme start="20221111070000 -0300" stop="20221111130000 -0300" channel="anitv.br">
- <title lang="en">Tecendo o Saber</title>
- <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
-</programme>
 <programme start="20221108130000 -0300" stop="20221109000000 -0300" channel="anitv.br">
  <title lang="en">Reprises de Animes</title>
  <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
 </programme>
  
+   ####grade semanal anitv####
  
-<programme start="20221027090000 -0300" stop="20221027093000 -0300" channel="anitv.br">
- <title lang="pt">Yu Yu Hakusho - Reprise</title>
- <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
+<programme start="20221114000000 -0300" stop="20221114010000 -0300" channel="anitv.br">
+ <title lang="en">Midnight</title>
+ <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20221027093000 -0300" stop="20221027100000 -0300" channel="anitv.br">
- <title lang="en">My Hero Academia - Reprise</title>
- <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
+<programme start="20221114010000 -0300" stop="20221114063000 -0300" channel="anitv.br">
+ <title lang="pt">Reprises de Animes</title>
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-
-<programme start="20221027113000 -0300" stop="20221027120000 -0300" channel="anitv.br">
- <title lang="pt">Cardcaptor Sakura - Reprise</title>
- <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
+<programme start="20221114063000 -0300" stop="20221114073000 -0300" channel="anitv.br">
+ <title lang="en">Tecendo o Saber</title>
+ <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
+</programme>
+<programme start="20221114073000 -0300" stop="20221114103000 -0300" channel="anitv.br">
+ <title lang="en">Faixa de Desenhos</title>
+ <desc lang="en">Acompanhe o programa que exibe os melhores desenhos animados..</desc>
+</programme>
+<programme start="20221114130000 -0300" stop="20221114000000 -0300" channel="anitv.br">
+ <title lang="en">Reprises dos Animes Clássicos</title>
+ <desc lang="en">Com Urusei Yatsura,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
 </programme>
 <programme start="20221028120000 -0300" stop="20221028150000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Tarde</title>
