@@ -1285,7 +1285,7 @@
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
 
-<programme start="20221109000000 -0300" stop="20221110000000 -0300" channel="ISTVHD.br">
+<programme start="20221115000000 -0300" stop="20221111600000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -1295,7 +1295,7 @@
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
  
-<programme start="20221111100000 -0300" stop="20221112000000 -0300" channel="ISTVHD.br">
+<programme start="20221111000000 -0300" stop="20221112000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -2147,19 +2147,19 @@
  <title lang="pt">Super Manhã / Passando a limpo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221016032000 -0300" stop="20221016040000 -0300" channel="radiojornalpe.br">
+<programme start="20221113032000 -0300" stop="20221113040000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Consultório do Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221023040000 -0300" stop="20221016070000 -0300" channel="radiojornalpe.br">
+<programme start="20221113040000 -0300" stop="20221113070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Nossa Saudade</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221023070000 -0300" stop="20221016110000 -0300" channel="radiojornalpe.br">
+<programme start="20221113070000 -0300" stop="20221113110000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Domingo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221023110000 -0300" stop="20221016120000 -0300" channel="radiojornalpe.br">
+<programme start="20221113110000 -0300" stop="20221113120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Cartaz Músical</title>
  <desc lang="pt">Rihi</desc>
 </programme>
