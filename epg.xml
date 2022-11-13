@@ -157,8 +157,8 @@
    <url>mi.tv</url>
 </channel>
 <channel id="anitv.br">
- <display-name lang="pt">Ani TV HD</display-name>
- <display-name lang="en">AniTV</display-name>
+ <display-name lang="pt">AniTV HD</display-name>
+ <display-name lang="pt">Geekdot HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp"/>
 </channel>
 
@@ -185,28 +185,17 @@
  <desc lang="pt">Maratone os animes da semana, aproveite este #FDS.</desc>
 </programme>
  
-
- 
-<programme start="20221113000000 -0300" stop="20221113060000 -0300" channel="anitv.br">
- <title lang="en">REPRISES da Madrugada</title>
- <desc lang="en">Conteúdos aliatorios</desc>
-</programme>
-<programme start="20221110060000 -0300" stop="20221110220000 -0300" channel="anitv.br">
- <title lang="en">Reprises de Animes</title>
- <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
-</programme>
-<programme start="20221111220000 -0300" stop="20221112000000 -0300" channel="anitv.br">
- <title lang="pt">A Confirmar</title>
- <desc lang="pt">Um programa a ser confirmado.</desc>
-</programme>
- 
    ####grade semanal anitv####
  
 <programme start="20221114000000 -0300" stop="20221114010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20221114010000 -0300" stop="20221114063000 -0300" channel="anitv.br">
+<programme start="20221114010000 -0300" stop="20221114020000 -0300" channel="anitv.br">
+ <title lang="pt">Faixa Premium</title>
+ <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
+</programme>
+<programme start="20221114020000 -0300" stop="20221114063000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
@@ -218,7 +207,7 @@
  <title lang="en">Faixa de Desenhos</title>
  <desc lang="en">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
-<programme start="20221114130000 -0300" stop="20221114120000 -0300" channel="anitv.br">
+<programme start="20221114103000 -0300" stop="20221114120000 -0300" channel="anitv.br">
  <title lang="en">Reprises dos Animes Clássicos</title>
  <desc lang="en">Com Urusei Yatsura,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
 </programme>
@@ -325,37 +314,17 @@
 </programme>
 
    ####domingo anitv####
-<programme start="20221105220000 -0300" stop="20221106003000 -0300" channel="anitv.br">
+<programme start="20221112220000 -0300" stop="20221112233000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
-<programme start="20221106003000 -0300" stop="20221106020000 -0300" channel="anitv.br">
- <title lang="pt">Notícias Inpressiontes</title>
- <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
-</programme>
-<programme start="20221106020000 -0300" stop="20221106070000 -0300" channel="anitv.br">
+<programme start="20221112233000 -0300" stop="20221113070000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
- <desc lang="en">Conteúdos aliatorios</desc>
+ <desc lang="en">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20221016070000 -0300" stop="20221016130000 -0300" channel="anitv.br">
- <title lang="pt">InforAni</title>
- <desc lang="pt">Aconpanhe e se informe com as materias da Rede Fámilia e TV Brasil.</desc>
-</programme>
-<programme start="20220828070000 -0300" stop="20220828080000 -0300" channel="anitv.br">
- <title lang="pt">Budega do Maguila</title>
- <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
-</programme>
-<programme start="20221106070000 -0300" stop="20221107010000 -0300" channel="anitv.br">
+<programme start="20221113070000 -0300" stop="20221114000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
- <desc lang="pt">Maratone os animes da semana, aproveite es #FDS.</desc>
-</programme>
-<programme start="20220911130000 -0300" stop="20220911153000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS:In Another World With My Smartphone</title>
- <desc lang="pt">Depois de morrer por um engano de Deus, o protagonista vai parar num mundo paralelo, onde ele começa sua nova vida.Suas únicas posses são o corpo que Deus lhe devolveu e um smartphone, que ainda funciona nesse outro mundo.</desc>
-</programme>
-<programme start="20220911153000 -0300" stop="20220911180000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS:Yu Yu Hakusho</title>
- <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
+ <desc lang="pt">Aos fins de semana a Ani vem com tudo, maratonas de animes direto, de uma vez só, aproveite este #FDS.</desc>
 </programme>
 <programme start="20220911180000 -0300" stop="20220911203000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS:My Hero Academia 3</title>
