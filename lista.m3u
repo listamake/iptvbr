@@ -5,7 +5,7 @@
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (12/11/2022,22h32m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://proxy-037.ix7.dailymotion.com/sec(0V41b9CBRT3XfaWDMnvxGUgy-CRXzpvsZ4Fkdp2fm8wHhLFea_4xI2OxoffrhaladbzWaAvFe2r_BRbiPfHeHqwYL-fnP9mRjUXJHjPmWSg)/video/222/803/500308222_mp4_h264_aac_hq.m3u8#cell=core
+https://proxy-002.ix7.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzjC_rqjMSKbanwU2e0wkUDu7UOdB-pdkUij2P4NlvvEnY4uYXcjm4F49JV6K2pFmRsgcSidMZnCtF5-V9a3rK2s)/video/205/803/500308502_mp4_h264_aac_hd.m3u8#cell=core
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Norte
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
