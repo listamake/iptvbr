@@ -442,15 +442,20 @@
 </programme>
 
     ####yeeaah####
-<programme start="20221111000000 -0300" stop="20221112000000 -0300" channel="yaaeeh.br">
+<programme start="20221112000000 -0300" stop="20221112120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221112000000 -0300" stop="20221113000000 -0300" channel="yaaeeh.br">
+<programme start="20221112120000 -0300" stop="20221113000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221113000000 -0300" stop="20221114000000 -0300" channel="yaaeeh.br">
+ 
+<programme start="20221113000000 -0300" stop="20221113120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20221113120000 -0300" stop="20221114000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
