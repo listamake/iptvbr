@@ -176,7 +176,7 @@
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">Conteúdos aliatorios</desc>
 </programme>
-<programme start="20221112060000 -0300" stop="20221112150000 -0300" channel="anitv.br">
+<programme start="20221114060000 -0300" stop="20221114180000 -0300" channel="anitv.br">
  <title lang="en">Reprises de Animes</title>
  <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
 </programme>
@@ -195,7 +195,7 @@
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20221114020000 -0300" stop="20221114103000 -0300" channel="anitv.br">
+<programme start="20221116020000 -0300" stop="20221116063000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
@@ -207,27 +207,27 @@
  <title lang="en">Faixa de Desenhos</title>
  <desc lang="en">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
-<programme start="20221114103000 -0300" stop="20221114120000 -0300" channel="anitv.br">
+<programme start="20221116103000 -0300" stop="20221116120000 -0300" channel="anitv.br">
  <title lang="en">Reprises dos Animes Clássicos</title>
  <desc lang="en">Com Urusei Yatsura,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
 </programme>
-<programme start="20221114120000 -0300" stop="20221114123000 -0300" channel="anitv.br">
+<programme start="20221116120000 -0300" stop="20221116123000 -0300" channel="anitv.br">
  <title lang="pt">Policial de Aço - JIBAN</title>
  <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
-<programme start="20221114123000 -0300" stop="20221114130000 -0300" channel="anitv.br">
+<programme start="20221116123000 -0300" stop="20221116130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
-<programme start="20221114130000 -0300" stop="20221114150000 -0300" channel="anitv.br">
+<programme start="20221116130000 -0300" stop="20221116150000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20221114150000 -0300" stop="20221114170000 -0300" channel="anitv.br">
+<programme start="20221116150000 -0300" stop="20221116170000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Light</title>
  <desc lang="pt">Uma faixa dedicada ao romance e a cómedia, pra deixar suas tardes mais leves.</desc>
 </programme>
-<programme start="20221114170000 -0300" stop="20221114180000 -0300" channel="anitv.br">
+<programme start="20221116170000 -0300" stop="20221116180000 -0300" channel="anitv.br">
  <title lang="pt">Descendentes do Sol</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
@@ -1191,12 +1191,11 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20221111000000 -0300" stop="20221113000000 -0300" channel="StrikerVerso.br">
+<programme start="20221114000000 -0300" stop="20221117000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-
-<programme start="20221113000000 -0300" stop="20221114000000 -0300" channel="StrikerVerso.br">
+<programme start="20221117000000 -0300" stop="20221124000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -1216,23 +1215,15 @@
 </programme>
  
    ####tv bs####
-<programme start="202207162130000 -0300" stop="2022071600000 -0300" channel="tvbs.br">
- <title lang="pt">Sábadão na Metro</title>
- <desc lang="pt">anime</desc>
-</programme>
-<programme start="20220716090000 -0300" stop="2022071610000 -0300" channel="tvbs.br">
- <title lang="pt">Budega do Maguila</title>
- <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
-</programme>
-<programme start="202211110000000 -0300" stop="2022111200000 -0300" channel="tvbs.br">
+<programme start="202211150000000 -0300" stop="2022111700000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211120000000 -0300" stop="2022111300000 -0300" channel="tvbs.br">
+<programme start="202211170000000 -0300" stop="2022112100000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211130000000 -0300" stop="2022114000000 -0300" channel="tvbs.br">
+<programme start="202211210000000 -0300" stop="2022124000000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
