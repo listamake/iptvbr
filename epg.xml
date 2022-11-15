@@ -1112,15 +1112,15 @@
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
  
-<programme start="20221114000000 -0300" stop="20221114150000 -0300" channel="PLAYTV.br">
+<programme start="20221116000000 -0300" stop="20221116150000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221114150000 -0300" stop="20221114180000 -0300" channel="PLAYTV.br">
+<programme start="20221116150000 -0300" stop="20221116180000 -0300" channel="PLAYTV.br">
  <title lang="pt">Medalhão Persa</title>
  <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
 </programme>
-<programme start="20221114180000 -0300" stop="20221114210000 -0300" channel="PLAYTV.br">
+<programme start="20221116180000 -0300" stop="20221116210000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
@@ -1129,19 +1129,19 @@
  <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
 </programme>
  
-<programme start="20221111000000 -0300" stop="20221111150000 -0300" channel="PLAYTV.br">
+<programme start="20221115000000 -0300" stop="20221115150000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221111150000 -0300" stop="20221111180000 -0300" channel="PLAYTV.br">
+<programme start="20221115150000 -0300" stop="20221115180000 -0300" channel="PLAYTV.br">
  <title lang="pt">Medalhão Persa</title>
  <desc lang="pt">Comercialização de jóias e itens de decoração</desc>
 </programme>
-<programme start="20221111180000 -0300" stop="20221111210000 -0300" channel="PLAYTV.br">
+<programme start="20221115180000 -0300" stop="20221115210000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221111210000 -0300" stop="20221112000000 -0300" channel="PLAYTV.br">
+<programme start="20221115210000 -0300" stop="20221116000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Agro Canal</title>
  <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
 </programme>
@@ -1234,19 +1234,19 @@
  
  ###energeek.cl####
 
-<programme start="202211120000000 -0300" stop="2022111300000 -0300" channel="energeek.cl">
+<programme start="202211140000000 -0300" stop="2022111600000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211130000000 -0300" stop="2022111400000 -0300" channel="energeek.cl">
+<programme start="202211170000000 -0300" stop="2022111900000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211140000000 -0300" stop="2022111500000 -0300" channel="energeek.cl">
+<programme start="202211190000000 -0300" stop="2022112200000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211110000000 -0300" stop="2022111200000 -0300" channel="energeek.cl">
+<programme start="202211220000000 -0300" stop="2022112300000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
