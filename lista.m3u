@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (14/11/2022,13h32m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (16/11/2022,13h32m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://proxy-002.ix7.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzjC_rqjMSKbanwU2e0wkUDsGz97FWwjTVpDJ_49H8mVGitG_ra6k7vcXkAN0MCMY3H6MtyUiGrJVxJLWKbOJzS8)/video/205/803/500308502_mp4_h264_aac_hq.m3u8#cell=core
 
@@ -46,7 +46,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZhAfKbp-jJSw9e77uje5RLZQfEsQF3a75rznX7VBel5)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYgpVgpoFca24O1Lxl9paExA9aai5H0PmqFwwCaQCMCO)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -58,7 +58,7 @@ https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-chno="018" tvg-name="TV Cultura Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos", TV Cultura
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-zp1jbUVLIqyJau5uLOFV1LqVLqtHifNOJi1DR135fY)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzHJIOql2ZkcpNmJriliAbD1Qs5g40AAsi_sfdZQZQfx)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-chno="019" tvg-name="Rede Minas" group-title="Canais Públicos" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -92,7 +92,7 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
-https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsyfGywIbKpB2UgQFQO_1Z_QRssnSIPsc0pxn7fqxn1Di)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls9OuffMLcauVitBtpkJOLAHaPiEKwAC0eHCS1Qs-IF2h)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Rede21.br" tvg-chno="031" tvg-name="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title="Variedades", Rede 21 HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
@@ -365,32 +365,35 @@ https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m
 #EXTINF: -1 tvg-id="MixFMBelem.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuhYQDVYSa8ld-tBHh_1DUryGII5E231PYw&usqp=CAU" group-title="Canais de Áudio" radio="true", Mix Belém HD
 https://streaming03.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 
-#EXTINF: -1 tvg-id="ManajoaraAMBelem.br" tvg-logo="https://img.radios.com.br/radio/xl/radio18948_1636027882.jpeg" group-title="Canais de Áudio" radio="true", Super Manajoara HD
+#EXTINF: -1 tvg-id="ManajoaraAMBelem.br" tvg-logo="https://img.radios.com.br/radio/xl/radio18948_1636027882.jpeg" group-title="Canais de Áudio", Super Manajoara HD
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1514293823.m3u8
 
 #EXTINF: -1 tvg-id="radiocluberede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVr1HXA8Evxg_c6SjZt-MIPoEzn2pF-C41lA&usqp=CAU" group-title="Canais de Áudio" radio="true", Rede Clube FM 
 https://5a2b083e9f360.streamlock.net/clubebsb/clubebsb.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="fmodiarj.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2YqlG27I4Nc5kmSqPfErIUtoMyNiUf0fBA&usqp=CAU" group-title="Canais de Áudio" radio="true", FM O Dia Rio HD
+#EXTINF: -1 tvg-id="fmodiarj.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2YqlG27I4Nc5kmSqPfErIUtoMyNiUf0fBA&usqp=CAU" group-title="Canais de Áudio", FM O Dia Rio HD
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 
-#EXTINF: -1 tvg-id="jkfmrede.br" tvg-logo="https://img.radios.com.br/radio/xl/radio13525_1653597884.jpg" group-title="Canais de Áudio" radio="true", JK FM HD
+#EXTINF: -1 tvg-id="jkfmrede.br" tvg-logo="https://img.radios.com.br/radio/xl/radio13525_1653597884.jpg" group-title="Canais de Áudio", JK FM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 
-#EXTINF: -1 tvg-id="catvefm.br" tvg-logo="https://img.radios.com.br/radio/xl/radio22811_1506593670.jpg" group-title="Canais de Áudio" radio="true", Catve FM HD
+#EXTINF: -1 tvg-id="catvefm.br" tvg-logo="https://img.radios.com.br/radio/xl/radio22811_1506593670.jpg" group-title="Canais de Áudio", Catve FM HD
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 
-#EXTINF: -1 tvg-id="antena1tv.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_eg6gSq9ZvRLV1H_34fro-h3FOg2CnqwICzjLqBIc=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio" radio="true", Antena 1 TV
+#EXTINF: -1 tvg-id="antena1tv.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_eg6gSq9ZvRLV1H_34fro-h3FOg2CnqwICzjLqBIc=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio", Antena 1 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
 
 #EXTINF: -1 tvg-id="radiomassa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1luLbSzlJT_kskhdBtEg-T6M8PdiOLz8Qww&usqp=CAU" group-title="Canais de Áudio",Rádio Massa FM
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 
+#EXTINF: -1 tvg-id="radiorockfm.br" tvg-logo="https://pbs.twimg.com/profile_images/1508199729737388040/eEZzwmR2_400x400.jpg" group-title="Canais de Áudio",89 FM A Rádio Rock
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4r7_WXeio4gwZJT-TqRMkpBFUs-ThVJMJYFxYKiszKG)/dm/3/x7wjrui/s/live-2.m3u8#cell=lnyc
+
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio", CBN São Paulo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2Njg2MTU0NzAsImlhdCI6MTY2ODUyOTA3MCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3Blbl9zdGF0dXMiOiJGIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTE4MCxpPTIpL2NibnNwMjRoYS9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiJlZmM2ZGI0Mi1lZDgzLTU1NjYtZmRjYi04Y2UyOTI3YWQzYjkifQ.QNDRXzxjrW9JObwEXzd71WlU2xIidsNe8N0wo2K2Ff-oNHGXJjkJxjCUIzxZFPQqP6XwjnBZuJuBqoL7eABKMW4nM1fGcLaA2G-J0SgHtO0O1L98QX18zDwMLff6cOAR9ffDYHnDDxzK0rpL9kfpkpXo2NnkOrBPqiTGJyfHIrVCLVVFOw9ljqI5PmU5KQ7SnYHumtiuFAKgflpnkFr7RwQBMSG0ZIlwkH5m48kxaJET8JGPVIgt-rZo_grGo2Eu9YeDRxYvs2V8BLcJxooMgmn-7JID76t60UTwRJUfTmaN-rLmgSzI7YWu7URmF6Z5HtAI9X2caErVX30y8bjo4Q/nu/f(dvr=180,i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2Njg3MDM2OTIsImlhdCI6MTY2ODYxNzI5MiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3Blbl9zdGF0dXMiOiJGIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTE4MCxpPTIpL2NibnNwMjRoYS9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiJjNDZiZTk5Ni05NmVlLTkwNTctYmM1Mi0xNjcwY2ZkZWMzN2YifQ.oHwcp-yRLIO6NzqqYpNMJZaPqI3hB7d7t6HcpnT-m_w1zL0h6DgdIZuPFT3tdCnOUdE3rqPjiX6T5lRGwKbRuc2VqvCSdEUAorEOnL2TjkwrXq-OHj3glrxebWrx9l6AsXYeEvQniqBu4-yztuadgl9VhhhlFFKfBFiFzgL55KLfCbBbD-ZZUwBzxjDbRaqya028b0OCi3c01lBnCPIWkPLfC1eyZthctcTb3etdebJPK50ki29WLOiWdliVPNgp0uEO3b09dyyxNSXjfFqR2Mrzt7ycXucKDoRRL4xj4MzsimrCDzqiyPWmnbQ4NPzrvoPRJxqBP2CXRfJFQgPCgw/nu/f(dvr=180,i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF: -1 tvg-id="radiobandnewssp.br" tvg-logo="https://pbs.twimg.com/profile_images/1580199461497851904/IONUANUD_400x400.jpg" group-title="Canais de Áudio",Rádio Band News SP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
