@@ -1,7 +1,7 @@
 <?php
 $videoid="x7txn7q";//a static dailymotion video id
 $path_log_link='logs/';
-$path_download_file='videos/';
+$path_download_file='https://github.com/Emanueldelima/iptvmakebr/tree/main/canais/';
 $link="";
 $page=file_get_contents('http://www.dailymotion.com/embed/video/'.$videoid);
 $link = substr($page, strlen('mp4","url":"')+strripos($page, 'mp4","url":"'));  // beginning of link
