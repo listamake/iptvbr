@@ -362,7 +362,7 @@
  <title lang="pt">Fruits Basket</title>
  <desc lang="pt"> Tohru Honda, uma garota órfã que, depois de encontrar Yuki, Kyo e Shigure Sohma, descobre que os treze membros da família Sohma são possuídos pelos animais do zodíaco chinês</desc>
 </programme>
-<programme start="20221117730000 -0300" stop="20221117233000 -0300" channel="anitv.br">
+<programme start="20221117230000 -0300" stop="20221117233000 -0300" channel="anitv.br">
  <title lang="pt">Fire Force</title>
  <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
@@ -372,7 +372,7 @@
 </programme>
  
    ####sabado anitv####
-<programme start="20221119000000 -0300" stop="20221119010000 -0300" channel="anitv.br">
+<programme start="20221119000000 -0300" stop="20221119020000 -0300" channel="anitv.br">
  <title lang="pt">A Anunciar</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
@@ -550,7 +550,7 @@
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20221114190000 -0300" stop="20221114200000 -0300" channel="KpopTVPlay.br">
+<programme start="20221121190000 -0300" stop="20221121200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
@@ -1483,43 +1483,43 @@
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
      ###sab###
-<programme start="20221008000000 -0300" stop="20221008050000 -0300" channel="cbnrede.br">
+<programme start="20221119000000 -0300" stop="20221119050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20221008050000 -0300" stop="20221008060000 -0300" channel="cbnrede.br">
+<programme start="20221119050000 -0300" stop="20221119060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20221008060000 -0300" stop="20221008090000 -0300" channel="cbnrede.br">
+<programme start="20221119060000 -0300" stop="20221119090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20221008090000 -0300" stop="20221008093000 -0300" channel="cbnrede.br">
+<programme start="20221119090000 -0300" stop="20221119093000 -0300" channel="cbnrede.br">
  <title lang="pt">O Mundo em Meia Hora</title>
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
-<programme start="20221008093000 -0300" stop="20221008100000 -0300" channel="cbnrede.br">
+<programme start="20221119093000 -0300" stop="20221119100000 -0300" channel="cbnrede.br">
  <title lang="pt">Bem-estar e Movimento</title>
  <desc lang="pt">fique bem brasil.</desc>
 </programme>
-<programme start="20221008100000 -0300" stop="20221008120000 -0300" channel="cbnrede.br">
+<programme start="20221119100000 -0300" stop="20221119120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20221008120000 -0300" stop="20221008150000 -0300" channel="cbnrede.br">
+<programme start="20221119120000 -0300" stop="20221119150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20221008150000 -0300" stop="20221008210000 -0300" channel="cbnrede.br">
+<programme start="20221119150000 -0300" stop="20221119210000 -0300" channel="cbnrede.br">
  <title lang="pt">Show da Notícia e/ou Futebol</title>
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20221008210000 -0300" stop="20221008230000 -0300" channel="cbnrede.br">
+<programme start="20221119210000 -0300" stop="20221119230000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no dia.</desc>
 </programme>
-<programme start="20221008230000 -0300" stop="20221009000000 -0300" channel="cbnrede.br">
+<programme start="20221119230000 -0300" stop="20221120000000 -0300" channel="cbnrede.br">
  <title lang="pt">Globo News Painel</title>
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
