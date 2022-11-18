@@ -1,5 +1,5 @@
 <?php
-$videoid="x62w2zn";//a static dailymotion video id
+$videoid="x7txn7q";//a static dailymotion video id
 $path_log_link='logs/';
 $path_download_file='videos/';
 $link="";
