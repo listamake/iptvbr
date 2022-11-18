@@ -2,7 +2,7 @@
 
 #EXTINF: -1 tvg-id="RedeGlobo.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1579844423604736001/iRARc3dj_400x400.jpg" group-title="Variedades" , Globo teste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2Njg2MTU2MDEsImlhdCI6MTY2ODUyOTIwMSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3Blbl9zdGF0dXMiOiJGIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTE4MCxpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiJlZmM2ZGI0Mi1lZDgzLTU1NjYtZmRjYi04Y2UyOTI3YWQzYjkifQ.n4Mko7aE_-GHOnSwol-oHsRXIvJ09l2iJw8KokKTOvjRR_Pbz2Y0fGMG021vJNa67IW6IxeemnQVhbDAto6I8zSNBetJN_2-b4gAFqmqgX4-L4kQmVjlfkpV8gZw8GPnBZi5j2fxVjANOYk69t5h7UyhhI_YU2eXQEuvCd0aBuav4kLsyu49oe6kyf6C47xxwCYQH353mdl68eUWMdtUx1P1yeruq9127VZ_1RQom36F2aQX6V5v6P7TPKwyxE6zmNPPmAuGON7MXtErkaaCoM1l4YyLqjctpacfrP8bp2ZotgWr3xCrfL268qlQ6632dnXZ1hNSVmb3yJZZZAnlBA/nu/f(dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://raw.githubusercontent.com/Emanueldelima/iptvmakebr/main/canais/tvdiario.php
 
 #EXTINF: -1 tvg-id="Globo.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1490726030239219715/NsSY2E9c_400x400.jpg" group-title="Variedades" , CBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
