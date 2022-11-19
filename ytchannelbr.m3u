@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/Emanueldelima/iptvmakebr/main/canais/tvdiario.
 
 #EXTINF: -1 tvg-id="Globo.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1490726030239219715/NsSY2E9c_400x400.jpg" group-title="Variedades" , CBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2Njg2MTU0NzAsImlhdCI6MTY2ODUyOTA3MCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3Blbl9zdGF0dXMiOiJGIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTE4MCxpPTIpL2NibnNwMjRoYS9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiJlZmM2ZGI0Mi1lZDgzLTU1NjYtZmRjYi04Y2UyOTI3YWQzYjkifQ.QNDRXzxjrW9JObwEXzd71WlU2xIidsNe8N0wo2K2Ff-oNHGXJjkJxjCUIzxZFPQqP6XwjnBZuJuBqoL7eABKMW4nM1fGcLaA2G-J0SgHtO0O1L98QX18zDwMLff6cOAR9ffDYHnDDxzK0rpL9kfpkpXo2NnkOrBPqiTGJyfHIrVCLVVFOw9ljqI5PmU5KQ7SnYHumtiuFAKgflpnkFr7RwQBMSG0ZIlwkH5m48kxaJET8JGPVIgt-rZo_grGo2Eu9YeDRxYvs2V8BLcJxooMgmn-7JID76t60UTwRJUfTmaN-rLmgSzI7YWu7URmF6Z5HtAI9X2caErVX30y8bjo4Q/nu/f(dvr=180,i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://www.dailymotion.com/embed/video/x7txn7q?api=1
 
 #EXTINF: -1 tvg-id="CanalFutura.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1544721381987958786/bfs92YNX_400x400.jpg" group-title="Variedades" , FUTURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
