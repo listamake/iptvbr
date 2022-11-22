@@ -116,9 +116,9 @@ https://livefocamundo.com:8081/tvaracati/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://ebocast.ebosystems.com.br:3922/live/redengtlive.m3u8
 
-#EXTINF: -1 tvg-id="tvrbc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/23bd43f2aa3a7c5772c2ca92d67dbf3a.webp" group-title="Entretenimento", TV RBC HD
+#EXTINF: -1 tvg-id="adessotvc.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="Entretenimento", Adesso TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="ISTVHD.br" tvg-logo="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg" group-title="Entretenimento",ISTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
