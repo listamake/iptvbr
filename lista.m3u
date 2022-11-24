@@ -48,7 +48,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb6XAdGo4bHN48hiLRGJcdkUn4E9PeLnNaCrCedBp1CX-Wsma7Dx_14Cfk5Ng0urRqw&dmTs=207297&dmV1st=0B4F03D6897CEA8D7C91B321FCE4A4B0
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSZJBY7jQjPQl62rei8aZo2nrkl6olfejluKikXccQiR)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -60,7 +60,7 @@ https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-chno="018" tvg-name="TV Cultura Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos", TV Cultura
-https://www.dailymotion.com/cdn/live/video/x7wur7g.m3u8?sec=ni85bJvxdg_Y2OoYim0MmzZMYeuQp4ITKEgel1LsZ4JCxuV4QOjGogIgmzlgakqU0KSdIu2FVDQnYyy_UTKn1A&dmTs=207297&dmV1st=0B4F03D6897CEA8D7C91B321FCE4A4B0
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1-sPn6wA7HaJu1O6dJhG2NHLWt6tqMohmWAJE6_ulGe)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-chno="019" tvg-name="Rede Minas" group-title="Canais Públicos" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
