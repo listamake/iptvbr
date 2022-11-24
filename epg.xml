@@ -815,10 +815,72 @@
 </programme>
  
     ###adessotv.br###
-<programme start="20221123000000 -0300" stop="20221124000000 -0300" channel="adessotv.br">
- <title lang="pt">Programação TV Max</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
+<programme start="20221124004000 -0300" stop="20221124012000 -0300" channel="adessotv.br">
+ <title lang="pt">Mini Docs</title>
+ <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
 </programme>
+<programme start="20221124012000 -0300" stop="20221124060000 -0300" channel="adessotv.br">
+ <title lang="pt">Sessão Coruja</title>
+ <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
+</programme>
+<programme start="20221124060000 -0300" stop="20221124130000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+<programme start="20221124130000 -0300" stop="20221124140000 -0300" channel="adessotv.br">
+ <title lang="pt">Prato Limpo</title>
+ <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
+</programme>
+<programme start="20221124140000 -0300" stop="20221124180000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+<programme start="20221124180000 -0300" stop="20221124183000 -0300" channel="adessotv.br">
+ <title lang="pt">Batman e Robin</title>
+ <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
+</programme>
+<programme start="20221124183000 -0300" stop="20221124230000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+<programme start="20221124230000 -0300" stop="20221125004000 -0300" channel="adessotv.br">
+ <title lang="pt">Músicais</title>
+ <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
+</programme>
+ 
+<programme start="20221125004000 -0300" stop="20221125012000 -0300" channel="adessotv.br">
+ <title lang="pt">Mini Docs</title>
+ <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
+</programme>
+<programme start="20221125012000 -0300" stop="20221125060000 -0300" channel="adessotv.br">
+ <title lang="pt">Sessão Coruja</title>
+ <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
+</programme>
+<programme start="20221125060000 -0300" stop="20221125130000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+<programme start="20221125130000 -0300" stop="20221125140000 -0300" channel="adessotv.br">
+ <title lang="pt">Prato Limpo</title>
+ <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
+</programme>
+<programme start="20221125140000 -0300" stop="20221125180000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+<programme start="20221125180000 -0300" stop="20221125183000 -0300" channel="adessotv.br">
+ <title lang="pt">Batman e Robin</title>
+ <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
+</programme>
+<programme start="20221125183000 -0300" stop="20221125230000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+<programme start="20221125230000 -0300" stop="20221126004000 -0300" channel="adessotv.br">
+ <title lang="pt">Músicais</title>
+ <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
+</programme>
+ 
     ###TVMax.br###
 <programme start="20221124000000 -0300" stop="20221124080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
@@ -965,7 +1027,7 @@
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20221123230000 -0300" stop="20221124010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221124230000 -0300" stop="20221125010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
@@ -1101,7 +1163,7 @@
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221123210000 -0300" stop="20221124000000 -0300" channel="PLAYTV.br">
+<programme start="20221125210000 -0300" stop="20221126000000 -0300" channel="PLAYTV.br">
  <title lang="pt">Agro Canal</title>
  <desc lang="pt">Leilões, notícias e informações sobre o agronegócio</desc>
 </programme>
@@ -1396,40 +1458,40 @@
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20221123100000 -0300" stop="20221123120000 -0300" channel="cbnrede.br">
+<programme start="20221124100000 -0300" stop="20221124120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20221123120000 -0300" stop="20221123140000 -0300" channel="cbnrede.br">
+<programme start="20221124120000 -0300" stop="20221124140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20221123140000 -0300" stop="20221123170000 -0300" channel="cbnrede.br">
+<programme start="20221124140000 -0300" stop="20221124170000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20221123170000 -0300" stop="20221123200000 -0300" channel="cbnrede.br">
+<programme start="20221124170000 -0300" stop="20221124200000 -0300" channel="cbnrede.br">
  <title lang="pt">Ponto Final CBN</title>
  <desc lang="pt">Resumo do que aconteceu no dia com Rodrigo Bocardi e Carolina Morand.</desc>
 </programme>
-<programme start="20221123200000 -0300" stop="20221123210000 -0300" channel="cbnrede.br">
+<programme start="20221124200000 -0300" stop="20221124210000 -0300" channel="cbnrede.br">
  <title lang="pt">Quatro em Campo</title>
  <desc lang="pt">Resenha esportiva com a equipe de craques da cbn. com Carlos Eduardo Eboli, Paulo Massini, Francisco Aiello e André Sanches.</desc>
 </programme>
-<programme start="20221123210000 -0300" stop="20221124000000 -0300" channel="cbnrede.br">
+<programme start="20221124210000 -0300" stop="20221125000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
  
-<programme start="20221122000000 -0300" stop="20221122050000 -0300" channel="cbnrede.br">
+<programme start="20221125000000 -0300" stop="20221125050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20221122050000 -0300" stop="20221122060000 -0300" channel="cbnrede.br">
+<programme start="20221125050000 -0300" stop="20221125060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20221122060000 -0300" stop="20221122070000 -0300" channel="cbnrede.br">
+<programme start="20221125060000 -0300" stop="20221125070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
