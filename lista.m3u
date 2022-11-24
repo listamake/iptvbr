@@ -279,6 +279,12 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF: -1 tvg-id="TV Ceará" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlMcqYTS7REZLyNpzNP6Xwk1PU80pCvMyvw&usqp=CAU" group-title="Canais Públicos" , TV Ceará HD
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
 
+#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://yt3.ggpht.com/DNp-rxtANEGdlaIaMskiMa9Gj7oYIpxcUgSDALtxYyvKHnYA0dLVU6_0uyhEruDZ_-ewOgmePQ=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Brasil Central HD
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+#EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9GcUSUTndHGlIe58IS4c5H_9n19psWSPS391dj=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" ,TV Mais News HD
+http://sevensp.homelinux.com/live/index.m3u8
+
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 
