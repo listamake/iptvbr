@@ -15,7 +15,7 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2NjkzNDA2NzMsImlhdCI6MTY2OTI1NDI3MywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3Blbl9zdGF0dXMiOiJGIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1heD0zMzAwMDAwLGR2cj0xODAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCIsInVzZXJTZXNzaW9uS2V5IjoiMmJiOWE2NmMtMzkwMi01NWMwLWY1OTgtODVkNjg5ZDcxYTU1In0.Ujl4Pj0ZxaP56LoHw4j-jyxww8Np4jKyWWeV9NSpr1BZ2H5hIjVbUpDai5ajQZyshPUluN8mG1EXAos0PpR8mbS_lRQiCy5VoecVw36EoEq92qujSEhHca51S6im_VGBnnqXqmCuMAS0o7wydi6_vZlZUyqfxLuVZOtdSMrTNBJxOL4VvYF68_P1HJNyYkrBRl0RQxyllNFdSNsVArKLELX59wtWADlcYEf6pSh3Gjy9PNq-tnkOTPBRzHfFK2WTAq7FHPoKiUHFlmGOesPULXmXEZ9KZT4EpNvIMs26QMrIlirGEGgP6pnlegCLJ-BaOLo-JzbZlh3WKCplmpSSiA/nu/f(bMax=3300000,dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades" pltv-subgroup = "Sis.Jornal do Comer.", RecordTV MT
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RedeVida.br" tvg-chno="005" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Religioso" pltv-subgroup = "NTRU", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
