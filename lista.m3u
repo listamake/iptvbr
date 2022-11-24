@@ -8,7 +8,7 @@
 https://proxy-09.nyc.dailymotion.com/sec(Y1vpsrJkRaxa6jF-j2RR0hmHmDyOOfzGwfxQfDQkEHiIb9YkM9WH5QypZuQ9b03IYOcMorFwvCrqHVR3MAqs6wwosE2N9LW_CU2O3ti0eFA)/video/584/240/510042485_mp4_h264_aac_hq.m3u8#cell=nyc
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Norte
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+https://tvvalexingu.brasilstream.com.br/hls/tvvalexingu/index.m3u8?token=7515283283772299000
 
 #EXTINF: -1 tvg-id="RedeGlobo.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE - Temporario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
