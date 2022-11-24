@@ -14,6 +14,10 @@
  <display-name lang="pt">ISTV HD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
+<channel id="adessotv.br">
+ <display-name lang="pt">Adesso TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
+</channel>
 <channel id="TVMarAlagoas.br">
  <display-name lang="pt">TV Mar HD</display-name>
   <icon src="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png"/>
