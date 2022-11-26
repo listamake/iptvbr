@@ -10,7 +10,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF: -1 tvg-id="CanalFutura.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1544721381987958786/bfs92YNX_400x400.jpg" group-title="Variedades" , FUTURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2Njg2MTU1NjMsImlhdCI6MTY2ODUyOTE2MywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3Blbl9zdGF0dXMiOiJGIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoaT0yKS9mdXR1cmEyNGhhL3BsYXlsaXN0Lm0zdTgiLCJ1c2VyU2Vzc2lvbktleSI6ImVmYzZkYjQyLWVkODMtNTU2Ni1mZGNiLThjZTI5MjdhZDNiOSJ9.QquaVFuEY5MWob-0c8rJ3jXrysx85zEJRY5EzfmHAfutKdwE_nC75c73TGampwOh_4-8ova-yleVuc_z-R1NUpxo97dpa6fVwieR29BGhZ1ac-FymFMDvt5fKSSBy2Tx7IV7fHb5xYEWfwGpmf9_DISofDaiCwvpndEKjPtCcPkMn_0idwuZ1jLLW128UVvAt1F8_fAApyd8OFbFSeo8n3bJ-iPpfO2vd7EcmIF_sjdXsitZePyL4M6N8pIxSvogE8cWDybE9Lr-QUuZktZ1zlCTFfa13lvH2WOoCkoEXxseyfz57S8bP0LAIVVXTPFnC9kAoXN7gOzmCKOWRWgRDw/nu/f(i=2)/futura24ha/futura24ha-audio_1=96000-video=3092992.m3u8
+https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="000" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Para (YouTube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
