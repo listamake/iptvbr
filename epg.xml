@@ -895,7 +895,7 @@
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20221124120000 -0300" stop="20221128130000 -0300" channel="TVMax.br">
+<programme start="20221128120000 -0300" stop="20221128130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
@@ -1320,19 +1320,19 @@
  
  ###energeek.cl####
 
-<programme start="202211240000000 -0300" stop="2022112600000 -0300" channel="energeek.cl">
+<programme start="202211260000000 -0300" stop="2022112800000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211170000000 -0300" stop="2022111900000 -0300" channel="energeek.cl">
+<programme start="202211280000000 -0300" stop="2022120500000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211190000000 -0300" stop="2022112200000 -0300" channel="energeek.cl">
+<programme start="202212050000000 -0300" stop="2022121200000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211220000000 -0300" stop="2022112400000 -0300" channel="energeek.cl">
+<programme start="202212120000000 -0300" stop="2022122400000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1346,15 +1346,15 @@
  <title lang="pt">The Code</title>
  <desc lang="pt">The Code chega para você aproveitar mais, acompanhar seu apresentador favorito e comentar totalmente ao vivo através do nosso canal da Twitch. Segunda, quarta e sexta estamos ao vivo a partir das 17 horas. Se você perdeu a transmissão, não se preocupe, pois você pode apreciá-lo novamente às 20:00 nas telas etc.</desc>
 </programme>
-<programme start="20221128203000 -0300" stop="20221128210000 -0300" channel="ETCTV.cl">
+<programme start="20221128203000 -0200" stop="20221128210000 -0200" channel="ETCTV.cl">
  <title lang="pt">Zero Lag</title>
  <desc lang="pt">Zero Lag Nosso podcast dedicou 100% ao mundo dos e-sports. Juntamente com a liderança de Laruchan e Vacros, conheceremos as novidades, controvérsias e resultados das mais importantes ligas de esportes eletrônicos. Entrevistas exclusivas com jogadores, criadores de conteúdo e as mais importantes equipes de esports da Latam, faz parte do que você pode ver no Zero Lag. Não se esqueça! Segunda a quinta-feira a partir das 20h30 pelo ETC.</desc>
 </programme>
-<programme start="20221128210000 -0300" stop="20221128220000 -0300" channel="ETCTV.cl">
+<programme start="20221128210000 -0200" stop="20221128220000 -0200" channel="ETCTV.cl">
  <title lang="pt">Free To Play</title>
  <desc lang="pt">Um espaço de conversa onde revisamos o melhor dos animes, videogames, conspirações, jogos de tabuleiro e muito mais. Com a companhia de Víctor Aranda, Juan Andrés Salfate, Rocío Madariaga, Vacros e Laruchan. Estamos esperando por você de segunda a sexta-feira a partir das 21:00 horas com a melhor programação, somente pelo nosso canal ETC</desc>
 </programme>
-<programme start="20221128220000 -0300" stop="20221129000000 -0300" channel="ETCTV.cl">
+<programme start="20221128220000 -0200" stop="20221129000000 -0200" channel="ETCTV.cl">
  <title lang="pt">Sinal Fechado</title>
  <desc lang="pt">O Sinal Abre ás 20h ate ás 22h,Sinal exclusivo para TV, Operadoras de tv acabo Chileno para transmição de animes e séries</desc>
 </programme>
