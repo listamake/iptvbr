@@ -1301,11 +1301,11 @@
 </programme>
  
    ####tv bs####
-<programme start="202211150000000 -0300" stop="2022111700000 -0300" channel="tvbs.br">
+<programme start="202211300000000 -0300" stop="2022120700000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202211170000000 -0300" stop="2022112100000 -0300" channel="tvbs.br">
+<programme start="202212070000000 -0300" stop="2022121400000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -2120,7 +2120,7 @@
 </programme>
 
       ####Canalteste####
-<programme start="20221106000000 -0300" stop="20221116000000 -0300" channel="Canalteste">
+<programme start="20221206000000 -0300" stop="20221216000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
@@ -2142,7 +2142,7 @@
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20221118000000 -0300" stop="20221124000000 -0300" channel="RSNewsSports.br">
+<programme start="20221208000000 -0300" stop="20221214000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
@@ -2165,7 +2165,7 @@
  <title lang="pt">Programação Euronews</title>
  <desc lang="pt">Euronews é uma estação televisiva de informação multilingue e pan-europeia, fundada em 1993 e sediada em Lyon, em França. Foi o primeiro canal do mundo a difundir em várias línguas.</desc>
 </programme>
-<programme start="20221124000000 -0300" stop="20221126000000 -0300" channel="Euronews.br">
+<programme start="20221204000000 -0300" stop="20221216000000 -0300" channel="Euronews.br">
  <title lang="pt">Programação Euronews</title>
  <desc lang="pt">Euronews é uma estação televisiva de informação multilingue e pan-europeia, fundada em 1993 e sediada em Lyon, em França. Foi o primeiro canal do mundo a difundir em várias línguas.</desc>
 </programme>
@@ -2203,7 +2203,7 @@
 </programme>
  
    ####ManajoaraAMBelem.br####
-<programme start="20221105000000 -0300" stop="20221118000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20221128000000 -0300" stop="20221208000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
@@ -2212,11 +2212,11 @@
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
    ####MixFMBelem.br####
-<programme start="20221102000000 -0300" stop="20221118000000 -0300" channel="MixFMBelem.br">
+<programme start="20221129000000 -0300" stop="20221208000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20221118000000 -0300" stop="20221125000000 -0300" channel="MixFMBelem.br">
+<programme start="20221208000000 -0300" stop="20221215000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
@@ -2233,7 +2233,7 @@
  <title lang="pt">Programação Mais Favela TV</title>
  <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
 </programme>
-<programme start="20221115000000 -0300" stop="20221124000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20221205000000 -0300" stop="20221214000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação Mais Favela TV</title>
  <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
 </programme>
@@ -2253,11 +2253,11 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20221105000000 -0300" stop="20221115000000 -0300" channel="TVTop.br">
+<programme start="20221128000000 -0300" stop="20221205000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20221115000000 -0300" stop="20221124000000 -0300" channel="TVTop.br">
+<programme start="20221205000000 -0300" stop="20221214000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
@@ -2271,11 +2271,11 @@
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
-<programme start="20221128000000 -0300" stop="2022113000000 -0300" channel="RetroCartoon.br">
+<programme start="20221128000000 -0300" stop="2022120600000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
-<programme start="20221116000000 -0300" stop="2022112600000 -0300" channel="RetroCartoon.br">
+<programme start="20221206000000 -0300" stop="2022121600000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
