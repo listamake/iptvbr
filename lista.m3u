@@ -5,10 +5,10 @@
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (02/12/2022,01h28m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://proxy-009.dc3.dailymotion.com/sec(yz7C7zAq75CjlYcDfiRgVd1k0q3KFbaDYNFFGxk1ZF7KKGuS_0cR84JRpPpQ3DcCopUISsrTttQLgN6tZwfi1347BC6t3xnm8ZBuXuovPlQ)/video/331/803/500308133_mp4_h264_aac_hq.m3u8#cell=core
+https://proxy-037.ix7.dailymotion.com/sec(0V41b9CBRT3XfaWDMnvxGUgy-CRXzpvsZ4Fkdp2fm8wHhLFea_4xI2OxoffrhaladbzWaAvFe2r_BRbiPfHeHjsKsPTeU9uK9D-gsDb9SfY)/video/222/803/500308222_mp4_h264_aac_hq.m3u8#cell=core
 
-#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Norte - Bem TV
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w1472582298.m3u8
+#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Norte - TV Guarajá
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-chno="003" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Regionais" tvh-tags="Pernambuco", TV Jornal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -333,6 +333,14 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 
 #EXTINF: -1 tvg-id="TVAratu.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9Ti980YfMbMdRec_c-m5SiV4haSnIlTc8mxjPr=s88-c-k-c0x00ffffff-no-rj" group-title="Regionais", TV Aratu HD
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF: -1 tvg-id="TVSerraDourada.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86841c502cb58d0b80c7fd378fb03330.webp" group-title="Regionais", TV Serra Dourada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://j5umwxziy3.zoeweb.tv/tvsd2/smil:tvsd2_64eS8OiMSj8l.smil/chunklist_b1000000.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njk5NTY0OTcsIm5iZiI6MTY2OTk1NjQ5NywiZXhwIjoxNjY5OTU2NDk3LCJpc3MiOiJ6b2V2aWRlb3MubmV0IiwianRpIjoiMTA4OTgwMzE5NzYzODk4MzkxODQ4NDM4LjA4MDM4NDcwIiwiY2xpZW50ZSI6IjQ1LjE2NC45LjE2NyIsImNsaWVudCI6IjQ1LjE2NC45LjE2NyJ9.a9-Nk8DC-Dq-rPYKmjHvhWKZNytcIHpdVxxiwn2Mq2M
+
+#EXTINF: -1 tvg-id="TVDifusoraSaoLuis.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b18678505f9a4a38addae3415a388a8d.webp" group-title="Regionais", TV Difusora
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF: -1 tvg-id="TVGazeta.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c1b16402c98da43a39e97fca49875675.webp" group-title="Regionais", TV Alternativa HD
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
