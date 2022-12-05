@@ -286,7 +286,7 @@
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20221206010000 -0300" stop="20221206020000 -0300" channel="anitv.br"
+<programme start="20221206010000 -0300" stop="20221206020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
@@ -301,6 +301,14 @@
 <programme start="20221206073000 -0300" stop="20221206103000 -0300" channel="anitv.br">
  <title lang="en">Faixa de Desenhos</title>
  <desc lang="en">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
+</programme>
+<programme start="20221206103000 -0300" stop="20221206120000 -0300" channel="anitv.br">
+ <title lang="en">Reprises dos Animes Clássicos</title>
+ <desc lang="en">Com Urusei Yatsura,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
+</programme>
+<programme start="20221206120000 -0300" stop="20221206123000 -0300" channel="anitv.br">
+ <title lang="pt">Policial de Aço - JIBAN</title>
+ <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
 
  
