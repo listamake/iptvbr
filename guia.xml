@@ -270,4 +270,358 @@
 </programme>
 
 
+
+    ###TVMax.br###
+<programme start="20221205000000 -0300" stop="20221205070000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação Max TV</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20221205070000 -0300" stop="20221205080000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221205080000 -0300" stop="20221205100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20221205100000 -0300" stop="20221205110000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Conexão no AR</title>
+ <desc lang="pt">NOTICIARIO.</desc>
+</programme>
+<programme start="20221205110000 -0300" stop="20221205120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20221205120000 -0300" stop="20221205130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20221205130000 -0300" stop="20221205150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20221205150000 -0300" stop="20221205153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20221205153000 -0300" stop="20221205160000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221205160000 -0300" stop="20221206000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
+<programme start="20221206000000 -0300" stop="20221206070000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação Max TV</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20221206070000 -0300" stop="20221206080000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221206080000 -0300" stop="20221206100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20221206100000 -0300" stop="20221206110000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Conexão no AR</title>
+ <desc lang="pt">NOTICIARIO.</desc>
+</programme>
+<programme start="20221206110000 -0300" stop="20221206120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20221206120000 -0300" stop="20221206130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20221206130000 -0300" stop="20221206150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20221206150000 -0300" stop="20221206153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20221206153000 -0300" stop="20221206160000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221206160000 -0300" stop="20221207080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
+<programme start="20221203080000 -0300" stop="20221204000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20221204000000 -0300" stop="20221205080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
+    ####TVMaisFamilia.br####
+ 
+<programme start="20221205010000 -0300" stop="20221205030000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="20221205030000 -0300" stop="20221205050000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS FÉ</title>
+ <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
+</programme>
+<programme start="20221205050000 -0300" stop="20221205070000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="20221205070000 -0300" stop="20221205080000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20221205080000 -0300" stop="20221205083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Joseph Prince</title>
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
+</programme>
+<programme start="20221205083000 -0300" stop="20221205100000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20221205100000 -0300" stop="20221205110000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">IN TOUCH</title>
+ <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
+</programme>
+<programme start="20221205110000 -0300" stop="20221205120000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">SUPERBOOK</title>
+ <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
+</programme>
+<programme start="20221205120000 -0300" stop="20221205150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Alegria</title>
+ <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+</programme>
+<programme start="20221205150000 -0300" stop="20221205180000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Sempre Melhor</title>
+ <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
+</programme>
+<programme start="20221205180000 -0300" stop="20221205200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
+</programme>
+<programme start="20221205200000 -0300" stop="20221205210000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Terra Prometida</title>
+ <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
+</programme>
+<programme start="20221205210000 -0300" stop="20221205220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20221205220000 -0300" stop="20221205230000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Nossa Noite</title>
+ <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+</programme>
+<programme start="20221205230000 -0300" stop="20221206010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS MÚSICA</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+ 
+<programme start="20221206010000 -0300" stop="20221206030000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="20221206030000 -0300" stop="20221206050000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS FÉ</title>
+ <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
+</programme>
+<programme start="20221206050000 -0300" stop="20221206070000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="20221206070000 -0300" stop="20221206080000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20221206080000 -0300" stop="20221206083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Joseph Prince</title>
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
+</programme>
+<programme start="20221206083000 -0300" stop="20221206100000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20221206103000 -0300" stop="20221206110000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">IN TOUCH</title>
+ <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
+</programme>
+<programme start="20221206110000 -0300" stop="20221206120000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">SUPERBOOK</title>
+ <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
+</programme>
+<programme start="20221206120000 -0300" stop="20221206150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Alegria</title>
+ <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+</programme>
+<programme start="20221206150000 -0300" stop="20221206180000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Sempre Melhor</title>
+ <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
+</programme>
+<programme start="20221206180000 -0300" stop="20221206200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós</title>
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
+</programme>
+<programme start="20221206200000 -0300" stop="20221206213000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Terra Prometida</title>
+ <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
+</programme>
+<programme start="20221206213000 -0300" stop="20221206220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20221206220000 -0300" stop="20221206230000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Nossa Noite</title>
+ <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+</programme>
+<programme start="20221206230000 -0300" stop="20221207010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS MÚSICA</title>
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+ 
+
+
+
+
+  ####sabado anitv####
+<programme start="20221210000000 -0300" stop="20221210030000 -0300" channel="anitv.br">
+ <title lang="pt">A Anunciar</title>
+ <desc lang="pt">Um programa para ser anuncido na progração.</desc>
+</programme>
+<programme start="20221203030000 -0300" stop="20221203060000 -0300" channel="anitv.br">
+ <title lang="pt">REPRISES da Madrugada</title>
+ <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
+</programme>
+<programme start="20221203060000 -0300" stop="20221203220000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS</title>
+ <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
+</programme>
+
+
+   ####domingo anitv####
+<programme start="20221203220000 -0300" stop="20221204000000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
+ <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
+</programme>
+<programme start="20221204000000 -0300" stop="20221204060000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Madrugada</title>
+ <desc lang="en">reprise de animes que foi exibido durante a programação</desc>
+</programme>
+<programme start="20221204060000 -0300" stop="20221205000000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS</title>
+ <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
+</programme>
+
+    ###segunda anitv###
+<programme start="20221031010000 -0300" stop="20221031070000 -0300" channel="anitv.br">
+ <title lang="en">REPRISES da Madrugada</title>
+ <desc lang="en">Conteúdos aliatorios</desc>
+</programme>
+
+
+    ####yeeaah####
+<programme start="20221204000000 -0300" stop="20221204120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20221204120000 -0300" stop="20221205000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+ 
+<programme start="20221206000000 -0300" stop="20221206120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20221205120000 -0300" stop="20221206000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+ 
+<programme start="20221205000000 -0300" stop="20221205010000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP</title>
+ <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+</programme>
+<programme start="20221205010000 -0300" stop="20221205030000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+<programme start="20221205030000 -0300" stop="20221205040000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Notícias</title>
+ <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
+</programme>
+<programme start="20221205040000 -0300" stop="20221205060000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+<programme start="20221205060000 -0300" stop="20221205070000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP</title>
+ <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+</programme>
+<programme start="20221205070000 -0300" stop="20221205090000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+<programme start="20221205090000 -0300" stop="20221205093000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Jogo TV</title>
+ <desc lang="pt">O programa mostra tudo o que rola no mundo dos games. Aqui você curte análises, gameplays, trailers dos principais lançamentos, confere novidades das plataformas e consoles.</desc>
+</programme>
+<programme start="20221205093000 -0300" stop="20221205100000 -0300" channel="yaaeeh.br">
+ <title lang="pt">PlayHit</title>
+ <desc lang="pt">Game + Música! PlayHit cria um videoclipe com imagens dos seus jogos preferidos!</desc>
+</programme>
+<programme start="20221205100000 -0300" stop="20221205120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+<programme start="20221206120000 -0300" stop="20221206130000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP</title>
+ <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+</programme>
+<programme start="20221206130000 -0300" stop="20221206150000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+<programme start="20221206150000 -0300" stop="20221206180000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20221206180000 -0300" stop="20221206190000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+<programme start="20221206190000 -0300" stop="20221206193000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Homem-Haranha (1966)</title>
+ <desc lang="pt">Spider-Man é uma série de televisão animada de super-heróis que foi a primeira série de televisão baseada na série de quadrinhos do Homem-Aranha criada pelo escritor Stan Lee e pelo artista Steve Ditko..</desc>
+</programme>
+<programme start="20221206193000 -0300" stop="20221206200000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Shurato</title>
+ <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
+</programme>
+<programme start="20221206200000 -0300" stop="20221206210000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20221206210000 -0300" stop="20221206213000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP</title>
+ <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+</programme>
+<programme start="20221206213000 -0300" stop="20221206220000 -0300" channel="yaaeeh.br">
+ <title lang="pt">PlayHit</title>
+ <desc lang="pt">Game + Música! PlayHit cria um videoclipe com imagens dos seus jogos preferidos!</desc>
+</programme>
+<programme start="20221206220000 -0300" stop="20221207000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games - Ao Vivo</title>
+ <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+</programme>
+
+
 </tv>
