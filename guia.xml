@@ -174,7 +174,6 @@
       <value>TV-14</value>
     </rating>
 </programme>
-
 <programme start="20220530003000 -0300" stop="20220530010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
@@ -182,7 +181,6 @@
       <value>TV-14</value>
     </rating>
 </programme>
-
 <programme start="20220530010000 -0300" stop="20220530013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
