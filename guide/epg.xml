@@ -1,1 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 
+<channel id="yaaeeh.br">
+ <display-name lang="pt">Yeeaah HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp"/>
+</channel>
+<channel id="PLAYTV.br">
+ <display-name lang="pt">TV WA</display-name>
+ <display-name lang="pt">PlayTV</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
+</channel>
+<channel id="ISTVHD.br">
+ <display-name lang="pt">ISTV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
+</channel>
+<channel id="adessotv.br">
+ <display-name lang="pt">Adesso TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
+</channel>
+<channel id="TVMarAlagoas.br">
+ <display-name lang="pt">TV Mar HD</display-name>
+  <icon src="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png"/>
+</channel>
+<channel id="TVTop.br">
+ <display-name lang="pt">Top TV HD</display-name>
+ <display-name lang="pt">Catve FM HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp"/>
+</channel>
+<channel id="KpopTVPlay.br">
+ <display-name lang="pt">Kpop TV Play</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg"/>
+</channel>
+<channel id="Euronews.br">
+ <display-name lang="pt">Euronews em português</display-name>
+  <url>mi.tv</url>
+  <icon src="https://pbs.twimg.com/profile_images/1168825837396869122/9s0sF91N_400x400.jpg"/>
+</channel>
+<channel id="TVMax.br">
+ <display-name lang="pt">TV Max RIO</display-name>
+  <url>mi.tv</url>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp"/>
+</channel>
+<channel id="CentralTV.br">
+ <display-name lang="pt">Central TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/790055262375804928/3gX87zyO_400x400.jpg"/>
+</channel>
+<channel id="ETCTV.cl">
+ <display-name lang="pt">ETC TV HD</display-name>
+ <display-name lang="pt">ETC TV FHD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1498392356495712266/wHrj2T5d_400x400.jpg"/>
+</channel>
+<channel id="awtv.br">
+ <display-name lang="pt">AWTV HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp"/>
+</channel>
+<channel id="FronteiraMovies.br">
+ <display-name lang="pt">Fronteira Movies</display-name>
+</channel>
+<channel id="Clc.br">
+ <display-name lang="pt">Cine Life Classic HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp"/>
+</channel>
+<channel id="StrikerVerso.br">
+ <display-name lang="pt">StrikerVerso HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
+</channel>
+<channel id="StrikerVersobeta.br">
+ <display-name lang="pt">Canal Teste 2</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
+</channel>
+<channel id="Canalteste">
+ <display-name lang="pt">teste HD</display-name> 
+ <display-name lang="pt">Canal Teste 1</display-name>
+ <display-name lang="pt">Canal Teste 3</display-name>
+ <display-name lang="pt">Canal Teste 4</display-name>
+ <display-name lang="pt">teste HD</display-name>
+  <icon src=""/>
+</channel>
+<channel id="AllSports.br">
+ <display-name lang="pt">All Sport HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
+</channel>
+<channel id="RSNewsSports.br">
+ <display-name lang="pt">RS News Sports</display-name>
+ <display-name lang="pt">RS News Sports 2</display-name>
+ <display-name lang="pt">RS News Sports 3</display-name>
+ <display-name lang="pt">RS News Sports 4</display-name>
+ <display-name lang="pt">RS News Sports 5</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp"/>
+</channel>
+<channel id="MaisFavelaTV.br">
+ <display-name lang="pt">Mais Favela TV</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0a075f147da0b5d7c5cce030cb33755d.webp"/>
+</channel>
+<channel id="TVMaisFamilia.br">
+ <display-name lang="pt">Rede Mais Família HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp"/>
+</channel>
+<channel id="COMBrasil.br">
+ <display-name lang="pt">TV Comunitária HD</display-name>
+  <icon src="https://encrypted-tbn0.gstatic.com/"/>
+</channel>
+<channel id="TVCITVCOMUNICACOESINTERATIVASLTDA.br">
+ <display-name lang="pt">TVCI HD</display-name>
+  <icon src="https://yt3.ggpht.com"/>
+</channel>
+<channel id="RetroCartoon.br">
+ <display-name lang="pt">RETRO CARTOON SD</display-name>
+  <icon src="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"/>
+</channel>
+ 
+<channel id="radiometroweb.br">
+ <display-name lang="pt">Rádio Metró</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1523521106430279680/vr8af8BO_400x400.jpg"/>
+   <url>mi.tv</url>
+</channel>
+<channel id="MixFMBelem.br">
+ <display-name lang="pt">Mix Belém HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1545103616574459905/YA44Zg0H_400x400.jpg"/>
+</channel>
+<channel id="energeek.cl">
+ <display-name lang="pt">EnerGeek</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1507190273662726147/sS_Z9Ki7_400x400.jpg"/>
+</channel>
+<channel id="radiobandnewssp.br">
+ <display-name lang="pt">Rádio Band News SP</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1397295714628218884/A6Efk-71_400x400.jpg"/>
+</channel>
+<channel id="ManajoaraAMBelem.br">
+ <display-name lang="pt">Super Manajoara HD</display-name>
+  <icon src="https://img.radios.com.br/radio/xl/radio18948_1636027882.jpeg"/>
+</channel>
+<channel id="radiojornalpe.br">
+ <display-name lang="pt">Rádio Jornal Recife</display-name>
+  <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
+</channel>
+<channel id="radioclubeampe.br">
+ <display-name lang="pt">Rádio Clube Recife AM</display-name>
+    <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
+    <url>mi.tv</url>
+</channel>    
+
+<channel id="cbnrede.br">
+ <display-name lang="pt">CBN Rede</display-name>
+ <display-name lang="pt">CBN Rio HD</display-name>
+ <display-name lang="pt">CBN São Paulo HD</display-name>
+  <url>mi.tv</url>
+  <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
+</channel>
+<channel id="damubiku.br">
+ <display-name lang="pt">Damu Biku HD</display-name>
+  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
+   <url>mi.tv</url>
+</channel>
+<channel id="tvbs.br">
+ <display-name lang="pt">TV BS HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
+   <url>mi.tv</url>
+</channel>
+<channel id="anitv.br">
+ <display-name lang="pt">AniTV HD</display-name>
+ <display-name lang="pt">Geekdot HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp"/>
+</channel>
+  
+  
+       #####padrao especial anitv#####
+<programme start="20221204230000 -0300" stop="20221205000000 -0300" channel="anitv.br">
+ <title lang="pt">Programação AniTV</title>
+ <desc lang="pt">é Steam na net é anime na veia !!</desc>
+</programme>
