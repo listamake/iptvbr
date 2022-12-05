@@ -310,27 +310,22 @@
  <title lang="en">Urusei Yatsura</title>
  <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
 </programme>
-
 <programme start="20220530213000 -0300" stop="20220530220000 -0300" channel="anitv.br">
  <title lang="en">Ranking of Kings</title>
  <desc lang="en">anime</desc>
 </programme>
-
 <programme start="20220530220000 -0300" stop="20220530223000 -0300" channel="anitv.br">
  <title lang="en">Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
-
 <programme start="20220530223000 -0300" stop="20220530230000 -0300" channel="anitv.br">
  <title lang="en">SK8 The Infinity</title>
  <desc lang="en">anime</desc>
 </programme>
-
 <programme start="20220530230000 -0300" stop="20220530233000 -0300" channel="anitv.br">
  <title lang="en">Miss Kobayashi's Dragon Maid</title>
  <desc lang="en">anime</desc>
 </programme>
-
 <programme start="20220530233000 -0300" stop="20220531000000 -0300" channel="anitv.br">
  <title lang="pt">Cowboy Bebop</title>
  <desc lang="pt">anime</desc>
@@ -343,7 +338,6 @@
       <value>TV-14</value>
     </rating>
 </programme>
-
 <programme start="20220528003000 -0300" stop="20220528010000 -0300" channel="anitv.br">
  <title lang="pt">Banana Fish</title>
  <desc lang="pt">Aslan Jade Callenreese, conhecida como Ash Lynx, era uma fugitiva escolhida nas ruas da cidade de Nova York e criada pelo infame padrinho da máfia, Dino Golzine. Agora, com 17 anos e chefe de sua própria gangue, Ash põe as mãos em uma misteriosa droga chamada Banana fish.</desc>
@@ -351,47 +345,38 @@
       <value>TV-14</value>
     </rating>
 </programme>
-
 <programme start="20220528010000 -0300" stop="20220528013000 -0300" channel="anitv.br">
  <title lang="pt">Kiss-x-sis</title>
  <desc lang="pt">anime</desc>
 </programme>
-
 <programme start="20220528013000 -0300" stop="20220528020000 -0300" channel="anitv.br">
  <title lang="en">Shimoneta</title>
  <desc lang="en">anime</desc>
 </programme>
-
 <programme start="20220528020000 -0300" stop="20220528030000 -0300" channel="anitv.br">
  <title lang="en">A Lenda - Um Luxo de Sonhar</title>
  <desc lang="en">Do Jin-Hoo é o sucessor à presidência de uma marca de moda coreana. O destino de duas mulheres mudará à medida que as suas vidas se cruzam com o homem que tem tudo.</desc>
 </programme>
-
 <programme start="20220528030000 -0300" stop="20220528050000 -0300" channel="anitv.br">
  <title lang="pt">AniBox</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-
 <programme start="20220528050000 -0300" stop="20220528060000 -0300" channel="anitv.br">
  <title lang="pt">AniBox City Pop</title>
  <desc lang="pt">as melhores músicas de anime estão aqui.</desc>
 </programme>
-
 <programme start="20220528060000 -0300" stop="20220528070000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 90 e 2000. Na apresentação de Ian José Silva, a Budega leva a seus ouvintes os grandes sucessos do forró, brega, Jovem Guarda e outros estilos (e claro, outras músicas nem tão conhecidas), bem como comentários do dia-a-dia e quadros de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-
 <programme start="20220528070000 -0300" stop="20220528100000 -0300" channel="anitv.br">
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
-
 <programme start="20220528100000 -0300" stop="20220528123000 -0300" channel="anitv.br">
  <title lang="en">Maratona Super Campeões</title>
  <desc lang="en">anime</desc>
 </programme>
-
 <programme start="20220528123000 -0300" stop="20220528150000 -0300" channel="anitv.br">
  <title lang="en">Maratona Umaru-chan</title>
  <desc lang="en">anime</desc>
@@ -399,98 +384,7 @@
 
 
 
-    ###TVMax.br###
-<programme start="20221205000000 -0300" stop="20221205070000 -0300" channel="TVMax.br">
- <title lang="pt">Programação Max TV</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
-<programme start="20221205070000 -0300" stop="20221205080000 -0300" channel="TVMax.br">
- <title lang="pt">Faixa Músical</title>
- <desc lang="pt">Tapa buraco.</desc>
-</programme>
-<programme start="20221205080000 -0300" stop="20221205100000 -0300" channel="TVMax.br">
- <title lang="pt">Show do Clóvis Monteiro</title>
- <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
-</programme>
-<programme start="20221205100000 -0300" stop="20221205110000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Conexão no AR</title>
- <desc lang="pt">NOTICIARIO.</desc>
-</programme>
-<programme start="20221205110000 -0300" stop="20221205120000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Francisco Barbosa</title>
- <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
-</programme>
-<programme start="20221205120000 -0300" stop="20221205130000 -0300" channel="TVMax.br">
- <title lang="pt">Patrulha da Cidade</title>
- <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
-</programme>
-<programme start="20221205130000 -0300" stop="20221205150000 -0300" channel="TVMax.br">
- <title lang="pt">Cidinha Livre</title>
- <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
-</programme>
-<programme start="20221205150000 -0300" stop="20221205153000 -0300" channel="TVMax.br">
- <title lang="pt">Zinzane</title>
- <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
-</programme>
-<programme start="20221205153000 -0300" stop="20221205160000 -0300" channel="TVMax.br">
- <title lang="pt">Faixa Músical</title>
- <desc lang="pt">Tapa buraco.</desc>
-</programme>
-<programme start="20221205160000 -0300" stop="20221206000000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Max</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
- 
-<programme start="20221206000000 -0300" stop="20221206070000 -0300" channel="TVMax.br">
- <title lang="pt">Programação Max TV</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
-<programme start="20221206070000 -0300" stop="20221206080000 -0300" channel="TVMax.br">
- <title lang="pt">Faixa Músical</title>
- <desc lang="pt">Tapa buraco.</desc>
-</programme>
-<programme start="20221206080000 -0300" stop="20221206100000 -0300" channel="TVMax.br">
- <title lang="pt">Show do Clóvis Monteiro</title>
- <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
-</programme>
-<programme start="20221206100000 -0300" stop="20221206110000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Conexão no AR</title>
- <desc lang="pt">NOTICIARIO.</desc>
-</programme>
-<programme start="20221206110000 -0300" stop="20221206120000 -0300" channel="TVMax.br">
- <title lang="pt">Programa Francisco Barbosa</title>
- <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
-</programme>
-<programme start="20221206120000 -0300" stop="20221206130000 -0300" channel="TVMax.br">
- <title lang="pt">Patrulha da Cidade</title>
- <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
-</programme>
-<programme start="20221206130000 -0300" stop="20221206150000 -0300" channel="TVMax.br">
- <title lang="pt">Cidinha Livre</title>
- <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
-</programme>
-<programme start="20221206150000 -0300" stop="20221206153000 -0300" channel="TVMax.br">
- <title lang="pt">Zinzane</title>
- <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
-</programme>
-<programme start="20221206153000 -0300" stop="20221206160000 -0300" channel="TVMax.br">
- <title lang="pt">Faixa Músical</title>
- <desc lang="pt">Tapa buraco.</desc>
-</programme>
-<programme start="20221206160000 -0300" stop="20221207080000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Max</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
- 
-<programme start="20221203080000 -0300" stop="20221204000000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Max</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
-<programme start="20221204000000 -0300" stop="20221205080000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Max</title>
- <desc lang="pt">O Rio Corre pra max!!</desc>
-</programme>
- 
+
     ####TVMaisFamilia.br####
  
 <programme start="20221205010000 -0300" stop="20221205030000 -0300" channel="TVMaisFamilia.br">
@@ -616,7 +510,87 @@
 </programme>
  
 
-
+<programme start="20221205180000 -0300" stop="20221205183000 -0300" channel="anitv.br">
+ <title lang="pt">Cardcaptor Sakura</title>
+ <desc lang="pt">Sakura se depara com um misterioso livro na biblioteca, e agora cabe à jovem partir em uma busca.</desc>
+</programme>
+<programme start="20221205183000 -0300" stop="20221205190000 -0300" channel="anitv.br">
+ <title lang="pt">Yu Yu Hakusho</title>
+ <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
+</programme>
+<programme start="20221205190000 -0300" stop="20221205193000 -0300" channel="anitv.br">
+ <title lang="en">Urusei Yatsura</title>
+ <desc lang="en">Urusei Yatsura é a história do jovem mais azarado e pervertido, Ataru Moroboshi.Quando aliens decidem invadir a Terra, Ataru é selecionado para defender seu planeta em um jogo dos esportes nacionais alienígenas, pega-pega.Se ele ganhar, o mundo será salvo, no entanto, Ataru é motivado por razões muito menos nobres, pois quem irá jogar contra ele é a curvilínea princesa alienígena, Lum.</desc>
+</programme>
+<programme start="20221205193000 -0300" stop="20221205200000 -0300" channel="anitv.br">
+ <title lang="pt">That Time I Got Reincarnated as a Slime</title>
+ <desc lang="pt">Satoru Mikami é um funcionário corporativo comum de 37 anos que mora em Tóquio. Durante um encontro casual com seu colega, um agressor surge do nada e o esfaqueia. Enquanto sucumbia aos ferimentos, uma voz misteriosa ecoa em sua mente e recita uma série de comandos que ele não conseguia entender.Depois de recuperar a consciência, Satoru descobre que reencarnou como Slime em um mundo desconhecido.</desc>
+</programme>
+<programme start="20221205200000 -0300" stop="20221205203000 -0300" channel="anitv.br">
+ <title lang="pt">Assassination Classroom</title>
+ <desc lang="pt">Esqueça lições de casa e provas relâmpago. A Classe 3-E tem uma tarefa muito mais importante: matar seu professor antes do fim do ano!</desc>
+</programme>
+<programme start="20221205203000 -0300" stop="20221205210000 -0300" channel="anitv.br">
+ <title lang="en">My Hero Academia</title>
+ <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
+</programme>
+<programme start="20221205210000 -0300" stop="20221205213000 -0300" channel="anitv.br">
+ <title lang="en">Fullmetal Alchemist: Brotherhood</title>
+ <desc lang="en">Os irmãos Edward e Alphonse Elric seguem em busca da pedra Filosofal, com a esperança de restaurar seus corpos que foram perdidos quando eles tentaram usar suas habilidades de alquimista para ressuscitar sua mãe.</desc>
+</programme>
+<programme start="20221205213000 -0300" stop="20221205220000 -0300" channel="anitv.br">
+ <title lang="pt">Tokyo Revengers</title>
+ <desc lang="pt">Takemichi Hanagaki é um desempregado que sobrevive de bicos e está na fossa. Ele descobriu que Hinata Tachibana, sua primeira e última namorada, com quem namorou no fundamental, foi morta pela impiedosa Gangue Manji de Tóquio.</desc>
+</programme>
+<programme start="20221205220000 -0300" stop="20221205223000 -0300" channel="anitv.br">
+ <title lang="pt">Noragami</title>
+ <desc lang="pt">Yato é um deus menor, cujo sonho é ter um santuário e muitos seguidores para adorá-lo. Entretanto, ele é um deus quase desconhecido, e sua única parceira que o ajudava a realizar os desejos dos humanos decide deixá-lo e passa a ajudar outro deus. </desc>
+</programme>
+<programme start="20221205223000 -0300" stop="20221205230000 -0300" channel="anitv.br">
+ <title lang="pt">Fruits Basket</title>
+ <desc lang="pt"> Tohru Honda, uma garota órfã que, depois de encontrar Yuki, Kyo e Shigure Sohma, descobre que os treze membros da família Sohma são possuídos pelos animais do zodíaco chinês</desc>
+</programme>
+<programme start="20221205230000 -0300" stop="20221205233000 -0300" channel="anitv.br">
+ <title lang="pt">Fire Force</title>
+ <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
+</programme>
+<programme start="20221205233000 -0300" stop="20221206000000 -0300" channel="anitv.br">
+ <title lang="pt">The Case Study of Vanitas</title>
+ <desc lang="pt">Noé, um jovem vampiro que passou a maior parte de sua vida no interior da França, é enviado por seu professor a Paris com a missão de encontrar e avaliar um temido item chamado de Livro de Vanitas.</desc>
+</programme>
+ 
+<programme start="20221206000000 -0300" stop="20221206010000 -0300" channel="anitv.br">
+ <title lang="en">Midnight</title>
+ <desc lang="en">Divirta-se com as histórias mais animadas</desc>
+</programme>
+<programme start="20221206010000 -0300" stop="20221206020000 -0300" channel="anitv.br"
+ <title lang="pt">Faixa Premium</title>
+ <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
+</programme>
+<programme start="20221206020000 -0300" stop="20221206063000 -0300" channel="anitv.br">
+ <title lang="pt">Reprises de Animes</title>
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="20221206063000 -0300" stop="20221206073000 -0300" channel="anitv.br">
+ <title lang="en">Tecendo o Saber</title>
+ <desc lang="en">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
+</programme>
+<programme start="20221206073000 -0300" stop="20221206103000 -0300" channel="anitv.br">
+ <title lang="en">Faixa de Desenhos</title>
+ <desc lang="en">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
+</programme>
+<programme start="20221206103000 -0300" stop="20221206120000 -0300" channel="anitv.br">
+ <title lang="en">Reprises dos Animes Clássicos</title>
+ <desc lang="en">Com Urusei Yatsura,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
+</programme>
+<programme start="20221206120000 -0300" stop="20221206123000 -0300" channel="anitv.br">
+ <title lang="pt">Policial de Aço - JIBAN</title>
+ <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
+</programme>
+<programme start="20221206123000 -0300" stop="20221206130000 -0300" channel="anitv.br">
+ <title lang="pt">Esquadrão Relâmpago Changeman</title>
+ <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
+</programme>
 <programme start="20221206130000 -0300" stop="20221206150000 -0300" channel="anitv.br">
  <title lang="en">AniBox</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
