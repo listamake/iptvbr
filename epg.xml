@@ -687,6 +687,98 @@
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
  
+    ###TVMax.br###
+<programme start="20221205000000 -0300" stop="20221205070000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação Max TV</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20221205070000 -0300" stop="20221205080000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221205080000 -0300" stop="20221205100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20221205100000 -0300" stop="20221205110000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Conexão no AR</title>
+ <desc lang="pt">NOTICIARIO.</desc>
+</programme>
+<programme start="20221205110000 -0300" stop="20221205120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20221205120000 -0300" stop="20221205130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20221205130000 -0300" stop="20221205150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20221205150000 -0300" stop="20221205153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20221205153000 -0300" stop="20221205160000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221205160000 -0300" stop="20221206000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
+<programme start="20221206000000 -0300" stop="20221206070000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação Max TV</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20221206070000 -0300" stop="20221206080000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221206080000 -0300" stop="20221206100000 -0300" channel="TVMax.br">
+ <title lang="pt">Show do Clóvis Monteiro</title>
+ <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
+</programme>
+<programme start="20221206100000 -0300" stop="20221206110000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Conexão no AR</title>
+ <desc lang="pt">NOTICIARIO.</desc>
+</programme>
+<programme start="20221206110000 -0300" stop="20221206120000 -0300" channel="TVMax.br">
+ <title lang="pt">Programa Francisco Barbosa</title>
+ <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
+</programme>
+<programme start="20221206120000 -0300" stop="20221206130000 -0300" channel="TVMax.br">
+ <title lang="pt">Patrulha da Cidade</title>
+ <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
+</programme>
+<programme start="20221206130000 -0300" stop="20221206150000 -0300" channel="TVMax.br">
+ <title lang="pt">Cidinha Livre</title>
+ <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
+</programme>
+<programme start="20221206150000 -0300" stop="20221206153000 -0300" channel="TVMax.br">
+ <title lang="pt">Zinzane</title>
+ <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
+</programme>
+<programme start="20221206153000 -0300" stop="20221206160000 -0300" channel="TVMax.br">
+ <title lang="pt">Faixa Músical</title>
+ <desc lang="pt">Tapa buraco.</desc>
+</programme>
+<programme start="20221206160000 -0300" stop="20221207080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
+<programme start="20221203080000 -0300" stop="20221204000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+<programme start="20221204000000 -0300" stop="20221205080000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+ 
   ###sab###
 <programme start="20221203010000 -0300" stop="20221203030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
@@ -737,6 +829,7 @@
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
+
     ####PLAYTV.br####
  
 <programme start="20221120000000 -0300" stop="20221121000000 -0300" channel="PLAYTV.br">
