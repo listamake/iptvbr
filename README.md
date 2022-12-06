@@ -16,4 +16,4 @@ Visite o ste para mais informações [Clique Aqui](https://maketvbr.wixsite.com/
   </tbody>
 </table>
 <img>https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60</img>
-![alt text](http://url/to/img.png](https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60)
+![ alt tag]([http://url/to/img.png](https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60))
