@@ -10,7 +10,7 @@ Visite o ste para mais informações [Clique Aqui](https://maketvbr.wixsite.com/
     <tr><th align="left">Country</th> <th align="left">Channels</th> <th align="left">Channels</th> <th align="left">EPG</th></tr>
   </thead>
   <tbody>
-    <tr><td valign="top" rowspan="1"><img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/></td> <td align="right" nowrap>Canal do Usuário</td> <td align="right" nowrap>001</td>  <td nowrap><code>es/af.xml</code></td></tr>
+    <tr><td valign="top" rowspan="1"><img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/> <img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/></td> <td align="right" nowrap>Canal do Usuário</td> <td align="right" nowrap>001</td>  <td nowrap><code>es/af.xml</code></td></tr>
     <tr><td valign="top" rowspan="1">SBT Norte</td>  <td align="right" nowrap>002</td>  <td nowrap><code>https://iptv-org./al.xml</code></td></tr>
     <tr><td valign="top" rowspan="1">Rede Roberto Marinho</td> <td align="right" nowrap>003</td>  <td nowrap><code>https://s/dz.xml</code></td></tr>
   </tbody>
