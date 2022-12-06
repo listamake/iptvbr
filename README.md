@@ -11,7 +11,7 @@ Visite o ste para mais informações [Clique Aqui](https://maketvbr.wixsite.com/
   </thead>
   <tbody>
     <tr> <td align="right" nowrap>001</td> <td valign="top" rowspan="1"><img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/> <img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/></td> <td align="right" nowrap>Canal do Usuário</td> <td nowrap><code>es/af.xml</code></td></tr>
-   <tr><td valign="top" rowspan="1"><img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/> <img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/></td> <td align="right" nowrap>Canal do Usuário</td> <td align="right" nowrap>001</td>  <td nowrap><code>es/af.xml</code></td></tr>
+    <tr> <td align="right" nowrap>001</td> <td valign="top" rowspan="1"><img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/> <img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/></td> <td align="right" nowrap>Canal do Usuário</td> <td nowrap><code>es/af.xml</code></td></tr>
    <tr><td valign="top" rowspan="1"><img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/> <img src="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60"/></td> <td align="right" nowrap>Canal do Usuário</td> <td align="right" nowrap>001</td>  <td nowrap><code>es/af.xml</code></td></tr>
   </tbody>
 </table>
