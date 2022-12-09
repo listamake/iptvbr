@@ -381,31 +381,31 @@
  <title lang="pt">A Anunciar</title>
  <desc lang="pt">Um programa para ser anuncido na progração.</desc>
 </programme>
-<programme start="20221203030000 -0300" stop="20221203060000 -0300" channel="anitv.br">
+<programme start="20221210030000 -0300" stop="20221210060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20221203060000 -0300" stop="20221203220000 -0300" channel="anitv.br">
+<programme start="20221210060000 -0300" stop="20221210220000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
 
    ####domingo anitv####
-<programme start="20221203220000 -0300" stop="20221204000000 -0300" channel="anitv.br">
+<programme start="20221210220000 -0300" stop="20221211000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona do #FDS:Cardcaptor Sakura</title>
  <desc lang="pt">Sakura Kinomoto, uma garota de 10 anos que liberta acidentalmente um conjunto de cartas mágicas chamadas Cartas Clow. Seu trabalho então, é reunir todas elas antes de essas causarem transtornos à cidade onde ela vive.</desc>
 </programme>
-<programme start="20221204000000 -0300" stop="20221204060000 -0300" channel="anitv.br">
+<programme start="20221211000000 -0300" stop="20221211060000 -0300" channel="anitv.br">
  <title lang="en">REPRISES da Madrugada</title>
  <desc lang="en">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20221204060000 -0300" stop="20221205000000 -0300" channel="anitv.br">
+<programme start="20221211060000 -0300" stop="20221212000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
 
     ####yeeaah####
-<programme start="20221207000000 -0300" stop="20221207120000 -0300" channel="yaaeeh.br">
+<programme start="20221209000000 -0300" stop="20221209120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -414,11 +414,11 @@
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20221206000000 -0300" stop="20221206120000 -0300" channel="yaaeeh.br">
+<programme start="20221210000000 -0300" stop="20221210120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20221208120000 -0300" stop="20221209000000 -0300" channel="yaaeeh.br">
+<programme start="20221210120000 -0300" stop="20221211000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -576,11 +576,11 @@
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
 
-<programme start="20221203000000 -0300" stop="20221204000000 -0300" channel="KpopTVPlay.br">
+<programme start="20221210000000 -0300" stop="20221211000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20221204000000 -0300" stop="20221205000000 -0300" channel="KpopTVPlay.br">
+<programme start="20221211000000 -0300" stop="20221212000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
@@ -616,39 +616,39 @@
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221207140000 -0300" stop="20221207143000 -0300" channel="CentralTV.br">
+<programme start="20221209140000 -0300" stop="20221209143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20221207143000 -0300" stop="20221207150000 -0300" channel="CentralTV.br">
+<programme start="20221209143000 -0300" stop="20221209150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20221207150000 -0300" stop="20221207160000 -0300" channel="CentralTV.br">
+<programme start="20221209150000 -0300" stop="20221209160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221207160000 -0300" stop="20221207173000 -0300" channel="CentralTV.br">
+<programme start="20221209160000 -0300" stop="20221209173000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20221207173000 -0300" stop="20221207083000 -0300" channel="CentralTV.br">
+<programme start="20221209173000 -0300" stop="20221209083000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20221207183000 -0300" stop="20221207210000 -0300" channel="CentralTV.br">
+<programme start="20221209183000 -0300" stop="20221209210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221207210000 -0300" stop="20221207223000 -0300" channel="CentralTV.br">
+<programme start="20221209210000 -0300" stop="20221209223000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221207223000 -0300" stop="20221207224500 -0300" channel="CentralTV.br">
+<programme start="20221209223000 -0300" stop="20221209224500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20221207224500 -0300" stop="20221208003000 -0300" channel="CentralTV.br">
+<programme start="20221209224500 -0300" stop="20221210003000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
@@ -704,19 +704,19 @@
 
     ###sab.centraltv###
  
-<programme start="20221203003000 -0300" stop="20221203010000 -0300" channel="CentralTV.br">
+<programme start="20221210003000 -0300" stop="20221210010000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221203010000 -0300" stop="20221203013000 -0300" channel="CentralTV.br">
+<programme start="20221210010000 -0300" stop="20221210013000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20221203013000 -0300" stop="20221203030000 -0300" channel="CentralTV.br">
+<programme start="20221210013000 -0300" stop="20221210030000 -0300" channel="CentralTV.br">
  <title lang="pt">Do Fundo do Baú</title>
  <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
 </programme>
-<programme start="20221203030000 -0300" stop="20221203040000 -0300" channel="CentralTV.br">
+<programme start="20221210030000 -0300" stop="20221210040000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
@@ -862,7 +862,7 @@
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
  
-<programme start="20221207004000 -0300" stop="20221208000000 -0300" channel="adessotv.br">
+<programme start="20221210004000 -0300" stop="20221211000000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
