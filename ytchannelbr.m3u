@@ -14,7 +14,12 @@ https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="000" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Para (YouTube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://rr1---sn-2vouxcg-gxje.googlevideo.com/videoplayback?expire=1668551835&ei=O8BzY-C6A8KhxATtipyADQ&ip=45.164.9.167&id=ABVQXgr2LW4.5&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-2vouxcg-gxje%2Csn-bg07dnkd&ms=lva%2Crdu&mv=m&mvi=1&pl=24&gcr=br&initcwndbps=1406250&spc=SFxXNueUT1CFQ_Twy1-6WqEBRf9HiTJ3rlJorGm6zTw0&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=o7e3zS4gFFRNFPPNBoOKLaMJ&gir=yes&mt=1668529742&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=55XLTKWPtEsMOw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgdA1wG2CVPcge6mIk8twLdDgldELjOo6mPPFX1Gs6R_ECIFeiBlk0fqfCTVEha9UzTiGi3XCeA5kYnarBVWXfXvRh&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKHSGQA3BjGH8VWHzac2Hy_HdCAQ6fthtYgGBK0J8ESYAiAXV9e91aTY0uH1-wYYzlaXMfUYBoN6k_Nq6PzBJ6DO1Q%3D%3D&alr=yes&cpn=tsDWnXocKXiLMjVm&cver=1.20221113.00.00&headm=3&rn=1&rbuf=0
+https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-chno="012" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", TV Gazeta - TV Cidade Araçatuba 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvgazeta
 
 #EXTINF: -1 tvg-id="RecordNews.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="Variedades" , Record News (YouTube)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
