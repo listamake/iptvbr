@@ -67,8 +67,7 @@ https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0_uF8q8SkEv6OJwXY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
-#EXTINF:-1 tvg-id="TVEBahia.br
-" tvg-chno="020" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-chno="020" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e5NwTWwNgSuxhCV8bg5VLP5OWbfHeQeypQ&usqp=CAU",TVE Bahia HD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF: -1 tvg-id="anitv.br" tvg-chno="021" tvg-logo="https://cdn.discordapp.com/attachments/949079814030131230/1041082932074393680/InShot_20221112_171038091.jpg" group-title="Canais Geek", Geekdot HD
