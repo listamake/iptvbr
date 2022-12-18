@@ -77,9 +77,15 @@
  <display-name lang="pt">teste HD</display-name>
   <icon src=""/>
 </channel>
+ 
+ 
 <channel id="AllSports.br">
  <display-name lang="pt">All Sport HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
+</channel>
+<channel id="EsporteBrasilia.br">
+ <display-name lang="pt">Esportes Brasília TV HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg"/>
 </channel>
 <channel id="RSNewsSports.br">
  <display-name lang="pt">RS News Sports</display-name>
@@ -89,6 +95,8 @@
  <display-name lang="pt">RS News Sports 5</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp"/>
 </channel>
+ 
+ 
 <channel id="MaisFavelaTV.br">
  <display-name lang="pt">Mais Favela TV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0a075f147da0b5d7c5cce030cb33755d.webp"/>
@@ -1122,23 +1130,23 @@
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
 
-<programme start="20221205000000 -0300" stop="20221205070000 -0300" channel="PLAYTV.br">
+<programme start="20221220000000 -0300" stop="20221205070000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
-<programme start="20221205070000 -0300" stop="20221205080000 -0300" channel="PLAYTV.br">
+<programme start="20221220070000 -0300" stop="20221205080000 -0300" channel="PLAYTV.br">
  <title lang="pt">Re-play - Combo Fala+joga</title>
  <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.</desc>
 </programme>
-<programme start="20221205080000 -0300" stop="20221205083000 -0300" channel="PLAYTV.br">
+<programme start="20221220080000 -0300" stop="20221205083000 -0300" channel="PLAYTV.br">
  <title lang="pt">Explorando Segredos e Mistérios</title>
  <desc lang="pt">O mundo fantástico da literatura dos filmes e dos games, da fantasia, ficção científica e horror cósmico criados por inúmeros escritores e artistas. Mundos como o Cthulhu Mythos e a Fundação SCP, Sandman e Conan..</desc>
 </programme>
-<programme start="20221205083000 -0300" stop="20221205140000 -0300" channel="PLAYTV.br">
+<programme start="20221220083000 -0300" stop="20221205140000 -0300" channel="PLAYTV.br">
  <title lang="pt">Prévia da Programação Play TV</title>
  <desc lang="pt">Trechos e programas que farão parte da grade da nova PLAY TV.</desc>
 </programme>
-<programme start="20221205140000 -0300" stop="20221205150000 -0300" channel="PLAYTV.br">
+<programme start="20221220140000 -0300" stop="20221220150000 -0300" channel="PLAYTV.br">
  <title lang="pt">Vendo na TV</title>
  <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.</desc>
 </programme>
@@ -1394,7 +1402,7 @@
  <title lang="pt">Programação Murilo TV</title>
  <desc lang="pt">anime</desc>
 </programme> 
-<programme start="2022121400000 -0300" stop="20221218000000 -0300" channel="damubiku.br">
+<programme start="2022122400000 -0300" stop="20221228000000 -0300" channel="damubiku.br">
  <title lang="pt">Programação Murilo TV</title>
  <desc lang="pt">anime</desc>
 </programme> 
@@ -1404,7 +1412,7 @@
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20221213000000 -0300" stop="20221217000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221224000000 -0300" stop="20221228000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
@@ -1432,13 +1440,41 @@
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20221204000000 -0300" stop="20221215000000 -0300" channel="radiometroweb.br">
+<programme start="20221219000000 -0300" stop="20221228000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20221215000000 -0300" stop="20221222000000 -0300" channel="radiometroweb.br">
+ 
+ 
+<programme start="20221218000000 -0300" stop="20221218120000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+<programme start="20221218120000 -0300" stop="20221218150000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Som Massa</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+<programme start="20221218150000 -0300" stop="20221218183000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Equipe Bola Furada</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+<programme start="20221218183000 -0300" stop="20221218200000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Amigos da Metró</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+<programme start="20221218200000 -0300" stop="20221218210000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Programação Músical</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+<programme start="20221218210000 -0300" stop="20221219000000 -0300" channel="radiometroweb.br">
+ <title lang="pt">Programação Músical</title>
+ <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
+</programme>
+ 
+  ####EsporteBrasilia.br####
+<programme start="20221215000000 -0300" stop="20221222000000 -0300" channel="EsporteBrasilia.br">
+ <title lang="pt">Programação Esporte Brasilia</title>
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes transmitidos pela internet!</desc>
 </programme>
  
   ####radiobandnewssp.br####
@@ -1643,72 +1679,72 @@
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
  
-<programme start="20221214050000 -0300" stop="20221214070000 -0300" channel="radioclubeampe.br">
+<programme start="20221219050000 -0300" stop="20221219070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20221214070000 -0300" stop="20221214073000 -0300" channel="radioclubeampe.br">
+<programme start="20221219070000 -0300" stop="20221219073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20221214073000 -0300" stop="20221214080000 -0300" channel="radioclubeampe.br">
+<programme start="20221219073000 -0300" stop="20221219080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221214080000 -0300" stop="20221214110000 -0300" channel="radioclubeampe.br">
+<programme start="20221219080000 -0300" stop="20221219110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221214110000 -0300" stop="20221214120000 -0300" channel="radioclubeampe.br">
+<programme start="20221219110000 -0300" stop="20221219120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221214120000 -0300" stop="20221214130000 -0300" channel="radioclubeampe.br">
+<programme start="20221219120000 -0300" stop="20221219130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
-<programme start="20221214130000 -0300" stop="20221214140000 -0300" channel="radioclubeampe.br">
+<programme start="20221219130000 -0300" stop="20221219140000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bate bola</title>
  <desc lang="pt">O programa Bate Bola na Clube de Segunda a Sábado, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc>
 </programme>
-<programme start="20221214140000 -0300" stop="20221214170000 -0300" channel="radioclubeampe.br">
+<programme start="20221219140000 -0300" stop="20221219170000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221214170000 -0300" stop="20221214180000 -0300" channel="radioclubeampe.br">
+<programme start="20221219170000 -0300" stop="20221219180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Fim de Tarde na Fazenda</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221214080000 -0300" stop="20221214190000 -0300" channel="radioclubeampe.br">
+<programme start="20221219080000 -0300" stop="20221219190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Hora dos Esportes</title>
  <desc lang="pt">O dia-a-dia do futebol de Pernambuco, do Brasil e do Mundo, além de outras modalidades esportivas, são destacados na resenha A Hora dos Esportes.</desc>
 </programme> 
-<programme start="20221214190000 -0300" stop="20221214200000 -0300" channel="radioclubeampe.br">
+<programme start="20221219190000 -0300" stop="20221219200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">Seleção musical</desc>
 </programme> 
-<programme start="20221214200000 -0300" stop="20221214220000 -0300" channel="radioclubeampe.br">
+<programme start="20221219200000 -0300" stop="20221219220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">Rodrigo Collaço Tocando o Melhor do Pagode quando nâo houver futebol</desc>
 </programme> 
-<programme start="20221214220000 -0300" stop="20221215050000 -0300" channel="radioclubeampe.br">
+<programme start="20221219220000 -0300" stop="20221220050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
  
-<programme start="20221215050000 -0300" stop="20221215070000 -0300" channel="radioclubeampe.br">
+<programme start="20221220050000 -0300" stop="20221220070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20221215070000 -0300" stop="20221215073000 -0300" channel="radioclubeampe.br">
+<programme start="20221220070000 -0300" stop="20221220073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20221215073000 -0300" stop="20221215080000 -0300" channel="radioclubeampe.br">
+<programme start="20221220073000 -0300" stop="20221220080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221215080000 -0300" stop="20221215110000 -0300" channel="radioclubeampe.br">
+<programme start="20221220080000 -0300" stop="20221220110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
@@ -1765,7 +1801,7 @@
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20221216110000 -0300" stop="20221216620000 -0300" channel="radioclubeampe.br">
+<programme start="20221216110000 -0300" stop="20221216120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
@@ -1994,7 +2030,7 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###SAB###
-<programme start="20221217000000 -0300" stop="20221217320000 -0300" channel="radiojornalpe.br">
+<programme start="20221217000000 -0300" stop="20221217020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -2093,7 +2129,7 @@
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20221228000000 -0300" stop="20230106000000 -0300" channel="Canalteste">
+<programme start="20221228000000 -0300" stop="20221230000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
