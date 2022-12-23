@@ -924,7 +924,7 @@
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20221261300000 -0300" stop="20221226140000 -0300" channel="adessotv.br">
+<programme start="20221226130000 -0300" stop="20221226140000 -0300" channel="adessotv.br">
  <title lang="pt">Prato Limpo</title>
  <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
 </programme>
@@ -1106,7 +1106,7 @@
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20221222030000 -0300" stop="20221226050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20221226030000 -0300" stop="20221226050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
