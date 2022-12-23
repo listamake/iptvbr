@@ -190,19 +190,7 @@
  <desc lang="pt">é Steam na net é anime na veia !!</desc>
 </programme>
 
-<programme start="20221112000000 -0300" stop="20221112060000 -0300" channel="anitv.br">
- <title lang="en">REPRISES da Madrugada</title>
- <desc lang="en">Conteúdos aliatorios</desc>
-</programme>
-<programme start="20221114060000 -0300" stop="20221114180000 -0300" channel="anitv.br">
- <title lang="en">Reprises de Animes</title>
- <desc lang="en">Com Urusei Yatsura,Super Campeões,Yu Yu Hakusho e Cardcaptor Sakura.</desc>
-</programme>
-<programme start="20221112150000 -0300" stop="20221113000000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS</title>
- <desc lang="pt">Maratone os animes da semana, aproveite este #FDS.</desc>
-</programme>
- 
+
    ####grade semanal anitv####
  
 <programme start="20221226000000 -0300" stop="20221226010000 -0300" channel="anitv.br">
@@ -393,7 +381,7 @@
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20221224060000 -0300" stop="20221225220000 -0300" channel="anitv.br">
+<programme start="20221224060000 -0300" stop="20221224220000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -650,12 +638,12 @@
  <title lang="pt">Hora Kids</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20221223110000 -0300" stop="20221223130000 -0300" channel="bstv.br">
+<programme start="20221223110000 -0300" stop="20221223120000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20221223130000 -0300" stop="20221223140000 -0300" channel="bstv.br">
- <title lang="pt">Na Mira</title>
+<programme start="20221223120000 -0300" stop="20221223140000 -0300" channel="bstv.br">
+ <title lang="pt">Hora Geral</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="20221223140000 -0300" stop="20221223160000 -0300" channel="bstv.br">
