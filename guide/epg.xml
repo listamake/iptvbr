@@ -2195,7 +2195,7 @@
 </programme>
 
        ####RSNewsSports.br####
-<programme start="20221214000000 -0300" stop="20221218000000 -0300" channel="RSNewsSports.br">
+<programme start="20221228000000 -0300" stop="20230104000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
@@ -2203,16 +2203,16 @@
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20221204000000 -0300" stop="20221214000000 -0300" channel="RSNewsSports.br">
+<programme start="20221224000000 -0300" stop="20221228000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
        ####AllSports.br####
-<programme start="20221126000000 -0300" stop="20221208000000 -0300" channel="AllSports.br">
+<programme start="20221226000000 -0300" stop="20230102000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20221204000000 -0300" stop="20221218000000 -0300" channel="AllSports.br">
+<programme start="20230102000000 -0300" stop="20230108000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
@@ -2322,7 +2322,7 @@
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20221214000000 -0300" stop="20221218000000 -0300" channel="TVTop.br">
+<programme start="20221228000000 -0300" stop="20230108000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
