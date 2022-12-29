@@ -176,9 +176,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Redeclone.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Entretenimento", Clone TV
+#EXTINF: -1 tvg-id="Redeclone.br" tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20221221063420.jpeg" group-title="Entretenimento", Clone TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 2 - Nova Manchete
 https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1174265981.m3u8
