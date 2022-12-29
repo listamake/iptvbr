@@ -1502,39 +1502,39 @@
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="20221220000000 -0300" stop="20221224000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230101000000 -0300" stop="20230102000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20221224000000 -0300" stop="20221228000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221228000000 -0300" stop="20221230000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20221217000000 -0300" stop="20221220000000 -0300" channel="FronteiraMovies.br">
+<programme start="20221230000000 -0300" stop="20230101000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
  
  ####Clc.br####
-<programme start="20221218000000 -0300" stop="20221226000000 -0300" channel="Clc.br">
+<programme start="20230101000000 -0300" stop="20230103000000 -0300" channel="Clc.br">
  <title lang="pt">Programção Cine Life Classic</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20221226000000 -0300" stop="20221228000000 -0300" channel="Clc.br">
+<programme start="20221228000000 -0300" stop="20221230000000 -0300" channel="Clc.br">
  <title lang="pt">Programção Cine Life Classic</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20221212000000 -0300" stop="20221218000000 -0300" channel="Clc.br">
+<programme start="20221230000000 -0300" stop="20230101000000 -0300" channel="Clc.br">
  <title lang="pt">Programção Cine Life Classic</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
    ####radiometroweb.br####
-<programme start="20221223000000 -0300" stop="20221224000000 -0300" channel="radiometroweb.br">
+<programme start="20221228000000 -0300" stop="20221230000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20221224000000 -0300" stop="20221225000000 -0300" channel="radiometroweb.br">
+<programme start="20221230000000 -0300" stop="20221231000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
