@@ -495,7 +495,7 @@ http://cast2.youngtech.radio.br:8120/radio
 
 #EXTINF: -1 tvg-id="Radiomec.br" tvg-logo="https://img.radios.com.br/radio/lg/radio13836_1593439648.jpeg" group-title="Canais de Áudio" radio="true",Rádio MEC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://radio2.lflr.com.br/ebc-live/radio-mec/playlist.m3u8
+https://d393xg0ag6ak7j.cloudfront.net/out/v1/7c94f1c2089f43c69b84ace961f10373/index.mpd
 
 #EXTINF: -1 tvg-id="Radionacional.br" tvg-logo="https://img.radios.com.br/radio/lg/radio13716_1649334635.png" group-title="Canais de Áudio" radio="true",Rádio Nacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
