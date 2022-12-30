@@ -2181,7 +2181,7 @@
 </programme>
 
       ####Canalteste####
-<programme start="20221220000000 -0300" stop="20221224000000 -0300" channel="Canalteste">
+<programme start="20221230000000 -0300" stop="20230104000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
