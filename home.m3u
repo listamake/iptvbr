@@ -75,7 +75,7 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-id="yeeaah.br" tvg-name="Yeeaah HD" tvg-chno="022" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Canais Geek", Yeeaah HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
+https://d393xg0ag6ak7j.cloudfront.net/out/v1/7c94f1c2089f43c69b84ace961f10373/index.mpd
 
 #EXTINF: -1 tvg-id="AllSports.br" tvg-name="All Sport HD" tvg-chno="023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="Canais de Esportes", All Sport HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -527,7 +527,4 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/strea
 #EXTINF: -1 tvg-id="NHKWorld(src01).jp" tvg-chno="181" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="Internacionais", NHK WORLD HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
 
-#EXTINF: -1 tvg-id="yeeaah.br" tvg-name="Yeeaah HD" tvg-chno="158" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Canais em Teste", Yeeaah App HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://d393xg0ag6ak7j.cloudfront.net/out/v1/7c94f1c2089f43c69b84ace961f10373/index.mpd
 
