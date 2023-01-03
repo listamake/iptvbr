@@ -198,15 +198,15 @@
 
    ####grade semanal anitv####
  
-<programme start="20230102000000 -0300" stop="20230102010000 -0300" channel="anitv.br">
+<programme start="20230104000000 -0300" stop="20230104010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230102010000 -0300" stop="20230102020000 -0300" channel="anitv.br">
+<programme start="20230104010000 -0300" stop="20230104020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230102020000 -0300" stop="20230102063000 -0300" channel="anitv.br">
+<programme start="20230104020000 -0300" stop="20230104063000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
@@ -274,7 +274,7 @@
  <title lang="pt">Noragami</title>
  <desc lang="pt">Yato é um deus menor, cujo sonho é ter um santuário e muitos seguidores para adorá-lo. Entretanto, ele é um deus quase desconhecido, e sua única parceira que o ajudava a realizar os desejos dos humanos decide deixá-lo e passa a ajudar outro deus. </desc>
 </programme>
-<programme start="20230102223000 -0300" stop="20301028230000 -0300" channel="anitv.br">
+<programme start="20230102223000 -0300" stop="20230102230000 -0300" channel="anitv.br">
  <title lang="pt">Fruits Basket</title>
  <desc lang="pt"> Tohru Honda, uma garota órfã que, depois de encontrar Yuki, Kyo e Shigure Sohma, descobre que os treze membros da família Sohma são possuídos pelos animais do zodíaco chinês</desc>
 </programme>
