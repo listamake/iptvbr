@@ -147,7 +147,7 @@ https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVTop.br" tvg-chno="044" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3858200bc307bc603e159858383c367c.webp" group-title="Canais de Música" , Top TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
 #EXTINF: -1 tvg-id="TVTop.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.webp" group-title="Canais de Música", Rock TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -270,7 +270,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVT.br" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROmT6OlIpR3m330tygj6IL8ZOZ8E5RS4jTg&usqp=CAU",TVT HD
-https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G_NwzZPk4o6sfmuQJEd4slteQL7HMY-EC8y8tdxvmqXk)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G-EoCJj3kLsucglRRCeiAJbVKyHAX4Q52I5WUSjEGrm7)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="CanalSaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Canais Públicos", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -336,7 +336,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm41b3J9cnOYtc8g8HBoR38SeuIrPcyYwNa1tf81YwkKGm)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4wns16vODsfKKqDnFAt6BgJSD6wSjArwAEQlHexBi4ux)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU9go3gGSDtSJr5DPduhc_dzrWASN-gewoQ&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - BRSuper TV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
@@ -422,7 +422,7 @@ https://stmv1.srvif.com/nattv/nattv/chunklist_w1270959963.m3u8
 
 #EXTINF: -1 tvg-id="lifeChannel.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99c3b9e26fccf483d6432e70777816ca.webp" group-title="Documentários" , Life Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
+https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fdef159ca515cdbb49a11c84b94ebcf.webp" group-title="Variedades" ,TVC Panorama HD
 https://tv02.zas.media:1936/panorama/panorama/chunklist_w1034417735.m3u8
