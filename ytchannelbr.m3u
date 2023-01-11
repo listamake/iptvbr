@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/Emanueldelima/iptvmakebr/main/canais/tvdiario.
 
 #EXTINF: -1 tvg-id="Globo.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1490726030239219715/NsSY2E9c_400x400.jpg" group-title="Variedades" , CBNi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
+https://cdnhd.iblups.com/hls/RuL4zaq17J.m3u8
 
 #EXTINF: -1 tvg-id="CanalFutura.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1544721381987958786/bfs92YNX_400x400.jpg" group-title="Variedades" , FUTURA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
