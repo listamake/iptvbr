@@ -75,7 +75,7 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-id="yeeaah.br" tvg-name="Yeeaah HD" tvg-chno="022" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Canais Geek", Yeeaah HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
+https://d6tk2pyqxpvie.cloudfront.net/out/v1/d324ea2ed7d24eb9b36b54c6bc43b489/index.mpd
 
 #EXTINF: -1 tvg-id="AllSports.br" tvg-name="All Sport HD" tvg-chno="023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="Canais de Esportes", All Sport HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
