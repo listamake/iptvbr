@@ -12,7 +12,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="TVGloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2NzM1MDA0NTQsImlhdCI6MTY3MzQxNDA1NCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xODAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.gAPJCpo_ClGe6QS5aXLcDEMA6yn804atgAljhOWF64P3HzzovCdY9_TAfToOwovTkBYEEacUcGv4d2PH3Xb3WLHBAjbAUnvGlPOTlskP2ANDryVkOkZQ52ry4KEBCIQl_HiQCuCnoXIA3HpWKRdiNRK603WN-BvDIJo46eURCpNjEb3ZQ2pkvy9sS3L_nPhTOtHJT5cB4Y8-0C2golue1Sa7FhFTdaqEkrXeUjQgVvF6dt3-RURLW4RArYcEGUjUaJgk42nAV_L58hhNUN_HKesGU17Z9L8XHLI_NtRGw32KLGeNe7sbV3M2oIb6dt2TtkJH0fzacJ0-goLgbQWtyw/nu/f(bMin=2000,dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2NzM1NzQxNDIsImlhdCI6MTY3MzQ4Nzc0MiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xODAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.wQBi291b-RvO1pMwYB1R5CMkgpSnOnP0kUXx9vb-IUNZsI-Q9P5SkWf6o1zcZa2Orvl7bQxTr2ie4qJ9RmXW6cNrR4v69fT55dBpb98OMBFk05r0T6kNBSvt6MEzyxJF18qgkI_eOpUUYwLiA9ZR4ty_08i70rJNYJ0WhXKkOHLxQ_xvTtMfPBEOQVOXcnJ7XFsJZBCYCssKmIDDXjlHZD5P0QjtjsCQfTESeTKjqD3eR7nkm0cg69m9IwozPwYLJLEhjVTwtjul75mrj8_sd3qGw0zEbSKTcMd7UV3GZAxHdhLOK3yV-ZC0vC7Gckeqy65g1lLxUnnI-cHglU3zzw/nu/f(bMin=2000,dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -49,7 +49,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYVXeZV3B3akkkR9OS41A-VKPGOqQf_5QQqmSzyiqeRr)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbbSjUc-qGuEKEM9TO3-TMZ45yivo4scRq0iP9HkeFmg)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -75,7 +75,7 @@ https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-id="yeeaah.br" tvg-name="Yeeaah HD" tvg-chno="022" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7522250fb2d03b2b22c9e1e54254a371.webp" group-title="Canais Geek", Yeeaah HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://d393xg0ag6ak7j.cloudfront.net/out/v1/7c94f1c2089f43c69b84ace961f10373/index.mpd
+https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8?eyJwbGF0Zm9ybSI6IndlYiIsImFwcCI6InR2LmxpbWV4LmJyYXNpbC53ZWIifQ==
 
 #EXTINF: -1 tvg-id="AllSports.br" tvg-name="All Sport HD" tvg-chno="023" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="Canais de Esportes", All Sport HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -420,9 +420,9 @@ https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/
 #EXTINF: -1 tvg-id="NatureTV.br" group-title="Canais de Música" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu85DOk9vNgwlrhRLYTtxOr5dqtBPKaXIYBDrjU0vw=s900-c-k-c0x00ffffff-no-rj", Nature TV
 https://stmv1.srvif.com/nattv/nattv/chunklist_w1270959963.m3u8
 
-#EXTINF: -1 tvg-id="lifeChannel.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99c3b9e26fccf483d6432e70777816ca.webp" group-title="Documentários" , Life Channel HD
+#EXTINF: -1 tvg-id="lifeChannel.br" tvg-logo="https://www.lineup.tv.br/canais/1673432198.gif" group-title="Documentários" , Life SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/tracks-v1a1/mono.m3u8
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fdef159ca515cdbb49a11c84b94ebcf.webp" group-title="Variedades" ,TVC Panorama HD
 https://tv02.zas.media:1936/panorama/panorama/chunklist_w1034417735.m3u8
