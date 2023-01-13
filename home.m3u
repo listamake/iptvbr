@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml,https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/3m97ypgxk1tgvx3xndxq,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/3m97ypgxk1tgvx3xndxq,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (11/01/2023,01h11m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (12/01/2023,21h11m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://proxy-002.ix7.dailymotion.com/sec(geTKFQL_biD51hTVK1qCzjC_rqjMSKbanwU2e0wkUDsGz97FWwjTVpDJ_49H8mVGitG_ra6k7vcXkAN0MCMY3P70REyNr_WOKx3U1GgaErQ)/video/205/803/500308502_mp4_h264_aac_hq.m3u8#cell=core
 
@@ -49,7 +49,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbbSjUc-qGuEKEM9TO3-TMZ45yivo4scRq0iP9HkeFmg)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUtyx0jMd9ypET9R5I7kqO4YiZqQHb5JWrzc1QrjXiFl)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -225,8 +225,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF: -1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="Canais Geek", Loading 52x
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StrikerVerso.br" tvg-name="StrikerVerso HD" tvg-logo="https://listaiptv.gratis/logos/imagens/sverso.png" group-title="Canais Geek", StrikerVerso HD
-https://stream.ichibantv.ga:3904/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Canalteste" tvg-logo="https://w7.pngwing.com/pngs/46/561/png-transparent-fox-kids-abc-family-worldwide-logo-television-jetix-cartoon-logo-television-animals-text-thumbnail.png" group-title="Canais de Desenho", FoxKids Network HD
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="Canais de Desenho", TV Teen Net HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
