@@ -1,23 +1,22 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz
 
-#EXTINF: -1 tvg-id="RedeGlobo.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1579844423604736001/iRARc3dj_400x400.jpg" group-title="Variedades" , Globo teste
+#EXTINF: -1 tvg-id="RedeGlobo.br" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , Globo teste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://raw.githubusercontent.com/Emanueldelima/iptvmakebr/main/canais/tvdiario.php
 
-#EXTINF: -1 tvg-id="Globo.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1490726030239219715/NsSY2E9c_400x400.jpg" group-title="Variedades" ,Exelcior tv
+#EXTINF: -1 tvg-id="Globo.br" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" ,Exelcior tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdnhd.iblups.com/hls/RuL4zaq17J.m3u8
 
-#EXTINF: -1 tvg-id="CanalFutura.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1544721381987958786/bfs92YNX_400x400.jpg" group-title="Variedades" , FUTURA
+#EXTINF: -1 tvg-id="CanalFutura.br" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="000" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Para (YouTube)
+#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" ,Fox Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1683989975.m3u8
 
-
-#EXTINF: -1 tvg-id="TVGazeta.br" tvg-name="TV eta" tvg-chno="012" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", TV Gazeta - TV Cidade Araçatuba 
+#EXTINF: -1 tvg-id="TVGazeta.br" tvg-name="TV eta" tvg-chno="012" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" pltv-subgroup = "tvgazeta", TV Gazeta - TV Cidade Araçatuba 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvgazeta
 
