@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (13/01/2023,01h11m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (13/01/2023,13h11m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://proxy-006.ix7.dailymotion.com/sec(49Ubi9udHuLcl5WIYb0CSou4qcMRpoVEY_f8UvtpW6a6ucc70kLwAj8obSm0vv304pldH59_GRhn_ptG17Hi3WVtsJG_4kcLPkdQ6o6hRHk)/video/625/204/497402526_mp4_h264_aac_hq.m3u8#cell=core
 
@@ -49,7 +49,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXZUBF9D6yN_lCIZqMYGbCeA8B1iQ7eBpkKB2NmDaHcX)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZuB_ovPvW83Tl0pFSMvAygXTO69Qvp0v3NfyIZT3Lh6)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -96,7 +96,7 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
-https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls9q19vIaP2cCz_BCOIM81QL8SzClpCXMwtqQhl_bf-Rq)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls0_6Ttm3p_cfTGWOUvPVhi7g45XZ5CwJkRm8X-_LAItQ)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Rede21.br" tvg-chno="031" tvg-name="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title="Variedades", Canal Teste
 http://srv.cldplay.in:80/CleimarArdengue/581469151805/83528
@@ -225,7 +225,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF: -1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="Canais Geek", Loading 52x
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canalteste" tvg-logo="https://static.wixstatic.com/media/d64a09_d26f8f88f8b14549a0ff6224693e8f70~mv2.png" group-title="Canais de Desenho", FoxKids Network HD
+#EXTINF:-1 tvg-id="Canalteste" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="Canais de Desenho", TV Teen Net HD
