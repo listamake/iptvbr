@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , 22h50 12/01 - Dev
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , 00h30 13/01 - Dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://raw.githubusercontent.com/Emanueldelima/iptvmakebr/main/canais/tvdiario.php
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" ,Exelcior tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://cdnhd.iblups.com/hls/RuL4zaq17J.m3u8
+https://live-eu-2.livepush.io/live/emHTMbO5dl5aSu1w/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
