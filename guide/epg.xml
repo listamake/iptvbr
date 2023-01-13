@@ -592,6 +592,16 @@
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
+    ###fkids.br###
+<programme start="20230113000000 -0300" stop="20230116000000 -0300" channel="fkids.br">
+ <title lang="pt">Programação Experimental</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="20230116000000 -0300" stop="20230118000000 -0300" channel="fkids.br">
+ <title lang="pt">Programação Experimental</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+ 
     ###TVaracati.br###
 <programme start="20230112000000 -0300" stop="20230112053000 -0300" channel="TVaracati.br">
  <title lang="pt">CINE MADRUGADA</title>
