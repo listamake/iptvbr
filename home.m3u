@@ -55,7 +55,7 @@ https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZduOSkMOfP_haufphG
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CentralTV.br" tvg-chno="016" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="Entretenimento", Central TV HD
-https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVE.br" tvg-chno="017" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Canais Públicos", TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -336,7 +336,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49w4-LLbo-L363Wxoc_DYa_3BvDMRVNqUvWEmhDUtELU)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm42Q3_40I_D1x_VdXfVw_5wqI8XLlfEre7h6AfLUZvxb3)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU9go3gGSDtSJr5DPduhc_dzrWASN-gewoQ&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - BRSuper TV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
