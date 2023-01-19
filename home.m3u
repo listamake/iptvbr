@@ -124,7 +124,7 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
 #EXTINF: -1 tvg-id="bstv.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
-https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ngt.br" tvg-chno="039" tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title="Entretenimento", Rede NGT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
