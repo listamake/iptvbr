@@ -70,6 +70,7 @@
  <display-name lang="pt">Fronteira Movies</display-name>
 </channel>
 <channel id="Clc.br">
+ <display-name lang="pt">GLN TV HD</display-name>
  <display-name lang="pt">Cine Life Classic HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d6cb19f3f5b307780c2169b89c826ae.webp"/>
 </channel>
@@ -181,7 +182,6 @@
 <channel id="fkids.br">
  <display-name lang="pt">FoxKids HD</display-name>
   <icon src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4153eaf9-97b2-4c99-be24-1129b1af0e7b/df6xswm-d9b69eb3-2165-4975-a718-4d66c4106666.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxNTNlYWY5LTk3YjItNGM5OS1iZTI0LTExMjliMWFmMGU3YlwvZGY2eHN3bS1kOWI2OWViMy0yMTY1LTQ5NzUtYTcxOC00ZDY2YzQxMDY2NjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GtAn1oKBVFJI599pFAi0bFBqbVAhiKHDvfzdfE6g3As"/>
-   <url>mi.tv</url>
 </channel>
 <channel id="turnerdemo.br">
  <display-name lang="pt">Promocional HD</display-name>
@@ -189,7 +189,6 @@
    <url>mi.tv</url>
 </channel>
 <channel id="anitv.br">
- <display-name lang="pt">AniTV HD</display-name>
  <display-name lang="pt">Geekdot HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3eabf05ad0127a53af71227f1fe132a1.webp"/>
 </channel>
@@ -632,7 +631,7 @@
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
  
-<programme start="20230190000000 -0300" stop="20230120000000 -0300" channel="TVaracati.br">
+<programme start="20230119000000 -0300" stop="20230120000000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
@@ -676,7 +675,7 @@
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
  
-<programme start="20230111900000 -0300" stop="20230112000000 -0300" channel="bstv.br">
+<programme start="20230119000000 -0300" stop="20230120000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
