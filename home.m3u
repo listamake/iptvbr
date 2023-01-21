@@ -12,7 +12,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="TVGloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2NzQxOTUxNjIsImlhdCI6MTY3NDEwODc2MiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xODAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.Tc7LYI0EAZThYLg3SHmGLvw1lfSXL5BKt1DCQ768baVvLSCNJ500k2tZsWdst0-2I0bMLkoQAPLiXZm8B2dH8cMRXGmrtzWm3ms3ig8txQzzzxrK5lCfmnLjiO_RRr7NHvRpUB-SZ19mFrv4sA76ftDVnqnOeFiBWtCEqX2268C8Rl9QNiBqGyCFqtPCWVKg_kfmKqi90I0MQJ-2XqNHFsNoIWtGvNSw9qcvK_DiPpFAzu3Ynz_P0KnU_2Ky0AFCM3UxhATe5MHDptVUx2Ot6XTvY5FuAvoPDaK7Pn8Cbrr-Ghy9zrpsqAtXT0rMw0aWeHyAAlE17JnVZXyIbkVicA/nu/f(bMin=2000,dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2NzQzNTY5MzgsImlhdCI6MTY3NDI3MDUzOCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xODAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.AF12kPVIZJVokp2RAvIP1mSkBeBsjYy-Cg8CvitcPX7Eg2uifPXdMF46SA_ycvYYLXIMbBfWHwdNS3P5oEbxkhg7Q1EXpqMP93CsQQ_GNc4nKFaXzI0s9ZOrK5UxvVKxP-EnK9hrh_HQbSKgfmUIcawjoA6zYeOWfdMtnY-96dbjiYNXvoy6uS_XoKj0lx1JxC4xMVyHT5R2OfpkZWrcNM4XOkLClyYZxn80mVsGoKae7JlV5SY5fsXXBkboacqz2OkcujY3wXmu_hxdKeG5UkWK4YUNZ6SYaNG5p3-CNIbqemzehUpKAXHkhPmZbBuT08dsMwKKVJNdZWm-Vs2MyA/nu/f(bMin=2000,dvr=180,i=2)/globo-pe1/globo-pe1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -49,7 +49,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXhKt0mVSjAMimsmwtJI13f0E-Vcmi09FuuCi_l0OUuc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbDbKGdf3489AxJlJj7Pb7DeW90EPITMCPvklBZ_EJVI)/dm/3/x7txn7q/s/live-3.m3u8#cell=lsv4
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
