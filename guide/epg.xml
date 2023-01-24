@@ -1531,7 +1531,7 @@
 </programme>
  
  ####Clc.br####
-<programme start="20230124030000 -0300" stop="20230124080000 -0300" channel="Clc.br">
+<programme start="20230124010000 -0300" stop="20230124080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1548,7 +1548,7 @@
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230125030000 -0300" stop="20230125080000 -0300" channel="Clc.br">
+<programme start="20230125010000 -0300" stop="20230125080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -2217,11 +2217,11 @@
 </programme>
 
       ####Canalteste####
-<programme start="20230104000000 -0300" stop="20230108000000 -0300" channel="Canalteste">
+<programme start="20230124000000 -0300" stop="20230126000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230108000000 -0300" stop="20230118000000 -0300" channel="Canalteste">
+<programme start="20230126000000 -0300" stop="20230129000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
@@ -2244,11 +2244,11 @@
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
        ####AllSports.br####
-<programme start="20230109000000 -0300" stop="20230112000000 -0300" channel="AllSports.br">
+<programme start="20230124000000 -0300" stop="20230126000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20230112000000 -0300" stop="20230118000000 -0300" channel="AllSports.br">
+<programme start="20230126000000 -0300" stop="20230128000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
@@ -2272,11 +2272,11 @@
 </programme>
  
    ####COMBrasil.br####
-<programme start="20230109000000 -0300" stop="20230114000000 -0300" channel="COMBrasil.br">
+<programme start="20230124000000 -0300" stop="20230125000000 -0300" channel="COMBrasil.br">
  <title lang="pt">Programação COM Brasil</title>
  <desc lang="pt">Dentro de nossa grade você encontra documentários, gastronomia, variedades, seriados, esportes, saúde, educação, informação e muito mais!</desc>
 </programme>
-<programme start="20230114000000 -0300" stop="20230118000000 -0300" channel="COMBrasil.br">
+<programme start="20230125000000 -0300" stop="20230128000000 -0300" channel="COMBrasil.br">
  <title lang="pt">Programação COM Brasil</title>
  <desc lang="pt">Dentro de nossa grade você encontra documentários, gastronomia, variedades, seriados, esportes, saúde, educação, informação e muito mais!</desc>
 </programme>
@@ -2293,7 +2293,7 @@
 <programme start="20221214000000 -0300" stop="20221225000000 -0300" channel="TVCITVCOMUNICACOESINTERATIVASLTDA.br">
  <title lang="pt">Programação TVCI</title>
  <desc lang="pt">TV Comunicações Interativas, é uma emissora de televisão brasileira localizada em Paranaguá, cidade do estado do Paraná.</desc>
-</programme>>
+</programme>
 <programme start="20221225000000 -0300" stop="20221228000000 -0300" channel="TVCITVCOMUNICACOESINTERATIVASLTDA.br">
  <title lang="pt">Programação TVCI</title>
  <desc lang="pt">TV Comunicações Interativas, é uma emissora de televisão brasileira localizada em Paranaguá, cidade do estado do Paraná.</desc>
@@ -2350,21 +2350,21 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20230105000000 -0300" stop="20230108000000 -0300" channel="TVTop.br">
+<programme start="20230124000000 -0300" stop="20230126000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20230108000000 -0300" stop="20230116000000 -0300" channel="TVTop.br">
+<programme start="20230126000000 -0300" stop="20230128000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20230116000000 -0300" stop="20230122000000 -0300" channel="TVTop.br">
+<programme start="20230128000000 -0300" stop="20230122900000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20230105000000 -0300" stop="20230109000000 -0300" channel="RetroCartoon.br">
+<programme start="20230124000000 -0300" stop="20230126000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
