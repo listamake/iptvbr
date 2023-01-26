@@ -394,7 +394,7 @@
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230128060000 -0300" stop="20230129220000 -0300" channel="anitv.br">
+<programme start="20230128060000 -0300" stop="20230128220000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -452,7 +452,7 @@
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230126070000 -0300" stop="20230126690000 -0300" channel="yaaeeh.br">
+<programme start="20230126070000 -0300" stop="20230126090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -1291,15 +1291,15 @@
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
 
-<programme start="20230124000000 -0300" stop="20230124060000 -0300" channel="PLAYTV.br">
+<programme start="20230126000000 -0300" stop="20230126060000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
-<programme start="20230124060000 -0300" stop="20230124063000 -0300" channel="PLAYTV.br">
+<programme start="20230126060000 -0300" stop="20230126063000 -0300" channel="PLAYTV.br">
  <title lang="pt">Re-play - Combo Fala+joga</title>
  <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços.</desc>
 </programme>
-<programme start="20230124063000 -0300" stop="20230124140000 -0300" channel="PLAYTV.br">
+<programme start="20230126063000 -0300" stop="20230126140000 -0300" channel="PLAYTV.br">
  <title lang="pt">Programação PlayTV</title>
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
@@ -1453,7 +1453,7 @@
  
  ###xtremetv.br###
  
-<programme start="202301200000000 -0300" stop="2023012500000 -0300" channel="xtremetv.br">
+<programme start="202301260000000 -0300" stop="2023012800000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
@@ -1595,19 +1595,19 @@
 </programme>
  
  ####Clc.br####
-<programme start="20230124010000 -0300" stop="20230124080000 -0300" channel="Clc.br">
+<programme start="20230126010000 -0300" stop="20230126080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230124080000 -0300" stop="20230124130000 -0300" channel="Clc.br">
+<programme start="20230126080000 -0300" stop="20230126130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230124130000 -0300" stop="20230124210000 -0300" channel="Clc.br">
+<programme start="20230126130000 -0300" stop="20230126210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230124210000 -0300" stop="20230125010000 -0300" channel="Clc.br">
+<programme start="20230126210000 -0300" stop="20230127010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
