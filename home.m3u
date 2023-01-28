@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/3m97ypgxk1tgvx3xndxq,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/epg/jwmzn1r57zfj346py721,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 
 ###################### XXXX CANAIS XXXX #############################
@@ -296,7 +296,7 @@ http://200.189.113.201/hls/tve.m3u8
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TV Ceará" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlMcqYTS7REZLyNpzNP6Xwk1PU80pCvMyvw&usqp=CAU" group-title="Canais Públicos" , TV Ceará HD
-https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://yt3.ggpht.com/DNp-rxtANEGdlaIaMskiMa9Gj7oYIpxcUgSDALtxYyvKHnYA0dLVU6_0uyhEruDZ_-ewOgmePQ=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Brasil Central HD
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
