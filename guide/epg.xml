@@ -224,7 +224,7 @@
 </programme>
 <programme start="20230201063000 -0300" stop="20230201083000 -0300" channel="anitv.br">
  <title lang="pt">Inglês com Música</title>
- <desc lang="pt"O programa tem por objetivo incentivar o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos entre equipes formadas por estudantes.</desc>
+ <desc lang="pt">O programa tem por objetivo incentivar o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos entre equipes formadas por estudantes.</desc>
 </programme>
 <programme start="20230201083000 -0300" stop="20230201090000 -0300" channel="anitv.br">
  <title lang="pt">O Mundo de Beakman</title>
@@ -674,31 +674,31 @@
 </programme>
  
     ###TVaracati.br###
-<programme start="20230130000000 -0300" stop="20230130053000 -0300" channel="TVaracati.br">
+<programme start="20230201000000 -0300" stop="20230201053000 -0300" channel="TVaracati.br">
  <title lang="pt">CINE MADRUGADA</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230130053000 -0300" stop="20230130063000 -0300" channel="TVaracati.br">
+<programme start="20230201053000 -0300" stop="20230201063000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230130063000 -0300" stop="20230130100000 -0300" channel="TVaracati.br">
+<programme start="20230201063000 -0300" stop="20230201100000 -0300" channel="TVaracati.br">
  <title lang="pt">SESSÃO ANIMADA</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230130100000 -0300" stop="20230130110000 -0300" channel="TVaracati.br">
+<programme start="20230201100000 -0300" stop="20230201110000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230130110000 -0300" stop="20230130112500 -0300" channel="TVaracati.br">
+<programme start="20230201110000 -0300" stop="20230201112500 -0300" channel="TVaracati.br">
  <title lang="pt">CHAVES</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230130112500 -0300" stop="20230130115000 -0300" channel="TVaracati.br">
+<programme start="20230201112500 -0300" stop="20230201115000 -0300" channel="TVaracati.br">
  <title lang="pt">CHAPOLIM</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230130115000 -0300" stop="20230131000000 -0300" channel="TVaracati.br">
+<programme start="20230201115000 -0300" stop="20230201000000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
@@ -781,27 +781,27 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
-<programme start="20230130003000 -0300" stop="20230130080000 -0300" channel="CentralTV.br">
+<programme start="20230201003000 -0300" stop="20230201080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230130080000 -0300" stop="20230130123000 -0300" channel="CentralTV.br">
+<programme start="20230201080000 -0300" stop="20230201123000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230130123000 -0300" stop="20230130140000 -0300" channel="CentralTV.br">
+<programme start="20230201123000 -0300" stop="20230201140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230130140000 -0300" stop="20230130143000 -0300" channel="CentralTV.br">
+<programme start="20230201140000 -0300" stop="20230201143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230130143000 -0300" stop="20230130150000 -0300" channel="CentralTV.br">
+<programme start="20230201143000 -0300" stop="20230201150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230130150000 -0300" stop="20230130160000 -0300" channel="CentralTV.br">
+<programme start="20230201150000 -0300" stop="20230201160000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt"></desc>
 </programme>
