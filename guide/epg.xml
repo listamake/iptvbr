@@ -441,7 +441,7 @@
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20230204063000 -0300" stop="20230204100000 -0300" channel="anitv.br">
+<programme start="20230204073000 -0300" stop="20230204100000 -0300" channel="anitv.br">
  <title lang="pt">Faixa de Desenhos</title>
  <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
@@ -753,11 +753,11 @@
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20230203000000 -0300" stop="20230203190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230208000000 -0300" stop="20230208190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230203190000 -0300" stop="20230203200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230208190000 -0300" stop="20230208200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
