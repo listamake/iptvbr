@@ -1735,45 +1735,45 @@
 </programme>
  
  ####Clc.br####
-<programme start="20230130010000 -0300" stop="20230130080000 -0300" channel="Clc.br">
+<programme start="20230206010000 -0300" stop="20230206080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230130080000 -0300" stop="20230130130000 -0300" channel="Clc.br">
+<programme start="20230206080000 -0300" stop="20230206130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230130130000 -0300" stop="20230130210000 -0300" channel="Clc.br">
+<programme start="20230206130000 -0300" stop="20230206210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230130210000 -0300" stop="20230131010000 -0300" channel="Clc.br">
+<programme start="20230206210000 -0300" stop="20230207010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230131010000 -0300" stop="20230131080000 -0300" channel="Clc.br">
+<programme start="20230207010000 -0300" stop="20230207080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230131080000 -0300" stop="20230131130000 -0300" channel="Clc.br">
+<programme start="20230207080000 -0300" stop="20230207130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230131130000 -0300" stop="20230131210000 -0300" channel="Clc.br">
+<programme start="20230207130000 -0300" stop="20230207210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230131210000 -0300" stop="20230201010000 -0300" channel="Clc.br">
+<programme start="20230207210000 -0300" stop="20230208010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230128000000 -0300" stop="20230129000000 -0300" channel="Clc.br">
+<programme start="20230204000000 -0300" stop="20230205000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230129000000 -0300" stop="20230130000000 -0300" channel="Clc.br">
+<programme start="20230205000000 -0300" stop="20230206000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1783,29 +1783,29 @@
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230131000000 -0300" stop="20230202000000 -0300" channel="radiometroweb.br">
+<programme start="20230204000000 -0300" stop="20230205000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
  
  
-<programme start="20230129000000 -0300" stop="20230129120000 -0300" channel="radiometroweb.br">
+<programme start="20230205000000 -0300" stop="20230205120000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230129120000 -0300" stop="20230129150000 -0300" channel="radiometroweb.br">
+<programme start="20230205120000 -0300" stop="20230205150000 -0300" channel="radiometroweb.br">
  <title lang="pt">Som Massa</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230129150000 -0300" stop="20230129183000 -0300" channel="radiometroweb.br">
+<programme start="20230205150000 -0300" stop="20230205183000 -0300" channel="radiometroweb.br">
  <title lang="pt">Equipe Bola Furada</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230129183000 -0300" stop="20230129200000 -0300" channel="radiometroweb.br">
+<programme start="20230205183000 -0300" stop="20230205200000 -0300" channel="radiometroweb.br">
  <title lang="pt">Amigos da Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230129200000 -0300" stop="20230129210000 -0300" channel="radiometroweb.br">
+<programme start="20230205200000 -0300" stop="20230205210000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -2430,42 +2430,42 @@
 </programme>
 
       ####Canalteste####
-<programme start="20230124000000 -0300" stop="20230126000000 -0300" channel="Canalteste">
+<programme start="20230204000000 -0300" stop="20230206000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230126000000 -0300" stop="20230129000000 -0300" channel="Canalteste">
+<programme start="20230206000000 -0300" stop="20230209000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230129000000 -0300" stop="20230204000000 -0300" channel="Canalteste">
+<programme start="20230209000000 -0300" stop="20230214000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
 
        ####RSNewsSports.br####
-<programme start="20230130000000 -0300" stop="20230208000000 -0300" channel="RSNewsSports.br">
+<programme start="20230200000000 -0300" stop="20230208000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20230108000000 -0300" stop="20230114000000 -0300" channel="RSNewsSports.br">
+<programme start="20230208000000 -0300" stop="20230214000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20230128000000 -0300" stop="20230130000000 -0300" channel="RSNewsSports.br">
+<programme start="20230214000000 -0300" stop="20230218000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
        ####AllSports.br####
-<programme start="20230124000000 -0300" stop="20230126000000 -0300" channel="AllSports.br">
+<programme start="20230204000000 -0300" stop="20230206000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20230126000000 -0300" stop="20230128000000 -0300" channel="AllSports.br">
+<programme start="20230206000000 -0300" stop="20230218000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20230128000000 -0300" stop="20230131000000 -0300" channel="AllSports.br">
+<programme start="20230218000000 -0300" stop="20230221000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
@@ -2513,37 +2513,37 @@
 </programme>
  
    ####ManajoaraAMBelem.br####
-<programme start="20230128000000 -0300" stop="20230131000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20230204000000 -0300" stop="20230201000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
-<programme start="20230131000000 -0300" stop="20230203000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20230201000000 -0300" stop="20230218000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
    ####MixFMBelem.br####
-<programme start="20230105000000 -0300" stop="20230108000000 -0300" channel="MixFMBelem.br">
+<programme start="20230204000000 -0300" stop="20230208000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230108000000 -0300" stop="20230116000000 -0300" channel="MixFMBelem.br">
+<programme start="20230208000000 -0300" stop="20230216000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230118000000 -0300" stop="20230124000000 -0300" channel="MixFMBelem.br">
+<programme start="20230216000000 -0300" stop="20230224000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
    ####MaisFavelaTV.br####
-<programme start="20230105000000 -0300" stop="20230109000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230204000000 -0300" stop="20230209000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação Mais Favela TV</title>
  <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
 </programme>
-<programme start="20230109000000 -0300" stop="20230115000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230209000000 -0300" stop="20230215000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação Mais Favela TV</title>
  <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
 </programme>
-<programme start="20230115000000 -0300" stop="20230124000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230215000000 -0300" stop="20230224000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação Mais Favela TV</title>
  <desc lang="pt">O objetivo é oferecer aos alagoanos uma programação diferenciada, eclética, voltada para a comunidade e o interesse público.</desc>
 </programme>
