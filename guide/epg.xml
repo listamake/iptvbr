@@ -788,41 +788,41 @@
 </programme>
 
     ###fkids.br###
-<programme start="20230201000000 -0300" stop="20230202000000 -0300" channel="fkids.br">
+<programme start="20230204000000 -0300" stop="20230205000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230129000000 -0300" stop="20230130000000 -0300" channel="fkids.br">
+<programme start="20230205000000 -0300" stop="20230206000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
  
     ###TVaracati.br###
-<programme start="20230201000000 -0300" stop="20230201053000 -0300" channel="TVaracati.br">
+<programme start="20230206000000 -0300" stop="20230206053000 -0300" channel="TVaracati.br">
  <title lang="pt">CINE MADRUGADA</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230201053000 -0300" stop="20230201063000 -0300" channel="TVaracati.br">
+<programme start="20230206053000 -0300" stop="20230206063000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230201063000 -0300" stop="20230201100000 -0300" channel="TVaracati.br">
+<programme start="20230206063000 -0300" stop="20230206100000 -0300" channel="TVaracati.br">
  <title lang="pt">SESSÃO ANIMADA</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230201100000 -0300" stop="20230201110000 -0300" channel="TVaracati.br">
+<programme start="20230206100000 -0300" stop="20230206100000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230201110000 -0300" stop="20230201112500 -0300" channel="TVaracati.br">
+<programme start="20230206100000 -0300" stop="20230206102500 -0300" channel="TVaracati.br">
  <title lang="pt">CHAVES</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230201112500 -0300" stop="20230201115000 -0300" channel="TVaracati.br">
+<programme start="20230206102500 -0300" stop="20230206045000 -0300" channel="TVaracati.br">
  <title lang="pt">CHAPOLIM</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230201115000 -0300" stop="20230202000000 -0300" channel="TVaracati.br">
+<programme start="20230206045000 -0300" stop="20230207000000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
@@ -838,35 +838,35 @@
 
  
     ###bstv.br###
-<programme start="20230130000000 -0300" stop="20230130060000 -0300" channel="bstv.br">
+<programme start="20230206000000 -0300" stop="20230206060000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130060000 -0300" stop="20230130070000 -0300" channel="bstv.br">
+<programme start="20230206060000 -0300" stop="20230206070000 -0300" channel="bstv.br">
  <title lang="pt">TokuHora</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130070000 -0300" stop="20230130080000 -0300" channel="bstv.br">
+<programme start="20230200070000 -0300" stop="20230206080000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130080000 -0300" stop="20230130110000 -0300" channel="bstv.br">
+<programme start="20230206080000 -0300" stop="20230206110000 -0300" channel="bstv.br">
  <title lang="pt">Hora Kids</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130110000 -0300" stop="20230130120000 -0300" channel="bstv.br">
+<programme start="20230206110000 -0300" stop="20230206120000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130120000 -0300" stop="20230130140000 -0300" channel="bstv.br">
+<programme start="20230206120000 -0300" stop="20230206140000 -0300" channel="bstv.br">
  <title lang="pt">Hora Geral</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130140000 -0300" stop="20230130160000 -0300" channel="bstv.br">
+<programme start="20230206140000 -0300" stop="20230206160000 -0300" channel="bstv.br">
  <title lang="pt">Cine Play</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230130160000 -0300" stop="20230131000000 -0300" channel="bstv.br">
+<programme start="20230206160000 -0300" stop="20230207000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -881,19 +881,19 @@
 </programme>
  
     ###awtv.br###
-<programme start="20230201000000 -0300" stop="20230204000000 -0300" channel="awtv.br">
+<programme start="20230201000000 -0300" stop="20230204080000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20230204000000 -0300" stop="20230206000000 -0300" channel="awtv.br">
+<programme start="20230204080000 -0300" stop="20230216000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20230130100000 -0300" stop="20230131000000 -0300" channel="awtv.br">
+<programme start="20230201600000 -0300" stop="20230218000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20230131000000 -0300" stop="20230201000000 -0300" channel="awtv.br">
+<programme start="20230201000000 -0300" stop="20230201000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title>
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
