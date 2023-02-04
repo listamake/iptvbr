@@ -3,9 +3,9 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (04/02/2023,23h11m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (04/02/2023,07h11m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://proxy-09.nyc.dailymotion.com/sec(Y1vpsrJkRaxa6jF-j2RR0hmHmDyOOfzGwfxQfDQkEHiIb9YkM9WH5QypZuQ9b03IYOcMorFwvCrqHVR3MAqs66oJPpW7Ua_sX1_fQAhzFxc)/video/584/240/510042485_mp4_h264_aac_hq.m3u8#cell=nyc
+https://proxy-09.nyc.dailymotion.com/sec(Y1vpsrJkRaxa6jF-j2RR0qFUfr3hbdL1Wg5h2TneShdcxRtM4oJ6w80jK4Oan8W74xEu3LOgJcsQEzAqwo0HUaIKGp7ZEYkv1gpcN_uE8E4)/video/586/572/508275685_mp4_h264_aac_hq.m3u8#cell=nyc
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Norte - TV Guajara
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
@@ -49,7 +49,7 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZWOjJMZk8zbMp1OaYfShpQhdAreLoZo-d1VXMlemcS8S)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfwc7Ruw3fnFH028dfTUL4jUzYX62Wb3UcDMi7WdO5Xc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -62,7 +62,7 @@ https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/play
 https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-chno="018" tvg-name="TV Cultura Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos", TV Cultura
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxYAk6N2Aka03EjUkDNHmgckbuSe2BoGRzPoWS6NoP7w)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9WS_Vu1TMUUzF1may10PR0wI_DXYz1sXFUM7iFl8Zmq)/dm/3/x7wur7g/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Redeminas.br" tvg-chno="019" tvg-name="Rede Minas" group-title="Canais Públicos" tvg-logo="https://pbs.twimg.com/profile_images/1151111400615550976/MQW6Uj8p.png",Rede Minas HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -97,7 +97,7 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
 
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
-https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxTeiQRwgiDSzzmlAviUXo1DI71aaMdRQbDT3USOIWf3)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls4-d6IhxdD5Iro7SJncwt4mmloOI9zZbEA_ALoxygJbM)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Rede21.br" tvg-chno="031" tvg-name="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title="Variedades", Rede 21
 https://rr2---sn-2vouxcg-gxje.googlevideo.com/videoplayback?expire=1675208423&ei=h1LZY5OPHIzbwgTCp5eQBg&ip=45.164.9.167&id=Ta73E8Er5fw.1&itag=247&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=YA&mm=44%2C29&mn=sn-2vouxcg-gxje%2Csn-bg07dnk6&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=1122500&spc=H3gIhtKC8JPZnvEx-X74h2QCByQbAXoSHzci7N_NVuDw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=B0gkxVH_6w948XbfA4fhmVoL&gir=yes&mt=1675186362&fvip=2&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=0RZkztNCYNX3Cw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAJBlCbkttbdioZVVck6LztPNc33a8yQ76nANFndMSyhXAiAGHfZtofIcVyrqbkqcokUnMp4fwOoQI8Wyvc36gCbxOg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAMbDKe2UF800wp1srm8n-9fwi4wpcKEmjBiuUM1hb6JGAiEA5PkDhr1dsvNVM8DSGco37BD-NWCttvYUecFQxyeWb28%3D&alr=yes&cpn=ioJkoDEpvIi4BYI3&cver=1.20230129.00.00&sq=847852&rn=8&rbuf=14915&pot=DxKixhMMMWlfEprP-97puhREcp3_sZi3T8A2dG7oZpRgxG_rFX8WLsRxNB3u8b93JlUduTd6n_5ZG6fbOLXdIH4aS9FGeyXk6JPCFz3k2ZizWM-MmGueYaC4QsfGnIlYVbY1yLg=
@@ -272,7 +272,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVT.br" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROmT6OlIpR3m330tygj6IL8ZOZ8E5RS4jTg&usqp=CAU",TVT HD
-https://stream-03.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7tt-NJvWfuFJhPMGJSaDzKoq-Jr9JH7k6ANB55sWc6i)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GyZmLhAN5mIb7Fa2A5NQrRNYIUdkCx4_qUqHaaUvia4V)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="CanalSaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Canais Públicos", Canal Saúde 
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -338,7 +338,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4xwkAKWtqxiudVAJVDt6gsBBNFbTIko-33gvdFVWoltd)/dm/3/x83vbd6/d/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4x-pHeCy7OAjWi2W5-FaDvk_5_KQyjvK9hguI7vr7frg)/dm/3/x83vbd6/d/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU9go3gGSDtSJr5DPduhc_dzrWASN-gewoQ&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - BRSuper TV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
