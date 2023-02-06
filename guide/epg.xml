@@ -788,7 +788,7 @@
 </programme>
 
     ###fkids.br###
-<programme start="20230204000000 -0300" stop="20230205000000 -0300" channel="fkids.br">
+<programme start="20230206000000 -0300" stop="20230207000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -846,7 +846,7 @@
  <title lang="pt">TokuHora</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230200070000 -0300" stop="20230206080000 -0300" channel="bstv.br">
+<programme start="20230206070000 -0300" stop="20230206080000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -871,7 +871,7 @@
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
  
-<programme start="20230204000000 -0300" stop="20230205000000 -0300" channel="bstv.br">
+<programme start="20230207000000 -0300" stop="20230208000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -1113,7 +1113,7 @@
  <title lang="pt">Prato Limpo</title>
  <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
 </programme>
-<programme start="20230206140000 -0300" stop="20230201230000 -0300" channel="adessotv.br">
+<programme start="20230206140000 -0300" stop="20230206230000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
@@ -1122,27 +1122,27 @@
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
  
-<programme start="20230131004000 -0300" stop="20230131012000 -0300" channel="adessotv.br">
+<programme start="20230207004000 -0300" stop="20230207012000 -0300" channel="adessotv.br">
  <title lang="pt">Mini Docs</title>
  <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
 </programme>
-<programme start="20230131012000 -0300" stop="20230131060000 -0300" channel="adessotv.br">
+<programme start="20230207012000 -0300" stop="20230207060000 -0300" channel="adessotv.br">
  <title lang="pt">Sessão Coruja</title>
  <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
 </programme>
-<programme start="20230131060000 -0300" stop="20230131130000 -0300" channel="adessotv.br">
+<programme start="20230207060000 -0300" stop="20230207130000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230131130000 -0300" stop="20230131140000 -0300" channel="adessotv.br">
+<programme start="20230207130000 -0300" stop="20230207140000 -0300" channel="adessotv.br">
  <title lang="pt">Prato Limpo</title>
  <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
 </programme>
-<programme start="20230131140000 -0300" stop="20230131230000 -0300" channel="adessotv.br">
+<programme start="20230207140000 -0300" stop="20230207230000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230131230000 -0300" stop="20230201004000 -0300" channel="adessotv.br">
+<programme start="20230207230000 -0300" stop="20230208004000 -0300" channel="adessotv.br">
  <title lang="pt">Músicais</title>
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
@@ -1151,7 +1151,7 @@
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230205000000 -0300" stop="20230600004000 -0300" channel="adessotv.br">
+<programme start="20230205000000 -0300" stop="20230206004000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
@@ -1303,72 +1303,72 @@
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230130220000 -0300" stop="20230130230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230206220000 -0300" stop="20230206230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230130230000 -0300" stop="20230131010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230206230000 -0300" stop="20230207010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
  
-<programme start="20230131010000 -0300" stop="20230131030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207010000 -0300" stop="20230207030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230131030000 -0300" stop="20230131050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207030000 -0300" stop="20230207050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230131050000 -0300" stop="20230131070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207050000 -0300" stop="20230207070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230131070000 -0300" stop="20230131080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207070000 -0300" stop="20230207080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230131080000 -0300" stop="20230131083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207080000 -0300" stop="20230207083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230202083000 -0300" stop="20230202100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207083000 -0300" stop="20230207100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230202100000 -0300" stop="20230202110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207100000 -0300" stop="20230207110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">IN TOUCH</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20230202110000 -0300" stop="20230202120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207110000 -0300" stop="20230207120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20230202120000 -0300" stop="20230202150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207120000 -0300" stop="20230207150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20230202150000 -0300" stop="20230202180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207150000 -0300" stop="20230207180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20230202180000 -0300" stop="20230202200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207180000 -0300" stop="20230207200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20230202200000 -0300" stop="20230202213000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207200000 -0300" stop="20230207210000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Terra Prometida</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20230131213000 -0300" stop="20230131220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207210000 -0300" stop="20230207220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230131220000 -0300" stop="20230131230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207220000 -0300" stop="20230207230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230203230000 -0300" stop="20230204010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230207230000 -0300" stop="20230208010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS MÚSICA</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
@@ -1603,7 +1603,7 @@
 </programme>
  
  ###turnerdemo.br###
-<programme start="202301280000000 -0300" stop="2023013100000 -0300" channel="turnerdemo.br">
+<programme start="202302080000000 -0300" stop="2023021100000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -1613,19 +1613,19 @@
 </programme>
  ###energeek.cl####
 
-<programme start="202301240000000 -0300" stop="2023012600000 -0300" channel="energeek.cl">
+<programme start="202302050000000 -0300" stop="2023020600000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202301260000000 -0300" stop="2023012800000 -0300" channel="energeek.cl">
+<programme start="202302060000000 -0300" stop="2023020800000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202301280000000 -0300" stop="2023013000000 -0300" channel="energeek.cl">
+<programme start="202302080000000 -0300" stop="2023021000000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202301300000000 -0300" stop="2023013100000 -0300" channel="energeek.cl">
+<programme start="202302100000000 -0300" stop="2023021100000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1864,60 +1864,60 @@
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230130120000 -0300" stop="20230130140000 -0300" channel="cbnrede.br">
+<programme start="20230206120000 -0300" stop="20230206140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230130140000 -0300" stop="20230130160000 -0300" channel="cbnrede.br">
+<programme start="20230206140000 -0300" stop="20230206160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230130000000 -0300" stop="20230130000000 -0300" channel="cbnrede.br">
+<programme start="20230206160000 -0300" stop="20230206210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230130210000 -0300" stop="20230131000000 -0300" channel="cbnrede.br">
+<programme start="20230206210000 -0300" stop="20230207000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
  
-<programme start="20230131000000 -0300" stop="20230131050000 -0300" channel="cbnrede.br">
+<programme start="20230207000000 -0300" stop="20230207050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230131050000 -0300" stop="20230131060000 -0300" channel="cbnrede.br">
+<programme start="20230207050000 -0300" stop="20230207060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230131060000 -0300" stop="20230131070000 -0300" channel="cbnrede.br">
+<programme start="20230207060000 -0300" stop="20230207070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230131070000 -0300" stop="20230131093000 -0300" channel="cbnrede.br">
+<programme start="20230207070000 -0300" stop="20230207093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230131093000 -0300" stop="20230131123000 -0300" channel="cbnrede.br">
- <title lang="pt">Programação Rádio CBN</title>
- <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
+<programme start="20230207093000 -0300" stop="20230207100000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN em Foco</title>
+ <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230131123000 -0300" stop="20230131140000 -0300" channel="cbnrede.br">
+<programme start="20230207100000 -0300" stop="20230207120000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Plaça</title>
+ <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
+</programme>
+<programme start="20230207120000 -0300" stop="20230207140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230131140000 -0300" stop="20230131170000 -0300" channel="cbnrede.br">
+<programme start="20230207140000 -0300" stop="20230207160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230131170000 -0300" stop="20230131200000 -0300" channel="cbnrede.br">
- <title lang="pt">Ponto Final CBN</title>
- <desc lang="pt">Resumo do que aconteceu no dia com Rodrigo Bocardi e Carolina Morand.</desc>
+<programme start="20230207000000 -0300" stop="20230207000000 -0300" channel="cbnrede.br">
+ <title lang="pt">Programação Rádio CBN</title>
+ <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230131200000 -0300" stop="20230131210000 -0300" channel="cbnrede.br">
- <title lang="pt">Quatro em Campo</title>
- <desc lang="pt">Resenha esportiva com a equipe de craques da cbn. com Carlos Eduardo Eboli, Paulo Massini, Francisco Aiello e André Sanches.</desc>
-</programme>
-<programme start="20230131210000 -0300" stop="20230201000000 -0300" channel="cbnrede.br">
+<programme start="20230207210000 -0300" stop="20230208000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
@@ -2006,27 +2006,27 @@
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
  
-<programme start="20230130050000 -0300" stop="20230130070000 -0300" channel="radioclubeampe.br">
+<programme start="20230206050000 -0300" stop="20230206070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20230130070000 -0300" stop="20230130073000 -0300" channel="radioclubeampe.br">
+<programme start="20230206070000 -0300" stop="20230206073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20230130073000 -0300" stop="20230130080000 -0300" channel="radioclubeampe.br">
+<programme start="20230206073000 -0300" stop="20230206080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20230130080000 -0300" stop="20230130110000 -0300" channel="radioclubeampe.br">
+<programme start="20230206080000 -0300" stop="20230206110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Manhã na Clube</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20230130110000 -0300" stop="20230130120000 -0300" channel="radioclubeampe.br">
+<programme start="20230206110000 -0300" stop="20230206120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Momento Esportivo</title>
  <desc lang="pt">jornal</desc>
 </programme>
-<programme start="20230130120000 -0300" stop="20230130130000 -0300" channel="radioclubeampe.br">
+<programme start="20230206120000 -0300" stop="20230206130000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Bola ao centro</title>
  <desc lang="pt">O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc>
 </programme>
@@ -2218,7 +2218,7 @@
  <title lang="pt">Clube da Seresta</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221225220000 -0300" stop="20221226050000 -0300" channel="radioclubeampe.br">
+<programme start="20230205220000 -0300" stop="20230206050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
@@ -2229,35 +2229,35 @@
  <desc lang="pt">Seleção musical</desc>
 </programme>
  
-<programme start="20230130000000 -0300" stop="20230130020000 -0300" channel="radiojornalpe.br">
+<programme start="20230206000000 -0300" stop="20230206020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230130020000 -0300" stop="20230130030000 -0300" cannel="radiojornalpe.br">
+<programme start="20230206020000 -0300" stop="20230206030000 -0300" cannel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230130030000 -0300" stop="20230130063000 -0300" channel="radiojornalpe.br">
+<programme start="20230206030000 -0300" stop="20230206063000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230130063000 -0300" stop="20230130070000 -0300" channel="radiojornalpe.br">
+<programme start="20230206063000 -0300" stop="20230206070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230130070000 -0300" stop="20230130120000 -0300" channel="radiojornalpe.br">
+<programme start="20230206070000 -0300" stop="20230206120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230130120000 -0300" stop="20230130123000 -0300" channel="radiojornalpe.br">
+<programme start="20230206120000 -0300" stop="20230200123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230130123000 -0300" stop="20230130140000 -0300" channel="radiojornalpe.br">
+<programme start="20230206123000 -0300" stop="20230206140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20230130140000 -0300" stop="20230130160000 -0300" channel="radiojornalpe.br">
+<programme start="20230206140000 -0300" stop="20230206160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">No consultorio do rádio livre voce tira duvidas atravez do painel interativo com um medico convidado.</desc>
 </programme>
@@ -2420,7 +2420,7 @@
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230129220000 -0300" stop="20230130000000 -0300" channel="radiojornalpe.br">
+<programme start="20230205220000 -0300" stop="20230206000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada Comando Geral</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -2563,11 +2563,11 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20230128000000 -0300" stop="20230130000000 -0300" channel="TVTop.br">
+<programme start="20230206000000 -0300" stop="20230208000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20230130000000 -0300" stop="20230204000000 -0300" channel="TVTop.br">
+<programme start="20230208000000 -0300" stop="20230214000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
@@ -2585,7 +2585,7 @@
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
-<programme start="20230115000000 -0300" stop="20230126000000 -0300" channel="RetroCartoon.br">
+<programme start="20230208000000 -0300" stop="20230216000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
