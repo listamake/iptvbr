@@ -619,7 +619,7 @@
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230210130000 -0300" stop="20230213150000 -0300" channel="yaaeeh.br">
+<programme start="20230210130000 -0300" stop="20230211150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -981,19 +981,19 @@
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20230209130000 -0300" stop="20230209131500 -0300" channel="CentralTV.br">
+<programme start="20230214130000 -0300" stop="20230214131500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230209131500 -0300" stop="20230209140000 -0300" channel="CentralTV.br">
+<programme start="20230214131500 -0300" stop="20230214140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230209140000 -0300" stop="20230209143000 -0300" channel="CentralTV.br">
+<programme start="20230214140000 -0300" stop="20230214143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230209143000 -0300" stop="20230209150000 -0300" channel="CentralTV.br">
+<programme start="20230214143000 -0300" stop="20230214150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
@@ -2180,52 +2180,52 @@
  <title lang="pt">Por Que Hoje é Sábado</title>
  <desc lang="pt">Carnaval é o tema. Os momentos, os destaques, os nomes que fazem e já fizeram esta festa que movimenta Pernambuco, principalmente, com nosso ritmo, o frevo. A comunicação é outra grande atração, este programa é orquestrado pelo mestre Zuca Show.</desc>
 </programme>
-<programme start="20221224120000 -0300" stop="20221224160000 -0300" channel="radioclubeampe.br">
+<programme start="20230211120000 -0300" stop="20230211160000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20221224160000 -0300" stop="20221224182000 -0300" channel="radioclubeampe.br">
+<programme start="20230211160000 -0300" stop="20230211182000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="20221224182000 -0300" stop="20221224190000 -0300" channel="radioclubeampe.br">
+<programme start="20230211182000 -0300" stop="20230211190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20221224190000 -0300" stop="20221225000000 -0300" channel="radioclubeampe.br">
+<programme start="20230211190000 -0300" stop="20230212000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Musical</title>
  <desc lang="pt">Transmissão de musicas enquanto não tiver transmissão de futebol.</desc>
 </programme>
      ####domingo####
-<programme start="20221225000000 -0300" stop="20221225090000 -0300" channel="radioclubeampe.br">
+<programme start="20230212000000 -0300" stop="20230212090000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20221225090000 -0300" stop="20221225110000 -0300" channel="radioclubeampe.br">
+<programme start="20230212090000 -0300" stop="20230212110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20221225110000 -0300" stop="20221225120000 -0300" channel="radioclubeampe.br">
+<programme start="20230212110000 -0300" stop="20230212120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20221225120000 -0300" stop="20221225150000 -0300" channel="radioclubeampe.br">
+<programme start="20230212120000 -0300" stop="20230212150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
-<programme start="20221225150000 -0300" stop="20221251580000 -0300" channel="radioclubeampe.br">
+<programme start="20230212150000 -0300" stop="20230212580000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="20221251580000 -0300" stop="20221225200000 -0300" channel="radioclubeampe.br">
+<programme start="20230212580000 -0300" stop="20230212200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20221225200000 -0300" stop="20221225000000 -0300" channel="radioclubeampe.br">
+<programme start="20230212200000 -0300" stop="20230212000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube da Seresta</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205220000 -0300" stop="20230206050000 -0300" channel="radioclubeampe.br">
+<programme start="20230212220000 -0300" stop="20230213050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
@@ -2370,52 +2370,52 @@
  <title lang="pt">Super Manhã - Edição de Sábado</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230204110000 -0300" stop="20230204123000 -0300" channel="radiojornalpe.br">
+<programme start="20230211110000 -0300" stop="20230211123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Mesa de Bar</title>
  <desc lang="pt">No mesa de bar descutimos e debatemos dos mais váriados assunto, com muiita resenha e bom humor.</desc>
 </programme>
-<programme start="20230204123000 -0300" stop="20230204140000 -0300" channel="radiojornalpe.br">
+<programme start="20230211123000 -0300" stop="20230211140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20230204140000 -0300" stop="20230204150000 -0300" channel="radiojornalpe.br">
+<programme start="20230211140000 -0300" stop="20230211150000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Comando Geral Fim de Semana</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230204150000 -0300" stop="20230204200000 -0300" channel="radiojornalpe.br">
+<programme start="20230211150000 -0300" stop="20230211200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230204200000 -0300" stop="20230205000000 -0300" channel="radiojornalpe.br">
+<programme start="20230211200000 -0300" stop="20230212000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###DOM###
-<programme start="20230205000000 -0300" stop="20230205020000 -0300" channel="radiojornalpe.br">
+<programme start="20230212000000 -0300" stop="20230212020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205020000 -0300" stop="20230205024000 -0300" channel="radiojornalpe.br">
+<programme start="20230212020000 -0300" stop="20230212024000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Debate da Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205024000 -0300" stop="20230205032000 -0300" channel="radiojornalpe.br">
+<programme start="20230212024000 -0300" stop="20230212032000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã / Passando a limpo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205032000 -0300" stop="20230205040000 -0300" channel="radiojornalpe.br">
+<programme start="20230212032000 -0300" stop="20230212040000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Consultório do Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205040000 -0300" stop="20230205070000 -0300" channel="radiojornalpe.br">
+<programme start="20230212040000 -0300" stop="20230212070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Nossa Saudade</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205070000 -0300" stop="20230205110000 -0300" channel="radiojornalpe.br">
+<programme start="20230212070000 -0300" stop="20230212110000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Domingo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230205110000 -0300" stop="20230205120000 -0300" channel="radiojornalpe.br">
+<programme start="20230212110000 -0300" stop="20230212120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Cartaz Músical</title>
  <desc lang="pt">Rihi</desc>
 </programme>
@@ -2437,11 +2437,11 @@
 </programme>
 
       ####Canalteste####
-<programme start="20230204000000 -0300" stop="20230206000000 -0300" channel="Canalteste">
+<programme start="20230214000000 -0300" stop="20230216000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230206000000 -0300" stop="20230209000000 -0300" channel="Canalteste">
+<programme start="20230216000000 -0300" stop="20230219000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
