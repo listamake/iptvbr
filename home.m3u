@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (14/02/2023,22h24m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (15/02/2023,02h24m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://proxy-026.dc3.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400Qe7Wl5lHTzLzCQFPG97x03Uf0YAr6XrZp0h5KkBDPTiccOTrKT7WXR_Gr3iO2ftO-rSIHZjfw5IKK29rorxT3g)/video/233/995/499599332_mp4_h264_aac_hq.m3u8#cell=core
 
@@ -50,7 +50,7 @@ https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdfzloPbuNpieHswmbWbbpSvdNFDr2Qd3cK9Ug0GZ_xd)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZd1YhSL29qeqjslRkaia5aZmRKEiCNWRsW7rMRHpY8p1)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -326,7 +326,11 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=148
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Regionais" , TV Amplitude Juína
+#EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Regionais" , NDTV Criciúma 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Regionais" , TV Amplitude Juína 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
