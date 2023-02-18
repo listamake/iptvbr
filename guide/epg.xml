@@ -207,19 +207,19 @@
 
    ####grade semanal anitv####
  
-<programme start="20230217000000 -0300" stop="20230217010000 -0300" channel="anitv.br">
+<programme start="20230220000000 -0300" stop="20230220010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230217010000 -0300" stop="20230217020000 -0300" channel="anitv.br">
+<programme start="20230220010000 -0300" stop="20230220020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230217020000 -0300" stop="20230217063000 -0300" channel="anitv.br">
+<programme start="20230220020000 -0300" stop="20230220063000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230217063000 -0300" stop="20230217073000 -0300" channel="anitv.br">
+<programme start="20230220063000 -0300" stop="20230220073000 -0300" channel="anitv.br">
  <title lang="pt">Tecendo o Saber</title>
  <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
 </programme>
@@ -438,12 +438,12 @@
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230211063000 -0300" stop="20230211073000 -0300" channel="anitv.br">
+<programme start="20230218063000 -0300" stop="20230218073000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
  
-<programme start="20230211073000 -0300" stop="20230212003000 -0300" channel="anitv.br">
+<programme start="20230218073000 -0300" stop="20230219003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -524,11 +524,11 @@
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo</desc>
 </programme>
  
-<programme start="20230212000000 -0300" stop="20230212063000 -0300" channel="anitv.br">
+<programme start="20230219000000 -0300" stop="20230219063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230212063000 -0300" stop="20230213000000 -0300" channel="anitv.br">
+<programme start="20230219063000 -0300" stop="20230220000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
