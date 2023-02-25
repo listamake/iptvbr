@@ -532,16 +532,16 @@
 
    ####domingo anitv####
 
-<programme start="20230226000000 -0300" stop="20230227020000 -0300" channel="anitv.br">
+<programme start="20230226000000 -0300" stop="20230226020000 -0300" channel="anitv.br">
  <title lang="pt">Sabadão na Metró</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo</desc>
 </programme>
  
-<programme start="20230219000000 -0300" stop="20230219063000 -0300" channel="anitv.br">
+<programme start="20230226000000 -0300" stop="20230226063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230219063000 -0300" stop="20230220000000 -0300" channel="anitv.br">
+<programme start="20230226063000 -0300" stop="20230227000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
