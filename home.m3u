@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (26/02/2023,01h24m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (26/02/2023,11h24m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://proxy-026.dc3.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400Qe7Wl5lHTzLzCQFPG97x03Uf0YAr6XrZp0h5KkBDPTiccOTrKT7WXR_Gr3iO2ftO-rSIHZjfw5IKK29rorxT3g)/video/233/995/499599332_mp4_h264_aac_hq.m3u8#cell=core
 
@@ -50,7 +50,7 @@ https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diário" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZapFGXf2X3pNrzRtrYp4w6CZeW180KESLN20uzL9Kjc1)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeC_p-UVuT5UGhgYoztB8q9y_mGlCb7jSOBk8R0HSPEi)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -277,10 +277,15 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVT.br" group-title="Canais Públicos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTROmT6OlIpR3m330tygj6IL8ZOZ8E5RS4jTg&usqp=CAU",TVT HD
-https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0m37hFxVxhB55EoenNY8CgtSOXmaOe_cFQ_zN8l0CB8)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1Fs414As7fws5WGfZnRTqHpRXLN8xsbyqEVkcJiE0y4)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="CanalSaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Canais Públicos", Canal Saúde 
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://edge-rn-01.eduplay.rnp.br/media/ocp(r(hV_6Qw)t(F0dsKrpMxeY)p(d(z7k)k(jBM)m(kNXhU1LztTqSZa7VvFkvnQ)n(a(n6Xar5VYXowAi4DOL9Hf39LcyE3N1Mm4LT-Y)s(JTc)'a(5z9CEu96S2vNjZzI12hljohb)s(_iY)))s(t(36w)b(wtMqo2ZOs6tx-WNp6fDAqUOEBHKNErW1p25DknEgMuSwuSQQnX0A3rvmQpJd0lJc10OHzk-uExaNvJJE5j9wXU4AuY6t8XEHkmFgFpG0jePJltnXEg9KatKeg_qWaMJagqLD2xr7gN8jcmGjiV7L9Gkt1Y2_--gm_Kmr1CRSEOon)'t(Gmo)b(r8ks66FEZ0dfM63NQ0xyFI5hfPQbNZ-Iwrw)))/720_index.m3u8
+
+#EXTINF: -1 tvg-id="Canallibras.br" tvg-logo="https://yt3.googleusercontent.com/UR_d64SLXNgTwPKOkeL1PRE7MoK46hUQQDyu_h2hOq9vIDmHdgi_lTHSNSG8qoPKLD_6f3LV6g=s900-c-k-c0x00ffffff-no-rj" group-title="Educativos", Canal Libras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://edge-rn-01.eduplay.rnp.br/media/ocp(r(hV_6Qw)t(F0dsNcKnnDQ)p(d(z7k)k(jBM)m(dE5d4i7xNWjBosciQfHUzA)n(a(QN9n0Upr-DW4qkUjIJzSdbpCM7wN5fXhDwhT)s(JiE)'a(J-wJQCAyIF8XDhD9vmsL4Qiq)s(Plw)))s(t(cmI)b(jYkEEW1v08pciJeXifdQ3rcgGMoqyy3DoX7wZGNzyXqDAK0HZenphL27cHN7U4PgNiP0czRo0CQXhTrBu-5Y8DOmx0hahQhKmVvjgXBLI4lSivh3TkmSm3AHNJ0V0kVC9ndAHKP6EWZmpWtrDopm_VGJ0q363wdCKt0jiUQqHgxM)'t(01A)b(53xMxdZKVFEexkctyiW_c1Gasd2jtJt-05o)))/720_index.m3u8
 
 #EXTINF: -1 tvg-id="COMBrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBVcgcHXRWZL91PQvzjv9cTlfkt-3oSuJ4jQ&usqp=CAU" group-title="Canais Públicos", TV Comunitária HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -344,7 +349,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm47JXWnbkG_GbXjmcdv93-gmhZCgzzkpLZAMmU99ftuP9)/dm/3/x83vbd6/d/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49mN7fS3YHXugRMiwufg-Zat3leNFTiVZ9JlXFII1uq0)/dm/3/x83vbd6/d/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -446,7 +451,7 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-chno="153" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Gazeta Digital
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v31PCJV65f4zjVMZbleOc1ijmQ_e_GoumOd6pvMTxMz5)/dm/3/x89qors/d/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v9mn4f36_axkNfXYK1xbN94JAGyVoAYKiZBzYls-kNgx)/dm/3/x89qors/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
