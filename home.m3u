@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (05/03/2023,01h24m)
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (05/03/2023,18h24m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://proxy-026.dc3.dailymotion.com/sec(bEWLzXrFG3R65TCwDJ400Qe7Wl5lHTzLzCQFPG97x03Uf0YAr6XrZp0h5KkBDPTiccOTrKT7WXR_Gr3iO2ftO-rSIHZjfw5IKK29rorxT3g)/video/233/995/499599332_mp4_h264_aac_hq.m3u8#cell=core
 
@@ -50,7 +50,7 @@ https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diário" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcRg2VnR6hDOTHEkPGFmsEHl9UqVnzJuCfsQyJe_fqnv)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXRlpYG3t1m3lLj5UYcYjXPYzo7XRewlSmJAQQ96K_z3)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -60,7 +60,7 @@ https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/play
 
 #EXTINF: -1 tvg-id="TVBrasil.br" tvg-chno="017" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , RBA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1775733882.m3u8
 
 #EXTINF: -1 tvg-id="Cultura.br" tvg-chno="018" tvg-name="TV Cultura Nacional" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngdtRB41HvAwY6kJCKbZQzVER4LmaUOe8iJ3-GZqy0=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos", TV Cultura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -350,7 +350,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm41oOGohPqaunPvvh6jSY985jbgb7xtVzxoqD3r5ZwMdX)/dm/3/x83vbd6/d/live-2.m3u8#cell=lnyc
+https://stream-02.ix7.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4_sskpeJCBk_R9CaXnfIDGB5jBfAxvoy-Q5FNccIxg40)/dm/3/x83vbd6/d/live-2.m3u8#cell=lcore
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
