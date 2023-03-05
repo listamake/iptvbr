@@ -254,7 +254,7 @@ TF-8"?>
  <title lang="pt">Free!</title>
  <desc lang="pt">O grupo havia participado de um torneio de natação e venceram, mas tiveram de se separar. Anos depois, Haruka, Makoto e Nagisa se reúnem novamente no ensino médio.</desc>
 </programme>
-<programme start="20230303120000 -0300" stop="20230305010000 -0300" channel="anitv.br">
+<programme start="20230306120000 -0300" stop="20230306123000 -0300" channel="anitv.br">
  <title lang="pt">Policial de Aço - JIBAN</title>
  <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
@@ -1756,41 +1756,41 @@ TF-8"?>
 </programme>
  
  ####Clc.br####
-<programme start="20230301010000 -0300" stop="20230301080000 -0300" channel="Clc.br">
+<programme start="20230306010000 -0300" stop="20230306080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230301080000 -0300" stop="20230301130000 -0300" channel="Clc.br">
+<programme start="20230306080000 -0300" stop="20230301130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230301130000 -0300" stop="20230301210000 -0300" channel="Clc.br">
+<programme start="20230301130000 -0300" stop="20230306210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230301210000 -0300" stop="20230302010000 -0300" channel="Clc.br">
+<programme start="20230306210000 -0300" stop="20230307010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230302010000 -0300" stop="20230302080000 -0300" channel="Clc.br">
+<programme start="20230307010000 -0300" stop="20230307080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230302080000 -0300" stop="20230302130000 -0300" channel="Clc.br">
+<programme start="20230307080000 -0300" stop="20230307130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230302130000 -0300" stop="20230302210000 -0300" channel="Clc.br">
+<programme start="20230307130000 -0300" stop="20230307210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230302210000 -0300" stop="20230303010000 -0300" channel="Clc.br">
+<programme start="20230307210000 -0300" stop="20230308010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230280000000 -0300" stop="20230301000000 -0300" channel="Clc.br">
+<programme start="20230305000000 -0300" stop="20230306000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1800,11 +1800,11 @@ TF-8"?>
 </programme>
  
    ####radiometroweb.br####
-<programme start="20230228000000 -0300" stop="20230302000000 -0300" channel="radiometroweb.br">
+<programme start="20230306000000 -0300" stop="20230308000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230302000000 -0300" stop="20230304000000 -0300" channel="radiometroweb.br">
+<programme start="20230308000000 -0300" stop="20230309000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -1818,19 +1818,19 @@ TF-8"?>
  <title lang="pt">Som Massa</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230219150000 -0300" stop="20230219183000 -0300" channel="radiometroweb.br">
+<programme start="20230305150000 -0300" stop="20230305183000 -0300" channel="radiometroweb.br">
  <title lang="pt">Equipe Bola Furada</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230219183000 -0300" stop="20230219200000 -0300" channel="radiometroweb.br">
+<programme start="20230305183000 -0300" stop="20230305200000 -0300" channel="radiometroweb.br">
  <title lang="pt">Amigos da Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230219200000 -0300" stop="20230219210000 -0300" channel="radiometroweb.br">
+<programme start="20230305200000 -0300" stop="20230306210000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230219210000 -0300" stop="20230220000000 -0300" channel="radiometroweb.br">
+<programme start="20230305210000 -0300" stop="20230306000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -1861,43 +1861,43 @@ TF-8"?>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20230301000000 -0300" stop="20230301050000 -0300" channel="cbnrede.br">
+<programme start="20230306000000 -0300" stop="20230306050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230301050000 -0300" stop="20230301060000 -0300" channel="cbnrede.br">
+<programme start="20230306050000 -0300" stop="20230306060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230301060000 -0300" stop="20230301070000 -0300" channel="cbnrede.br">
+<programme start="20230306060000 -0300" stop="20230306070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230301070000 -0300" stop="20230301093000 -0300" channel="cbnrede.br">
+<programme start="20230306070000 -0300" stop="20230306093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230301093000 -0300" stop="20230301100000 -0300" channel="cbnrede.br">
+<programme start="20230306093000 -0300" stop="20230306100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230301100000 -0300" stop="20230301120000 -0300" channel="cbnrede.br">
+<programme start="20230301100000 -0300" stop="20230306120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230301120000 -0300" stop="20230301140000 -0300" channel="cbnrede.br">
+<programme start="20230306120000 -0300" stop="20230306140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230301140000 -0300" stop="20230301160000 -0300" channel="cbnrede.br">
+<programme start="20230306140000 -0300" stop="20230306160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230301160000 -0300" stop="20230301210000 -0300" channel="cbnrede.br">
+<programme start="20230306160000 -0300" stop="20230306210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230301210000 -0300" stop="20230302000000 -0300" channel="cbnrede.br">
+<programme start="20230306210000 -0300" stop="20230307000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
@@ -2004,15 +2004,15 @@ TF-8"?>
  <title lang="pt">Show da Notícia e/ou Futebol</title>
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20230219210000 -0300" stop="20230219223000 -0300" channel="cbnrede.br">
+<programme start="20230305210000 -0300" stop="20230305223000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230219223000 -0300" stop="20230219230000 -0300" channel="cbnrede.br">
+<programme start="20230305223000 -0300" stop="20230305230000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Sustentabilidade</title>
  <desc lang="pt">Rosana Jatobá</desc>
 </programme>
-<programme start="20230219230000 -0300" stop="20230220000000 -0300" channel="cbnrede.br">
+<programme start="20230305230000 -0300" stop="20230306000000 -0300" channel="cbnrede.br">
  <title lang="pt">Fim de Expediente</title>
  <desc lang="pt">Dan Stulbach, José Godoy, Luiz Gustavo Medina</desc>
 </programme>
