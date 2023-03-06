@@ -208,19 +208,19 @@ TF-8"?>
 
    ####grade semanal anitv####
  
-<programme start="20230306000000 -0300" stop="20230306010000 -0300" channel="anitv.br">
+<programme start="20230308000000 -0300" stop="20230308010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230306010000 -0300" stop="20230306020000 -0300" channel="anitv.br">
+<programme start="20230308010000 -0300" stop="20230308020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230306020000 -0300" stop="20230306063000 -0300" channel="anitv.br">
+<programme start="20230308020000 -0300" stop="20230308063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230306063000 -0300" stop="20230306103000 -0300" channel="anitv.br">
+<programme start="20230308063000 -0300" stop="20230308103000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -242,23 +242,23 @@ TF-8"?>
  <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
 
-<programme start="20230306103000 -0300" stop="20230306110000 -0300" channel="anitv.br">
+<programme start="20230308103000 -0300" stop="20230308110000 -0300" channel="anitv.br">
  <title lang="pt">Super Onze</title>
  <desc lang="pt">Endo é um goleiro muito talentoso, neto de Daisuke Endo, um dos melhores goleiros no Japão ue morreu antes de ele nascer. Endou montava um time de futebol em sua escola, a Raimon para que assim pudessem entrar no Campeonato Futebol Fronteira até um misterioso atacante chamado Shuya Goenji se mudar para a sua escola. Goenji se recusa a entrar no time de Endou, pois havia deixado o futebol após sua irmã mais nova sofrer um acidente durante um jogo.</desc>
 </programme>
-<programme start="20230306110000 -0300" stop="20230306113000 -0300" channel="anitv.br">
+<programme start="20230308110000 -0300" stop="20230308113000 -0300" channel="anitv.br">
  <title lang="pt">Beyblade Burst</title>
  <desc lang="pt">Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional.</desc>
 </programme>
-<programme start="20230306113000 -0300" stop="20230306120000 -0300" channel="anitv.br">
+<programme start="20230308113000 -0300" stop="20230308120000 -0300" channel="anitv.br">
  <title lang="pt">Free!</title>
  <desc lang="pt">O grupo havia participado de um torneio de natação e venceram, mas tiveram de se separar. Anos depois, Haruka, Makoto e Nagisa se reúnem novamente no ensino médio.</desc>
 </programme>
-<programme start="20230306120000 -0300" stop="20230306123000 -0300" channel="anitv.br">
+<programme start="20230308120000 -0300" stop="20230308123000 -0300" channel="anitv.br">
  <title lang="pt">Policial de Aço - JIBAN</title>
  <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
-<programme start="20230306123000 -0300" stop="20230306130000 -0300" channel="anitv.br">
+<programme start="20230308123000 -0300" stop="20230308130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
@@ -541,7 +541,7 @@ TF-8"?>
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230305063000 -0300" stop="20230307000000 -0300" channel="anitv.br">
+<programme start="20230306063000 -0300" stop="20230306000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
