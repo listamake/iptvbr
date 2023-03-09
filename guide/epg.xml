@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="U
-TF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
 
 <channel id="yaaeeh.br">
@@ -447,11 +446,11 @@ TF-8"?>
 </programme>
  
  ####sabado anitv####
-<programme start="20230304000000 -0300" stop="20230304063000 -0300" channel="anitv.br">
+<programme start="20230311000000 -0300" stop="20230311063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230304063000 -0300" stop="20230304073000 -0300" channel="anitv.br">
+<programme start="20230311063000 -0300" stop="20230311073000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
@@ -588,192 +587,192 @@ TF-8"?>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20230305000000 -0300" stop="20230305120000 -0300" channel="yaaeeh.br">
+<programme start="20230311000000 -0300" stop="20230312120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20230305120000 -0300" stop="20230306000000 -0300" channel="yaaeeh.br">
+<programme start="20230312120000 -0300" stop="20230313000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20230306000000 -0300" stop="20230306010000 -0300" channel="yaaeeh.br">
+<programme start="20230309000000 -0300" stop="20230309010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230306010000 -0300" stop="20230306030000 -0300" channel="yaaeeh.br">
+<programme start="20230309010000 -0300" stop="20230309030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306030000 -0300" stop="20230306040000 -0300" channel="yaaeeh.br">
+<programme start="20230309030000 -0300" stop="20230309040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230306040000 -0300" stop="20230306060000 -0300" channel="yaaeeh.br">
+<programme start="20230309040000 -0300" stop="20230309060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306060000 -0300" stop="20230306070000 -0300" channel="yaaeeh.br">
+<programme start="20230309060000 -0300" stop="20230309070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230306070000 -0300" stop="20230306090000 -0300" channel="yaaeeh.br">
+<programme start="20230309070000 -0300" stop="20230309090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306090000 -0300" stop="20230306100000 -0300" channel="yaaeeh.br">
+<programme start="20230309090000 -0300" stop="20230309100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230306100000 -0300" stop="20230306120000 -0300" channel="yaaeeh.br">
+<programme start="20230309100000 -0300" stop="20230309120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306120000 -0300" stop="20230306130000 -0300" channel="yaaeeh.br">
+<programme start="20230309120000 -0300" stop="20230309130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230306130000 -0300" stop="20230306150000 -0300" channel="yaaeeh.br">
+<programme start="20230309130000 -0300" stop="20230309150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306150000 -0300" stop="20230306160000 -0300" channel="yaaeeh.br">
+<programme start="20230309150000 -0300" stop="20230309160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230306160000 -0300" stop="20230306180000 -0300" channel="yaaeeh.br">
+<programme start="20230309160000 -0300" stop="20230309180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306180000 -0300" stop="20230306190000 -0300" channel="yaaeeh.br">
+<programme start="20230309180000 -0300" stop="20230309190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230306190000 -0300" stop="20230306193000 -0300" channel="yaaeeh.br">
+<programme start="20230309190000 -0300" stop="20230309193000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230306210000 -0300" stop="20230306220000 -0300" channel="yaaeeh.br">
+<programme start="20230309210000 -0300" stop="20230309220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230306220000 -0300" stop="20230307000000 -0300" channel="yaaeeh.br">
+<programme start="20230309220000 -0300" stop="20230310000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
  
-<programme start="20230307000000 -0300" stop="20230307010000 -0300" channel="yaaeeh.br">
+<programme start="20230310000000 -0300" stop="20230310010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230307010000 -0300" stop="20230307030000 -0300" channel="yaaeeh.br">
+<programme start="20230310010000 -0300" stop="20230310030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307030000 -0300" stop="20230307040000 -0300" channel="yaaeeh.br">
+<programme start="20230310030000 -0300" stop="20230310040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230307040000 -0300" stop="20230307060000 -0300" channel="yaaeeh.br">
+<programme start="20230310040000 -0300" stop="20230310060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307060000 -0300" stop="20230307070000 -0300" channel="yaaeeh.br">
+<programme start="20230310060000 -0300" stop="20230310070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230307070000 -0300" stop="20230307090000 -0300" channel="yaaeeh.br">
+<programme start="20230310070000 -0300" stop="20230310090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307090000 -0300" stop="20230307100000 -0300" channel="yaaeeh.br">
+<programme start="20230310090000 -0300" stop="20230310100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230307100000 -0300" stop="20230307120000 -0300" channel="yaaeeh.br">
+<programme start="20230310100000 -0300" stop="20230310120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307120000 -0300" stop="20230307130000 -0300" channel="yaaeeh.br">
+<programme start="20230310120000 -0300" stop="20230310130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230307130000 -0300" stop="20230307150000 -0300" channel="yaaeeh.br">
+<programme start="20230310130000 -0300" stop="20230310150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307150000 -0300" stop="20230307160000 -0300" channel="yaaeeh.br">
+<programme start="20230310150000 -0300" stop="20230310160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230307160000 -0300" stop="20230307180000 -0300" channel="yaaeeh.br">
+<programme start="20230310160000 -0300" stop="20230310180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307180000 -0300" stop="20230307190000 -0300" channel="yaaeeh.br">
+<programme start="20230310180000 -0300" stop="20230310190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230307190000 -0300" stop="20230307193000 -0300" channel="yaaeeh.br">
+<programme start="20230310190000 -0300" stop="20230310193000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230307210000 -0300" stop="20230307220000 -0300" channel="yaaeeh.br">
+<programme start="20230310210000 -0300" stop="20230310220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230307220000 -0300" stop="20230308000000 -0300" channel="yaaeeh.br">
+<programme start="20230310220000 -0300" stop="20230311000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
  
     ###KpopTVPlay.br###
-<programme start="20230306000000 -0300" stop="20230306190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230309000000 -0300" stop="20230309190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230306190000 -0300" stop="20230306200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230309190000 -0300" stop="20230309200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230306200000 -0300" stop="20230306210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230309200000 -0300" stop="20230309210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230306210000 -0300" stop="20230306213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230309210000 -0300" stop="20230309213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230306213000 -0300" stop="20230306233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230309213000 -0300" stop="20230309233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20230306233000 -0300" stop="20230307000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230309233000 -0300" stop="20230310000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20230307000000 -0300" stop="20230307190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230310000000 -0300" stop="20230310190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230307190000 -0300" stop="20230307200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230310190000 -0300" stop="20230310200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230307200000 -0300" stop="20230307210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230310200000 -0300" stop="20230310210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230307210000 -0300" stop="20230307213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230310210000 -0300" stop="20230310213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230307213000 -0300" stop="20230307233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230310213000 -0300" stop="20230310233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20230307233000 -0300" stop="20230308000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230310233000 -0300" stop="20230311000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
@@ -803,104 +802,108 @@ TF-8"?>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
 
-<programme start="20230304000000 -0300" stop="20230305000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230311000000 -0300" stop="20230312000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230305000000 -0300" stop="20230306000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230312000000 -0300" stop="20230313000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
     ###fkids.br###
-<programme start="20230305000000 -0300" stop="20230306000000 -0300" channel="fkids.br">
+<programme start="20230309000000 -0300" stop="20230310000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230304000000 -0300" stop="20230305000000 -0300" channel="fkids.br">
+<programme start="20230310000000 -0300" stop="20230311000000 -0300" channel="fkids.br">
+ <title lang="pt">Programação Experimental</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="20230311000000 -0300" stop="20230312000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
  
     ###TVaracati.br###
-<programme start="20230306000000 -0300" stop="20230306053000 -0300" channel="TVaracati.br">
+<programme start="20230309000000 -0300" stop="20230309053000 -0300" channel="TVaracati.br">
  <title lang="pt">CINE MADRUGADA</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230306053000 -0300" stop="20230306063000 -0300" channel="TVaracati.br">
+<programme start="20230309053000 -0300" stop="20230309063000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230306063000 -0300" stop="20230306100000 -0300" channel="TVaracati.br">
+<programme start="20230309063000 -0300" stop="20230309100000 -0300" channel="TVaracati.br">
  <title lang="pt">SESSÃO ANIMADA</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230306100000 -0300" stop="20230306100000 -0300" channel="TVaracati.br">
+<programme start="20230309100000 -0300" stop="20230309100000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230306100000 -0300" stop="20230306102500 -0300" channel="TVaracati.br">
+<programme start="20230309100000 -0300" stop="20230309102500 -0300" channel="TVaracati.br">
  <title lang="pt">CHAVES</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230306102500 -0300" stop="20230306114500 -0300" channel="TVaracati.br">
+<programme start="20230309102500 -0300" stop="20230309114500 -0300" channel="TVaracati.br">
  <title lang="pt">CHAPOLIM</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230306114500 -0300" stop="20230307000000 -0300" channel="TVaracati.br">
+<programme start="20230309114500 -0300" stop="20230310000000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
  
-<programme start="20230304000000 -0300" stop="20230305000000 -0300" channel="TVaracati.br">
+<programme start="20230310000000 -0300" stop="20230311000000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
-<programme start="20230305000000 -0300" stop="20230306000000 -0300" channel="TVaracati.br">
+<programme start="20230311000000 -0300" stop="20230312000000 -0300" channel="TVaracati.br">
  <title lang="pt">Programação TV Aracati</title>
  <desc lang="pt">uma programação de filmes, séries, novelas e programas locais como esporte, entretenimento e outros, levando à todo o mundo o que se passa em nossa terra.</desc>
 </programme>
 
  
     ###bstv.br###
-<programme start="20230306000000 -0300" stop="20230306060000 -0300" channel="bstv.br">
+<programme start="20230309000000 -0300" stop="20230309060000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306060000 -0300" stop="20230306070000 -0300" channel="bstv.br">
+<programme start="20230309060000 -0300" stop="20230309070000 -0300" channel="bstv.br">
  <title lang="pt">TokuHora</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306070000 -0300" stop="20230306080000 -0300" channel="bstv.br">
+<programme start="20230309070000 -0300" stop="20230309080000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306080000 -0300" stop="20230306110000 -0300" channel="bstv.br">
+<programme start="20230309080000 -0300" stop="20230309110000 -0300" channel="bstv.br">
  <title lang="pt">Hora Kids</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306110000 -0300" stop="20230306120000 -0300" channel="bstv.br">
+<programme start="20230309110000 -0300" stop="20230309120000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306120000 -0300" stop="20230306140000 -0300" channel="bstv.br">
+<programme start="20230309120000 -0300" stop="20230309140000 -0300" channel="bstv.br">
  <title lang="pt">Hora Geral</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306140000 -0300" stop="20230306160000 -0300" channel="bstv.br">
+<programme start="20230309140000 -0300" stop="20230309160000 -0300" channel="bstv.br">
  <title lang="pt">Cine Play</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230306160000 -0300" stop="20230307000000 -0300" channel="bstv.br">
+<programme start="20230309160000 -0300" stop="20230310000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
  
-<programme start="20230304000000 -0300" stop="20230305000000 -0300" channel="bstv.br">
+<programme start="20230310000000 -0300" stop="20230311000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230305000000 -0300" stop="20230306000000 -0300" channel="bstv.br">
+<programme start="20230311000000 -0300" stop="20230312000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -930,173 +933,173 @@ TF-8"?>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
-<programme start="20230306000000 -0300" stop="20230306080000 -0300" channel="CentralTV.br">
+<programme start="20230309000000 -0300" stop="20230309080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230306080000 -0300" stop="20230306113000 -0300" channel="CentralTV.br">
+<programme start="20230309080000 -0300" stop="20230309113000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230306113000 -0300" stop="20230306130000 -0300" channel="CentralTV.br">
+<programme start="20230309113000 -0300" stop="20230309130000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20230306130000 -0300" stop="20230306131500 -0300" channel="CentralTV.br">
+<programme start="20230309130000 -0300" stop="20230309131500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230306131500 -0300" stop="20230306140000 -0300" channel="CentralTV.br">
+<programme start="20230309131500 -0300" stop="20230309140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230306140000 -0300" stop="20230306143000 -0300" channel="CentralTV.br">
+<programme start="20230309140000 -0300" stop="20230309143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230306143000 -0300" stop="20230306150000 -0300" channel="CentralTV.br">
+<programme start="20230309143000 -0300" stop="20230309150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230306153000 -0300" stop="20230306183000 -0300" channel="CentralTV.br">
+<programme start="20230309153000 -0300" stop="20230309183000 -0300" channel="CentralTV.br">
  <title lang="pt">Joias Vip</title>
  <desc lang="pt">O Joias Vip surgiu da ideia de levar segurança e comodidade as compras dos clientes que buscam por relógios de excelente qualidade, lindas joias em ouro e prata, os melhores produtos do mercado. Navegue pela nossa loja online e encante-se com as nossas maravilhosas peças, promoções e descontos que nossos profissionais promovem constantemente para você, nosso cliente.</desc>
 </programme>
-<programme start="20230306183000 -0300" stop="20230306193000 -0300" channel="CentralTV.br">
+<programme start="20230309183000 -0300" stop="20230309193000 -0300" channel="CentralTV.br">
  <title lang="pt">Milk News</title>
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
-<programme start="20230306193000 -0300" stop="20230306200000 -0300" channel="CentralTV.br">
+<programme start="20230309193000 -0300" stop="20230309200000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230306200000 -0300" stop="20230306210000 -0300" channel="CentralTV.br">
+<programme start="20230309200000 -0300" stop="20230309210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230306210000 -0300" stop="20230306230000 -0300" channel="CentralTV.br">
+<programme start="20230309210000 -0300" stop="20230309230000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20230306230000 -0300" stop="20230307000000 -0300" channel="CentralTV.br">
+<programme start="20230309230000 -0300" stop="20230310000000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
-<programme start="20230307000000 -0300" stop="20230307080000 -0300" channel="CentralTV.br">
+<programme start="20230310000000 -0300" stop="20230310080000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230307080000 -0300" stop="20230307113000 -0300" channel="CentralTV.br">
+<programme start="20230310080000 -0300" stop="20230310113000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230307113000 -0300" stop="20230307130000 -0300" channel="CentralTV.br">
+<programme start="20230310113000 -0300" stop="20230310130000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20230307130000 -0300" stop="20230307131500 -0300" channel="CentralTV.br">
+<programme start="20230310130000 -0300" stop="20230310131500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230307131500 -0300" stop="20230307140000 -0300" channel="CentralTV.br">
+<programme start="20230310131500 -0300" stop="20230310140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230307140000 -0300" stop="20230307143000 -0300" channel="CentralTV.br">
+<programme start="20230310140000 -0300" stop="20230310143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230307143000 -0300" stop="20230307150000 -0300" channel="CentralTV.br">
+<programme start="20230310143000 -0300" stop="20230310150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230307153000 -0300" stop="20230307183000 -0300" channel="CentralTV.br">
+<programme start="20230310153000 -0300" stop="20230310183000 -0300" channel="CentralTV.br">
  <title lang="pt">Joias Vip</title>
  <desc lang="pt">O Joias Vip surgiu da ideia de levar segurança e comodidade as compras dos clientes que buscam por relógios de excelente qualidade, lindas joias em ouro e prata, os melhores produtos do mercado. Navegue pela nossa loja online e encante-se com as nossas maravilhosas peças, promoções e descontos que nossos profissionais promovem constantemente para você, nosso cliente.</desc>
 </programme>
-<programme start="20230307183000 -0300" stop="20230307193000 -0300" channel="CentralTV.br">
+<programme start="20230310183000 -0300" stop="20230310193000 -0300" channel="CentralTV.br">
  <title lang="pt">Milk News</title>
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
-<programme start="20230307193000 -0300" stop="20230307200000 -0300" channel="CentralTV.br">
+<programme start="20230310193000 -0300" stop="20230310200000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230307200000 -0300" stop="20230307210000 -0300" channel="CentralTV.br">
+<programme start="20230310200000 -0300" stop="20230310210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230307210000 -0300" stop="20230307230000 -0300" channel="CentralTV.br">
+<programme start="20230310210000 -0300" stop="20230310230000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20230307230000 -0300" stop="20230308000000 -0300" channel="CentralTV.br">
+<programme start="20230310230000 -0300" stop="20230311000000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 
     ###sab.centraltv###
  
-<programme start="20230304000000 -0300" stop="20230304030000 -0300" channel="CentralTV.br">
+<programme start="20230311000000 -0300" stop="20230311030000 -0300" channel="CentralTV.br">
  <title lang="pt">Joias Vip</title>
  <desc lang="pt">O Joias Vip surgiu da ideia de levar segurança e comodidade as compras dos clientes que buscam por relógios de excelente qualidade, lindas joias em ouro e prata, os melhores produtos do mercado. Navegue pela nossa loja online e encante-se com as nossas maravilhosas peças, promoções e descontos que nossos profissionais promovem constantemente para você, nosso cliente.</desc>
 </programme>
-<programme start="20230304030000 -0300" stop="20230304040000 -0300" channel="CentralTV.br">
+<programme start="20230311030000 -0300" stop="20230311040000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230304040000 -0300" stop="20230304080000 -0300" channel="CentralTV.br">
+<programme start="20230311040000 -0300" stop="20230311080000 -0300" channel="CentralTV.br">
  <title lang="pt">Sessão Terror</title>
  <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
 </programme>
-<programme start="20230304080000 -0300" stop="20230304090000 -0300" channel="CentralTV.br">
+<programme start="20230311080000 -0300" stop="20230311090000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230304090000 -0300" stop="20230304113000 -0300" channel="CentralTV.br">
+<programme start="20230311090000 -0300" stop="20230311113000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230304113000 -0300" stop="20230304120000 -0300" channel="CentralTV.br">
+<programme start="20230311113000 -0300" stop="20230311120000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Câmera Brasil</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230304120000 -0300" stop="20230304140000 -0300" channel="CentralTV.br">
+<programme start="20230311120000 -0300" stop="20230311140000 -0300" channel="CentralTV.br">
  <title lang="pt">Jukebox TV</title>
  <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
 </programme>
-<programme start="20230304140000 -0300" stop="20230304160000 -0300" channel="CentralTV.br">
+<programme start="20230311140000 -0300" stop="20230311160000 -0300" channel="CentralTV.br">
  <title lang="pt">Do Fundo do Baú</title>
  <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
 </programme>
-<programme start="20230304160000 -0300" stop="20230304193000 -0300" channel="CentralTV.br">
+<programme start="20230311160000 -0300" stop="20230311193000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230304193000 -0300" stop="20230305000000 -0300" channel="CentralTV.br">
+<programme start="20230311193000 -0300" stop="20230312000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 
     ###don.centraltv###
-<programme start="20230305000000 -0300" stop="20230305030000 -0300" channel="CentralTV.br">
+<programme start="20230312000000 -0300" stop="20230312030000 -0300" channel="CentralTV.br">
  <title lang="pt">Joias Vip</title>
  <desc lang="pt">O Joias Vip surgiu da ideia de levar segurança e comodidade as compras dos clientes que buscam por relógios de excelente qualidade, lindas joias em ouro e prata, os melhores produtos do mercado. Navegue pela nossa loja online e encante-se com as nossas maravilhosas peças, promoções e descontos que nossos profissionais promovem constantemente para você, nosso cliente.</desc>
 </programme>
-<programme start="20230305030000 -0300" stop="20230305080000 -0300" channel="CentralTV.br">
+<programme start="20230312030000 -0300" stop="20230312080000 -0300" channel="CentralTV.br">
  <title lang="pt">Sessão Terror</title>
  <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
 </programme>
-<programme start="20230305080000 -0300" stop="20230305104500 -0300" channel="CentralTV.br">
+<programme start="20230312080000 -0300" stop="20230312104500 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230305104500 -0300" stop="20230305113000 -0300" channel="CentralTV.br">
+<programme start="20230312104500 -0300" stop="20230312113000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230305113000 -0300" stop="20230305120000 -0300" channel="CentralTV.br">
+<programme start="20230312113000 -0300" stop="20230312120000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Câmera Brasil</title>
  <desc lang="pt"></desc>
 </programme>
@@ -1126,153 +1129,153 @@ TF-8"?>
 </programme>
  
     ###adessotv.br###
-<programme start="20230306004000 -0300" stop="20230306012000 -0300" channel="adessotv.br">
+<programme start="20230309004000 -0300" stop="20230309012000 -0300" channel="adessotv.br">
  <title lang="pt">Mini Docs</title>
  <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
 </programme>
-<programme start="20230306012000 -0300" stop="20230306060000 -0300" channel="adessotv.br">
+<programme start="20230309012000 -0300" stop="20230309060000 -0300" channel="adessotv.br">
  <title lang="pt">Sessão Coruja</title>
  <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
 </programme>
-<programme start="20230306060000 -0300" stop="20230306130000 -0300" channel="adessotv.br">
+<programme start="20230309060000 -0300" stop="20230309130000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230306130000 -0300" stop="20230306140000 -0300" channel="adessotv.br">
+<programme start="20230309130000 -0300" stop="20230309140000 -0300" channel="adessotv.br">
  <title lang="pt">Prato Limpo</title>
  <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
 </programme>
-<programme start="20230306140000 -0300" stop="20230306230000 -0300" channel="adessotv.br">
+<programme start="20230309140000 -0300" stop="20230309230000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230306230000 -0300" stop="20230307004000 -0300" channel="adessotv.br">
+<programme start="20230309230000 -0300" stop="20230310004000 -0300" channel="adessotv.br">
  <title lang="pt">Músicais</title>
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
  
-<programme start="20230307004000 -0300" stop="20230307012000 -0300" channel="adessotv.br">
+<programme start="20230310004000 -0300" stop="20230310012000 -0300" channel="adessotv.br">
  <title lang="pt">Mini Docs</title>
  <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
 </programme>
-<programme start="20230307012000 -0300" stop="20230307060000 -0300" channel="adessotv.br">
+<programme start="20230310012000 -0300" stop="20230310060000 -0300" channel="adessotv.br">
  <title lang="pt">Sessão Coruja</title>
  <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
 </programme>
-<programme start="20230307060000 -0300" stop="20230307130000 -0300" channel="adessotv.br">
+<programme start="20230310060000 -0300" stop="20230310130000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230307130000 -0300" stop="20230307140000 -0300" channel="adessotv.br">
+<programme start="20230310130000 -0300" stop="20230310140000 -0300" channel="adessotv.br">
  <title lang="pt">Prato Limpo</title>
  <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
 </programme>
-<programme start="20230307140000 -0300" stop="20230307230000 -0300" channel="adessotv.br">
+<programme start="20230310140000 -0300" stop="20230310230000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230303230000 -0300" stop="20230304004000 -0300" channel="adessotv.br">
+<programme start="20230310230000 -0300" stop="20230311004000 -0300" channel="adessotv.br">
  <title lang="pt">Músicais</title>
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
  
-<programme start="20230304004000 -0300" stop="20230305000000 -0300" channel="adessotv.br">
+<programme start="20230311004000 -0300" stop="20230312000000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230305000000 -0300" stop="20230306004000 -0300" channel="adessotv.br">
+<programme start="20230312000000 -0300" stop="20230313004000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
  
     ###TVMax.br###
-<programme start="20230306000000 -0300" stop="20230306070000 -0300" channel="TVMax.br">
+<programme start="20230309000000 -0300" stop="20230309070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230306070000 -0300" stop="20230306080000 -0300" channel="TVMax.br">
+<programme start="20230309070000 -0300" stop="20230309080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230306080000 -0300" stop="20230306100000 -0300" channel="TVMax.br">
+<programme start="20230309080000 -0300" stop="20230309100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20230306100000 -0300" stop="20230306110000 -0300" channel="TVMax.br">
+<programme start="20230309100000 -0300" stop="20230309110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20230306110000 -0300" stop="20230306120000 -0300" channel="TVMax.br">
+<programme start="20230309110000 -0300" stop="20230309120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20230306120000 -0300" stop="20230306130000 -0300" channel="TVMax.br">
+<programme start="20230309120000 -0300" stop="20230309130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20230306130000 -0300" stop="20230306150000 -0300" channel="TVMax.br">
+<programme start="20230309130000 -0300" stop="20230309150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20230306150000 -0300" stop="20230306153000 -0300" channel="TVMax.br">
+<programme start="20230309150000 -0300" stop="20230309153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="20230306153000 -0300" stop="20230306160000 -0300" channel="TVMax.br">
+<programme start="20230309153000 -0300" stop="20230309160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230306160000 -0300" stop="20230307000000 -0300" channel="TVMax.br">
+<programme start="20230309160000 -0300" stop="20230310000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="20230307000000 -0300" stop="20230307070000 -0300" channel="TVMax.br">
+<programme start="20230310000000 -0300" stop="20230310070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230307070000 -0300" stop="20230307080000 -0300" channel="TVMax.br">
+<programme start="20230310070000 -0300" stop="20230310080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230307080000 -0300" stop="20230307100000 -0300" channel="TVMax.br">
+<programme start="20230310080000 -0300" stop="20230310100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20230307100000 -0300" stop="20230307110000 -0300" channel="TVMax.br">
+<programme start="20230310100000 -0300" stop="20230310110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20230307110000 -0300" stop="20230307120000 -0300" channel="TVMax.br">
+<programme start="20230310110000 -0300" stop="20230310120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20230307120000 -0300" stop="20230307130000 -0300" channel="TVMax.br">
+<programme start="20230310120000 -0300" stop="20230310130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20230307130000 -0300" stop="20230307150000 -0300" channel="TVMax.br">
+<programme start="20230310130000 -0300" stop="20230310150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20230307150000 -0300" stop="20230307153000 -0300" channel="TVMax.br">
+<programme start="20230310150000 -0300" stop="20230310153000 -0300" channel="TVMax.br">
  <title lang="pt">Zinzane</title>
  <desc lang="pt">Um programa de 30 minutos falando de moda, tendências, muita inspiração e vendas online.</desc>
 </programme>
-<programme start="20230307153000 -0300" stop="20230307160000 -0300" channel="TVMax.br">
+<programme start="20230310153000 -0300" stop="20230310160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230307160000 -0300" stop="20230308000000 -0300" channel="TVMax.br">
+<programme start="20230310160000 -0300" stop="20230311000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="20230304000000 -0300" stop="20230305000000 -0300" channel="TVMax.br">
+<programme start="20230311000000 -0300" stop="20230312000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230305000000 -0300" stop="20230306080000 -0300" channel="TVMax.br">
+<programme start="20230312000000 -0300" stop="20230313080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1280,162 +1283,174 @@ TF-8"?>
  
 ####TVMaisFamilia.br####
  
-<programme start="20230306010000 -0300" stop="20230306030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309010000 -0300" stop="20230309030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230306030000 -0300" stop="20230306050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309030000 -0300" stop="20230309050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230306050000 -0300" stop="20230306070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309050000 -0300" stop="20230309070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230306270000 -0300" stop="20230306080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309070000 -0300" stop="20230309080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230306080000 -0300" stop="20230306090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309080000 -0300" stop="20230309090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230306090000 -0300" stop="20230306103000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309090000 -0300" stop="20230309103000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230306203000 -0300" stop="20230306110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309103000 -0300" stop="20230309110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">David Leonado</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20230306110000 -0300" stop="20230306120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309110000 -0300" stop="20230309120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20230306120000 -0300" stop="20230306150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309120000 -0300" stop="20230309150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20230306150000 -0300" stop="20230306180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309150000 -0300" stop="20230309180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20230306180000 -0300" stop="20230306200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309180000 -0300" stop="20230309190000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20230306200000 -0300" stop="20230306220000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Terra Prometida</title>
+<programme start="20230309190000 -0300" stop="20230309200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20230309200000 -0300" stop="20230309220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Brasil Imperial</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20230306220000 -0300" stop="20230306230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230309220000 -0300" stop="20230309230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230306230000 -0300" stop="20230307010000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS MÚSICA</title>
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+<programme start="20230309230000 -0300" stop="20230310010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mudança de Vida</title>
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
  
-<programme start="20230307010000 -0300" stop="20230307030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310010000 -0300" stop="20230310030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230307030000 -0300" stop="20230307050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310030000 -0300" stop="20230310050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230307050000 -0300" stop="20230307070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310050000 -0300" stop="20230310070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230307270000 -0300" stop="20230307080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310070000 -0300" stop="20230310080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230307080000 -0300" stop="20230307090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310080000 -0300" stop="20230310090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230307090000 -0300" stop="20230307103000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310090000 -0300" stop="20230310103000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230307203000 -0300" stop="20230307110000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310103000 -0300" stop="20230310110000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">David Leonado</title>
  <desc lang="pt">As manhãs da Rede Mais Família, contam com a ministração do Pastor e escritor americano Charles Stanley. Um nome de referência que apresenta estudos bíblicos há cerca de 40 anos, tendo seus programas traduzidos para mais de 50 idiomas.</desc>
 </programme>
-<programme start="20230307110000 -0300" stop="20230307120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310110000 -0300" stop="20230310120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">SUPERBOOK</title>
  <desc lang="pt">Uma viagem dentro da história. Superbook, narra os acontecimentos do velho e novo testamento. Um menino, uma menina e um robô, viajam através do tempo nos relatos Bíblicos.</desc>
 </programme>
-<programme start="20230307120000 -0300" stop="20230307150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310120000 -0300" stop="20230310150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20230307150000 -0300" stop="20230307180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310150000 -0300" stop="20230310180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20230307180000 -0300" stop="20230307200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310180000 -0300" stop="20230310190000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20230307200000 -0300" stop="20230307220000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Terra Prometida</title>
+<programme start="20230310190000 -0300" stop="20230310200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20230310200000 -0300" stop="20230310220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Brasil Imperial</title>
  <desc lang="pt">Liderados por Josué, os hebreus continuam sua jornada pelo deserto. Mas o caminho é árduo e serão muitas as provações até chegarem na Terra Prometida.</desc>
 </programme>
-<programme start="20230307220000 -0300" stop="20230307230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230310220000 -0300" stop="20230310230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230307230000 -0300" stop="20230308010000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS MÚSICA</title>
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+<programme start="20230310230000 -0300" stop="20230311010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mudança de Vida</title>
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
  
   ###sab###
-<programme start="20230304010000 -0300" stop="20230304030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311010000 -0300" stop="20230311030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230304030000 -0300" stop="20230304050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311030000 -0300" stop="20230311050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230304050000 -0300" stop="20230304070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311050000 -0300" stop="20230311070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230304070000 -0300" stop="20230304080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311070000 -0300" stop="20230311080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230304080000 -0300" stop="20230304090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311080000 -0300" stop="20230311090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230304090000 -0300" stop="20230304100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311090000 -0300" stop="20230311100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230304100000 -0300" stop="20230304200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311100000 -0300" stop="20230311120000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+<programme start="20230311120000 -0300" stop="20230311200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Parque Patati Patatá</title>
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
-<programme start="20230304200000 -0300" stop="20230304203000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311200000 -0300" stop="20230311203000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230304203000 -0300" stop="20230304220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311203000 -0300" stop="20230311220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230304220000 -0300" stop="20230304230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311220000 -0300" stop="20230311230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Cine Mais Fámilia</title>
  <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
 </programme>
-<programme start="20230304230000 -0300" stop="20230305010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230311230000 -0300" stop="20230312010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
@@ -1572,11 +1587,11 @@ TF-8"?>
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
-<programme start="20230301000000 -0300" stop="20230304000000 -0300" channel="StrikerVerso.br">
+<programme start="20230309000000 -0300" stop="20230314000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20230228000000 -0300" stop="20230301000000 -0300" channel="StrikerVerso.br">
+<programme start="20230314000000 -0300" stop="20230316000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -1614,35 +1629,35 @@ TF-8"?>
  
  ###xtremetv.br###
  
-<programme start="202302280000000 -0300" stop="2023030800000 -0300" channel="xtremetv.br">
+<programme start="202303080000000 -0300" stop="2023031200000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="202303080000000 -0300" stop="2023031400000 -0300" channel="xtremetv.br">
+<programme start="202303120000000 -0300" stop="2023031400000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
  
  ###turnerdemo.br###
-<programme start="202303010000000 -0300" stop="2023030400000 -0300" channel="turnerdemo.br">
+<programme start="202303090000000 -0300" stop="2023031400000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="202303040000000 -0300" stop="2023030800000 -0300" channel="turnerdemo.br">
+<programme start="202303140000000 -0300" stop="2023031800000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
  ###energeek.cl####
 
-<programme start="202303050000000 -0300" stop="2023030600000 -0300" channel="energeek.cl">
+<programme start="202303090000000 -0300" stop="2023031200000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202303060000000 -0300" stop="2023030800000 -0300" channel="energeek.cl">
+<programme start="202303120000000 -0300" stop="2023031400000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202303080000000 -0300" stop="2023031000000 -0300" channel="energeek.cl">
+<programme start="202303140000000 -0300" stop="2023031600000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1732,21 +1747,21 @@ TF-8"?>
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2023030400000 -0300" stop="20230308000000 -0300" channel="7tvbs.br">
+<programme start="2023030900000 -0300" stop="20230312000000 -0300" channel="7tvbs.br">
  <title lang="pt">Programação TV7</title>
  <desc lang="pt">anime</desc>
 </programme> 
-<programme start="2023030800000 -0300" stop="20230314000000 -0300" channel="7tvbs.br">
+<programme start="2023031200000 -0300" stop="20230314000000 -0300" channel="7tvbs.br">
  <title lang="pt">Programação TV7</title>
  <desc lang="pt">anime</desc>
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="20230303000000 -0300" stop="20230306000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230313000000 -0300" stop="20230316000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20230306000000 -0300" stop="20230307000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230316000000 -0300" stop="20230317000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
@@ -1756,36 +1771,36 @@ TF-8"?>
 </programme>
  
  ####Clc.br####
-<programme start="20230306010000 -0300" stop="20230306080000 -0300" channel="Clc.br">
+<programme start="20230309010000 -0300" stop="20230309080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230306080000 -0300" stop="20230301130000 -0300" channel="Clc.br">
+<programme start="20230309080000 -0300" stop="20230309130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230301130000 -0300" stop="20230306210000 -0300" channel="Clc.br">
+<programme start="20230309130000 -0300" stop="20230309210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230306210000 -0300" stop="20230307010000 -0300" channel="Clc.br">
+<programme start="20230309210000 -0300" stop="20230310010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230307010000 -0300" stop="20230307080000 -0300" channel="Clc.br">
+<programme start="20230310010000 -0300" stop="20230310080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230307080000 -0300" stop="20230307130000 -0300" channel="Clc.br">
+<programme start="20230310080000 -0300" stop="20230310130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230307130000 -0300" stop="20230307210000 -0300" channel="Clc.br">
+<programme start="20230310130000 -0300" stop="20230310210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230307210000 -0300" stop="20230308010000 -0300" channel="Clc.br">
+<programme start="20230310210000 -0300" stop="20230312010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -1800,49 +1815,49 @@ TF-8"?>
 </programme>
  
    ####radiometroweb.br####
-<programme start="20230306000000 -0300" stop="20230308000000 -0300" channel="radiometroweb.br">
+<programme start="20230309000000 -0300" stop="20230311000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230308000000 -0300" stop="20230309000000 -0300" channel="radiometroweb.br">
+<programme start="20230311000000 -0300" stop="20230312000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
  
  
-<programme start="20230219000000 -0300" stop="20230219120000 -0300" channel="radiometroweb.br">
+<programme start="20230312000000 -0300" stop="20230312120000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230219120000 -0300" stop="20230219150000 -0300" channel="radiometroweb.br">
+<programme start="20230312120000 -0300" stop="20230312150000 -0300" channel="radiometroweb.br">
  <title lang="pt">Som Massa</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230305150000 -0300" stop="20230305183000 -0300" channel="radiometroweb.br">
+<programme start="20230312150000 -0300" stop="20230312183000 -0300" channel="radiometroweb.br">
  <title lang="pt">Equipe Bola Furada</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230305183000 -0300" stop="20230305200000 -0300" channel="radiometroweb.br">
+<programme start="20230312183000 -0300" stop="20230312200000 -0300" channel="radiometroweb.br">
  <title lang="pt">Amigos da Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230305200000 -0300" stop="20230306210000 -0300" channel="radiometroweb.br">
+<programme start="20230312200000 -0300" stop="20230312210000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230305210000 -0300" stop="20230306000000 -0300" channel="radiometroweb.br">
+<programme start="20230312210000 -0300" stop="20230313000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
  
   ####EsporteBrasilia.br####
-<programme start="20230128000000 -0300" stop="20230130000000 -0300" channel="EsporteBrasilia.br">
- <title lang="pt">Programação Esporte Brasilia</title>
- <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes transmitidos pela internet!</desc>
+<programme start="20230309000000 -0300" stop="20230312000000 -0300" channel="EsporteBrasilia.br">
+ <title lang="pt">Programação Canal Urban Sports</title>
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230130000000 -0300" stop="20230204000000 -0300" channel="EsporteBrasilia.br">
- <title lang="pt">Programação Esporte Brasilia</title>
- <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes transmitidos pela internet!</desc>
+<programme start="20230312000000 -0300" stop="20230314000000 -0300" channel="EsporteBrasilia.br">
+ <title lang="pt">Programação Canal Urban Sports</title>
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
  
   ####radiobandnewssp.br####
