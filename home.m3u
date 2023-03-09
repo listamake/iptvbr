@@ -117,8 +117,8 @@ https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://acesso.ecast.site:3456/stream/play.m3u8
 
-#EXTINF: -1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília" tvg-chno="036" tvg-logo="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg" group-title="Canais de Esportes", Esportes Brasília TV HD
-https://stmv1.srvif.com/adqstv/adqstv/chunklist_w2066861195.m3u8
+#EXTINF: -1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília" tvg-chno="036" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="Canais de Esportes", Urban Sports HD
+https://stream.urbantv.com.br/urbantvsports/video.m3u8
 
 #EXTINF: -1 tvg-id="awtv.br" tvg-chno="037" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento", AWTV HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
