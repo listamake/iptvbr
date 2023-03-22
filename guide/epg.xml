@@ -207,19 +207,19 @@
 
    ####grade semanal anitv####
  
-<programme start="20230320000000 -0300" stop="20230320010000 -0300" channel="anitv.br">
+<programme start="20230323000000 -0300" stop="20230323010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230320010000 -0300" stop="20230320020000 -0300" channel="anitv.br">
+<programme start="20230323010000 -0300" stop="20230323020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230320020000 -0300" stop="20230320063000 -0300" channel="anitv.br">
+<programme start="20230323020000 -0300" stop="20230323063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230320063000 -0300" stop="20230320103000 -0300" channel="anitv.br">
+<programme start="20230323063000 -0300" stop="20230323103000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -241,59 +241,59 @@
  <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
 
-<programme start="20230320103000 -0300" stop="20230320110000 -0300" channel="anitv.br">
+<programme start="20230323103000 -0300" stop="20230323110000 -0300" channel="anitv.br">
  <title lang="pt">Super Onze</title>
  <desc lang="pt">Endo é um goleiro muito talentoso, neto de Daisuke Endo, um dos melhores goleiros no Japão ue morreu antes de ele nascer. Endou montava um time de futebol em sua escola, a Raimon para que assim pudessem entrar no Campeonato Futebol Fronteira até um misterioso atacante chamado Shuya Goenji se mudar para a sua escola. Goenji se recusa a entrar no time de Endou, pois havia deixado o futebol após sua irmã mais nova sofrer um acidente durante um jogo.</desc>
 </programme>
-<programme start="20230320110000 -0300" stop="20230320113000 -0300" channel="anitv.br">
+<programme start="20230323110000 -0300" stop="20230323113000 -0300" channel="anitv.br">
  <title lang="pt">Beyblade Burst</title>
  <desc lang="pt">Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional.</desc>
 </programme>
-<programme start="20230320113000 -0300" stop="20230320120000 -0300" channel="anitv.br">
+<programme start="20230323113000 -0300" stop="20230323120000 -0300" channel="anitv.br">
  <title lang="pt">Free!</title>
  <desc lang="pt">O grupo havia participado de um torneio de natação e venceram, mas tiveram de se separar. Anos depois, Haruka, Makoto e Nagisa se reúnem novamente no ensino médio.</desc>
 </programme>
-<programme start="20230320120000 -0300" stop="20230320023000 -0300" channel="anitv.br">
+<programme start="20230323120000 -0300" stop="20230323023000 -0300" channel="anitv.br">
  <title lang="pt">Policial de Aço - JIBAN</title>
  <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
-<programme start="20230320123000 -0300" stop="20230320130000 -0300" channel="anitv.br">
+<programme start="20230323123000 -0300" stop="20230323130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
-<programme start="20230320130000 -0300" stop="20230320140000 -0300" channel="anitv.br">
+<programme start="20230323130000 -0300" stop="20230323140000 -0300" channel="anitv.br">
  <title lang="pt">MusicBank</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20230320140000 -0300" stop="20230320150000 -0300" channel="anitv.br">
+<programme start="20230323140000 -0300" stop="20230323150000 -0300" channel="anitv.br">
  <title lang="en">Julie e os Fantasmas</title>
  <desc lang="en">uma adolescente de 15 anos que tem um talento escondido - a música. Mas a jovem morre de medo do palco.</desc>
 </programme>
-<programme start="20230320150000 -0300" stop="20230320170000 -0300" channel="anitv.br">
+<programme start="20230323150000 -0300" stop="20230323170000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Light</title>
  <desc lang="pt">Uma faixa dedicada ao romance e a cómedia, pra deixar suas tardes mais leves.</desc>
 </programme>
-<programme start="20230320170000 -0300" stop="20230320180000 -0300" channel="anitv.br">
+<programme start="20230323170000 -0300" stop="20230323180000 -0300" channel="anitv.br">
  <title lang="pt">Descendentes do Sol</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20230320180000 -0300" stop="20230320183000 -0300" channel="anitv.br">
+<programme start="20230323180000 -0300" stop="20230323183000 -0300" channel="anitv.br">
  <title lang="pt">Planet Survival</title>
  <desc lang="pt">Planet Survival se passa no século XXII e conta a história sobre 7 estudantes e 1 gata robô. Luna, Sharla, Menoli, Howard, Bell, Shingo, Kaoru e Chako estão em uma era onde os humanos vivem em colônias espaciais e têm uma tecnologia muito avançada, mas a natureza agora só existe nos livros.</desc>
 </programme>
-<programme start="20230320183000 -0300" stop="20230320190000 -0300" channel="anitv.br">
+<programme start="20230323183000 -0300" stop="20230323190000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20230320190000 -0300" stop="20230320193000 -0300" channel="anitv.br">
+<programme start="20230323190000 -0300" stop="20230323193000 -0300" channel="anitv.br">
  <title lang="en">Ranma ½</title>
  <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
 </programme>
-<programme start="20230320193000 -0300" stop="20230320200000 -0300" channel="anitv.br">
+<programme start="20230323193000 -0300" stop="20230323200000 -0300" channel="anitv.br">
  <title lang="pt">That Time I Got Reincarnated as a Slime</title>
  <desc lang="pt">Satoru Mikami é um funcionário corporativo comum de 37 anos que mora em Tóquio. Durante um encontro casual com seu colega, um agressor surge do nada e o esfaqueia. Enquanto sucumbia aos ferimentos, uma voz misteriosa ecoa em sua mente e recita uma série de comandos que ele não conseguia entender.Depois de recuperar a consciência, Satoru descobre que reencarnou como Slime em um mundo desconhecido.</desc>
 </programme>
-<programme start="20230320200000 -0300" stop="20230320203000 -0300" channel="anitv.br">
+<programme start="20230323200000 -0300" stop="20230323203000 -0300" channel="anitv.br">
  <title lang="pt">Fire Force</title>
  <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
