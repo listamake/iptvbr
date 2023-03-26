@@ -1885,19 +1885,19 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20230315000000 -0300" stop="20230315050000 -0300" channel="cbnrede.br">
+<programme start="20230327000000 -0300" stop="20230327050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230315050000 -0300" stop="20230313060000 -0300" channel="cbnrede.br">
+<programme start="20230327050000 -0300" stop="20230327060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230315060000 -0300" stop="20230315070000 -0300" channel="cbnrede.br">
+<programme start="20230327060000 -0300" stop="20230327070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230315070000 -0300" stop="20230315093000 -0300" channel="cbnrede.br">
+<programme start="20230327070000 -0300" stop="20230327093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
@@ -2235,27 +2235,27 @@
  <desc lang="pt">Transmissão de musicas enquanto não tiver transmissão de futebol.</desc>
 </programme>
      ####domingo####
-<programme start="20230319000000 -0300" stop="20230319090000 -0300" channel="radioclubeampe.br">
+<programme start="20230326000000 -0300" stop="20230326090000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20230339090000 -0300" stop="20230319110000 -0300" channel="radioclubeampe.br">
+<programme start="20230326090000 -0300" stop="20230326110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode do Collaço</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20230319110000 -0300" stop="20230319120000 -0300" channel="radioclubeampe.br">
+<programme start="20230326110000 -0300" stop="20230326120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20230319120000 -0300" stop="20230319150000 -0300" channel="radioclubeampe.br">
+<programme start="20230326120000 -0300" stop="20230326150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
-<programme start="20230319150000 -0300" stop="20230319180000 -0300" channel="radioclubeampe.br">
+<programme start="20230326150000 -0300" stop="20230326180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="20230319180000 -0300" stop="20230319200000 -0300" channel="radioclubeampe.br">
+<programme start="20230326180000 -0300" stop="20230326200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
