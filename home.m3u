@@ -505,6 +505,9 @@ https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
 #EXTINF: -1 tvg-id="radiomassa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1luLbSzlJT_kskhdBtEg-T6M8PdiOLz8Qww&usqp=CAU" group-title="Canais de Áudio",Rádio Massa FM
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
 
+#EXTINF: -1 tvg-id="radiosociedade" tvg-logo="https://i1.sndcdn.com/artworks-000225913640-37qhnj-t500x500.jpg" group-title="Canais de Áudio", Rádio Sociedade
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w232524436.m3u8
+
 #EXTINF: -1 tvg-id="radioculturaam" tvg-logo="https://www.rankeador.com.br/files/5e83f684320afa7c8f1a12e3" group-title="Canais de Áudio",Rádio Cultura Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://d3jqqs7f4soghj.cloudfront.net/out/v1/15ffb383a55747fcaf17808cf596f346/index.mpd
