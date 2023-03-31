@@ -586,7 +586,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 
 #EXTINF: -1 tvg-id="TPAInternacional(src01).pt" tvg-chno="180" tvg-logo="https://yt3.googleusercontent.com/MkTPg9KFzhLJtRTjbyIWsk2f2ezgUlXhP_mmtOJn2rYHARdxzdX9ZAS9qYMqoEGXEMeuaBG7OQ=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionais", TPA Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://playback2.akamaized.net/streams/30360708_9496693_lsi3iv8uavyk9g63xio_1/exp=1680366874~acl=%2f*~data=hdntl~hmac=f87cc70f712adfc2a4d2513374a2462b837a1ea0c0b8d1f7f7de8f64f9d3d2a2/media/30360708_9496693_lsi3iv8uavyk9g63xio_1@678000p.m3u8?dw=14400&ts=1680278400
+https://playback2.akamaized.net/streams/30360708_9496693_lsi3iv8uavyk9g63xio_1/master.m3u8?dw=14400&hdnts=exp=1680283549~acl=/streams/30360708_9496693_lsi3iv8uavyk9g63xio_1/master.m3u8*~hmac=211a9a00cd391b4a4b0fb01f0fcd04288eec71b4eb07d1c1c0e62c90eaf63676
 
 #EXTINF: -1 tvg-id="ForoTV.mx" tvg-chno="181" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Internacionais", Faro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
