@@ -407,10 +407,10 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="154" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Regionais" , SBT Centro - Bem TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
 
-#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="156" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWRgsUrwVUIpIUVa9-_7pKrHuIMTWfbSthpbdE=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" ,TV Cidade Verde
+#EXTINF: -1 tvg-id="SBT.br" tvg-chno="156" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWRgsUrwVUIpIUVa9-_7pKrHuIMTWfbSthpbdE=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" ,TV Cidade Verde
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
 
-#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="Regionais" , TV Paraense
+#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://yt3.googleusercontent.com/y0p1RaSWskCQQsJ3I0rNHUfL5hgBupFKcfytleDskahWACwrNqRm4FS3bXcw2PGYpzdhlS_Zpt4=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Paraense
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Regionais", TV Alternativa HD
@@ -577,16 +577,16 @@ https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF: -1 tvg-id="SICInternacional.pt" tvg-chno="180" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp" group-title="Internacionais", SIC Internacional
+#EXTINF: -1 tvg-id="SIC(src01).pt" tvg-chno="180" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp" group-title="Internacionais", SIC Internacional
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
 #EXTINF: -1 tvg-id="RTPiAmerica.pt" tvg-chno="180" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2801d3d92fe3ea554cdeb2758371a56f.webp" group-title="Internacionais", RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
-#EXTINF: -1 tvg-id="TPAInternacional(src01).pt" tvg-chno="180" tvg-logo="https://yt3.googleusercontent.com/MkTPg9KFzhLJtRTjbyIWsk2f2ezgUlXhP_mmtOJn2rYHARdxzdX9ZAS9qYMqoEGXEMeuaBG7OQ=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionais", TPA Internacional
+#EXTINF: -1 tvg-id="TVE24h(src01).pt" tvg-chno="180" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/3380/brand.gif?itok=EYTnR2xN" group-title="Internacionais", TVE 24h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://playback2.akamaized.net/streams/30360708_9496693_lsi3iv8uavyk9g63xio_1/master.m3u8?dw=14400&hdnts=exp=1680283549~acl=/streams/30360708_9496693_lsi3iv8uavyk9g63xio_1/master.m3u8*~hmac=211a9a00cd391b4a4b0fb01f0fcd04288eec71b4eb07d1c1c0e62c90eaf63676
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
 
 #EXTINF: -1 tvg-id="ForoTV.mx" tvg-chno="181" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Internacionais", Faro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
