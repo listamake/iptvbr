@@ -37,7 +37,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.br" tvg-chno="010" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="Notícias",Euronews em português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 
-#EXTINF: -1 tvg-id="JovemPanNews.br" tvg-chno="011" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Notícias" pltv-subgroup = "NTRU", Jovem Pan News
+#EXTINF: -1 tvg-id="JovemPanNews.br" tvg-chno="011" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Notícias", Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-name="TV Gazeta" tvg-chno="012" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", TV Gazeta - TV Cidade Araçatuba 
@@ -46,11 +46,11 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF: -1 tvg-id="redefamilia.br" tvg-chno="013" tvg-name="Rede Família" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a9wVaOGB6q9EkRQ2jXRS8obA7MifL81xLrKqq91v32ergE5YRmj48O4HYgrmWO3Av-o&usqp=CAU" group-title="Variedades" pltv-subgroup = "NTRU", Rede Família
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8
+https://streaming01.zas.media/redefamiliaweb/redefamiliaweb/chunklist_w39558586.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diário" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcLNHUirGPNq_5XrTglXet4I3aZSlX4_CsAjsHNPvbKt)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZStkC-2RjvG8q0aElD2WML6KvcS2sWnG2C7VYQmcV82W)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -167,8 +167,8 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF: -1 tvg-id="TelecineAction.br"tvg-chno="048" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title="Canais de Filmes" , TV AGUA BOA SD 
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="FronteiraMovies.br" tvg-chno="049" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Canais de Filmes", Classique TV
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF: -1 tvg-id="FronteiraMovies.br" tvg-chno="049" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/967af284e01fa1797df866c01cdd0890.webp" group-title="Canais de Filmes", Flow Cine
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/0f889d5d-8601-4009-8347-539653371133/2.m3u8
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="050" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais de Desenho" aspect-ratio=16:9, RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -194,7 +194,7 @@ https://stream.ichibantv.ga:3904/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-chno="056" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+https://znk659y3k1elfwl.clarocdn.com.br/Content/Channel/SPOCNBHD/dsc3/stream_05/Segment-3813434418022873.m4v
 
 #EXTINF: -1 tvg-id="TVAparecida.br" tvg-chno="057" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -404,14 +404,10 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
-#EXTINF: -1 tvg-id="TVTambau.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b240c8195fa7b7f60ee17847af28001.webp" group-title="Regionais", TV Tambaú HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="154" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Regionais" , SBT Centro - Bem TV
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
 
-#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="156" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWRgsUrwVUIpIUVa9-_7pKrHuIMTWfbSthpbdE=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" ,TV Cidade Cerde
+#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="156" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWRgsUrwVUIpIUVa9-_7pKrHuIMTWfbSthpbdE=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" ,TV Cidade Verde
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="Regionais" , TV Paraense
@@ -458,7 +454,7 @@ https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/play
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 
 #EXTINF: -1 tvg-id="NatureTV.br" group-title="Canais de Música" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu85DOk9vNgwlrhRLYTtxOr5dqtBPKaXIYBDrjU0vw=s900-c-k-c0x00ffffff-no-rj", Nature TV
-https://stmv1.srvif.com/nattv/nattv/chunklist_w1270959963.m3u8
+https://stmv1.painelvideo.top/nattv/nattv/chunklist_w1228012665.m3u8
 
 #EXTINF: -1 tvg-id="lifeChannel.br" tvg-logo="https://www.lineup.tv.br/canais/1673432198.gif" group-title="Documentários" , Life SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -518,6 +514,10 @@ https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w890656368.m3u8
 
+#EXTINF: -1 tvg-id="radiocv" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/ed915b9eb5e74e9230d8e4d789d7f5fa.jpg" group-title="Canais de Áudio",Radio CV Mais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/chunklist_w1702912365.m3u8
+
 #EXTINF: -1 tvg-id="radioculturaam" tvg-logo="https://www.rankeador.com.br/files/5e83f684320afa7c8f1a12e3" group-title="Canais de Áudio",Rádio Cultura Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://d3jqqs7f4soghj.cloudfront.net/out/v1/15ffb383a55747fcaf17808cf596f346/index.mpd
@@ -535,7 +535,7 @@ https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6I
 https://evpp.mm.uol.com.br/band/bandnewsfm_rj/chunklist_w645368273.m3u8
 
 #EXTINF: -1 tvg-id="radiorockfm.br" tvg-logo="https://pbs.twimg.com/profile_images/1508199729737388040/eEZzwmR2_400x400.jpg" group-title="Canais de Áudio",89 FM A Rádio Rock
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzHDrta5ttVFEZbYgnKivAk1UVY6oxHrXvr0pwK7s_sl)/dm/3/x7wjrui/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8w-LwSaweE9wT_V31R1jcnXGd8UGtaasl0A2xwlB1Ol)/dm/3/x7wjrui/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="radioclubeampe.br" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title="Canais de Áudio" radio="true",Rádio Clube Recife AM
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
@@ -583,6 +583,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF: -1 tvg-id="RTPiAmerica.pt" tvg-chno="180" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2801d3d92fe3ea554cdeb2758371a56f.webp" group-title="Internacionais", RTP Internacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF: -1 tvg-id="TPAInternacional(src01).pt" tvg-chno="180" tvg-logo="https://yt3.googleusercontent.com/MkTPg9KFzhLJtRTjbyIWsk2f2ezgUlXhP_mmtOJn2rYHARdxzdX9ZAS9qYMqoEGXEMeuaBG7OQ=s900-c-k-c0x00ffffff-no-rj" group-title="Internacionais", TPA Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://playback2.akamaized.net/streams/30360708_9496693_lsi3iv8uavyk9g63xio_1/exp=1680366874~acl=%2f*~data=hdntl~hmac=f87cc70f712adfc2a4d2513374a2462b837a1ea0c0b8d1f7f7de8f64f9d3d2a2/media/30360708_9496693_lsi3iv8uavyk9g63xio_1@678000p.m3u8?dw=14400&ts=1680278400
 
 #EXTINF: -1 tvg-id="ForoTV.mx" tvg-chno="181" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Foro_%28Televisa%29.png" group-title="Internacionais", Faro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
