@@ -207,19 +207,19 @@
 
    ####grade semanal anitv####
  
-<programme start="20230329000000 -0300" stop="20230329010000 -0300" channel="anitv.br">
+<programme start="20230403000000 -0300" stop="20230403010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230329010000 -0300" stop="20230329020000 -0300" channel="anitv.br">
+<programme start="20230403010000 -0300" stop="20230403020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230329020000 -0300" stop="20230329063000 -0300" channel="anitv.br">
+<programme start="20230403020000 -0300" stop="20230403063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230329063000 -0300" stop="20230329103000 -0300" channel="anitv.br">
+<programme start="20230403063000 -0300" stop="20230403103000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -241,51 +241,51 @@
  <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
 
-<programme start="20230329103000 -0300" stop="20230329110000 -0300" channel="anitv.br">
+<programme start="20230403103000 -0300" stop="20230403110000 -0300" channel="anitv.br">
  <title lang="pt">Super Onze</title>
  <desc lang="pt">Endo é um goleiro muito talentoso, neto de Daisuke Endo, um dos melhores goleiros no Japão ue morreu antes de ele nascer. Endou montava um time de futebol em sua escola, a Raimon para que assim pudessem entrar no Campeonato Futebol Fronteira até um misterioso atacante chamado Shuya Goenji se mudar para a sua escola. Goenji se recusa a entrar no time de Endou, pois havia deixado o futebol após sua irmã mais nova sofrer um acidente durante um jogo.</desc>
 </programme>
-<programme start="20230329110000 -0300" stop="20230329113000 -0300" channel="anitv.br">
+<programme start="20230403110000 -0300" stop="20230403113000 -0300" channel="anitv.br">
  <title lang="pt">Beyblade Burst</title>
  <desc lang="pt">Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional.</desc>
 </programme>
-<programme start="20230329113000 -0300" stop="20230329120000 -0300" channel="anitv.br">
+<programme start="20230403113000 -0300" stop="20230403120000 -0300" channel="anitv.br">
  <title lang="pt">Free!</title>
  <desc lang="pt">O grupo havia participado de um torneio de natação e venceram, mas tiveram de se separar. Anos depois, Haruka, Makoto e Nagisa se reúnem novamente no ensino médio.</desc>
 </programme>
-<programme start="20230329120000 -0300" stop="20230329023000 -0300" channel="anitv.br">
+<programme start="20230403120000 -0300" stop="20230403023000 -0300" channel="anitv.br">
  <title lang="pt">Policial de Aço - JIBAN</title>
  <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
-<programme start="20230329123000 -0300" stop="20230329130000 -0300" channel="anitv.br">
+<programme start="20230403123000 -0300" stop="20230403130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
-<programme start="20230329130000 -0300" stop="20230329140000 -0300" channel="anitv.br">
+<programme start="20230403130000 -0300" stop="20230403140000 -0300" channel="anitv.br">
  <title lang="pt">MusicBank</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20230329140000 -0300" stop="20230329150000 -0300" channel="anitv.br">
+<programme start="20230403140000 -0300" stop="20230403150000 -0300" channel="anitv.br">
  <title lang="en">Julie e os Fantasmas</title>
  <desc lang="en">uma adolescente de 15 anos que tem um talento escondido - a música. Mas a jovem morre de medo do palco.</desc>
 </programme>
-<programme start="20230329150000 -0300" stop="20230329170000 -0300" channel="anitv.br">
+<programme start="20230403150000 -0300" stop="20230403170000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Light</title>
  <desc lang="pt">Uma faixa dedicada ao romance e a cómedia, pra deixar suas tardes mais leves.</desc>
 </programme>
-<programme start="20230329170000 -0300" stop="20230329180000 -0300" channel="anitv.br">
+<programme start="20230403170000 -0300" stop="20230403180000 -0300" channel="anitv.br">
  <title lang="pt">Descendentes do Sol</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20230329180000 -0300" stop="20230329183000 -0300" channel="anitv.br">
+<programme start="20230403180000 -0300" stop="20230403183000 -0300" channel="anitv.br">
  <title lang="pt">Planet Survival</title>
  <desc lang="pt">Planet Survival se passa no século XXII e conta a história sobre 7 estudantes e 1 gata robô. Luna, Sharla, Menoli, Howard, Bell, Shingo, Kaoru e Chako estão em uma era onde os humanos vivem em colônias espaciais e têm uma tecnologia muito avançada, mas a natureza agora só existe nos livros.</desc>
 </programme>
-<programme start="20230329183000 -0300" stop="20230329190000 -0300" channel="anitv.br">
+<programme start="20230403183000 -0300" stop="20230403190000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20230329190000 -0300" stop="20230329193000 -0300" channel="anitv.br">
+<programme start="20230403190000 -0300" stop="20230403193000 -0300" channel="anitv.br">
  <title lang="en">Ranma ½</title>
  <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
 </programme>
@@ -326,19 +326,19 @@
  <desc lang="pt">Noé, um jovem vampiro que passou a maior parte de sua vida no interior da França, é enviado por seu professor a Paris com a missão de encontrar e avaliar um temido item chamado de Livro de Vanitas.</desc>
 </programme>
  
-<programme start="20230330000000 -0300" stop="20230330010000 -0300" channel="anitv.br">
+<programme start="20230331000000 -0300" stop="20230331010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230330010000 -0300" stop="20230330020000 -0300" channel="anitv.br">
+<programme start="20230331010000 -0300" stop="20230331020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230330020000 -0300" stop="20230330063000 -0300" channel="anitv.br">
+<programme start="20230331020000 -0300" stop="20230331063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230330063000 -0300" stop="20230330103000 -0300" channel="anitv.br">
+<programme start="20230331063000 -0300" stop="20230331103000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -360,102 +360,102 @@
  <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
 
-<programme start="20230330103000 -0300" stop="20230330110000 -0300" channel="anitv.br">
+<programme start="20230331103000 -0300" stop="20230331110000 -0300" channel="anitv.br">
  <title lang="pt">Super Onze</title>
  <desc lang="pt">Endo é um goleiro muito talentoso, neto de Daisuke Endo, um dos melhores goleiros no Japão ue morreu antes de ele nascer. Endou montava um time de futebol em sua escola, a Raimon para que assim pudessem entrar no Campeonato Futebol Fronteira até um misterioso atacante chamado Shuya Goenji se mudar para a sua escola. Goenji se recusa a entrar no time de Endou, pois havia deixado o futebol após sua irmã mais nova sofrer um acidente durante um jogo.</desc>
 </programme>
-<programme start="20230330110000 -0300" stop="20230330113000 -0300" channel="anitv.br">
+<programme start="20230331110000 -0300" stop="20230331113000 -0300" channel="anitv.br">
  <title lang="pt">Beyblade Burst</title>
  <desc lang="pt">Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional.</desc>
 </programme>
-<programme start="20230330113000 -0300" stop="20230330120000 -0300" channel="anitv.br">
+<programme start="20230331113000 -0300" stop="20230331120000 -0300" channel="anitv.br">
  <title lang="pt">Free!</title>
  <desc lang="pt">O grupo havia participado de um torneio de natação e venceram, mas tiveram de se separar. Anos depois, Haruka, Makoto e Nagisa se reúnem novamente no ensino médio.</desc>
 </programme>
-<programme start="20230330120000 -0300" stop="20230330123000 -0300" channel="anitv.br">
+<programme start="20230331120000 -0300" stop="20230331123000 -0300" channel="anitv.br">
  <title lang="pt">Policial de Aço - JIBAN</title>
  <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
 </programme>
-<programme start="20230330123000 -0300" stop="20230330130000 -0300" channel="anitv.br">
+<programme start="20230331123000 -0300" stop="20230331130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
-<programme start="20230330130000 -0300" stop="20230330140000 -0300" channel="anitv.br">
+<programme start="20230331130000 -0300" stop="20230331140000 -0300" channel="anitv.br">
  <title lang="pt">MusicBank</title>
  <desc lang="en">as melhores músicas de anime estão aqui.</desc>
 </programme>
-<programme start="20230330140000 -0300" stop="20230330150000 -0300" channel="anitv.br">
+<programme start="20230331140000 -0300" stop="20230331150000 -0300" channel="anitv.br">
  <title lang="en">Julie e os Fantasmas</title>
  <desc lang="en">uma adolescente de 15 anos que tem um talento escondido - a música. Mas a jovem morre de medo do palco.</desc>
 </programme>
-<programme start="20230330150000 -0300" stop="20230330170000 -0300" channel="anitv.br">
+<programme start="20230331150000 -0300" stop="20230331170000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Light</title>
  <desc lang="pt">Uma faixa dedicada ao romance e a cómedia, pra deixar suas tardes mais leves.</desc>
 </programme>
-<programme start="20230330170000 -0300" stop="20230330180000 -0300" channel="anitv.br">
+<programme start="20230331170000 -0300" stop="20230331180000 -0300" channel="anitv.br">
  <title lang="pt">Descendentes do Sol</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20230330180000 -0300" stop="20230330183000 -0300" channel="anitv.br">
+<programme start="20230331180000 -0300" stop="20230331183000 -0300" channel="anitv.br">
  <title lang="pt">Planet Survival</title>
  <desc lang="pt">Planet Survival se passa no século XXII e conta a história sobre 7 estudantes e 1 gata robô. Luna, Sharla, Menoli, Howard, Bell, Shingo, Kaoru e Chako estão em uma era onde os humanos vivem em colônias espaciais e têm uma tecnologia muito avançada, mas a natureza agora só existe nos livros.</desc>
 </programme>
-<programme start="20230330183000 -0300" stop="20230330190000 -0300" channel="anitv.br">
+<programme start="20230331183000 -0300" stop="20230331190000 -0300" channel="anitv.br">
  <title lang="pt">Yu Yu Hakusho</title>
  <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
 </programme>
-<programme start="20230330190000 -0300" stop="20230330193000 -0300" channel="anitv.br">
+<programme start="20230331190000 -0300" stop="20230331193000 -0300" channel="anitv.br">
  <title lang="en">Ranma ½</title>
  <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
 </programme>
-<programme start="20230330193000 -0300" stop="20230330200000 -0300" channel="anitv.br">
+<programme start="20230331193000 -0300" stop="20230331200000 -0300" channel="anitv.br">
  <title lang="pt">That Time I Got Reincarnated as a Slime</title>
  <desc lang="pt">Satoru Mikami é um funcionário corporativo comum de 37 anos que mora em Tóquio. Durante um encontro casual com seu colega, um agressor surge do nada e o esfaqueia. Enquanto sucumbia aos ferimentos, uma voz misteriosa ecoa em sua mente e recita uma série de comandos que ele não conseguia entender.Depois de recuperar a consciência, Satoru descobre que reencarnou como Slime em um mundo desconhecido.</desc>
 </programme>
-<programme start="20230330200000 -0300" stop="20230330203000 -0300" channel="anitv.br">
+<programme start="20230331200000 -0300" stop="20230331203000 -0300" channel="anitv.br">
  <title lang="pt">Fire Force</title>
  <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
-<programme start="20230330203000 -0300" stop="20230330210000 -0300" channel="anitv.br">
+<programme start="20230331203000 -0300" stop="20230331210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20230330210000 -0300" stop="20230330213000 -0300" channel="anitv.br">
+<programme start="20230331210000 -0300" stop="20230331213000 -0300" channel="anitv.br">
  <title lang="en">Fullmetal Alchemist: Brotherhood</title>
  <desc lang="en">Os irmãos Edward e Alphonse Elric seguem em busca da pedra Filosofal, com a esperança de restaurar seus corpos que foram perdidos quando eles tentaram usar suas habilidades de alquimista para ressuscitar sua mãe.</desc>
 </programme>
-<programme start="20230330213000 -0300" stop="20230330220000 -0300" channel="anitv.br">
+<programme start="20230331213000 -0300" stop="20230331220000 -0300" channel="anitv.br">
  <title lang="pt">Noragami</title>
  <desc lang="pt">Yato é um deus menor, cujo sonho é ter um santuário e muitos seguidores para adorá-lo. Entretanto, ele é um deus quase desconhecido, e sua única parceira que o ajudava a realizar os desejos dos humanos decide deixá-lo e passa a ajudar outro deus. </desc>
 </programme>
-<programme start="20230330220000 -0300" stop="20230330223000 -0300" channel="anitv.br">
+<programme start="20230331220000 -0300" stop="20230331223000 -0300" channel="anitv.br">
  <title lang="pt">Link Click</title>
  <desc lang="pt">Cheng Xiaoshi e Lu Guang usam superpoderes para inserir as fotos da clientela uma a uma, por mais perigosas que sejam. Bem-vindo ao "Time Photo Studio"!</desc>
 </programme>
-<programme start="20230330223000 -0300" stop="20230330230000 -0300" channel="anitv.br">
+<programme start="20230331223000 -0300" stop="20230331230000 -0300" channel="anitv.br">
  <title lang="pt">Sasaki and Miyano</title>
  <desc lang="pt">Miyano passa seus dias lendo mangás Boys ’Love e se preocupando com os traços suaves de seu rosto. Seu mundo de ficção se torna realidade quando um encontro casual o leva ao aluno do último ano do ensino médio, Sasaki, no meio de uma briga. Agora, Sasaki quer aproveitar todas as oportunidades que puder para conhecer Miyano. E o que antes era admiração rapidamente se transforma em afeto.</desc>
 </programme>
-<programme start="20230330230000 -0300" stop="20230330233000 -0300" channel="anitv.br">
+<programme start="20230331230000 -0300" stop="20230331233000 -0300" channel="anitv.br">
  <title lang="pt">Salaryman's Club</title>
  <desc lang="pt">Expulso de seu time, Makoto encontra uma nova chance de brilhar nas quadras de badminton... Tornando-se um assalariado.</desc>
 </programme>
-<programme start="20230330233000 -0300" stop="20230331000000 -0300" channel="anitv.br">
+<programme start="20230331233000 -0300" stop="20230401000000 -0300" channel="anitv.br">
  <title lang="pt">The Case Study of Vanitas</title>
  <desc lang="pt">Noé, um jovem vampiro que passou a maior parte de sua vida no interior da França, é enviado por seu professor a Paris com a missão de encontrar e avaliar um temido item chamado de Livro de Vanitas.</desc>
 </programme>
  
  ####sabado anitv####
-<programme start="20230325000000 -0300" stop="20230325063000 -0300" channel="anitv.br">
+<programme start="20230401000000 -0300" stop="20230401063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230325063000 -0300" stop="20230325073000 -0300" channel="anitv.br">
+<programme start="20230401063000 -0300" stop="20230401073000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
  
-<programme start="20230325073000 -0300" stop="20230326003000 -0300" channel="anitv.br">
+<programme start="20230401073000 -0300" stop="20230402003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -536,11 +536,11 @@
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo</desc>
 </programme>
  
-<programme start="20230319000000 -0300" stop="20230319063000 -0300" channel="anitv.br">
+<programme start="20230402000000 -0300" stop="20230402063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230319063000 -0300" stop="20230320000000 -0300" channel="anitv.br">
+<programme start="20230402063000 -0300" stop="20230403000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -578,20 +578,20 @@
 </programme>
 
     ####yeeaah####
-<programme start="20230325000000 -0300" stop="20230325120000 -0300" channel="yaaeeh.br">
+<programme start="20230401000000 -0300" stop="20230401120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20230325120000 -0300" stop="20230326000000 -0300" channel="yaaeeh.br">
+<programme start="20230401120000 -0300" stop="20230402000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20230326000000 -0300" stop="20230326120000 -0300" channel="yaaeeh.br">
+<programme start="20230402000000 -0300" stop="20230402120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20230322120000 -0300" stop="20230323000000 -0300" channel="yaaeeh.br">
+<programme start="20230402120000 -0300" stop="20230403000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
@@ -661,67 +661,67 @@
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
  
-<programme start="20230330000000 -0300" stop="20230330010000 -0300" channel="yaaeeh.br">
+<programme start="20230331000000 -0300" stop="20230331010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230330010000 -0300" stop="20230330030000 -0300" channel="yaaeeh.br">
+<programme start="20230331010000 -0300" stop="20230331030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230330030000 -0300" stop="20230330040000 -0300" channel="yaaeeh.br">
+<programme start="20230331030000 -0300" stop="20230331040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230330040000 -0300" stop="20230330060000 -0300" channel="yaaeeh.br">
+<programme start="20230331040000 -0300" stop="20230331060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230330060000 -0300" stop="20230330070000 -0300" channel="yaaeeh.br">
+<programme start="20230331060000 -0300" stop="20230331070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230330070000 -0300" stop="20230330090000 -0300" channel="yaaeeh.br">
+<programme start="20230331070000 -0300" stop="20230331090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230328090000 -0300" stop="20230328100000 -0300" channel="yaaeeh.br">
+<programme start="20230331090000 -0300" stop="20230331100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230328100000 -0300" stop="20230328120000 -0300" channel="yaaeeh.br">
+<programme start="20230331100000 -0300" stop="20230331120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230328120000 -0300" stop="20230328130000 -0300" channel="yaaeeh.br">
+<programme start="20230331120000 -0300" stop="20230331130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230328130000 -0300" stop="20230328150000 -0300" channel="yaaeeh.br">
+<programme start="20230331130000 -0300" stop="20230331150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230328150000 -0300" stop="20230328160000 -0300" channel="yaaeeh.br">
+<programme start="20230331150000 -0300" stop="20230331160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230328160000 -0300" stop="20230328180000 -0300" channel="yaaeeh.br">
+<programme start="20230331160000 -0300" stop="20230331180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230328180000 -0300" stop="20230328190000 -0300" channel="yaaeeh.br">
+<programme start="20230331180000 -0300" stop="20230331190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230328190000 -0300" stop="20230328193000 -0300" channel="yaaeeh.br">
+<programme start="20230331190000 -0300" stop="20230331193000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230328210000 -0300" stop="20230328220000 -0300" channel="yaaeeh.br">
+<programme start="20230331210000 -0300" stop="20230331220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Shurato</title>
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230328220000 -0300" stop="20230329000000 -0300" channel="yaaeeh.br">
+<programme start="20230331220000 -0300" stop="20230401000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -802,21 +802,21 @@
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
 
-<programme start="20230325000000 -0300" stop="20230326000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230401000000 -0300" stop="20230402000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230319000000 -0300" stop="20230320000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230402000000 -0300" stop="20230403000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
     ###fkids.br###
-<programme start="20230330000000 -0300" stop="20230331000000 -0300" channel="fkids.br">
+<programme start="20230331000000 -0300" stop="20230401000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230328000000 -0300" stop="20230329000000 -0300" channel="fkids.br">
+<programme start="20230401000000 -0300" stop="20230402000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
