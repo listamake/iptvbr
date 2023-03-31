@@ -193,9 +193,9 @@ https://video01.soultv.com.br/soultv/soultv/chunklist_w1992219024.m3u8
 #EXTINF: -1 tvg-id="StrikerVerso.br" tvg-chno="055" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 3 - StrikerVerso
 https://stream.ichibantv.ga:3904/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="056" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 4
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="056" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://znk659y3k1elfwl.clarocdn.com.br/Content/Channel/SPOCNBHD/dsc3/stream_05/Segment-3813434418022873.m4v
+https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-480p/chunks.m3u8?nimblesessionid=402160244&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIzIDQ6Mzc6NDggUE0maGFzaF92YWx1ZT1pYmRubkZteHVoeTJzcVoweE9lNWdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjRmNWFjMjQtYzMwMC00NjM4LThjYTQtZjMwNjhkMDhhN2E5
 
 #EXTINF: -1 tvg-id="TVAparecida.br" tvg-chno="057" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -225,7 +225,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="CanaldoCriador.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS83g-7PSQ5blTJoNLpjoyC27a7TPzHLtjJrDsl=s900-c-k-c0x00ffffff-no-rj" group-title="Agronegócio", Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i0.wp.com/i.imgur.com/xGYSOgE.png" group-title="Agronegócio" pltv-subgroup = "Sis.Jornal do Comer.", AgroBrasil TV
+#EXTINF: -1 tvg-id="AgroBrasilTV.br" tvg-logo="https://yt3.googleusercontent.com/cXotKAuWNCW4tfw_XCJ32w2iyOsx3m5h9BNXl3SpItLwo7ZDO8QcLNtF4sbSIfMoUbnI4b2tKXQ=s900-c-k-c0x00ffffff-no-rj" group-title="Agronegócio" pltv-subgroup = "Sis.Jornal do Comer.", AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="Canais Geek", Loading 52x
