@@ -87,8 +87,13 @@
  <display-name lang="pt">Canal Teste 1</display-name>
  <display-name lang="pt">Canal Teste 3</display-name>
  <display-name lang="pt">Canal Teste 4</display-name>
- <display-name lang="pt">teste HD</display-name>
+ <display-name lang="pt">Teste HD</display-name>
   <icon src=""/>
+</channel>
+ 
+<channel id="CanalUsuario.br">
+ <display-name lang="pt">Canal do Usuario</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
  
  
@@ -811,6 +816,30 @@
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
+###CanalUsuario.br###
+ 
+<programme start="20230405000000 -0300" stop="20230405080000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="20230405080000 -0300" stop="20230405090000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Como Funciona o Universo</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="20230405090000 -0300" stop="20230405210000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="20230405210000 -0300" stop="20230405220000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Como Funciona o Universo</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+<programme start="20230405220000 -0300" stop="20230406000000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Fox kids o seu canal favorito.</desc>
+</programme>
+ 
+ 
     ###fkids.br###
 <programme start="20230405000000 -0300" stop="20230406000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>
