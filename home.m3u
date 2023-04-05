@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (05/04/2023,01h34m)
+#EXTINF: -1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (05/04/2023,01h34m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -51,7 +51,7 @@ https://streaming01.zas.media/redefamiliaweb/redefamiliaweb/chunklist_w39558586.
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diário" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTlduP9g3JkSJ2iKehQHj0M6lvNENYsS60n-Phu1_MVi)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ9Knc2i3Xp4GZ3VSggDgvWlBh1ywJoB_bRG4eU6PblK)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -108,9 +108,9 @@ https://rr2---sn-2vouxcg-gxje.googlevideo.com/videoplayback?expire=1675208423&ei
 #EXTINF: -1 tvg-id="IdealTV.br" tvg-chno="032" tvg-name="Ideal TV" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title="Variedades", IDEAL TV HD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
-#EXTINF: -1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-chno="033" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", CNT HD
+#EXTINF: -1 tvg-id="CNT.br" tvg-chno="033" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", CNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODA0NTY3NTgsImlhdCI6MTY3OTg1MTk1OCwiaWQiOiI2YmYzMmY0My1jMjM1LTQxMTUtOGE1Ni04NWE2Y2FkNjNjYzAiLCJuYmYiOjE2Nzk4NTAxNTgsInVpZCI6IjZiZjMyZjQzLWMyMzUtNDExNS04YTU2LTg1YTZjYWQ2M2NjMCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.iY2IT5pzGQBDN1m7FbSADwQJ0NIGiv42aboAg7NOdU4&uid=6bf32f43-c235-4115-8a56-85a6cad63cc0
+https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEzMTc3ODcsImlhdCI6MTY4MDcxMjk4NywiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODA3MTExODcsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.kfHtj1z4KYyJGF1YEt7GipByZMS5wBqLx4WZivC2I4U&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-chno="034" tvg-name="Rede Meio Norte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU" group-title="Variedades", Rede Meio Norte - TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
@@ -126,7 +126,7 @@ https://stream.urbantv.com.br/urbantvsports/video.m3u8
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 #EXTINF: -1 tvg-id="TVaracati.br" tvg-chno="039" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJofP8Z8OC3mA9DyMVC-FTBNcWv0OiCGR5A&usqp=CAU" group-title="Entretenimento", TV Aracati HD
-https://livefocamundo.com:8081/tvaracati/index.m3u8
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 
 #EXTINF: -1 tvg-id="bstv.br" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -183,41 +183,36 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c65
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Redeclone.br" tvg-chno="053" tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20221221063420.jpeg" group-title="Entretenimento", Rede Clouding
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
+#EXTINF:-1 tvg-id="fkids.br" tvg-chno="053" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho", FoxKids Network HD
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="054"tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Feed 2 - Soul TV
+#EXTINF:-1 tvg-id="turnerdemo.br" tvg-chno="054" tvg-logo="https://static.wikia.nocookie.net/youtube/images/0/06/CartoonNetwork2022.jpg/revision/latest?cb=20220518173641" group-title="Canais de Desenho", Cartoon Promo HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF: -1 tvg-id="Canalteste" tvg-chno="055" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Feed 2 - Soul TV
 https://video01.soultv.com.br/soultv/soultv/chunklist_w1992219024.m3u8
 
-#EXTINF: -1 tvg-id="StrikerVerso.br" tvg-chno="055" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 3 - StrikerVerso
+#EXTINF: -1 tvg-id="StrikerVerso.br" tvg-chno="056" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 3 - StrikerVerso
 https://stream.ichibantv.ga:3904/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="056" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 4
+#EXTINF: -1 tvg-id="CanalUsuario" tvg-chno="057" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TVAparecida.br" tvg-chno="057" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso", TV Aparecida
+#EXTINF: -1 tvg-id="TVAparecida.br" tvg-chno="058" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-aparecida-hd_m.png" group-title="Religioso", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TVNovoTempoBrasil.br" tvg-chno="058" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title="Religioso", Novo Tempo
+#EXTINF: -1 tvg-id="TVNovoTempoBrasil.br" tvg-chno="059" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title="Religioso", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="RedeEstacao.br" tvg-chno="059" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuJlWyJ2YLEi-GCuScjTSxrN79ocxJRzY7w&usqp=CAU" group-title="Religioso" pltv-subgroup = "NTRU", Rede Estação HD
+#EXTINF: -1 tvg-id="RedeEstacao.br" tvg-chno="060" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuJlWyJ2YLEi-GCuScjTSxrN79ocxJRzY7w&usqp=CAU" group-title="Religioso" pltv-subgroup = "NTRU", Rede Estação HD
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 
 #EXTINF: -1 tvg-id="RedeSeculo21.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6a5ddba30bab2ee3c622c3232dd3907b.webp" group-title="Religioso" pltv-subgroup = "NTRU", Rede Século 21 HD
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TVMilagro.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c6a2c0305c3bd211de04763c27a9b6b9.webp" group-title="Agronegócio", TV Milagro HD
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
-
 #EXTINF: -1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://cdn.mitvstatic.com/channels/br_terra-viva-hd_m.png" group-title="Agronegócio", Terraviva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
-#EXTINF: -1 tvg-id="AgroMais.br" tvg-name="Agro+ HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1334cc9d017c352142a824679947cb40.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Agro Mais HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CanalRural.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b5fef447f62d556b33598a4abcfbf60.webp" group-title="Agronegócio" pltv-subgroup="Canais NewCom", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
@@ -231,14 +226,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF: -1 tvg-id="Loading.br" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="Canais Geek", Loading 52x
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fkids.br" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho", FoxKids Network HD
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tvbs.br" tvg-name="TV BS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="Canais de Desenho", TV Teen Net HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
-
-#EXTINF:-1 tvg-id="turnerdemo.br" tvg-logo="https://static.wikia.nocookie.net/youtube/images/0/06/CartoonNetwork2022.jpg/revision/latest?cb=20220518173641" group-title="Canais de Desenho", Cartoon Promo HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="7tvbs.br"  tvg-logo="https://media.discordapp.net/attachments/1004923383244394577/1049875354636001311/Picsart_22-11-09_23-57-16-463.png" group-title="Canais Geek", TV7 HD
 https://stream.ichibantv.ga:3013/hybrid/play.m3u8
@@ -247,16 +236,16 @@ https://stream.ichibantv.ga:3013/hybrid/play.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w31040624.m3u8
 
+#EXTINF: -1 tvg-id="Redeclone.br" tvg-chno="053" tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20221221063420.jpeg" group-title="Entretenimento", Rede Clouding
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
+
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg" group-title="Canais Geek", Kpop TV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ETCTV.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_U3nSngH2FeignKjvrlJdNzw09XvQJg_bg&usqp=CAU" group-title="Canais Geek", ETC TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://unlimited1-us.dps.live/etctv/etctv.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-id="energeek.cl" tvg-logo="https://yt3.googleusercontent.com/Tr9oTpp4BSA6NxfMjiazikv_6Td6vdLANOS4vrEidu5RDtwzO1yI8EtDWFdOFU2wkD0WVCaxaw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Canais Geek" , EnerGeek
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 
 #EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -265,6 +254,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF: -1 tvg-id="PLAYTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Variedades", PlayTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-id="rbctv.br" tvg-logo="https://tvrbc.com.br/wp-content/uploads/2022/03/LOGO-TV-RBC-Portal.png" group-title="Variedades" , RBC TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
