@@ -212,19 +212,19 @@
 
    ####grade semanal anitv####
  
-<programme start="20230406000000 -0300" stop="20230406010000 -0300" channel="anitv.br">
+<programme start="20230410000000 -0300" stop="20230410010000 -0300" channel="anitv.br">
  <title lang="en">Midnight</title>
  <desc lang="en">Divirta-se com as histórias mais animadas</desc>
 </programme>
-<programme start="20230406010000 -0300" stop="20230406020000 -0300" channel="anitv.br">
+<programme start="20230410010000 -0300" stop="20230410020000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Premium</title>
  <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
 </programme>
-<programme start="20230406020000 -0300" stop="20230406063000 -0300" channel="anitv.br">
+<programme start="20230410020000 -0300" stop="20230410063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230406063000 -0300" stop="20230406103000 -0300" channel="anitv.br">
+<programme start="20230410063000 -0300" stop="20230410103000 -0300" channel="anitv.br">
  <title lang="pt">Reprises de Animes</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -451,16 +451,16 @@
 </programme>
  
  ####sabado anitv####
-<programme start="20230401000000 -0300" stop="20230401063000 -0300" channel="anitv.br">
+<programme start="20230408000000 -0300" stop="20230408063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230401063000 -0300" stop="20230401073000 -0300" channel="anitv.br">
+<programme start="20230408063000 -0300" stop="20230408073000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
  
-<programme start="20230401073000 -0300" stop="20230402003000 -0300" channel="anitv.br">
+<programme start="20230408073000 -0300" stop="20230409003000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -541,11 +541,11 @@
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo</desc>
 </programme>
  
-<programme start="20230402000000 -0300" stop="20230402063000 -0300" channel="anitv.br">
+<programme start="20230409000000 -0300" stop="20230409063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230402063000 -0300" stop="20230403000000 -0300" channel="anitv.br">
+<programme start="20230409063000 -0300" stop="20230410000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -583,41 +583,41 @@
 </programme>
 
     ####yeeaah####
-<programme start="20230401000000 -0300" stop="20230401120000 -0300" channel="yaaeeh.br">
+<programme start="20230408000000 -0300" stop="20230408120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20230401120000 -0300" stop="20230402000000 -0300" channel="yaaeeh.br">
- <title lang="pt">Programação Yeeaah</title>
- <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
-</programme>
- 
-<programme start="20230402000000 -0300" stop="20230402120000 -0300" channel="yaaeeh.br">
- <title lang="pt">Programação Yeeaah</title>
- <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
-</programme>
-<programme start="20230402120000 -0300" stop="20230403000000 -0300" channel="yaaeeh.br">
+<programme start="20230408120000 -0300" stop="20230409000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20230406000000 -0300" stop="20230406010000 -0300" channel="yaaeeh.br">
+<programme start="20230409000000 -0300" stop="20230409120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+<programme start="20230409120000 -0300" stop="20230410000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Programação Yeeaah</title>
+ <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+</programme>
+ 
+<programme start="20230410000000 -0300" stop="20230410010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230406010000 -0300" stop="20230406030000 -0300" channel="yaaeeh.br">
+<programme start="20230410010000 -0300" stop="20230410030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230406030000 -0300" stop="20230406040000 -0300" channel="yaaeeh.br">
+<programme start="20230410030000 -0300" stop="20230410040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230406040000 -0300" stop="20230406060000 -0300" channel="yaaeeh.br">
+<programme start="20230410040000 -0300" stop="20230410060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230406060000 -0300" stop="20230406070000 -0300" channel="yaaeeh.br">
+<programme start="20230410060000 -0300" stop="20230410070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
@@ -807,30 +807,30 @@
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
 
-<programme start="20230401000000 -0300" stop="20230402000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230408000000 -0300" stop="20230409000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230402000000 -0300" stop="20230403000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230409000000 -0300" stop="20230410000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
 ###CanalUsuario.br###
  
-<programme start="20230406000000 -0300" stop="20230406080000 -0300" channel="CanalUsuario.br">
+<programme start="20230408000000 -0300" stop="20230408080000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230406080000 -0300" stop="20230406090000 -0300" channel="CanalUsuario.br">
+<programme start="20230408080000 -0300" stop="20230408090000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230406090000 -0300" stop="20230406210000 -0300" channel="CanalUsuario.br">
+<programme start="20230408090000 -0300" stop="20230408210000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230405210000 -0300" stop="20230405220000 -0300" channel="CanalUsuario.br">
+<programme start="20230408210000 -0300" stop="20230408220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -838,7 +838,7 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230405234500 -0300" stop="20230406000000 -0300" channel="CanalUsuario.br">
+<programme start="20230408220000 -0300" stop="20230409000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
