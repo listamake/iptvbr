@@ -818,19 +818,19 @@
 
 ###CanalUsuario.br###
  
-<programme start="20230409000000 -0300" stop="20230409080000 -0300" channel="CanalUsuario.br">
+<programme start="20230411000000 -0300" stop="20230411080000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230409080000 -0300" stop="20230409090000 -0300" channel="CanalUsuario.br">
+<programme start="20230411080000 -0300" stop="20230411090000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230409090000 -0300" stop="20230409210000 -0300" channel="CanalUsuario.br">
+<programme start="20230411090000 -0300" stop="20230411210000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230409210000 -0300" stop="20230409220000 -0300" channel="CanalUsuario.br">
+<programme start="20230411210000 -0300" stop="20230411220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -838,7 +838,7 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230409220000 -0300" stop="20230410000000 -0300" channel="CanalUsuario.br">
+<programme start="20230411220000 -0300" stop="20230412000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -855,11 +855,11 @@
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230410210000 -0300" stop="20230410220000 -0300" channel="CanalUsuario.br">
+<programme start="20230411210000 -0300" stop="20230411220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="2023040821000 -0300" stop="20230408220000 -0300" channel="CanalUsuario.br">
+<programme start="2023041021000 -0300" stop="20230410223000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
