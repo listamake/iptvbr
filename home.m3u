@@ -51,7 +51,7 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1865404650.
 
 #EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diário" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbnHOBha5Fkq_OubfwgKbQRnPrDRqpjMQpMW3KseH9Ff)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYvQLTfcSc5BZM05qLcBhvPI4I3ni3lCEaaIQU5bNmA5)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -134,7 +134,7 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ngt.br" tvg-chno="039" tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title="Entretenimento", Rede NGT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://acesso.ecast.site:3922/live/redengtlive.m3u8
+https://streaming.cloudecast.com/memfs/d82529b5-3d6f-4995-acb1-6b0a2c3164fa_output_0.m3u8?session=By9zK8YkRJitE5xnfu3B2v
 
 #EXTINF: -1 tvg-id="adessotv.br" tvg-chno="040" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="Entretenimento", Adesso TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -353,11 +353,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-dOzYIzP7DZKoW9g0VA2kiOwYtzUedoFBpz6Cxt_Kd75)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-YigEvGEwTPM_0MaxrQYAssFzsY-EYabDh4DpyuUS1ym)/cloud/3/x82cxbb/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU9go3gGSDtSJr5DPduhc_dzrWASN-gewoQ&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - BRSuper TV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
@@ -462,7 +462,7 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-chno="153" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Gazeta Digital
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4Ydpbocmb9-tW0DOwP6JeUp-A8kWkwn1UaWGe9J7mDO)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v755AujK7yMm-1EulJEh5IvhPkWoJB-aZxUH0_TGJ5hj)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
