@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF: -1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal do Usuário (15/04/2023,02h34m)
+#EXTINF: -1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_6aabdbdbaac94d4da30d795b7467c0ca~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_6aabdbdbaac94d4da30d795b7467c0ca~mv2.png" group-title="Canais em Teste", Canal do Usuário (15/04/2023,02h34m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -53,7 +53,7 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1865404650.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYvQLTfcSc5BZM05qLcBhvPI4I3ni3lCEaaIQU5bNmA5)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
-#EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://www.museudatv.com.br/wp-content/uploads/2020/03/Rede-Brasil-de-Televis%C3%A3o.jpg" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
+#EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_afadea7ad59741f1aafc2af62f7f6d7e~mv2.png/v1/fill/w_431,h_431,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_afadea7ad59741f1aafc2af62f7f6d7e~mv2.png" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CentralTV.br" tvg-chno="016" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="Entretenimento", Central TV HD
