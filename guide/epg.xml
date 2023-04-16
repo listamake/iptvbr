@@ -93,6 +93,7 @@
  
 <channel id="CanalUsuario.br">
  <display-name lang="pt">Canal do Usuario</display-name>
+ <display-name lang="pt">Teste 4</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0758506777b560c11675ef6ad8a34941.webp"/>
 </channel>
  
@@ -159,6 +160,14 @@
 <channel id="radiojornalpe.br">
  <display-name lang="pt">Rádio Jornal Recife</display-name>
   <icon src="https://imagens.ne10.uol.com.br/radio-logo.jpg"/>
+</channel>
+<channel id="radiocidadeverde">
+ <display-name lang="pt">Radio Cidade Verde</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/1188171809746751488/KVtOT3ju_400x400.jpg"/>
+</channel>
+<channel id="radiosociedade">
+ <display-name lang="pt">Rádio Sociedade</display-name>
+  <icon src="https://i1.sndcdn.com/artworks-000225913640-37qhnj-t500x500.jpg"/>
 </channel>
 <channel id="radioclubeampe.br">
  <display-name lang="pt">Rádio Clube Recife AM</display-name>
@@ -1972,6 +1981,102 @@
  <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
 </programme>
  
+   ####radiosociedade####
+ 
+<programme start="20230416000000 -0300" stop="20230416000000 -0300" channel="radiosociedade">
+ <title lang="pt">Programação Rádio Sociedade</title>
+ <desc lang="pt">A rádio da Bahia!</desc>
+</programme>
+<programme start="20230416220000 -0300" stop="20230417040000 -0300" channel="radiosociedade">
+ <title lang="pt">Programação IURD</title>
+ <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+ 
+<programme start="20230417000000 -0300" stop="20230417000000 -0300" channel="radiosociedade">
+ <title lang="pt">Programação Rádio Sociedade</title>
+ <desc lang="pt">A rádio da Bahia!</desc>
+</programme>
+<programme start="20230417220000 -0300" stop="20230418040000 -0300" channel="radiosociedade">
+ <title lang="pt">Programação IURD</title>
+ <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+</programme>
+ 
+    ####radiocidadeverde####
+
+<programme start="20230416063000 -0300" stop="20230416083000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Acorda Piauí<title>
+ <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
+</programme>
+<programme start="20230416083000 -0300" stop="20230416100000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Viva Cidade<title>
+ <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
+</programme>
+<programme start="20230416100000 -0300" stop="20230416113000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Tem de Tudo<title>
+ <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
+</programme>
+<programme start="20230416113000 -0300" stop="20230416120000 -0300" channel="radiocidadeverde">
+ <title lang="pt">CV Esporte<title>
+ <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
+</programme>
+<programme start="20230416120000 -0300" stop="20230416140000 -0300" channel="radiocidadeverde">
+ <title lang="pt">CV Notícias<title>
+ <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
+</programme>
+<programme start="20230416140000 -0300" stop="20230416180000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Show da Tarde<title>
+ <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
+</programme>
+<programme start="20230416180000 -0300" stop="20230416200000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Parada Musical<title>
+ <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+<programme start="20230416200000 -0300" stop="20230416210000 -0300" channel="radiocidadeverde">
+ <title lang="pt">A Voz do Brasil</title>
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
+</programme> 
+<programme start="20230416210000 -0300" stop="20230417063000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Parada Musical<title>
+ <desc lang="pt"> A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+  
+<programme start="20230417063000 -0300" stop="20230417083000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Acorda Piauí<title>
+ <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
+</programme>
+<programme start="20230417083000 -0300" stop="20230417100000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Viva Cidade<title>
+ <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
+</programme>
+<programme start="20230417100000 -0300" stop="20230417113000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Tem de Tudo<title>
+ <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
+</programme>
+<programme start="20230417113000 -0300" stop="20230417120000 -0300" channel="radiocidadeverde">
+ <title lang="pt">CV Esporte<title>
+ <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
+</programme>
+<programme start="20230417120000 -0300" stop="20230417140000 -0300" channel="radiocidadeverde">
+ <title lang="pt">CV Notícias<title>
+ <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
+</programme>
+<programme start="20230417140000 -0300" stop="20230417180000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Show da Tarde<title>
+ <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
+</programme>
+<programme start="20230417180000 -0300" stop="20230417200000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Parada Musical<title>
+ <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+<programme start="20230417200000 -0300" stop="20230417210000 -0300" channel="radiocidadeverde">
+ <title lang="pt">A Voz do Brasil</title>
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
+</programme> 
+<programme start="20230417210000 -0300" stop="20230418063000 -0300" channel="radiocidadeverde">
+ <title lang="pt">Parada Musical<title>
+ <desc lang="pt"> A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+ 
    ####cbnrede.br####
 <programme start="20221201000000 -0300" stop="20221202000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
@@ -2186,7 +2291,7 @@
 </programme> 
 <programme start="20230417190000 -0300" stop="20230417200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
- <desc lang="pt">Seleção musical</desc>
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
 <programme start="20230417200000 -0300" stop="20230417220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode da Clube</title>
@@ -2239,7 +2344,7 @@
 </programme> 
 <programme start="20230418190000 -0300" stop="20230418200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">A Voz do Brasil</title>
- <desc lang="pt">Seleção musical</desc>
+ <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
 <programme start="20230418200000 -0300" stop="20230418220000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Pagode da Clube</title>
