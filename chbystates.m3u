@@ -44,6 +44,7 @@ http://150.161.93.220/hls/index.m3u8
 
 #EXTINF:0 tvg-id="GloboNordeste.br" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Pernambuco: Recife", 13.1 TV Globo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODI0ODIxNzMsImlhdCI6MTY4MjM5NTc3MywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.LYndSga09Y7o-JHeaCm9JxjrJVz4nwwo_OEau8SpQJGKxJBS9Zth2lcaQU610B59KQxBDXJ-nkg70fS9_8GiaReBoZ6W7n0995RPy-TWv1ToTUfXfL5d3U_Kq4Cmjq6zuzh1zFF4RNFyX1pOJXgOQzz7g6qW_o4d1975Ycu-TFJMQnPZnpha_mcL_VLBc2hJKT1hSHxYCVHMGwVGJjnUnlJKwa5OMhL5WKGUhRuVLwvSvpeXFVj9246DCCAMn8pmrrmAA4-QgSrr33MFDhdvmnHrGGQYZJItWZpY98rtuTgjhS6zKAV6cfp-U6g5ooSrUySFbUpHcZ46sgWoa4BSFw/nu/f(bMin=2000,dvr=120,i=2)/globo-pe1/globo-pe1-audio_1=128000-video=3632000.m3u8?dvr_window_length=120
 
 #EXTINF: -1 tvg-id="RedeEstacao.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuJlWyJ2YLEi-GCuScjTSxrN79ocxJRzY7w&usqp=CAU" group-title="Pernambuco: Recife", 14.1 Rede Estação HD
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
@@ -70,6 +71,9 @@ https://canaleducacao-stream.ebc.com.br/chunks.m3u8
 #EXTINF: -1 tvg-id="CanalSaude.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSVf4lkjVkjQvYf2kEz1ME316e3Ezsypk4g&usqp=CAU" group-title="Pernambuco: Recife", 46.3 Canal Saúde 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="Pernambuco: Recife" , 47.1 REDE VIDA HD
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w484250153.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Pernambuco: Recife" , 51.1 REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
