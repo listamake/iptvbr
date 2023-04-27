@@ -203,7 +203,6 @@
 </channel>
 <channel id="anitv.br">
  <display-name lang="pt">Geekdot HD</display-name>
- <display-name lang="pt">TV Teen Net HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
 </channel>
 
@@ -221,117 +220,121 @@
 
    ####grade semanal anitv####
  
-<programme start="20230424000000 -0300" stop="20230424010000 -0300" channel="anitv.br">
- <title lang="en">Midnight</title>
- <desc lang="en">Divirta-se com as histórias mais animadas</desc>
+<programme start="20230428000000 -0300" stop="20230428003000 -0300" channel="anitv.br">
+ <title lang="en">Science Fell in Love, So I Tried to Prove it</title>
+ <desc lang="en">O que acontece quando um garoto e uma garota apaixonados por ciência e pesquisa se apaixonam? Ayame Himuro faz pós-graduação na Universidade de Saitama, e resolveu chamar seu colega de laboratório, Shinya Yukimura, pra sair. Naturalmente, o amor tem razões que nem a razão compreende! Mas ela seria um fracasso de engenheira se não fosse capaz de provar logicamente que o amor não existe. Com isso em mente, o casal envolve o resto do laboratório inteiro em experimentos para comprovar a existência do amor. Muitas risadas e momentos emocionantes nesta comédia romântica científica!</desc>
 </programme>
-<programme start="20230424010000 -0300" stop="20230424020000 -0300" channel="anitv.br">
- <title lang="pt">Faixa Premium</title>
- <desc lang="pt">Esta faixa vai deixar suas madrugadas um pouco quente...</desc>
+<programme start="20230428003000 -0300" stop="20230428010000 -0300" channel="anitv.br">
+ <title lang="pt">Rent-A-Girlfriend</title>
+ <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
 </programme>
-<programme start="20230424020000 -0300" stop="20230424063000 -0300" channel="anitv.br">
+<programme start="20230501010000 -0300" stop="20230501070000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230424063000 -0300" stop="20230424103000 -0300" channel="anitv.br">
- <title lang="pt">Reprises de Animes</title>
- <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
-</programme>
 
-<programme start="20230217063000 -0300" stop="20230217073000 -0300" channel="anitv.br">
- <title lang="pt">Tecendo o Saber</title>
- <desc lang="pt">O programa leva informação do ensino fundamental básico a jovens e adultos sobre temas como sexualidade, trabalho e meio ambiente, sugerindo melhorias na qualidade de vida e transformando a sociedade.</desc>
+<programme start="20230428070000 -0300" stop="20230428080000 -0300" channel="anitv.br">
+ <title lang="pt">O Show da Pantera Cor-de-Rosa</title>
+ <desc lang="pt">A Pantera Cor-de-Rosa foi um personagem criado para fazer apenas uma introdução ao filme Pantera Cor-de-Rosa, de Blake Edwards. O sucesso foi tão grande que começou a ter uma série animada própria.</desc>
 </programme>
-<programme start="20230217063000 -0300" stop="20230217083000 -0300" channel="anitv.br">
- <title lang="pt">Inglês com Música</title>
+<programme start="20230428083000 -0300" stop="20230428083000 -0300" channel="anitv.br">
+ <title lang="pt">Inspetor Bugiganga</title>
  <desc lang="pt">O programa tem por objetivo incentivar o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos entre equipes formadas por estudantes.</desc>
 </programme>
-<programme start="20230217083000 -0300" stop="20230217090000 -0300" channel="anitv.br">
- <title lang="pt">O Mundo de Beakman</title>
- <desc lang="pt">O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciência e da natureza.</desc>
-</programme>
-<programme start="20230217090000 -0300" stop="20230217103000 -0300" channel="anitv.br">
+
+<programme start="20230428083000 -0300" stop="20230428100000 -0300" channel="anitv.br">
  <title lang="pt">Faixa de Desenhos</title>
  <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
 </programme>
-
-<programme start="20230424103000 -0300" stop="20230424110000 -0300" channel="anitv.br">
+<programme start="20230428100000 -0300" stop="20230428103000 -0300" channel="anitv.br">
+ <title lang="pt">O Mundo de Beakman</title>
+ <desc lang="pt">O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciência e da natureza.</desc>
+</programme>
+<programme start="20230428103000 -0300" stop="20230428110000 -0300" channel="anitv.br">
  <title lang="pt">Super Onze</title>
  <desc lang="pt">Endo é um goleiro muito talentoso, neto de Daisuke Endo, um dos melhores goleiros no Japão ue morreu antes de ele nascer. Endou montava um time de futebol em sua escola, a Raimon para que assim pudessem entrar no Campeonato Futebol Fronteira até um misterioso atacante chamado Shuya Goenji se mudar para a sua escola. Goenji se recusa a entrar no time de Endou, pois havia deixado o futebol após sua irmã mais nova sofrer um acidente durante um jogo.</desc>
 </programme>
-<programme start="20230424110000 -0300" stop="20230424113000 -0300" channel="anitv.br">
+<programme start="20230428110000 -0300" stop="20230428113000 -0300" channel="anitv.br">
  <title lang="pt">Beyblade</title>
  <desc lang="pt">Um garoto da quinta série é apaixonado por Beyblade e quer participar do Torneio Nacional.</desc>
 </programme>
-<programme start="20230424113000 -0300" stop="20230424120000 -0300" channel="anitv.br">
- <title lang="pt">Free!</title>
- <desc lang="pt">O grupo havia participado de um torneio de natação e venceram, mas tiveram de se separar. Anos depois, Haruka, Makoto e Nagisa se reúnem novamente no ensino médio.</desc>
+<programme start="20230428113000 -0300" stop="20230428120000 -0300" channel="anitv.br">
+ <title lang="pt">A Família Dinossauros</title>
+ <desc lang="pt">Um dinossauro, trabalhador operário, tenta lidar com o pavio curto do chefe da Corporação, para que ele possa colocar comida na mesa para sua família.</desc>
 </programme>
-<programme start="20230424120000 -0300" stop="20230424023000 -0300" channel="anitv.br">
- <title lang="pt">Policial de Aço - JIBAN</title>
- <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
+<programme start="20230428120000 -0300" stop="20230428123000 -0300" channel="anitv.br">
+ <title lang="pt">Jiraiya: O Incrível Ninja</title>
+ <desc lang="pt">Conheça a história do jovem Toha, que foi criado e é treinado por Tetsuzan para ser o sucessor da família Togakur. Ele guarda metade da inscrição para um tesouro que é objeto de desejo de todos os ninjas do mundo.</desc>
 </programme>
-<programme start="20230424123000 -0300" stop="20230424130000 -0300" channel="anitv.br">
+<programme start="20230428123000 -0300" stop="20230428130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
-<programme start="20230424130000 -0300" stop="20230424140000 -0300" channel="anitv.br">
- <title lang="pt">MusicBank</title>
- <desc lang="en">as melhores músicas de anime estão aqui.</desc>
+<programme start="20230428130000 -0300" stop="20230428133000 -0300" channel="anitv.br">
+ <title lang="pt">The Middle: Uma Família Perdida no Meio do Nada</title>
+ <desc lang="pt">Na família Heck, a mãe de meia idade e de classe média, Frankie Heck usa seu senso de humor para tentar orientar sua família pelos altos e baixos da vida conforme ela cursa uma escola de auxílio dental. </desc>
 </programme>
-<programme start="20230424140000 -0300" stop="20230424150000 -0300" channel="anitv.br">
- <title lang="en">Julie e os Fantasmas</title>
- <desc lang="en">uma adolescente de 15 anos que tem um talento escondido - a música. Mas a jovem morre de medo do palco.</desc>
+<programme start="20230428133000 -0300" stop="20230428140000 -0300" channel="anitv.br">
+ <title lang="en">Como Eu Conheci Sua Mãe</title>
+ <desc lang="en">Ted se apaixonou. Tudo começou quando seu melhor amigo, Marshall, soltou a bomba de que planejava pedir em casamento a namorada de longa data, Lily, uma professora de jardim de infância.</desc>
 </programme>
-<programme start="20230424150000 -0300" stop="20230424170000 -0300" channel="anitv.br">
+<programme start="20230428140000 -0300" stop="20230428143000 -0300" channel="anitv.br">
+ <title lang="en">Três é Demais</title>
+ <desc lang="en">Nem todas as famílias são iguais. Esta, por exemplo, não é nada convencional. Depois da morte de sua esposa, Pam, num acidente de carro, o locutor de esportes Danny Tanner se vê em apuros para criar as três filhas.</desc>
+</programme>
+<programme start="20230428143000 -0300" stop="20230428163000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Light</title>
  <desc lang="pt">Uma faixa dedicada ao romance e a cómedia, pra deixar suas tardes mais leves.</desc>
 </programme>
-<programme start="20230424170000 -0300" stop="20230424180000 -0300" channel="anitv.br">
+<programme start="20230428163000 -0300" stop="20230428173000 -0300" channel="anitv.br">
  <title lang="pt">Descendentes do Sol</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
-<programme start="20230424180000 -0300" stop="20230424183000 -0300" channel="anitv.br">
+<programme start="20230428173000 -0300" stop="20230428180000 -0300" channel="anitv.br">
+ <title lang="pt">Given - OS BROTHERS DO ROCK!</title>
+ <desc lang="pt">Por algum motivo, a guitarra que ele amava tocar e o basquete que ele adorava jogar perderam a graça.Essa era a vida de Ritsuka Uenoyama até encontrar Mafuyu Sato. Ritsuka tinha começado a perder seu amor pela música, mas ao ouvir Mafuyu cantar pela primeira vez, a canção ressoou em seu coração e a distância entre os dois começou a encurtar.</desc>
+</programme>
+<programme start="20230428180000 -0300" stop="20230428183000 -0300" channel="anitv.br">
  <title lang="pt">Planet Survival</title>
  <desc lang="pt">Planet Survival se passa no século XXII e conta a história sobre 7 estudantes e 1 gata robô. Luna, Sharla, Menoli, Howard, Bell, Shingo, Kaoru e Chako estão em uma era onde os humanos vivem em colônias espaciais e têm uma tecnologia muito avançada, mas a natureza agora só existe nos livros.</desc>
 </programme>
-<programme start="20230424183000 -0300" stop="20230424190000 -0300" channel="anitv.br">
- <title lang="pt">Yu Yu Hakusho</title>
- <desc lang="pt">Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança. Após realizar alguns testes apresentados a ele por Koenma, o filho do governante do submundo, Yusuke é revivido e é lhe dado o título de "Detetive Sobrenatural".</desc>
+<programme start="20230428183000 -0300" stop="20230428190000 -0300" channel="anitv.br">
+ <title lang="pt">Tenchi Muyo!</title>
+ <desc lang="pt">Há muito tempo, um lendário guerreiro e príncipe herdeiro do Império Juraian, Yosho, desapareceu e nunca mais foi ouvido.</desc>
 </programme>
-<programme start="20230424190000 -0300" stop="20230424193000 -0300" channel="anitv.br">
+<programme start="20230428190000 -0300" stop="20230428193000 -0300" channel="anitv.br">
  <title lang="en">Ranma ½</title>
  <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
 </programme>
-<programme start="20230424193000 -0300" stop="20230424200000 -0300" channel="anitv.br">
- <title lang="pt">That Time I Got Reincarnated as a Slime</title>
- <desc lang="pt">Satoru Mikami é um funcionário corporativo comum de 37 anos que mora em Tóquio. Durante um encontro casual com seu colega, um agressor surge do nada e o esfaqueia. Enquanto sucumbia aos ferimentos, uma voz misteriosa ecoa em sua mente e recita uma série de comandos que ele não conseguia entender.Depois de recuperar a consciência, Satoru descobre que reencarnou como Slime em um mundo desconhecido.</desc>
+<programme start="20230428193000 -0300" stop="20230428200000 -0300" channel="anitv.br">
+ <title lang="pt">Dr. STONE</title>
+ <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo.</desc>
 </programme>
-<programme start="202304241200000 -0300" stop="20230424203000 -0300" channel="anitv.br">
+<programme start="20230428200000 -0300" stop="20230428203000 -0300" channel="anitv.br">
  <title lang="pt">The Case Study of Vanitas</title>
  <desc lang="pt">Noé, um jovem vampiro que passou a maior parte de sua vida no interior da França, é enviado por seu professor a Paris com a missão de encontrar e avaliar um temido item chamado de Livro de Vanitas.</desc>
 </programme>
-<programme start="202304241203000 -0300" stop="20230424210000 -0300" channel="anitv.br">
+<programme start="20230428203000 -0300" stop="20230428210000 -0300" channel="anitv.br">
  <title lang="en">My Hero Academia</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20230424210000 -0300" stop="20230424213000 -0300" channel="anitv.br">
+<programme start="20230424210000 -0300" stop="20230428213000 -0300" channel="anitv.br">
  <title lang="pt">SPYxFAMILY</title>
  <desc lang="pt">Há décadas, as nações de Ostania e Westalis promovem uma guerra fria sem fim. Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, a montar uma família falsa e se infiltrar nos eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se "casando" com Yor, uma assassina profissional! Sem saberem das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.</desc>
 </programme>
-<programme start="20230424213000 -0300" stop="20230424220000 -0300" channel="anitv.br">
+<programme start="20230428213000 -0300" stop="20230428220000 -0300" channel="anitv.br">
  <title lang="pt">Fire Force</title>
  <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
-<programme start="20230424220000 -0300" stop="20230424223000 -0300" channel="anitv.br">
+<programme start="20230428220000 -0300" stop="20230428223000 -0300" channel="anitv.br">
  <title lang="pt">NG4 E-SPORTS</title>
  <desc lang="pt">NG4 E-SPORTS</desc>
 </programme>
-<programme start="20230424230000 -0300" stop="20230424233000 -0300" channel="anitv.br">
+<programme start="20230428230000 -0300" stop="20230428233000 -0300" channel="anitv.br">
  <title lang="pt">Play It Cool, Guys</title>
  <desc lang="pt">A princípio, esses caras parecem ser uns galãs charmosos... E você quer se aproximar deles... Mas aí você percebe que são todos uns desastrados. Eles e</desc>
 </programme>
-<programme start="20230424233000 -0300" stop="20230425000000 -0300" channel="anitv.br">
+<programme start="20230428233000 -0300" stop="20230429000000 -0300" channel="anitv.br">
  <title lang="pt">Toradora!</title>
  <desc lang="pt">Com cara de poucos amigos e um coração de ouro, Ry?ji tem uma amizade improvável com Taiga, uma baixinha abusada que não leva desaforo para casa.</desc>
 </programme>
@@ -422,135 +425,116 @@
  <title lang="en">Ranma ½</title>
  <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
 </programme>
-<programme start="20230420193000 -0300" stop="20230420200000 -0300" channel="anitv.br">
- <title lang="pt">That Time I Got Reincarnated as a Slime</title>
- <desc lang="pt">Satoru Mikami é um funcionário corporativo comum de 37 anos que mora em Tóquio. Durante um encontro casual com seu colega, um agressor surge do nada e o esfaqueia. Enquanto sucumbia aos ferimentos, uma voz misteriosa ecoa em sua mente e recita uma série de comandos que ele não conseguia entender.Depois de recuperar a consciência, Satoru descobre que reencarnou como Slime em um mundo desconhecido.</desc>
+<programme start="20230427193000 -0300" stop="20230427200000 -0300" channel="anitv.br">
+ <title lang="pt">Dr. STONE</title>
+ <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo.</desc>
 </programme>
-<programme start="20230420200000 -0300" stop="20230420203000 -0300" channel="anitv.br">
- <title lang="pt">Fire Force</title>
- <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
-</programme>
-<programme start="20230420203000 -0300" stop="20230420210000 -0300" channel="anitv.br">
- <title lang="en">My Hero Academia</title>
- <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
-</programme>
-<programme start="20230420210000 -0300" stop="20230420213000 -0300" channel="anitv.br">
- <title lang="en">Fullmetal : Brotherhood</title>
- <desc lang="en">Os irmãos Edward e Alphonse Elric seguem em busca da pedra Filosofal, com a esperança de restaurar seus corpos que foram perdidos quando eles tentaram usar suas habilidades de alquimista para ressuscitar sua mãe.</desc>
-</programme>
-<programme start="20230420213000 -0300" stop="20230420220000 -0300" channel="anitv.br">
- <title lang="pt">Noragami</title>
- <desc lang="pt">Yato é um deus menor, cujo sonho é ter um santuário e muitos seguidores para adorá-lo. Entretanto, ele é um deus quase desconhecido, e sua única parceira que o ajudava a realizar os desejos dos humanos decide deixá-lo e passa a ajudar outro deus. </desc>
-</programme>
-<programme start="20230420220000 -0300" stop="20230420223000 -0300" channel="anitv.br">
- <title lang="pt">Link Click</title>
- <desc lang="pt">Cheng Xiaoshi e Lu Guang usam superpoderes para inserir as fotos da clientela uma a uma, por mais perigosas que sejam. Bem-vindo ao "Time Photo Studio"!</desc>
-</programme>
-<programme start="20230420223000 -0300" stop="20230420230000 -0300" channel="anitv.br">
- <title lang="pt">Sasaki and Miyano</title>
- <desc lang="pt">Miyano passa seus dias lendo mangás Boys ’Love e se preocupando com os traços suaves de seu rosto. Seu mundo de ficção se torna realidade quando um encontro casual o leva ao aluno do último ano do ensino médio, Sasaki, no meio de uma briga. Agora, Sasaki quer aproveitar todas as oportunidades que puder para conhecer Miyano. E o que antes era admiração rapidamente se transforma em afeto.</desc>
-</programme>
-<programme start="20230420230000 -0300" stop="20230420233000 -0300" channel="anitv.br">
- <title lang="pt">Salaryman's Club</title>
- <desc lang="pt">Expulso de seu time, Makoto encontra uma nova chance de brilhar nas quadras de badminton... Tornando-se um assalariado.</desc>
-</programme>
-<programme start="20230420233000 -0300" stop="20230421000000 -0300" channel="anitv.br">
+<programme start="20230427200000 -0300" stop="20230427203000 -0300" channel="anitv.br">
  <title lang="pt">The Case Study of Vanitas</title>
  <desc lang="pt">Noé, um jovem vampiro que passou a maior parte de sua vida no interior da França, é enviado por seu professor a Paris com a missão de encontrar e avaliar um temido item chamado de Livro de Vanitas.</desc>
 </programme>
- 
- ####sabado anitv####
-<programme start="20230422000000 -0300" stop="20230422063000 -0300" channel="anitv.br">
- <title lang="pt">REPRISES da Madrugada</title>
- <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
+<programme start="20230427203000 -0300" stop="20230427210000 -0300" channel="anitv.br">
+ <title lang="en">My Hero Academia</title>
+ <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20230422063000 -0300" stop="20230422073000 -0300" channel="anitv.br">
- <title lang="pt">Budega do Maguila</title>
- <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
-</programme>
- 
-<programme start="20230415073000 -0300" stop="20230416003000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS</title>
- <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
-</programme>
- 
-<programme start="20230204073000 -0300" stop="20230204100000 -0300" channel="anitv.br">
- <title lang="pt">Faixa de Desenhos</title>
- <desc lang="pt">Acompanhe o programa que exibe os melhores desenhos animados.</desc>
-</programme>
-<programme start="20230204100000 -0300" stop="20230204113000 -0300" channel="anitv.br">
- <title lang="pt">Policial de Aço - JIBAN</title>
- <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
-</programme>
-<programme start="20230204113000 -0300" stop="20230204123000 -0300" channel="anitv.br">
- <title lang="pt">Esquadrão Relâmpago Changeman</title>
- <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
-</programme>
-<programme start="20230204123000 -0300" stop="20230204130000 -0300" channel="anitv.br">
- <title lang="pt">Carnival Phantasm </title>
- <desc lang="pt">Uma vez a cada dez anos, ocorre um evento chamado "O Momento do Carnaval", onde contos de outras dimensões e mundos se cruzam, permitindo que personagens de vários contos se encontrem.</desc>
-</programme>
-<programme start="20230204130000 -0300" stop="20230204153000 -0300" channel="anitv.br">
- <title lang="pt">Maratona Julie e os Fantasmas</title>
- <desc lang="pt">uma adolescente de 15 anos que tem um talento escondido - a música. Mas a jovem morre de medo do palco.</desc>
-</programme>
-<programme start="20230204153000 -0300" stop="20230204170000 -0300" channel="anitv.br">
- <title lang="pt">CineDot</title>
- <desc lang="pt">uma sessão de filmes.</desc>
-</programme>
-<programme start="20230204170000 -0300" stop="20230204173000 -0300" channel="anitv.br">
- <title lang="pt">SK8 the Infinity</title>
- <desc lang="pt">O skatista do segundo ano do ensino médio Reki apresenta o aluno transferido Langa a uma corrida secreta e sem barreiras em uma mina abandonada.</desc>
-</programme>
-<programme start="20230204173000 -0300" stop="20230204180000 -0300" channel="anitv.br">
- <title lang="pt">Blood Blockade Battlefront</title>
- <desc lang="pt">Quando uma fenda entre a Terra e o mundo dos mortos se abre em Nova Iorque, humanos e criaturas de outras dimensões ficam presos em uma bolha impenetrável que cerca a cidade. Forçados a coexistir numa nova cidade chama de Salem's Lot, a frágil paz entre a humanidade e o mundo dos mortos é protegida pela Libra, um grupo secreto de super-humanos.</desc>
-</programme>
-<programme start="20230204180000 -0300" stop="20230204190000 -0300" channel="anitv.br">
- <title lang="pt">Given - Dorama</title>
- <desc lang="pt">Por algum motivo, a guitarra que ele amava tocar e o basquete que ele adorava jogar perderam a graça. Essa era a vida de Ritsuka Uenoyama até encontrar Mafuyu Sato. Ritsuka tinha começado a perder seu amor pela música, mas ao ouvir Mafuyu cantar pela primeira vez, a canção ressoou em seu coração e a distância entre os dois começou a encurtar.</desc>
-</programme>
-<programme start="20230204190000 -0300" stop="20230204193000 -0300" channel="anitv.br">
+<programme start="20230427210000 -0300" stop="20230427213000 -0300" channel="anitv.br">
  <title lang="pt">SPYxFAMILY</title>
  <desc lang="pt">Há décadas, as nações de Ostania e Westalis promovem uma guerra fria sem fim. Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, a montar uma família falsa e se infiltrar nos eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se "casando" com Yor, uma assassina profissional! Sem saberem das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.</desc>
 </programme>
-<programme start="20230204193000 -0300" stop="20230204200000 -0300" channel="anitv.br">
- <title lang="pt">Urusei Yatsura (2022)</title>
- <desc lang="pt">Não há muito notável sobre o lascivo Ataru Moroboshi, mas sua extraordinária má sorte se destaca como os chifres na cabeça de um alienígena. Quando a Terra é ameaçada por uma frota de invasores alienígenas conhecidos como Oni, Ataru é selecionado para representar a humanidade em um duelo contra um deles.</desc>
+<programme start="20230427213000 -0300" stop="20230427220000 -0300" channel="anitv.br">
+ <title lang="pt">Fire Force</title>
+ <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
-<programme start="20230204200000 -0300" stop="20230204203000 -0300" channel="anitv.br">
- <title lang="pt">Triggun</title>
- <desc lang="pt">uma sessão de filmes.</desc>
+<programme start="20230427220000 -0300" stop="20230427223000 -0300" channel="anitv.br">
+ <title lang="pt">NG4 E-SPORTS</title>
+ <desc lang="pt">NG4 E-SPORTS</desc>
 </programme>
-<programme start="20230204203000 -0300" stop="20230204210000 -0300" channel="anitv.br">
- <title lang="pt">Recovery of an MMO Junkie</title>
- <desc lang="pt">uma sessão de filmes.</desc>
+<programme start="20230427230000 -0300" stop="20230427233000 -0300" channel="anitv.br">
+ <title lang="pt">Play It Cool, Guys</title>
+ <desc lang="pt">A princípio, esses caras parecem ser uns galãs charmosos... E você quer se aproximar deles... Mas aí você percebe que são todos uns desastrados. Eles e</desc>
 </programme>
-<programme start="20230204210000 -0300" stop="20230204213000 -0300" channel="anitv.br">
- <title lang="pt">Life Reasons Witch Uramichi Oniisan</title>
- <desc lang="pt">uma sessão de filmes.</desc>
+<programme start="20230427233000 -0300" stop="20230428000000 -0300" channel="anitv.br">
+ <title lang="pt">Toradora!</title>
+ <desc lang="pt">Com cara de poucos amigos e um coração de ouro, Ry?ji tem uma amizade improvável com Taiga, uma baixinha abusada que não leva desaforo para casa.</desc>
 </programme>
-<programme start="20230204213000 -0300" stop="20230204220000 -0300" channel="anitv.br">
- <title lang="pt">Shikimori's Not Just a Cutie</title>
- <desc lang="pt">uma sessão de filmes.</desc>
+ 
+ 
+ ####sabado anitv####
+ 
+<programme start="20230429000000 -0300" stop="20230429003000 -0300" channel="anitv.br">
+ <title lang="en">Science Fell in Love, So I Tried to Prove it</title>
+ <desc lang="en">O que acontece quando um garoto e uma garota apaixonados por ciência e pesquisa se apaixonam? Ayame Himuro faz pós-graduação na Universidade de Saitama, e resolveu chamar seu colega de laboratório, Shinya Yukimura, pra sair. Naturalmente, o amor tem razões que nem a razão compreende! Mas ela seria um fracasso de engenheira se não fosse capaz de provar logicamente que o amor não existe. Com isso em mente, o casal envolve o resto do laboratório inteiro em experimentos para comprovar a existência do amor. Muitas risadas e momentos emocionantes nesta comédia romântica científica!</desc>
 </programme>
-<programme start="20230204220000 -0300" stop="20230204223000 -0300" channel="anitv.br">
+<programme start="20230429003000 -0300" stop="20230429010000 -0300" channel="anitv.br">
+ <title lang="pt">Rent-A-Girlfriend</title>
+ <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
+</programme>
+<programme start="20230429010000 -0300" stop="20230429063000 -0300" channel="anitv.br">
+ <title lang="pt">REPRISES da Madrugada</title>
+ <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
+</programme>
+<programme start="20230429070000 -0300" stop="20230429080000 -0300" channel="anitv.br">
+ <title lang="pt">Budega do Maguila</title>
+ <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
+</programme>
+<programme start="20230429080000 -0300" stop="20230429103000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS: Laid-Back Camp</title>
+ <desc lang="pt">Nadeshiko, uma colegial que se mudou para Yamanashi, decide ir visitar o famoso Monte Fuji das notas de mil ienes. Contudo, enquanto pedalava para Motosu, ela acaba desmaiando de cansaço e acorda à noite num lugar desconhecido, sem saber como voltar pra casa. Felizmente, ela é salva por Rin, uma garota que está acampando sozinha - e assim começa a história das garotas que adoram a vida a céu aberto.</desc>
+</programme>
+<programme start="20230429103000 -0300" stop="20230429130000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS: Lucky Star</title>
+ <desc lang="pt"> quatro amigas estudantes do secundário: Konata Izumi, Kagami Hiiragi, Tsukasa Hiiragi e Miyuiki Takara; todas moradoras da cidade de Kasukabe, na Prefeitura de Saitama. Cada uma das garotas possuem personalidades diferentes, o que as fazem explorar cada situação vivida a suas respectivas maneiras de ser. Ao decorrer do mangá, elas se formam em cada ano do ensino secundário, e mais tarde passam a cursar o ensino superior.</desc>
+</programme>
+<programme start="20230429130000 -0300" stop="20230429153000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS: Keep Your Hands Off Eizouken!</title>
+ <desc lang="pt">Midori Asakusa acredita que "uma boa ideia é tudo num anime." Ela vive desenhando ideias em seu caderno, mas não começou a fazer seu próprio anime porque não se acha capaz de conseguir sozinha. Sayaka Kanamori é uma garota metida a produtora que reconhece o talento de Asakusa. E quando as duas descobrem que sua colega Tsubame Mizusaki sonha em se tornar animadora, elas formam um clube de animação para tornar realidade o "mundo supremo" de suas imaginações.</desc>
+</programme>
+<programme start="20230429153000 -0300" stop="20230429180000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS: Sasaki and Miyano</title>
+ <desc lang="pt">Miyano passa seus dias lendo mangás Boys ’Love e se preocupando com os traços suaves de seu rosto.</desc>
+</programme>
+<programme start="20230429180000 -0300" stop="20230429203000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS: Planet Survival</title>
+ <desc lang="pt">Planet Survival se passa no século XXII e conta a história sobre 7 estudantes e 1 gata robô. Luna, Sharla, Menoli, Howard, Bell, Shingo, Kaoru e Chako estão em uma era onde os humanos vivem em colônias espaciais e têm uma tecnologia muito avançada, mas a natureza agora só existe nos livros.</desc>
+</programme>
+
+<programme start="20230415080000 -0300" stop="20230416203000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS</title>
+ <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
+</programme>
+
+<programme start="20230429203000 -0300" stop="20230429210000 -0300" channel="anitv.br">
+ <title lang="pt">Do It Yourself!!</title>
+ <desc lang="pt">Situado na cidade de Sanjo, na província de Niigata, onde a fabricação está prosperando, seis meninas do ensino médio "dão o primeiro passo para abrir o futuro".</desc>
+</programme>
+<programme start="20230429210000 -0300" stop="20230429213000 -0300" channel="anitv.br">
+ <title lang="pt">TRIGUN STAMPEDE</title>
+ <desc lang="pt">No escaldante planeta de No Man's Land, infestado de a sobrevivência da humanidade depende de Plants, usinas biológicas capazes de produzir qualquer substância a partir do nada.</desc>
+</programme>
+<programme start="20230429213000 -0300" stop="20230429220000 -0300" channel="anitv.br">
+ <title lang="pt">El-Hazard</title>
+ <desc lang="pt">Tudo começou quando Makoto Mizuhara, um aluno normal da escola Shinonome, construiu uma máquina para o projeto de Ciências que seria um modelo para o colégio. Porém, Jinnai morre de inveja de Makoto que tem liderança em tudo o que faz como nos estudos, nos esportes, e ainda é mais popular que ele.</desc>
+</programme>
+<programme start="20230429220000 -0300" stop="20230429223000 -0300" channel="anitv.br">
+ <title lang="pt">Blood+</title>
+ <desc lang="pt">Saya é uma colegial que tem uma vida normal com sua família adotiva. Porém, não consegue se lembrar de nada do seu passado, e o limite de sua memória é de eventos ocorridos apenas há menos de um ano. Saya foi adotada por um militar aposentado, que a criou junto com seus dois outros filhos também adotados, Riku e Kai.</desc>
+</programme>
+<programme start="20230229223000 -0300" stop="20230429230000 -0300" channel="anitv.br">
+ <title lang="pt">Mangá-Motion: Jujutsu Kaisen</title>
+ <desc lang="pt">Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições.</desc>
+</programme>
+<programme start="20230429230000 -0300" stop="20230429233000 -0300" channel="anitv.br">
  <title lang="pt">Mangá-Motion: CHAINSAW MAN</title>
  <desc lang="pt">Denji é um adolescente que mora com Pochita, o Demônio da Motosserra. Por conta das dívidas que herdou de seu pai, ele vive na miséria, exterminando outros demônios com Pochita para pagar as contas. </desc>
 </programme>
-<programme start="20230204223000 -0300" stop="20230205000000 -0300" channel="anitv.br">
- <title lang="pt">CineDot - Reprise</title>
- <desc lang="pt">uma sessão de filmes.</desc>
+<programme start="20230429233000 -0300" stop="20230430020000 -0300" channel="anitv.br">
+ <title lang="pt">Maratona #FDS: Play It Cool, Guys</title>
+ <desc lang="pt">A princípio, esses caras parecem ser uns galãs charmosos... E você quer se aproximar deles... Mas aí você percebe que são todos uns desastrados. Eles e</desc>
 </programme>
 
    ####domingo anitv####
 
-<programme start="20230226000000 -0300" stop="20230226020000 -0300" channel="anitv.br">
- <title lang="pt">Sabadão na Metró</title>
- <desc lang="pt">Aos fins de semana a Geekdot vem com tudo</desc>
-</programme>
- 
-<programme start="20230423000000 -0300" stop="20230423063000 -0300" channel="anitv.br">
+<programme start="20230430020000 -0300" stop="20230430070000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -558,38 +542,41 @@
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
-<programme start="20230205063000 -0300" stop="20230205080000 -0300" channel="anitv.br">
- <title lang="pt">Policial de Aço - JIBAN</title>
- <desc lang="pt">O policial Naoto Tamura sacrificou sua vida para derrotar um dos monstros da organização Biolon, mas renasceu como o Policial de Aço Jiban, passando a combater o grupo maligno, liderado pelo Doutor Jean Marrie.</desc>
-</programme>
-<programme start="20230205080000 -0300" stop="20230205093000 -0300" channel="anitv.br">
- <title lang="pt">Esquadrão Relâmpago Changeman</title>
- <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
-</programme>
-<programme start="20230205093000 -0300" stop="20230205120000 -0300" channel="anitv.br">
+
+<programme start="20230430070000 -0300" stop="20230430080000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20230205120000 -0300" stop="20230205143000 -0300" channel="anitv.br">
- <title lang="pt">CineDot - Reprise</title>
- <desc lang="pt">uma sessão de filmes.</desc>
+<programme start="20230430080000 -0300" stop="20230430103000 -0300" channel="anitv.br">
+ <title lang="pt">>Maratona #FDS: Fire Force</title>
+ <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
-<programme start="20230205143000 -0300" stop="20230205193000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS</title>
- <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
+<programme start="20230430103000 -0300" stop="20230430130000 -0300" channel="anitv.br">
+ <title lang="pt">>Maratona #FDS: SPYxFAMILY</title>
+ <desc lang="pt">Há décadas, as nações de Ostania e Westalis promovem uma guerra fria sem fim. Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, a montar uma família falsa e se infiltrar nos eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se "casando" com Yor, uma assassina profissional! Sem saberem das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.</desc>
 </programme>
-<programme start="20230205193000 -0300" stop="20230205203000 -0300" channel="anitv.br">
- <title lang="pt">MusicBank</title>
- <desc lang="pt">é um programa de música sul-coreano</desc>
+<programme start="20230430130000 -0300" stop="20230430153000 -0300" channel="anitv.br">
+ <title lang="pt">>Maratona #FDS: Dr. STONE</title>
+ <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo.</desc>
 </programme>
-<programme start="20230205203000 -0300" stop="20230205210000 -0300" channel="anitv.br">
+<programme start="20230430153000 -0300" stop="20230427180000 -0300" channel="anitv.br">
+ <title lang="en">>Maratona #FDS: My Hero Academia</title>
+ <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
+</programme>
+<programme start="20230430180000 -0300" stop="20230430203000 -0300" channel="anitv.br">
+ <title lang="en">>Maratona #FDS: Ranma ½</title>
+ <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
+</programme>
+<programme start="20230430203000 -0300" stop="20230430230000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS: Tsuredure Children</title>
  <desc lang="pt">Pra vocês que nunca conseguiram dizer um "eu te amo" - esta é uma história de estudantes comuns de colegial, e como o amor os deixa motivados, chocados, magoados, risonhos e chorosos. Mesmo quando nem tudo dá certo, esta história de adolescência e romance vai lhe mostrar como eles aproveitam seus dias dourados. Aqui, cada personagem é um protagonista, e você vai encontrar alguém com quem se identificar.</desc>
 </programme>
-<programme start="20230205210000 -0300" stop="20230206000000 -0300" channel="anitv.br">
- <title lang="pt">Maratona #FDS: Konosuba!</title>
- <desc lang="pt">Após um acidente de trânsito, a breve e desapontadora vida de Kazuma Sato deveria ter acabado, mas ele acorda e vê uma belíssima garota diante dele. Ela diz ser Aqua, uma deusa, e lhe pergunta se ele gostaria de ir para outro mundo, levando consigo apenas uma coisa deste mundo.</desc>
+<programme start="20230430230000 -0300" stop="20230501013000 -0300" channel="anitv.br">
+ <title lang="pt">The Case Study of Vanitas</title>
+ <desc lang="pt">Noé, um jovem vampiro que passou a maior parte de sua vida no interior da França, é enviado por seu professor a Paris com a missão de encontrar e avaliar um temido item chamado de Livro de Vanitas.</desc>
 </programme>
+
+
 
     ####yeeaah####
 <programme start="20230415000000 -0300" stop="20230415120000 -0300" channel="yaaeeh.br">
