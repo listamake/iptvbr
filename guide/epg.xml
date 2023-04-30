@@ -1699,11 +1699,11 @@
 </programme>
  
    ####tv bs####
-<programme start="202304150000000 -0300" stop="2023041600000 -0300" channel="tvbs.br">
+<programme start="202304280000000 -0300" stop="2023050600000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202304170000000 -0300" stop="2023041800000 -0300" channel="tvbs.br">
+<programme start="202305060000000 -0300" stop="2023050800000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1732,7 +1732,7 @@
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="202304240000000 -0300" stop="2023042800000 -0300" channel="turnerdemo.br">
+<programme start="202305020000000 -0300" stop="2023050800000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -1743,19 +1743,19 @@
  
  ###energeek.cl####
 
-<programme start="202304220000000 -0300" stop="2023042500000 -0300" channel="energeek.cl">
+<programme start="202304290000000 -0300" stop="2023050200000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202304250000000 -0300" stop="2023042700000 -0300" channel="energeek.cl">
+<programme start="202305020000000 -0300" stop="2023050700000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202304140000000 -0300" stop="2023041600000 -0300" channel="energeek.cl">
+<programme start="202305070000000 -0300" stop="2023050900000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202303200000000 -0300" stop="2023032200000 -0300" channel="energeek.cl">
+<programme start="202305090000000 -0300" stop="2023051500000 -0300" channel="energeek.cl">
  <title lang="pt">Programação EnerGeek</title>
  <desc lang="pt">via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -1842,15 +1842,15 @@
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
 <programme start="2023042800000 -0300" stop="20230503000000 -0300" channel="7tvbs.br">
- <title lang="pt">Programação TV7</title>
+ <title lang="pt">Programação TV Entreamericas</title>
  <desc lang="pt">anime</desc>
 </programme> 
 <programme start="2023050300000 -0300" stop="20230508000000 -0300" channel="7tvbs.br">
- <title lang="pt">Programação TV7</title>
+ <title lang="pt">Programação TV Entreamericas</title>
  <desc lang="pt">anime</desc>
 </programme> 
 <programme start="2023050800000 -0300" stop="20230518000000 -0300" channel="7tvbs.br">
- <title lang="pt">Programação TV7</title>
+ <title lang="pt">Programação TV Entreamericas</title>
  <desc lang="pt">anime</desc>
 </programme> 
  
@@ -1949,21 +1949,21 @@
 </programme>
  
   ####EsporteBrasilia.br####
-<programme start="20230428000000 -0300" stop="20230506000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230429000000 -0300" stop="20230503000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230506000000 -0300" stop="20230512000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230505000000 -0300" stop="20230510000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
  
   ####radiobandnewssp.br####
-<programme start="20230420000000 -0300" stop="20230425000000 -0300" channel="radiobandnewssp.br">
+<programme start="20230429000000 -0300" stop="20230503000000 -0300" channel="radiobandnewssp.br">
  <title lang="pt">Programação Rádio Band News</title>
  <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
 </programme>
-<programme start="20230417000000 -0300" stop="20230420000000 -0300" channel="radiobandnewssp.br">
+<programme start="20230503000000 -0300" stop="20230408000000 -0300" channel="radiobandnewssp.br">
  <title lang="pt">Programação Rádio Band News</title>
  <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
 </programme>
@@ -1979,50 +1979,50 @@
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230429000000 -0300" stop="20230429220000 -0300" channel="radiosociedade.br">
+<programme start="20230501000000 -0300" stop="20230501220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230429220000 -0300" stop="20230430040000 -0300" channel="radiosociedade.br">
+<programme start="20230501220000 -0300" stop="20230502040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
     ####radiocidadeverde####
 
-<programme start="20230419000000 -0300" stop="20230419063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501000000 -0300" stop="20230501063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230419063000 -0300" stop="20230419083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501063000 -0300" stop="20230501083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230419083000 -0300" stop="20230419100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501083000 -0300" stop="20230501100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230419100000 -0300" stop="20230419113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501100000 -0300" stop="20230501113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230419113000 -0300" stop="20230419120000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501113000 -0300" stop="20230501120000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230419120000 -0300" stop="20230419140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501120000 -0300" stop="20230501140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230419140000 -0300" stop="20230419180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501140000 -0300" stop="20230501180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230419180000 -0300" stop="20230419200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230501180000 -0300" stop="20230501200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230419200000 -0300" stop="20230419210000 -0300" channel="radiocidadeverde">
+<programme start="20230501200000 -0300" stop="20230501210000 -0300" channel="radiocidadeverde">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
@@ -2068,41 +2068,50 @@
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
  
+<programme start="20230429000000 -0300" stop="20230430000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Parada Musical</title>
+ <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+<programme start="20230430000000 -0300" stop="20230501000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Parada Musical</title>
+ <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+ 
    ####cbnrede.br####
 <programme start="20221201000000 -0300" stop="20221202000000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20230420000000 -0300" stop="20230420050000 -0300" channel="cbnrede.br">
+<programme start="20230501000000 -0300" stop="20230501050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230420050000 -0300" stop="20230420060000 -0300" channel="cbnrede.br">
+<programme start="20230501050000 -0300" stop="20230501060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230420060000 -0300" stop="20230420070000 -0300" channel="cbnrede.br">
+<programme start="20230501060000 -0300" stop="20230501070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230420070000 -0300" stop="20230420093000 -0300" channel="cbnrede.br">
+<programme start="20230501070000 -0300" stop="20230501093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230420093000 -0300" stop="20230420100000 -0300" channel="cbnrede.br">
+<programme start="20230501093000 -0300" stop="20230501100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230420100000 -0300" stop="20230420120000 -0300" channel="cbnrede.br">
+<programme start="20230501100000 -0300" stop="20230501120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230418120000 -0300" stop="20230418140000 -0300" channel="cbnrede.br">
+<programme start="20230501120000 -0300" stop="20230501140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230418140000 -0300" stop="20230418160000 -0300" channel="cbnrede.br">
+<programme start="20230501140000 -0300" stop="20230501160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
@@ -2424,35 +2433,35 @@
  <desc lang="pt">Transmissão de musicas enquanto não tiver transmissão de futebol.</desc>
 </programme>
      ####domingo####
-<programme start="20230416000000 -0300" stop="20230416090000 -0300" channel="radioclubeampe.br">
+<programme start="20230430000000 -0300" stop="20230430090000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20230416090000 -0300" stop="20230416110000 -0300" channel="radioclubeampe.br">
+<programme start="20230430090000 -0300" stop="20230430110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Ritimos Brasil</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20230416110000 -0300" stop="20230416120000 -0300" channel="radioclubeampe.br">
+<programme start="20230430110000 -0300" stop="20230430120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20230416120000 -0300" stop="20230416150000 -0300" channel="radioclubeampe.br">
+<programme start="20230430120000 -0300" stop="20230430150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
-<programme start="20230416150000 -0300" stop="20230416180000 -0300" channel="radioclubeampe.br">
+<programme start="20230430150000 -0300" stop="20230430180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="20230416180000 -0300" stop="20230416200000 -0300" channel="radioclubeampe.br">
+<programme start="20230430180000 -0300" stop="20230430200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20230416200000 -0300" stop="20230416000000 -0300" channel="radioclubeampe.br">
+<programme start="20230430200000 -0300" stop="20230430000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube da Seresta</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230416220000 -0300" stop="20230317050000 -0300" channel="radioclubeampe.br">
+<programme start="20230430220000 -0300" stop="20230501050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
@@ -2688,7 +2697,7 @@
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
        ####AllSports.br####
-<programme start="20230418000000 -0300" stop="20230503000000 -0300" channel="AllSports.br">
+<programme start="20230428000000 -0300" stop="20230503000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
