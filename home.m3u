@@ -242,7 +242,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w31040624.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
 
-#EXTINF: -1 tvg-id="energeek.cl" tvg-logo="https://app-cdn.acelitchi.com/prod/app/1/24/6078041054316675257.webp" group-title="Canais Geek", ETC TV FHD
+#EXTINF: -1 tvg-id="energeek.cl" tvg-logo="https://app-cdn.acelitchi.com/prod/app/1/24/6078041054316675257.webp" group-title="Canais Geek", EnerGeek HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8?nimblesessionid=737465
 
@@ -291,7 +291,7 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w925345344.m3u8
 
 #EXTINF: -1 tvg-id="TVBrasil.br" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , TV Brasil Web
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://tvbrasil-stream.ebc.com.br/chunks.m3u8
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
 #EXTINF: -1 tvg-id="TVBrasil.br" tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , TV Prevê HD
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=1651347794
