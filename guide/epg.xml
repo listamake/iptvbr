@@ -851,9 +851,9 @@
 </programme>
 <programme start="20230502080000 -0300" stop="20230502090000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
+ <desc lang="pt">Mike Rowe narra imagens sobre o funcionamento do espaço. Imagens de computador permitem a exploração de buracos negros, supernovas, estrelas de nêutrons, a energia escura e todas as outras forças que produzem o que vemos.</desc>
 </programme>
-<programme start="20230502090000 -0300" stop="20230502000000 -0300" channel="CanalUsuario.br">
+<programme start="20230502090000 -0300" stop="20230502100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produçoes da disney.</desc>
 </programme>
@@ -863,8 +863,9 @@
 </programme>
 <programme start="20230502210000 -0300" stop="20230502220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
+ <desc lang="pt">Mike Rowe narra imagens sobre o funcionamento do espaço. Imagens de computador permitem a exploração de buracos negros, supernovas, estrelas de nêutrons, a energia escura e todas as outras forças que produzem o que vemos.</desc>
 </programme>
+
 <programme start="20230405220000 -0300" stop="20230405234500 -0300" channel="CanalUsuario.br">
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
@@ -874,21 +875,25 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230450300000 -0300" stop="20230503080000 -0300" channel="CanalUsuario.br">
+<programme start="20230503000000 -0300" stop="20230503080000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230503080000 -0300" stop="20230503090000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
+ <desc lang="pt">Mike Rowe narra imagens sobre o funcionamento do espaço. Imagens de computador permitem a exploração de buracos negros, supernovas, estrelas de nêutrons, a energia escura e todas as outras forças que produzem o que vemos.</desc>
 </programme>
-<programme start="20230429090000 -0300" stop="20230429210000 -0300" channel="CanalUsuario.br">
+<programme start="20230503090000 -0300" stop="20230503100000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title>
+ <desc lang="pt">Produçoes da disney.</desc>
+</programme>
+<programme start="20230503100000 -0300" stop="20230503210000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230429210000 -0300" stop="20230429220000 -0300" channel="CanalUsuario.br">
+<programme start="20230503210000 -0300" stop="20230503220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Como Funciona o Universo</title>
- <desc lang="pt">Fox kids o seu canal favorito.</desc>
+ <desc lang="pt">Mike Rowe narra imagens sobre o funcionamento do espaço. Imagens de computador permitem a exploração de buracos negros, supernovas, estrelas de nêutrons, a energia escura e todas as outras forças que produzem o que vemos.</desc>
 </programme>
 <programme start="20230410210000 -0300" stop="20230410223000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Fala Mais Online</title>
