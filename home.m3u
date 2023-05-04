@@ -136,7 +136,7 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ngt.br" tvg-chno="039" tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title="Entretenimento", Rede NGT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://streaming.cloudecast.com/memfs/d82529b5-3d6f-4995-acb1-6b0a2c3164fa_output_0.m3u8?session=By9zK8YkRJitE5xnfu3B2v
+https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF: -1 tvg-id="adessotv.br" tvg-chno="040" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="Entretenimento", Adesso TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -460,7 +460,7 @@ https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playli
 https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-360p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODM0Mjc1OTIsImlhdCI6MTY4MjgyMjc5MiwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODI4MjA5OTIsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.0NDAKKla8qQHOHMY8ppaaWPksbpboysVI6qQiqivrKI&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="TVNBT.br" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais", TV NBT
-https://streaming.cloudecast.com/memfs/774f3235-a8de-407c-91bb-a7fbca7a2efb.m3u8
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 
 #EXTINF: -1 tvg-id="NatureTV.br" group-title="Canais de Música" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu85DOk9vNgwlrhRLYTtxOr5dqtBPKaXIYBDrjU0vw=s900-c-k-c0x00ffffff-no-rj", Nature TV
 https://stmv1.srvif.com/nattv/nattv/chunklist_w1273482086.m3u8
