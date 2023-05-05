@@ -476,6 +476,9 @@ https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 
+#EXTINF: -1 tvg-id="ulbtv.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
+https://video01.kshost.com.br:4443/alan4876/alan4876/chunklist_w208410687.m3u8
+
 #EXTINF: -1 tvg-id="awtv.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento", AWTV HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
