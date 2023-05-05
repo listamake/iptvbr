@@ -9,7 +9,7 @@ https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBTPara.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Norte - TV Guajara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://streaming.portaltvparaense.com.br/hls/rtp_src.m3u8
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
 
 #EXTINF:0 tvg-id="GloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -323,7 +323,7 @@ https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Regionais" , TV Tropical HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w880504285.m3u8
 
 #EXTINF: -1 tvg-id="SICTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Regionais" , Sic TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -351,7 +351,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-XBy8GpxzSvRVILU96bs9P2808dBSqvlMGVajfmoT2Mq)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bR61ExGjiCNPEZ11rNP6rJEEtoOPBNIq0fqT4_dFMu0)/cloud/3/x82cxbb/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -407,6 +407,9 @@ https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://yt3.googleusercontent.com/y0p1RaSWskCQQsJ3I0rNHUfL5hgBupFKcfytleDskahWACwrNqRm4FS3bXcw2PGYpzdhlS_Zpt4=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Paraense
+https://streaming.portaltvparaense.com.br/hls/rtp_src.m3u8
+
+#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://yt3.googleusercontent.com/y0p1RaSWskCQQsJ3I0rNHUfL5hgBupFKcfytleDskahWACwrNqRm4FS3bXcw2PGYpzdhlS_Zpt4=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Paraense WEB
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Regionais", TV Alternativa HD
