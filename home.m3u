@@ -13,7 +13,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
 
 #EXTINF:0 tvg-id="GloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODMzNDczODYsImlhdCI6MTY4MzI2MDk4NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.mTgt9Pgcs5zJDOi8Y5kIF_q3UVAH1gEUmG9sHx5hKfxrv0OQnt4Z_0Lnp9Ji5VXK3yMiAD8nUBteFbgaDSPQr2ET_L2dTIjmhW7Hv7kdEoAdL1YhSGn8_uIDLUPdohNQWQAB-5cHjIaiD1fGZ5ZRqX_IJ4RfAzgxjw9qPy5eUbXp2ZBqcyGdanJWh3cUgXdR4A8YCtyq_r94eLkRqyVKI6Fn0xLPSlSIMVoAGeq01x6c3YP1pmp2fJwyrYK3B9qhcIC3gZemHSuzTkYoK3LuQ9DS3J27Ij_A0NP7NbmCmhvln2S1s5pigoFE-Q-O4ua7fdwIf-4epx6wTemawfA7Pw/nu/f(bMin=2000,dvr=120,i=2)/globo-pe1/globo-pe1-audio_1=128000-video=3632000.m3u8?dvr_window_length=120
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODM0MzQwMDksImlhdCI6MTY4MzM0NzYwOSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.zgqgpydfW4vj7otBR9PqOgHfUxkgkwWg9NIZzSzXlIvEclNSI4lLezQHzJZ-d_40kmIE2DL3To-6s92Y-9Od2kDYXUmcZI6SfWPMZHTr1W50KMIf4-gJGWpuD7GBUBeM4Xvtiol8RoQIqzYIKf8L8S8ZbebOOUx8M8PTFcb8vrfg-cJGKu-Z7r79j83R9rQPrGxhucCW_lmKIRUyXVHSGsOkA1ZQGtIAubMOK290KvypB5H_tDXcoz3iwiO2UocWGeFYfFFPafa6sOMjE_gn3C41D8kRtv9jHw0UjzTbd3KUr8gMWCex6homv8wIAQ3u7p2LeaWwT6t6eFm9homU7A/nu/f(bMin=2000,dvr=120,i=2)/globo-pe1/globo-pe1-audio_1=128000-video=3632000.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -351,7 +351,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bR61ExGjiCNPEZ11rNP6rJEEtoOPBNIq0fqT4_dFMu0)/cloud/3/x82cxbb/s/live-2.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-eMApr2XmAVLnvJapO_x1z85PNGQOrAKPEG39EvI0uTe)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
