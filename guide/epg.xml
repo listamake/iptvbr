@@ -50,6 +50,14 @@
  <display-name lang="pt">ETC TV FHD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1498392356495712266/wHrj2T5d_400x400.jpg"/>
 </channel>
+<channel id="TVNBT.br">
+ <display-name lang="pt">TV NBT</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp"/>
+</channel>
+<channel id="rbctv.br">
+ <display-name lang="pt">RBC TV HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23bd43f2aa3a7c5772c2ca92d67dbf3a.webp"/>
+</channel>
 <channel id="awtv.br">
  <display-name lang="pt">AWTV HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp"/>
@@ -1666,6 +1674,24 @@
  <desc lang="pt">Play TV Para Jovens de todas as idades</desc>
 </programme>
  
+   ####TVNBT.br####
+<programme start="2023050500000 -0300" stop="20230508000000 -0300" channel="TVNBT.br">
+ <title lang="pt">Programação TV NBT</title>
+ <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
+</programme>
+<programme start="2023050800000 -0300" stop="20230512000000 -0300" channel="TVNBT.br">
+ <title lang="pt">Programação TV NBT</title>
+ <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
+</programme>
+<programme start="2023051200000 -0300" stop="20230515000000 -0300" channel="TVNBT.br">
+ <title lang="pt">Programação TV NBT</title>
+ <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
+</programme>
+<programme start="2023051500000 -0300" stop="20230519000000 -0300" channel="TVNBT.br">
+ <title lang="pt">Programação TV NBT</title>
+ <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
+</programme>
+ 
     ####ISTVHD.br####
 <programme start="2023042800000 -0300" stop="20230505000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
@@ -2015,31 +2041,31 @@
  
     ####radiocidadeverde####
 
-<programme start="20230501000000 -0300" stop="20230501063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508000000 -0300" stop="20230508063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230501063000 -0300" stop="20230501083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508063000 -0300" stop="20230508083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230501083000 -0300" stop="20230501100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508083000 -0300" stop="20230508100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230501100000 -0300" stop="20230501113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508100000 -0300" stop="20230508113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230501113000 -0300" stop="20230501120000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508113000 -0300" stop="20230508120000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230501120000 -0300" stop="20230501140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508120000 -0300" stop="20230508140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230501140000 -0300" stop="20230501180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230508140000 -0300" stop="20230508180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
@@ -2108,72 +2134,72 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20230502000000 -0300" stop="20230502050000 -0300" channel="cbnrede.br">
+<programme start="20230508000000 -0300" stop="20230508050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230502050000 -0300" stop="20230502060000 -0300" channel="cbnrede.br">
+<programme start="20230508050000 -0300" stop="20230508060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230502060000 -0300" stop="20230502070000 -0300" channel="cbnrede.br">
+<programme start="20230508060000 -0300" stop="20230508070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230502070000 -0300" stop="20230502093000 -0300" channel="cbnrede.br">
+<programme start="20230508070000 -0300" stop="20230508093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230502093000 -0300" stop="20230502100000 -0300" channel="cbnrede.br">
+<programme start="20230508093000 -0300" stop="20230508100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230502100000 -0300" stop="20230502120000 -0300" channel="cbnrede.br">
+<programme start="20230508100000 -0300" stop="20230508120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230502120000 -0300" stop="20230502140000 -0300" channel="cbnrede.br">
+<programme start="20230508120000 -0300" stop="20230508140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230502140000 -0300" stop="20230502160000 -0300" channel="cbnrede.br">
+<programme start="20230508140000 -0300" stop="20230508160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230502160000 -0300" stop="20230502210000 -0300" channel="cbnrede.br">
+<programme start="20230508160000 -0300" stop="20230508210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230502210000 -0300" stop="20230503000000 -0300" channel="cbnrede.br">
+<programme start="20230508210000 -0300" stop="20230509000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
  
-<programme start="20230503000000 -0300" stop="20230503050000 -0300" channel="cbnrede.br">
+<programme start="20230509000000 -0300" stop="20230509050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230503050000 -0300" stop="20230503060000 -0300" channel="cbnrede.br">
+<programme start="20230509050000 -0300" stop="20230509060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230503060000 -0300" stop="20230503070000 -0300" channel="cbnrede.br">
+<programme start="20230509060000 -0300" stop="20230509070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230503070000 -0300" stop="20230503093000 -0300" channel="cbnrede.br">
+<programme start="20230509070000 -0300" stop="20230509093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230503093000 -0300" stop="20230503100000 -0300" channel="cbnrede.br">
+<programme start="20230509093000 -0300" stop="20230509100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230503100000 -0300" stop="20230503120000 -0300" channel="cbnrede.br">
+<programme start="20230509100000 -0300" stop="20230509120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230503120000 -0300" stop="20230503140000 -0300" channel="cbnrede.br">
+<programme start="20230509120000 -0300" stop="20230509140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
@@ -2190,76 +2216,76 @@
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
      ###sab###
-<programme start="20230429000000 -0300" stop="20230429050000 -0300" channel="cbnrede.br">
+<programme start="20230506000000 -0300" stop="20230506050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230429050000 -0300" stop="20230429060000 -0300" channel="cbnrede.br">
+<programme start="20230506050000 -0300" stop="20230506060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230429060000 -0300" stop="20230429090000 -0300" channel="cbnrede.br">
+<programme start="20230506060000 -0300" stop="20230506090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230429090000 -0300" stop="20230429093000 -0300" channel="cbnrede.br">
+<programme start="20230506090000 -0300" stop="20230506093000 -0300" channel="cbnrede.br">
  <title lang="pt">O Mundo em Meia Hora</title>
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
-<programme start="20230429093000 -0300" stop="20230429100000 -0300" channel="cbnrede.br">
+<programme start="20230506093000 -0300" stop="20230506100000 -0300" channel="cbnrede.br">
  <title lang="pt">Bem-estar e Movimento</title>
  <desc lang="pt">fique bem brasil.</desc>
 </programme>
-<programme start="20230429100000 -0300" stop="20230429120000 -0300" channel="cbnrede.br">
+<programme start="20230506100000 -0300" stop="20230506120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230429120000 -0300" stop="20230429150000 -0300" channel="cbnrede.br">
+<programme start="20230506120000 -0300" stop="20230506150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230429150000 -0300" stop="20230429230000 -0300" channel="cbnrede.br">
+<programme start="20230506150000 -0300" stop="20230506230000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230429230000 -0300" stop="20230430000000 -0300" channel="cbnrede.br">
+<programme start="20230506230000 -0300" stop="20230507000000 -0300" channel="cbnrede.br">
  <title lang="pt">Globo News Painel</title>
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
    ###dom###
-<programme start="20230430000000 -0300" stop="20230430060000 -0300" channel="cbnrede.br">
+<programme start="20230507000000 -0300" stop="20230507060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230430060000 -0300" stop="20230430090000 -0300" channel="cbnrede.br">
+<programme start="20230507060000 -0300" stop="20230507090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230430090000 -0300" stop="20230430093000 -0300" channel="cbnrede.br">
+<programme start="20230507090000 -0300" stop="20230507093000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Autoesporte</title>
  <desc lang="pt">Com	Guilherme Muniz e Marcus Vinícius Gasques</desc>
 </programme>
-<programme start="20230430093000 -0300" stop="20230430120000 -0300" channel="cbnrede.br">
+<programme start="20230507093000 -0300" stop="20230507120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Esportes</title>
  <desc lang="pt">Carlos Eduardo Eboli</desc>
 </programme>
-<programme start="20230430120000 -0300" stop="20230430150000 -0300" channel="cbnrede.br">
+<programme start="20230507120000 -0300" stop="20230507150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230430150000 -0300" stop="20230430210000 -0300" channel="cbnrede.br">
+<programme start="20230507150000 -0300" stop="20230507210000 -0300" channel="cbnrede.br">
  <title lang="pt">Show da Notícia e/ou Futebol</title>
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20230430210000 -0300" stop="20230430223000 -0300" channel="cbnrede.br">
+<programme start="20230507210000 -0300" stop="20230507223000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230416223000 -0300" stop="20230416230000 -0300" channel="cbnrede.br">
+<programme start="20230507223000 -0300" stop="20230507230000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Sustentabilidade</title>
  <desc lang="pt">Rosana Jatobá</desc>
 </programme>
-<programme start="20230416230000 -0300" stop="20230417000000 -0300" channel="cbnrede.br">
+<programme start="20230507230000 -0300" stop="20230508000000 -0300" channel="cbnrede.br">
  <title lang="pt">Fim de Expediente</title>
  <desc lang="pt">Dan Stulbach, José Godoy, Luiz Gustavo Medina</desc>
 </programme>
@@ -2695,11 +2721,11 @@
 </programme>
 
       ####Canalteste####
-<programme start="20230428000000 -0300" stop="20230502000000 -0300" channel="Canalteste">
+<programme start="20230508000000 -0300" stop="20230512000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230502000000 -0300" stop="20230504000000 -0300" channel="Canalteste">
+<programme start="20230512000000 -0300" stop="20230514000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
