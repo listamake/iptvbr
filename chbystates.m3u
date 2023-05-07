@@ -67,6 +67,10 @@ https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6I
 #EXTINF: -1 tvg-id="RedeEstacao.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZuJlWyJ2YLEi-GCuScjTSxrN79ocxJRzY7w&usqp=CAU" group-title="Pernambuco: Recife", 14.1 Rede Estação HD
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-chno="009" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="Pernambuco: Recife", 17.1 Record News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF: -1 tvg-id="TVnova.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Pernambuco: Recife", 21.1 TV Nova HD
 https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 
@@ -81,7 +85,7 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Pernambuco: Recife", 32.1 CNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODI5ODQzMTQsImlhdCI6MTY4MjM3OTUxNCwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODIzNzc3MTQsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.9TcsJbFQo9pyu1t0N1SBRSoJX2UxVdYwPTmdoSjUImw&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODM0MjQ4OTYsImlhdCI6MTY4MjgyMDA5NiwiaWQiOiI2YmYzMmY0My1jMjM1LTQxMTUtOGE1Ni04NWE2Y2FkNjNjYzAiLCJuYmYiOjE2ODI4MTgyOTYsInVpZCI6IjZiZjMyZjQzLWMyMzUtNDExNS04YTU2LTg1YTZjYWQ2M2NjMCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.955BYN6nuZrRwz8jMMRdPIYv9A7PbdLQyxIVw1-MuFc&uid=6bf32f43-c235-4115-8a56-85a6cad63cc0
 
 #EXTINF: -1 tvg-id="CanalEducacao.br" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Pernambuco: Recife" , 46.2 Canal Educação
 https://canaleducacao-stream.ebc.com.br/chunks.m3u8
@@ -90,7 +94,7 @@ https://canaleducacao-stream.ebc.com.br/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="Pernambuco: Recife" , 47.1 REDE VIDA HD
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="Pernambuco: Recife" , 47.1 Evangelizar HD
 https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w484250153.m3u8
 
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Pernambuco: Recife" , 51.1 REDE VIDA HD
