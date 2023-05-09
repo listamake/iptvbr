@@ -2143,35 +2143,35 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20230508000000 -0300" stop="20230508050000 -0300" channel="cbnrede.br">
+<programme start="20230510000000 -0300" stop="20230510050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230508050000 -0300" stop="20230508060000 -0300" channel="cbnrede.br">
+<programme start="20230510050000 -0300" stop="20230510060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230508060000 -0300" stop="20230508070000 -0300" channel="cbnrede.br">
+<programme start="20230510060000 -0300" stop="20230510070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230508070000 -0300" stop="20230508093000 -0300" channel="cbnrede.br">
+<programme start="20230510070000 -0300" stop="20230510093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230508093000 -0300" stop="20230508100000 -0300" channel="cbnrede.br">
+<programme start="20230510093000 -0300" stop="20230510100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230508100000 -0300" stop="20230508120000 -0300" channel="cbnrede.br">
+<programme start="20230510100000 -0300" stop="20230510120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230508120000 -0300" stop="20230508140000 -0300" channel="cbnrede.br">
+<programme start="20230510120000 -0300" stop="20230510140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230508140000 -0300" stop="20230508160000 -0300" channel="cbnrede.br">
+<programme start="20230510140000 -0300" stop="20230510160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
@@ -2744,7 +2744,7 @@
 </programme>
 
        ####RSNewsSports.br####
-<programme start="20230409000000 -0300" stop="20230514000000 -0300" channel="RSNewsSports.br">
+<programme start="20230509000000 -0300" stop="20230514000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
@@ -2823,15 +2823,15 @@
 </programme>
  
    ####MixFMBelem.br####
-<programme start="20230428000000 -0300" stop="20230502000000 -0300" channel="MixFMBelem.br">
+<programme start="20230509000000 -0300" stop="20230512000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230502000000 -0300" stop="20230505000000 -0300" channel="MixFMBelem.br">
+<programme start="20230512000000 -0300" stop="20230515000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230505000000 -0300" stop="20230509000000 -0300" channel="MixFMBelem.br">
+<programme start="20230515000000 -0300" stop="20230520000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
@@ -2864,7 +2864,7 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20230509000000 -0300" stop="20230516600000 -0300" channel="TVTop.br">
+<programme start="20230509000000 -0300" stop="20230516000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
@@ -2878,7 +2878,7 @@
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20230508000000 -0300" stop="20230516000000 -0300" channel="RetroCartoon.br">
+<programme start="20230509000000 -0300" stop="20230516000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
