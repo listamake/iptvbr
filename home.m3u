@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (09/05/2023,01h34m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (09/05/2023,21h34m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -266,9 +266,9 @@ https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 
-#EXTINF: -1 tvg-id="lifeChannel.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c0e655688a14b616d690908fe663ffb.webp" group-title="Documentários" , Sou tv.
+#EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_279,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="Variedades" , Vivax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CrAFyoRc4wXrWfhWzUXgMLoSKUk5F0TVdNn2yd-6QdvVREv35eCGrXRKJWBFhuL3qQXD2rTHOXRk0PsENikztRhZuEKV1TjAiVQh88KeqqbQ2VwtjWjy4Rl-0dJ48AfthFeUR5rWvpV4HG6NiLlex2MVO6Wlt9npe8ETfKPArlwzWOpXmGVbRANK7AhC77-C1-SY8NTlfUroq9HQhJjyoB75imt5oWn9X8Vll5d25uc6zkmMXqndk45592eiwqJuYWMUVN1t40LVu7PcSMtIhHUe_xV2AQD8FQtK0XkEUs3QLmrAsCGSRh_ZoqAHKoM8iorAAa5KCheiGuhlRpFLKx1sfmflAfFNuJkpKVwfJ2DqLD_HLARWV1BWAGQ4mV_bOKMkYFRv8APbg2tN2owRF4fXzqNRNa9bKI-O7uY9i8GMsN9N8DggSc_fI37fRY7kNhz5ME8rPSAnrKv7Obl3wQTEFh0zrxDFaSau8SLih7ph2D0QpAP6-HQm2svILArLvmbrHfeSqrBZ7OP9VXrskdBbhr-LLA4wGlVNqvLrnkWeVz-aRCkt0-AEzhW560xfa6EpzcY7yV3uGfqopbO9Mx58RKgvrrfzOlAchIF_64ioytgzlB-3qk7WHrWDFgj1VO8y8MNW5-kM7rmfGsu_IcBRJAt-ec9HOcQ3xnGE_b-xEPqitQv7VllsOLzogJSB-7L1dDccHZ-P0Rim5Mv-XzycSnF5RIkxem5mNORWymTrrwPLNLCsdAj78FZfGhijK6NSn_GrMHxrsln7r1RR1sqt1ptoJbpcR2MC5WuM8K0XOW2rFNcmUjzr7pMn014xOmFYxIwC5kzZU-O-iMmf-KHGiwyZgOCStBTrb7PM7bg5Yej6JC_XPTJwoHEuMeh_cRRmGsJLlrhq4XGWjlqgmMtTDRoMo9KnXehVTTjikpVdIAEqCXVzLWVhc3QtMTD5BA.m3u8
 
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
