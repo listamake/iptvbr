@@ -524,7 +524,7 @@
  <title lang="pt">TRIGUN STAMPEDE</title>
  <desc lang="pt">No escaldante planeta de No Man's Land, infestado de a sobrevivência da humanidade depende de Plants, usinas biológicas capazes de produzir qualquer substância a partir do nada.</desc>
 </programme>
-<programme start="20230513213000 -0300" stop="20230513320000 -0300" channel="anitv.br">
+<programme start="20230513213000 -0300" stop="20230513220000 -0300" channel="anitv.br">
  <title lang="pt">El-Hazard</title>
  <desc lang="pt">Tudo começou quando Makoto Mizuhara, um aluno normal da escola Shinonome, construiu uma máquina para o projeto de Ciências que seria um modelo para o colégio. Porém, Jinnai morre de inveja de Makoto que tem liderança em tudo o que faz como nos estudos, nos esportes, e ainda é mais popular que ele.</desc>
 </programme>
@@ -2107,43 +2107,43 @@
  
     ####radiocidadeverde####
 
-<programme start="20230510000000 -0300" stop="20230510063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515000000 -0300" stop="20230515063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230510063000 -0300" stop="20230510083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515063000 -0300" stop="20230515083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230510083000 -0300" stop="20230510100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515083000 -0300" stop="20230515100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230510100000 -0300" stop="20230510113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515100000 -0300" stop="20230515113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230510113000 -0300" stop="20230510120000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515113000 -0300" stop="20230515120000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230510120000 -0300" stop="20230510140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515120000 -0300" stop="20230515140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230510140000 -0300" stop="20230510180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515140000 -0300" stop="20230515180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230510180000 -0300" stop="20230510200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515180000 -0300" stop="20230515200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230510200000 -0300" stop="20230510210000 -0300" channel="radiocidadeverde">
+<programme start="20230515200000 -0300" stop="20230515210000 -0300" channel="radiocidadeverde">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230510210000 -0300" stop="20230511063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230515210000 -0300" stop="20230516063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
@@ -2201,11 +2201,12 @@
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230513120000 -0300" stop="20230513000000 -0300" channel="radiocidadeverde.br">
+<programme start="20230513120000 -0300" stop="20230514000000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230507000000 -0300" stop="20230508000000 -0300" channel="radiocidadeverde.br">
+ 
+<programme start="20230514000000 -0300" stop="20230515000000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
@@ -2273,44 +2274,44 @@
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230509093000 -0300" stop="20230509100000 -0300" channel="cbnrede.br">
+<programme start="20230509093000 -0300" stop="20230512100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230509100000 -0300" stop="20230509120000 -0300" channel="cbnrede.br">
+<programme start="20230512100000 -0300" stop="20230512120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230509120000 -0300" stop="20230509140000 -0300" channel="cbnrede.br">
+<programme start="20230512120000 -0300" stop="20230512140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230509140000 -0300" stop="20230509160000 -0300" channel="cbnrede.br">
+<programme start="20230512140000 -0300" stop="20230512160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230509160000 -0300" stop="20230509210000 -0300" channel="cbnrede.br">
+<programme start="20230512160000 -0300" stop="20230512210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230509210000 -0300" stop="20230510000000 -0300" channel="cbnrede.br">
+<programme start="20230512210000 -0300" stop="20230513000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
      ###sab###
-<programme start="20230506000000 -0300" stop="20230506050000 -0300" channel="cbnrede.br">
+<programme start="20230513000000 -0300" stop="20230513050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230506050000 -0300" stop="20230506060000 -0300" channel="cbnrede.br">
+<programme start="20230513050000 -0300" stop="20230513060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230506060000 -0300" stop="20230506090000 -0300" channel="cbnrede.br">
+<programme start="20230513060000 -0300" stop="20230513090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230506090000 -0300" stop="20230506093000 -0300" channel="cbnrede.br">
+<programme start="20230513090000 -0300" stop="20230513093000 -0300" channel="cbnrede.br">
  <title lang="pt">O Mundo em Meia Hora</title>
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
