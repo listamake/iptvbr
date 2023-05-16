@@ -74,6 +74,10 @@
  <display-name lang="pt">TV Aracati HD</display-name>
   <icon src="https://pbs.twimg.com/media/EYa33F7XQAIqFze.jpg"/>
 </channel>
+<channel id="ulbtv.br">
+ <display-name lang="pt">UlbTV HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp"/>
+</channel>
 <channel id="FronteiraMovies.br">
  <display-name lang="pt">Fronteira Movies</display-name>
 </channel>
@@ -1105,6 +1109,98 @@
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
  
+    ###ulbtv.br###
+<programme start="20230516000000 -0300" stop="20230516073500 -0300" channel="ulbtv.br">
+ <title lang="pt">Séries da TV</title>
+ <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
+</programme>
+<programme start="20230516073500 -0300" stop="20230516090000 -0300" channel="ulbtv.br">
+ <title lang="pt">Realidades Brasil</title>
+ <desc lang="pt">Assista de segunda a sexta ao vivo, às 07h35, Realidade Brasil, com a apresentação de Gildinho e participação de Rony Locher, Notícias do Brasil e do Mundo.</desc>
+</programme>
+<programme start="20230516090000 -0300" stop="20230516120000 -0300" channel="ulbtv.br">
+ <title lang="pt">UlbTV Kids</title>
+ <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
+</programme>
+<programme start="20230516120000 -0300" stop="20230516150000 -0300" channel="ulbtv.br">
+ <title lang="pt">Tele Clássicos</title>
+ <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
+</programme>
+<programme start="20230516150000 -0300" stop="20230516163000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cinema na TV</title>
+ <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
+</programme>
+<programme start="20230516163000 -0300" stop="20230516183000 -0300" channel="ulbtv.br">
+ <title lang="pt">Sessão Anime</title>
+ <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
+</programme>
+<programme start="20230516183000 -0300" stop="20230516203000 -0300" channel="ulbtv.br">
+ <title lang="pt">Ulb Seriados</title>
+ <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
+</programme>
+<programme start="20230516203000 -0300" stop="20230516220000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cine Pipoca</title>
+ <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
+</programme>
+<programme start="20230516220000 -0300" stop="20230516223000 -0300" channel="ulbtv.br">
+ <title lang="pt">Só para Rir</title>
+ <desc lang="pt">Assista as pegadinhas mais engraçadas.</desc>
+</programme>
+<programme start="20230516223000 -0300" stop="20230516230000 -0300" channel="ulbtv.br">
+ <title lang="pt">Hora Clipes</title>
+ <desc lang="pt">Os melhores clipes estão no Hora Clipes.</desc>
+</programme>
+<programme start="20230516230000 -0300" stop="20230517000000 -0300" channel="ulbtv.br">
+ <title lang="pt">Mr. Bean</title>
+ <desc lang="pt">Mr. Bean é capaz de transformar as mais simples situações do dia a dia em cômicas confusões.</desc>
+</programme>
+ 
+<programme start="20230517000000 -0300" stop="20230517073500 -0300" channel="ulbtv.br">
+ <title lang="pt">Séries da TV</title>
+ <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
+</programme>
+<programme start="20230517073500 -0300" stop="20230517090000 -0300" channel="ulbtv.br">
+ <title lang="pt">Realidades Brasil</title>
+ <desc lang="pt">Assista de segunda a sexta ao vivo, às 07h35, Realidade Brasil, com a apresentação de Gildinho e participação de Rony Locher, Notícias do Brasil e do Mundo.</desc>
+</programme>
+<programme start="20230517090000 -0300" stop="20230517120000 -0300" channel="ulbtv.br">
+ <title lang="pt">UlbTV Kids</title>
+ <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
+</programme>
+<programme start="20230517120000 -0300" stop="20230517150000 -0300" channel="ulbtv.br">
+ <title lang="pt">Tele Clássicos</title>
+ <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
+</programme>
+<programme start="20230517150000 -0300" stop="20230517163000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cinema na TV</title>
+ <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
+</programme>
+<programme start="20230517163000 -0300" stop="20230517183000 -0300" channel="ulbtv.br">
+ <title lang="pt">Sessão Anime</title>
+ <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
+</programme>
+<programme start="20230517183000 -0300" stop="20230517203000 -0300" channel="ulbtv.br">
+ <title lang="pt">Ulb Seriados</title>
+ <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
+</programme>
+<programme start="20230517203000 -0300" stop="20230517220000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cine Pipoca</title>
+ <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
+</programme>
+<programme start="20230517220000 -0300" stop="20230517223000 -0300" channel="ulbtv.br">
+ <title lang="pt">Só para Rir</title>
+ <desc lang="pt">Assista as pegadinhas mais engraçadas.</desc>
+</programme>
+<programme start="20230517223000 -0300" stop="20230517230000 -0300" channel="ulbtv.br">
+ <title lang="pt">Hora Clipes</title>
+ <desc lang="pt">Os melhores clipes estão no Hora Clipes.</desc>
+</programme>
+<programme start="20230517230000 -0300" stop="20230518000000 -0300" channel="ulbtv.br">
+ <title lang="pt">Mr. Bean</title>
+ <desc lang="pt">Mr. Bean é capaz de transformar as mais simples situações do dia a dia em cômicas confusões.</desc>
+</programme>
+ 
+
     ###CentralTV.br###
  
 <programme start="20230425003000 -0300" stop="20230426030000 -0300" channel="CentralTV.br">
