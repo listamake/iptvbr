@@ -26,6 +26,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://cdn.jmvstream.com/w/LVW-10808/ngrp:LVW10808_jZWJ3oGkDV_all/chunklist_b3128000.m3u8
 
 
+
 #EXTINF: -1 tvg-id="culturapara.br" tvg-logo="https://lh3.googleusercontent.com/tVsFBI_ehZbBcxWnrVpCd7ko6Gl2w0potfQkIbpYsY8NVI4FBHdcHUlbNcX4_ttVnMM=s200" group-title="Pará: Belém" , 2.1 TV Cultura HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 
@@ -42,6 +43,19 @@ https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="RBATV.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="Pará: Belém", 13.1 RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
+
+#EXTINF: -1 tvg-id="RedeMassa.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Rede_Massa_Flat.jpg/revision/latest?cb=20190405220541" group-title="Paraná: Curitiba", 4.1 Rede Massa HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Paraná: Curitiba", 6.1 CNT Paraná HD
+https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODQyMTkzODUsImlhdCI6MTY4MzYxNDU4NSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODM2MTI3ODUsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.oFwAKyrkCU-iPCYivQqvEFbz30OHwNoHHcxJ7QJ9rwQ&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="Paraná: Curitiba" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjjKFPE1dR10rEbyAE2fus0Mu0iQ0mEwehWdlf6uQ=s250-c-k-c0x00ffffff-no-rj", 9.1 TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+
 
 
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Pernambuco: Recife", 2.1 TV Jornal HD
