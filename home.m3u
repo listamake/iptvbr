@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (24/05/2023,02h26m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (24/05/2023,18h26m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -47,7 +47,7 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF: -1 tvg-id="redefamilia.br" tvg-chno="013" tvg-name="Rede Família" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a9wVaOGB6q9EkRQ2jXRS8obA7MifL81xLrKqq91v32ergE5YRmj48O4HYgrmWO3Av-o&usqp=CAU" group-title="Variedades" pltv-subgroup = "NTRU", Rede Família
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1865404650.m3u8
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1434766956.m3u8
 
 #EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="014" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
 https://video01.kshost.com.br:4443/alan4876/alan4876/chunklist_w208410687.m3u8
@@ -110,7 +110,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-chno="033" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", CNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODQ4OTQ0NzMsImlhdCI6MTY4NDI4OTY3MywiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODQyODc4NzMsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.ksY69Yz04f3sLQdGB5973zMyoIqGH-zdE0pRS3IgFbU&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODU1NzAzODksImlhdCI6MTY4NDk2NTU4OSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODQ5NjM3ODksInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.l94P3PUm_CvUmmHqWb7aobpvVDvX7gUWWD3FBehDLYM&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-chno="034" tvg-name="Rede Meio Norte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU" group-title="Variedades", Rede Meio Norte - TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
@@ -252,7 +252,7 @@ https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1154821370.m3u8
 
 #EXTINF: -1 tvg-id="ch.br" tvg-logo="https://labdicasjornalismo.com/images/ck/images/Capturar(4).PNG" group-title="Entretenimento" , Canal Linear: Chaves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cq0FNH0YuzQR0j3Vw2kF2TymA-OcL_AycFd5E-BfoKk2COzhQ8KOlLnVCo8ss-FmIacim6Ya8wG-GWID5DFPw1zs9sPJ5q2EfyhhieWVFeDbpUMDE8i5KK47x1N3FCuCMU39dIGXwH0uZEOMVk3Wld-P29cLex2d7uGAV1kEsaIMXyXPFntlDmUoe_FGKmksy4q7-ekVJfqlw5y62g0zU1rAndp_2HxuOtiO6c5eRYS2NpsyNj9iifSVbelFh86-Udua2SciaT-UrPVJ9vM3rGLWU1UlcsgjNOHf2PZDZq2Lu9qkmwg8a1U_wNMDSEcA27msfHw7U683GrSRX1SL0AZjN471Cas_nlR-TJRhIXF-KzsZFS1Vd-UuOHgWjG7V862FeH1rR_nBSajp6Mi-phglvrEAU3Q5c7vp7fmx0klNjm95-Hk1JwCHltVvk52hXa_wsc0SrbfLkDHKjwpx000WK_qf1uWYXC9S1kj8-LRPOcAocInUAFVYFmJTFN0wJ67KRw29F-pADImbr_g5CFmzCR009imqbFzi1MazpL_vq00rMBvotacWQmR3ITJKBd9ekgoMHJmnttIhvtNVSpI75puFOpRwoQdUqzCEMnrXEvCdyNLaFkYD7JeoaczCpuEoKKgMUCdcMDKVHeamLVo6FoeHXPfm8zbcZ1V8wWLpPSdmtHNVx_JNeETnUeYVrcpOyE3R2jVHlibCq1obr0YYy06lGtO6kDVy4k0CM_Uc0pUqUAdWgkog44wFC8v6C2Mf3EM0qbAr2QegseB1YPM1mgMJPZEWIB17E6iTDtH2fOXPQU_KcIuhDExBk9Eo1xyA415JewlgorRmSogwnHDqcO-SXxTQEuHn8Hpja_d7NlVfvmetWG55vC2ZfkCFBZD46BYPSE34EezYtP7RVRoMYALjF-dyMveqwaHzIAEqCWV1LXdlc3QtMTDIAg.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CqwFyzijwQGpR4vCqG0AyUbw5Ny_aeEj4mAvHrR2R1jxrGLz32B2mBKbDuooYnkTQmFYdszDxdNHpPxePk9uZHu43SWpmq-HfxKnHIJykFkoh2xV8G44GSXI6WMBdRsAvmDvfg2UGgrTfo_EdWrR_20kPWNWM-zUwOOSaMAg5rfHck7F4NyX-uV_6IIwhO9bhDi3SJqM6JWMYjZ-aUvu9NgCzjZpaU3DHvwvrnOJuutibodCCGCz9rhTT0itV7gTBzh6dL4hXYaUVdEXyB1Q-B4_ODkmAGwV0ia2oJP0_xv6ZoeVZj1xkMEek_OMfTU35twD6gR-2eYzoY4k9vFDQbpcpvVeLIi8yh0BiYYdhfhl8xY80z-jBURgGR8eXTMfmczl4ua9AnK7y3W_K0T1I_okojGIteNhU8yh3ZBma9Tgevq7vxm1wqnooBd6kxvwPKYZrl_49PTualbX50NJmf8etJMgcDXaZhchx5-lMP45c8nwwDf2TKSmJaZhDtGolzQ2hOu_HzZ18ySIeFmLmM0MzNqD8BbGdvD2XvlDViD_UOm_Q8u224J1iDva0B6G-1rxdVfvl_3oJAzCixcXoo8ma-ttymFVNXJrJF5aGRuJS1Tki_0oM0Zs2cIUfwk4FtO47nfdR2udoaNHueiBFW3WSCzuQwZaHljvwnhNwrga_3PEBjFfgLBAvTn5WMu7GfZ9YtXRAh7sYKZXcaardpc_WkHy5f7WAfF_o_Ii6PeT9BfG757lKimjSUJwLmuFdaJ6E4K4u7PJsGlUT-YjcYLkj-RZ5PUmswDEJX0_90_kZ3djOAprayz7K-C6lD07X6aLBhnq2v-M7XIubHU1xwA9xKOGN2nAYy4ou_aUxJWejmNWjuMyrTbKZiQ_hIoAi4rQxTWEi_O-YXs-vfiAGgxANXcLHzuEqyrVovcgASoJdXMtZWFzdC0xMIcF.m3u8
 
 #EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -271,7 +271,7 @@ https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 
 #EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_279,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="Variedades" , Vivax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CrEF-04OYy4dJ9dHm2vzusgdOU94Ast7huXRzXxjkeZ_JQNFSwtU_8DPq8rGfPC9-idabyZyDIFN9PQwPT6QWrcefFVVRNHo6MJj2QBhP0TZ2RWjSorUILz70MTqjE89eplwwA5ye9veGDs8nWZWT39OfNxCMhFMRv8vCRIUK1eBWR2GfdokNHVacGQCxZ9XkqwiFpybwe3pmIVmQJG7IboCqdepxylavLuDycDpcqD4NpETwDdUQRkFnfcQ2QzUgB3B-P5HP1Ew1mmDcYgQrl5Q0tBHV-BiYlE_J54iyGIdV7cwEsYK_4KE7vmlgVt7cCpCTKLLlCkTe4xrON8xi3WeSrklJ8cL1R9zu6A49ow0QTUT0hz_X9NFRv82YwHX6neN3wAbrlQhpjxZVcwUl2vldLSXFfDScrdMZCHr1HAzVQC-JcQYZyL8D4XZq_u5cKePDqnf5_wpGXwcqmWMqHZHB945GgYfVr3sz6j2aLU278yvUcK874x-AsGUEDc7lg1Z7SfqxNtqahfTszJJwQRg0Q8S0m-ogWKw0JncJUVnMBpOvd4nUgTOZdODPEX5gwIr2AMziOBrmEpyOhoPuXwy_sPg-vDa0yMW14ONtAWtrvPQgAT7k_-B3IPK-_f3tYvxgny5Z0qqwLDFuHqe0ZZlqh6sxbqcp3mcRggiz1LHAHV344IvHN2naRASis-JwWGVthPNvw2UFwhDrN8YjJ5wfEwo-fMKkAcBpPrjsusLAree_wYLfDq0MZcFKT1IF4RtXd8nV5rMqLpiNjMo654eawoVUsyo_GjybvBnsIbxJAT8PqyF2jgSvUPQ1Wq_PvgXgktC3YbP6NPxZj8_8QIQuchdWCZIo7dcNHZpxJ515ckQaoDotUVuek3pEFDaakDaOglwGjAOltoxwwa_39JdTkgaDCbX9n7s9QE1U6lm_iABKgl1cy1lYXN0LTEwhwU.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cq4FMsT8dmZAM5_rr7UN0c1vbGPWI4kZ90r571j61qAH06u-SfjyPxZIETBX-d5ssY49HEcBtqBIleQSr6d7b8WwsYwZzo5a9u953QvpZSPT5oVPatnovkFT3xvK5AE_ZGYs7GselN_BwIaGa7RTYyMkYN3ND6cquNwj5Y8mlx9afd-afXjMmFE18emnXxoMH75PG0-G19h60IeX8Bt2aDDd2PiqBLCGvlYIn99LnvBmjU4lOUxRIwO6iuUkRjqlZBe5GjGDCfGjBKwbOoyZxOsHnOI1-vnuMaWH7X0qQ0y_-EGTTtsPgCTwvARexlhEOUETOxSJz3-BFw1-2ADGUT1ME34QO44yT0raPlGwzzW3Rz22n9LyWvaEU4br62k0U8j4Zv9gxc4jAt3m81lAdXBVoBbnPhcGAucCZGWJ-01f2qyP-fHxEjn2rCxZ-rBCllYKOR15dxOuQyQtVJFeFgqM3fh_0VkaA4Dhz4QBoMHHX0ry4joAKS71MgTuF3Dq_GrfTECSDVkDpjmnmp_b1IgCFDwc70lDgNA6YIikvcssx_d8Jz3HpoyVfuPU1HpH1B-LO-VxrdNOsxbYrP7NJw7YkFMLAKhx0eEBoWr4wi_PU-eujKDxUEp3Pc349gvqlhW8xFViY5U5nHEh4biLkZEtu1sBMfpNZCBQKWc41Epn5CepvtbaOdLzxvZBqYYXWhpWSbc0gNqhbKWg-ixP8AMBlzRxErCyByzqSFy8WEbvt0dFmiIgVTXVuj_ifJPsPvc1r8FNcdgpbzLp83Yu8qHAyx5Zn7Id9Cga1VrSKvdzp9Aq-gwsKinYbsZaNXLdCzKMs8zMi9DBk2q_LUhTLcWkLm4C_P4UwTH1WYnelxegEg6mWaJnXwrBigHB9ykwrVzLCj0M_xe_K04Pw-x7MHAaDPzb8VzjCLtsLbzM_iABKgl1cy1lYXN0LTEwhwU.m3u8
 
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
@@ -363,7 +363,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-ezhuVTjperKMPppnili-HEiV6JM3DlLaOhFo-XvzEnj)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-XJl-iwcBIGjGIoNqebzm45XojZgnefk_wthNgyU5rDk)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -469,10 +469,10 @@ https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/play
 https://stmv1.srvif.com/tvu/tvu/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Salvador HD
-https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODQ4OTQ1MzcsImlhdCI6MTY4NDI4OTczNywiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODQyODc5MzcsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.BA72I2XE93O752jWA0hy1xtfatr6X0iJl8zsK0c7mAc&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODU1NzA1MzYsImlhdCI6MTY4NDk2NTczNiwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODQ5NjM5MzYsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.diG-D0mIBTlmpmHYaLsQYOHi_TeOR3jAH_kXDMNlpqQ&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Paraná HD
-https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODQ4OTQ1MDAsImlhdCI6MTY4NDI4OTcwMCwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODQyODc5MDAsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.Fo0gv6xbd7j0F8-OaWIiOrGs9fkzNR_wqVx9XABdCsM&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODU1NzA0MTcsImlhdCI6MTY4NDk2NTYxNywiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODQ5NjM4MTcsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.H5tRA74t9Pq4sBigBRT_pS1CacHrH8tXFKFeRokK1i4&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="TVNBT.br" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais", TV NBT
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
@@ -497,13 +497,13 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 #EXTINF: -1 tvg-id="redeamerica.br"  tvg-logo="https://observatoriodeourofino.com.br/wordpress/wp-content/uploads/2021/11/Rede-America-1.jpg" group-title="Entretenimento", Rede America TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CrcFnSEu7KVrqsG_Iy0lLnF7vizR_5N0GZOgZs07NT0dIs_gDUW_TrWwvEKdb9PWQBtGAilhiD1k_7AybNaF2oPkqkuwEyTqAite0b7Pxl5mNyt2V5eTKMM_YJvWTt_eVf0_TGqWbiq5U2JcOf06B_51jTh2SjinKBmpKvUSXNC_j5RiLQR9vfmZ7KxV0v-tPUTV9k9JOUBdZ1DG-rP2QvIMp8Oa_YjgtbeUe76E-mflNuaxsbYpFP9VKfqim8yEWH50Y0q9YUlnzzAenGqYdTtlYRWOQ2iqvSMpZ3GhBhDHYy1j9F9zMNqo6uzb68c4qC11ASB0PD1p-Qo5ljDCakLd4fhosbuxyDjxGzFXh7fVsChKdgl3gVplj2Z5tniGVfNZ7tX9tbWjsnvZq4N0SGRq0ohDj7HxHG3D2Sy26XYG73a44vaeJVjyFt0497noJzFc37pnJKkkmb-n3btFMi_ZWY1gSq1ssrhd6-iNvgClPo94r6FTSg3-6l3xxUf0YljmB_Ohb7nXU3z5bzHe1z_93_6MMsQ-w6gn1OfWreJ8-daktNTZ4IHQjhDTTS0MuYtmp6RJyWnm5LMltRgCtpgsScRncFqDAr89Wf3t2cX0h2Wi_5uIgv5Xt3HeHdmvjYr_gge9IjID2Pru3K1FimVND-1WAVCvnFvBA1VWkhGj0zobtwd1MGU_Bj6BpXnzmyo1uulnrsnRLtDd6YqpCENWj9q4TNu1Huz-i5JVktOmrLwNJjuEuw1rQdAg1rY17PR-NQ-GgnihEZWXed4ig8mferp2LV5hmZHSWZNg5luFwOAKCpe2oderPkZIxu62qQFFac36qGjE4qPi7wwiBUCaHxNv4AszCffqa2LvJlp-yLas3bstTqcIhrlycol9sG-rNCotl5WVCfQnmf8RsZy8c-SELs13a3EaDDCUsqdt6xIhJau0HiABKgl1cy1lYXN0LTEwhQU.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CrQF9Pf5qIXiK6yo3-cYiffCrYb4y9tdpWJ9blLBcuvmeluNo-L-HE4AhELAZovTPnmpJx3P2jb6N5o69z_PG2levF3uaEqmTs3q83aWY1c5Gzz7VXcn4CGjD6HdHu_wQK583wSUwbrY_6DccsJ1MNe-1sUp9hSsY3O2pR9Jg__0Z2OkH_AnkVA0Jh5ZSOzeTGN__8m4WWy99D_-T2_pVIGkfdhdmCGcPZIF5j1MhxSNij4MD433AcQCgsHEZ99YAP1QMWZOMSidew9pEPdNxe7cejyXzfnxKQHsUezKW5cTIr_cH9fOA5HN_T6oEKwCjsi6YgsiCkzpaj0KIbVZyCdGi-COjIByhP-ja8pJFisGab84g1i-pf2I7u6ASpT8KQ6j8sjuJ4EY3X7fJNlKttRZp94vu-f58JaFga8QSPguM2BRgOelXAM_2TkxIscsEbjo68T_835T52zcUBqOAQviyN2u91NYwvOJJGJAmw78qKeHRgqLbYZsKR-x9WzW-W_xznxa3AgrK4GHp7fJVGho-27eXkBKaD13xadm_Fu2TNpLT0SlHUuGVdGTo_Ta6CVNWrv6JT90-XNLDYOlwPaXBk--5DM-0L5pZGVmYnrLNrh5hwVv8PCDL7WCQF1A3dpO-DxSxlw-_0tkJRezwMtqEc5aaVyD_s3tHiaDjun-F6FUIMYWRAJFc85flQrnBY7YDh4n8owVp6mVJ6Jkal2wxT2YKxkjNG4GRn0KCuW_WcMnIjEw6bNQ-Vq4QbyqTNO3MY_aXYoPIBeCI37Vb85JRqeL5Xdj0RkXDL7M90FPckU9ho9YdqXsXDz0LhVeQXNlaEjrgHIXozXyJOrrFfTf6gfHoNvmwt5QgGRLLiGplSBBMqHxWQyNP9bQOpMx6H9oMEsUjyz6aqgxcIjylRTjfT9a1psaDDdIHlo3fwF3ytPaJyABKgl1cy1lYXN0LTEwhwU.m3u8
 
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIpsIkydaZKyaBkpiTWSm6CNUEFXfE-X0GkIPdSw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" ,Rede Metropolis HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-chno="153" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Gazeta Digital
-https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxKn3ROHy48Um8Y1imrdwgzwZa4JUxykeNceeHUDZSXJ)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v0eY1w0hgM22VfTQy7ajPx-R1IglzWcfmcbDNoKE03RT)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
