@@ -767,8 +767,8 @@
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230524210000 -0300" stop="20230524220000 -0300" channel="yaaeeh.br">
- <title lang="pt">Shurato</title>
- <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
+ <title lang="pt">Yeeaah APP</title>
+ <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230524220000 -0300" stop="20230525000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
@@ -1622,19 +1622,19 @@
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20230524150000 -0300" stop="20230525153000 -0300" channel="TVMax.br">
+<programme start="20230524150000 -0300" stop="20230524153000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230524153000 -0300" stop="20230525160000 -0300" channel="TVMax.br">
+<programme start="20230524153000 -0300" stop="20230524160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230524160000 -0300" stop="20230525190000 -0300" channel="TVMax.br">
+<programme start="20230524160000 -0300" stop="20230524190000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230524160000 -0300" stop="20230525200000 -0300" channel="TVMax.br">
+<programme start="20230524160000 -0300" stop="20230524200000 -0300" channel="TVMax.br">
  <title lang="pt">Vegeta TV</title>
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
@@ -1937,7 +1937,7 @@
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023051500000 -0300" stop="20230519000000 -0300" channel="TVNBT.br">
+<programme start="2023052700000 -0300" stop="20230529000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
@@ -1959,7 +1959,7 @@
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20230518000000 -0300" stop="20230519000000 -0300" channel="ISTVHD.br">
+<programme start="20230528000000 -0300" stop="20230529000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -2032,7 +2032,7 @@
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="202305180000000 -0300" stop="2023052400000 -0300" channel="xtremetv.br">
+<programme start="202305280000000 -0300" stop="2023053000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
@@ -2280,20 +2280,20 @@
  
    ####radiosociedade####
  
-<programme start="20230522000000 -0300" stop="20230522220000 -0300" channel="radiosociedade.br">
+<programme start="20230524000000 -0300" stop="20230524220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230522220000 -0300" stop="20230523040000 -0300" channel="radiosociedade.br">
+<programme start="20230524220000 -0300" stop="20230525040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230523000000 -0300" stop="20230523220000 -0300" channel="radiosociedade.br">
+<programme start="20230525000000 -0300" stop="20230525220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230523220000 -0300" stop="20230524040000 -0300" channel="radiosociedade.br">
+<programme start="20230525220000 -0300" stop="20230525040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
