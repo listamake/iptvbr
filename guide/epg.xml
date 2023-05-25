@@ -2364,7 +2364,7 @@
 </programme>
  
   ####EsporteBrasilia.br####
-<programme start="20230520000000 -0300" stop="20230525000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230530000000 -0300" stop="20230605000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
@@ -2403,19 +2403,19 @@
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230524000000 -0300" stop="20230524220000 -0300" channel="radiosociedade.br">
+<programme start="20230526000000 -0300" stop="20230526220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230524220000 -0300" stop="20230525040000 -0300" channel="radiosociedade.br">
+<programme start="20230526220000 -0300" stop="20230527040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
-<programme start="20230521000000 -0300" stop="20230521220000 -0300" channel="radiosociedade.br">
+<programme start="20230527000000 -0300" stop="20230527220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230521220000 -0300" stop="20230522040000 -0300" channel="radiosociedade.br">
+<programme start="20230527220000 -0300" stop="20230528040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
@@ -2495,7 +2495,7 @@
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230524210000 -0300" stop="20230525063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230526210000 -0300" stop="20230527063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
@@ -2609,7 +2609,7 @@
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230524210000 -0300" stop="20230525000000 -0300" channel="cbnrede.br">
+<programme start="20230526210000 -0300" stop="20230527000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
@@ -2638,24 +2638,24 @@
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230527120000 -0300" stop="20230525150000 -0300" channel="cbnrede.br">
+<programme start="20230527120000 -0300" stop="20230527150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230520150000 -0300" stop="20230520230000 -0300" channel="cbnrede.br">
+<programme start="20230527150000 -0300" stop="20230527230000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230520230000 -0300" stop="20230521000000 -0300" channel="cbnrede.br">
+<programme start="20230527230000 -0300" stop="20230528000000 -0300" channel="cbnrede.br">
  <title lang="pt">Globo News Painel</title>
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
    ###dom###
-<programme start="20230521000000 -0300" stop="20230521060000 -0300" channel="cbnrede.br">
+<programme start="20230528000000 -0300" stop="20230528060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230521060000 -0300" stop="20230521090000 -0300" channel="cbnrede.br">
+<programme start="20230528060000 -0300" stop="20230528090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
@@ -2755,7 +2755,7 @@
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20230523070000 -0300" stop="20230526073000 -0300" channel="radioclubeampe.br">
+<programme start="20230526070000 -0300" stop="20230526073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
@@ -2869,40 +2869,40 @@
  <title lang="pt">Boa Tarde Clube</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230520160000 -0300" stop="20230520182000 -0300" channel="radioclubeampe.br">
+<programme start="20230527160000 -0300" stop="20230527182000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="20230520182000 -0300" stop="20230520190000 -0300" channel="radioclubeampe.br">
+<programme start="20230527182000 -0300" stop="20230527190000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
-<programme start="20230520190000 -0300" stop="20230521000000 -0300" channel="radioclubeampe.br">
+<programme start="20230527190000 -0300" stop="20230528000000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Musical</title>
  <desc lang="pt">Transmissão de musicas enquanto não tiver transmissão de futebol.</desc>
 </programme>
      ####domingo####
-<programme start="20230521000000 -0300" stop="20230521090000 -0300" channel="radioclubeampe.br">
+<programme start="20230528000000 -0300" stop="20230528090000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
-<programme start="20230521090000 -0300" stop="20230521110000 -0300" channel="radioclubeampe.br">
+<programme start="20230528090000 -0300" stop="20230528110000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Ritimos Brasil</title>
  <desc lang="pt">musica</desc>
 </programme>
-<programme start="20230521110000 -0300" stop="20230521120000 -0300" channel="radioclubeampe.br">
+<programme start="20230528110000 -0300" stop="20230528120000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Esquenta Galera</title>
  <desc lang="pt">Esquenta Galera é um espaço para os ouvintes entrarem no clima para a Jornada Esportiva e para os jogos do Domingo além de reviver o melhores momentos do passado e presente do futebol pentacampeão.</desc>
 </programme>
-<programme start="20230521120000 -0300" stop="20230521150000 -0300" channel="radioclubeampe.br">
+<programme start="20230528120000 -0300" stop="20230528150000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Show de Notícias</title>
  <desc lang="pt">Notícias dos clubes, reportagens especiais, curiosidades e a participação do torcedor pelo telefone.</desc>
 </programme>
-<programme start="20230526150000 -0300" stop="20230521180000 -0300" channel="radioclubeampe.br">
+<programme start="20230528150000 -0300" stop="20230528180000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Programação Super Rádio Clube</title>
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
-<programme start="20230521180000 -0300" stop="20230521200000 -0300" channel="radioclubeampe.br">
+<programme start="20230528180000 -0300" stop="20230528200000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Balanço da Clube</title>
  <desc lang="pt">O resumo dos jogos da semana, resultados, classificação, as últimas informações dos clubes e a participação do ouvinte pelo telefone, são destaques nas noites de domingo, na resenha Balanço da Clube.</desc>
 </programme>
@@ -3022,7 +3022,7 @@
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
-<programme start="20230524210000 -0300" stop="20230525000000 -0300" channel="radiojornalpe.br">
+<programme start="20230526210000 -0300" stop="20230527000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
@@ -3052,44 +3052,44 @@
  <title lang="pt">Super Manhã - Edição de Sábado</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230520110000 -0300" stop="20230520123000 -0300" channel="radiojornalpe.br">
+<programme start="20230527110000 -0300" stop="20230527123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Mesa de Bar</title>
  <desc lang="pt">No mesa de bar descutimos e debatemos dos mais váriados assunto, com muiita resenha e bom humor.</desc>
 </programme>
-<programme start="20230520123000 -0300" stop="20230520140000 -0300" channel="radiojornalpe.br">
+<programme start="20230527123000 -0300" stop="20230527140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
-<programme start="20230520140000 -0300" stop="20230520150000 -0300" channel="radiojornalpe.br">
+<programme start="20230527140000 -0300" stop="20230527150000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Comando Geral Fim de Semana</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230520150000 -0300" stop="20230520200000 -0300" channel="radiojornalpe.br">
+<programme start="20230527150000 -0300" stop="20230527200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Jornarda Esportiva</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230520200000 -0300" stop="20230521000000 -0300" channel="radiojornalpe.br">
+<programme start="20230527200000 -0300" stop="20230528000000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
     ###DOM###
-<programme start="20230430000000 -0300" stop="20230430020000 -0300" channel="radiojornalpe.br">
+<programme start="20230528000000 -0300" stop="20230528020000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Madrugada com os Reis</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230221020000 -0300" stop="20230421024000 -0300" channel="radiojornalpe.br">
+<programme start="20230528020000 -0300" stop="20230528024000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Debate da Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230521024000 -0300" stop="20230521032000 -0300" channel="radiojornalpe.br">
+<programme start="20230528024000 -0300" stop="20230528032000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã / Passando a limpo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230521032000 -0300" stop="20230521040000 -0300" channel="radiojornalpe.br">
+<programme start="20230528032000 -0300" stop="20230528040000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Consultório do Rádio Livre</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230521040000 -0300" stop="20230521070000 -0300" channel="radiojornalpe.br">
+<programme start="20230528040000 -0300" stop="20230528070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Nossa Saudade</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
