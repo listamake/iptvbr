@@ -1,1 +1,6 @@
-t
+<tv>
+<channel id="anitv.br">
+ <display-name lang="pt">Geekdot HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
+</channel>
+</tv>
