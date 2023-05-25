@@ -3,4 +3,12 @@
  <display-name lang="pt">Geekdot HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5984ccffaa22bd6f8127cda369f45194.webp"/>
 </channel>
+
+# PROGRAMAS
+ 
+<programme start="20220525000000 -0300" stop="20220526000000 -0300" channel="anitv.br">
+ <title lang="pt">Programação Geekdot</title>
+ <desc lang="pt">é Steam na net e anime na veia !!</desc>
+</programme>
+ 
 </tv>
