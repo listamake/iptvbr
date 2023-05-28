@@ -1548,15 +1548,15 @@
 </programme>
  
     ###TVMax.br###
-<programme start="20230525000000 -0300" stop="20230525070000 -0300" channel="TVMax.br">
+<programme start="20230529000000 -0300" stop="20230529070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230525070000 -0300" stop="20230525080000 -0300" channel="TVMax.br">
+<programme start="20230529070000 -0300" stop="20230529080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230525080000 -0300" stop="20230525100000 -0300" channel="TVMax.br">
+<programme start="20230529080000 -0300" stop="20230529100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
@@ -1650,7 +1650,7 @@
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230529000000 -0300" stop="20230530080000 -0300" channel="TVMax.br">
+<programme start="20230528000000 -0300" stop="20230529080000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1966,7 +1966,7 @@
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20230519000000 -0300" stop="20230520000000 -0300" channel="ISTVHD.br">
+<programme start="20230529000000 -0300" stop="20230530000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -2012,15 +2012,15 @@
 </programme>
  
    ####tv bs####
-<programme start="202305270000000 -0300" stop="2023052800000 -0300" channel="tvbs.br">
+<programme start="202305280000000 -0300" stop="2023052900000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202305210000000 -0300" stop="2023052400000 -0300" channel="tvbs.br">
+<programme start="202305290000000 -0300" stop="2023053100000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202305240000000 -0300" stop="2023052600000 -0300" channel="tvbs.br">
+<programme start="202305310000000 -0300" stop="2023060100000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -2031,7 +2031,7 @@
  
  ###xtremetv.br###
  
-<programme start="202305240000000 -0300" stop="2023052800000 -0300" channel="xtremetv.br">
+<programme start="202305300000000 -0300" stop="2023060300000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
@@ -2049,7 +2049,7 @@
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="202305240000000 -0300" stop="2023052600000 -0300" channel="turnerdemo.br">
+<programme start="202306040000000 -0300" stop="2023060600000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -2281,7 +2281,7 @@
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20230524000000 -0300" stop="20230526000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230604000000 -0300" stop="20230606000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
@@ -3149,11 +3149,11 @@
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
        ####AllSports.br####
-<programme start="20230521000000 -0300" stop="20230524000000 -0300" channel="AllSports.br">
+<programme start="20230530000000 -0300" stop="20230604000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
-<programme start="20230524000000 -0300" stop="20230528000000 -0300" channel="AllSports.br">
+<programme start="20230604000000 -0300" stop="20230608000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
@@ -3228,11 +3228,11 @@
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
    ####MaisFavelaTV.br####
-<programme start="20230524000000 -0300" stop="20230526000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230528000000 -0300" stop="20230605000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
 </programme>
-<programme start="20230526000000 -0300" stop="20230528000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230605000000 -0300" stop="20230608000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
 </programme>
@@ -3256,29 +3256,29 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20230521000000 -0300" stop="20230524000000 -0300" channel="TVTop.br">
+<programme start="20230528000000 -0300" stop="20230604000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20230524000000 -0300" stop="20230526000000 -0300" channel="TVTop.br">
+<programme start="20230604000000 -0300" stop="20230606000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20230526000000 -0300" stop="20230528000000 -0300" channel="TVTop.br">
+<programme start="20230606000000 -0300" stop="20230608000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20230522000000 -0300" stop="20230526000000 -0300" channel="RetroCartoon.br">
+<programme start="20230528000000 -0300" stop="20230603000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
-<programme start="20230526000000 -0300" stop="20230528000000 -0300" channel="RetroCartoon.br">
+<programme start="20230603000000 -0300" stop="20230608000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
-<programme start="20230518000000 -0300" stop="20230522000000 -0300" channel="RetroCartoon.br">
+<programme start="20230608000000 -0300" stop="20230612000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
 </programme>
