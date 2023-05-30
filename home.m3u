@@ -271,7 +271,7 @@ https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 
 #EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_279,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="Variedades" , Vivax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CsIFYyS6Mp17zVKyJRFxUIZSlnYFviR2iGI9B8wYj86ecycCPe51x5OaqOjepm1CaFKwFjE3P0iDvZL1Ae24UvuXxKG9NQgMwr0I_zxVaRu_7FK0NDgqRoUgakmY5yZpGfPWOctSpwommNT7OM59KwARmEyddpT0MXQ2MUN0-MIlBapF7mtBgSCk1qcpBeJLFaap038h6ljaCDvhJCF3pna5HxAqyav_gDenU3Mb2mzt33-NeHd8bIu7A9wwp3GZAnX0aRmKsmfcVFlx4pcNP2GngreckcVeBWuPHYnFrgiOA4uKXzZeFlgEhqyBX11kcvtMVueWgFnvQvsYR3Ji62kEd8flqx9miTIJTz-7erbpq2wFrA65GSMKV2y_vr6fc9irC-zMMa4WLUhH-NIl3BRNWpPglPRFaGSjM3Nlej8d2Xvo3grkxXqdlaw1lEgFUIHzyNSGlHzGMl0IBueyhOnkrClCkvFs5Sh0k0zWCskuKu3rft7LNcXpzWbUOixWJfB5YmMN-nLLSVYbRuuYz6ewcGUK9JU-tNf66ghiw5PwzHPHrE0l2UosxpXB79tph3B0QMx-InFnBCCsW1lqNQf2oNk4EAchEFe3QTjYIWz0NxgF7Hv0WGl8qY86hh0p0UV3nG-tVV2jTsK9jOesfpYqBShNa9EiCz2-J6Ig-LmOJ225uOjxEdvqlSY_jPoeVOn5qeOXPz089WHBDQ3HdhB7bXGjCA323Bxh2SHzIbrF7jsCgXDBhjYYrkt0Z-mtiUBX5ER_VC9UR9OfFG7g_QWveqV7Sff8z4bDX5E2_ARtA04PE-mhRWJAOMPhjLOMwXxGT6eTECEkvybxOxVrFUVbv0BGLcDvuohDUlDM4Apdec0i1iyvI-OETDdVFWyD5tKBd42YZOtdRJ4rEtZo6rtT5yMAty0fE62nghgLrtOMtIBkZxoM2tW12qCIFSJvBIlwIAEqCXVzLWVhc3QtMTCMBQ.m3u8
+https://live-ak.vimeocdn.com/exp=1685471363~acl=%2Fb13202b2-2ccf-47ee-9ec8-45de5a030c3e%2F%2A~hmac=826c049add54c9f22080dd987cb0e9ee64040bf129757da53a5756fd09d0a449/b13202b2-2ccf-47ee-9ec8-45de5a030c3e/chunklist_b3256000.m3u8?max_segments=10
 
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
@@ -366,7 +366,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-SSRiJCGOP9Pjb0W5NZQZmFIA6E3vWmzkwDNRw8WfJLj)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-Wx6yH9C6n2mY0-tc8Jyu5u6qvNSS1arCKlHJtdALj9s)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
