@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (29/05/2023,01h26m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (29/05/2023,01h26m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -52,7 +52,7 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1434766956.
 #EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="014" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
 https://video01.kshost.com.br:4443/alan4876/alan4876/chunklist_w1891252931.m3u8
 
-#EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png/v1/fill/w_431,h_431,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
+#EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CentralTV.br" tvg-chno="016" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="Entretenimento", Central TV HD
@@ -250,6 +250,17 @@ https://stream.ichibantv.com:3904/hybrid/play.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1154821370.m3u8
 
+#EXTINF:-1 tvg-id="7tvbs.br"  tvg-logo="https://cdn.discordapp.com/attachments/974885569547079792/1102051839043715204/tventreamericas.png" group-title="Variedades", TV Entreamericas HD
+https://stream.ichibantv.com:3013/stream/play.m3u8
+
+#EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8306e8897f3941eb7c2ac7b583b92f71.webp" group-title="Canais Geek" , Canal Start HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/canalstart/canalstart/chunklist_w1822730812.m3u8
+
+#EXTINF: -1 tvg-id="PLAYTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Variedades", PlayTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
+
 #EXTINF: -1 tvg-id="ch.br" tvg-logo="https://labdicasjornalismo.com/images/ck/images/Capturar(4).PNG" group-title="Entretenimento" , Canal Linear: Chaves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CoUGa9wTdIWTvcGUi90B34Os_pidLqizTi1FFvGzi7YFVb_fCHhmldh_LzVKUH_Cjo7S7odCofweCy4YusMPJMoKgPa5epGQYIxFc-zFwl1INoOcS7Ey14h07L3eHP_f6Ot1LHCLyHnFccPbQw1CJFtO4_9QHANvUYn2EJ2vLzO8vLGN-rCP4Flh3H0yGGfcrmsxdktC_jhqd3Me_leRmhqF4vbnMoPOKg0Tjzil7IBDzP8cMfIAmBan_-N0QkcY7oIKztkOdc-EB4-2rob78Fi7jNaz5APvuxnmNPuMgLxCTFF5bedc9bf8--Fy2PLmzagt5tunXTxvZNSRsmodFz93x1VnPJGgb-C2ZziZpCpbvBzHx3A5xF94_G4UWcfQUTQxjNqAAbmG9dVR-ukm8ZZxOqoQzuq5rH5me-B13D67IcdTBJiFwc-haKFv0SkaUMayb94AlpSSxSnQiCioYgd517ElHjKm5taudSohHDBtwgYDkobozPzrqumxPB8lFMEJ5HuoL0yu42UOEmVhQBMrbBR_AQukGOJ_eXY5WmnF1RizoCLHMptFeWFnrZET39XBRS4Qfq2uXfrqVd8UTnzeYNcS9S4AlVDgiTbDJE-ZO9Zlewk_bgyWmMt1KyA2wTGrJ5IjiRyhdSf2IEIoc14cbkAFjDMMcpDtIapLiknuaxmaG4f8yYdSXxGDZjiJvQ5c-h5XRo-xFW7aI5pnb1MPs4lnddQ9QhHbS5tECMYfcO4TKbtsU4pS72G1j3at4Ok9y_M2M6DE6N7SPIbxaJL7Eql4O8Fuh8Ii7nQn943sQ1TqNwP5mSgdBiWJ72mEHDoCuhbdszBiG6FkPXXCiSYGPzStWoTxe0rJHbcAaryE6V3kLeyaL0Q-eVYsiJp5jScmrNQXJEZxsdF7CtxLHjjBHSLqPQarSvLhm0o1tUO9ItmHCGdf0stwdWcs2Tai_Jfeu_zXqZ3K24_t7Rgo7tw0rYVDIZqNm_f4NuSbFoKzToYTAq8hOrHkXeGyhxBL5JgXxODTfJgaDN6a1XCtd-5kq6HdwSABKgl1cy1lYXN0LTEwjgU.m3u8
@@ -258,20 +269,9 @@ https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CoUGa9wTdIWTvcGUi90B34Os_pi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="7tvbs.br"  tvg-logo="https://cdn.discordapp.com/attachments/974885569547079792/1102051839043715204/tventreamericas.png" group-title="Variedades", TV Entreamericas HD
-https://stream.ichibantv.com:3013/stream/play.m3u8
-
-#EXTINF: -1 tvg-id="PLAYTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Variedades", PlayTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
-
 #EXTINF: -1 tvg-id="soutv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c0e655688a14b616d690908fe663ffb.webp" group-title="Documentários" , Sou tv.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
-
-#EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_279,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="Variedades" , Vivax TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-ak.vimeocdn.com/exp=1685471363~acl=%2Fb13202b2-2ccf-47ee-9ec8-45de5a030c3e%2F%2A~hmac=826c049add54c9f22080dd987cb0e9ee64040bf129757da53a5756fd09d0a449/b13202b2-2ccf-47ee-9ec8-45de5a030c3e/chunklist_b3256000.m3u8?max_segments=10
 
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
@@ -374,6 +374,9 @@ https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnU9go3gGSDtSJr5DPduhc_dzrWASN-gewoQ&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - BRSuper TV
 http://177.137.208.46:9080/hls/brsupertv.m3u8
+
+#EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - Virtual TV
+https://cdn03.alfamax.com.br/RBTV/tracks-v1/index.fmp4.m3u8?token=iDC4OWDCq04701
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", TV Manajoara HD
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
@@ -482,7 +485,7 @@ https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playli
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 
 #EXTINF: -1 tvg-id="NatureTV.br" group-title="Canais de Música" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu85DOk9vNgwlrhRLYTtxOr5dqtBPKaXIYBDrjU0vw=s900-c-k-c0x00ffffff-no-rj", Nature TV
-https://stream.ads.ottera.tv/cl/230525chndka8gv6thhnu6pbkg/1920x1080_5711200_3_f.m3u8?i=475_3041
+https://stream.ads.ottera.tv/cl/230531chrad7h1io181c53r390/842x474_1751200_2_f.m3u8?i=475_3041
 
 #EXTINF: -1 tvg-id="demais.br" tvg-logo="https://yt3.googleusercontent.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s900-c-k-c0x00ffffff-no-rj" group-title="Documentários" , Demais TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
