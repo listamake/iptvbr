@@ -529,7 +529,7 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://tudoradio.com/img/uploads/radios/63d71ce554798.png" group-title="Canais de Áudio" radio="true",JC FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://evpp.mm.uol.com.br/ne10/ne10-jcfm-recife-video-web.sdp/playlist.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10-jcfm-recife-video-web.sdp/chunklist_w2022367448.m3u8
 
 #EXTINF: -1 tvg-id="radioolinda.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUUJ5Y69v_wvUYMoxhoWiRFWKr6uaeqbNg2rQAjkw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio", Rádio Olinda FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
