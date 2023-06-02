@@ -334,7 +334,10 @@ https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 http://sevensp.homelinux.com/live/index.m3u8
 
 #EXTINF: -1 tvg-id="TVnova.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Regionais", TV Nova Nordeste HD
-https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+https://live.comets.com.br/tvnovanordeste/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-id="TVnovaEducacao.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Educativos", TV Nova Educação HD
+https://live.comets.com.br/tvnovanordeste/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Regionais" , TV Tropical HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -573,6 +576,10 @@ https://d2j0ogs09lfjg7.cloudfront.net/out/v1/8c49c079737d48edb1d6f0e6369e0f93/in
 #EXTINF: -1 tvg-id="radioculturafm.br" tvg-logo="https://img.radios.com.br/radio/xl/radio11335_1612288910.png" group-title="Canais de Áudio",Rádio Cultura FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://dvq5v793zo720.cloudfront.net/out/v1/c2e35b6e008f47c1a5e06ed9c7f80132/index.mpd
+
+#EXTINF: -1 tvg-id="radioculturapara.br" tvg-logo="https://www.acheradios.com.br/media/imagens/R%C3%A1dio_Cultura_FM_93.7_FM_Bel%C3%A9m_certa_crop_200x200.jpg" group-title="Canais de Áudio", Rádio Cultura Pará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1230197756.m3u8
 
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio", CBN São Paulo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
