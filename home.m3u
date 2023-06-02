@@ -376,7 +376,7 @@ https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
 http://177.137.208.46:9080/hls/brsupertv.m3u8
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - Virtual TV
-https://cdn03.alfamax.com.br/RBTV/tracks-v1/index.fmp4.m3u8?token=iDC4OWDCq04701
+https://cdn03.alfamax.com.br/RBTV/index.fmp4.m3u8?token=iDC4OWDCq04701
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", TV Manajoara HD
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
