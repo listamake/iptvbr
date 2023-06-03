@@ -877,7 +877,7 @@
 
 ###CanalUsuario.br###
  
-<programme start="20230529000000 -0300" stop="20230529080000 -0300" channel="CanalUsuario.br">
+<programme start="20230604000000 -0300" stop="20230604080000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -1969,15 +1969,15 @@
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023052400000 -0300" stop="20230526000000 -0300" channel="TVNBT.br">
+<programme start="2023060400000 -0300" stop="20230606000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023052600000 -0300" stop="20230527000000 -0300" channel="TVNBT.br">
+<programme start="2023060600000 -0300" stop="20230607000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023052700000 -0300" stop="20230529000000 -0300" channel="TVNBT.br">
+<programme start="2023060700000 -0300" stop="20230609000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
@@ -2049,15 +2049,15 @@
 </programme>
  
    ####tv bs####
-<programme start="202305280000000 -0300" stop="2023052900000 -0300" channel="tvbs.br">
+<programme start="202306030000000 -0300" stop="2023060900000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202305290000000 -0300" stop="2023053100000 -0300" channel="tvbs.br">
+<programme start="202306090000000 -0300" stop="2023061100000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202305310000000 -0300" stop="2023060100000 -0300" channel="tvbs.br">
+<programme start="202306110000000 -0300" stop="2023061600000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -2068,7 +2068,7 @@
  
  ###xtremetv.br###
  
-<programme start="202305300000000 -0300" stop="2023060300000 -0300" channel="xtremetv.br">
+<programme start="202306080000000 -0300" stop="2023061300000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
