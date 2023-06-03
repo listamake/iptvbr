@@ -189,7 +189,12 @@
  <display-name lang="pt">Rádio Clube Recife AM</display-name>
     <icon src="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG"/>
     <url>mi.tv</url>
-</channel>    
+</channel>   
+<channel id="antena1tv.br">
+ <display-name lang="pt">Antena 1 TV</display-name>
+    <icon src="https://pbs.twimg.com/profile_images/1491831001873633284/duo6Mk_C_400x400.jpg"/>
+    <url>mi.tv</url>
+</channel>  
 
 <channel id="cbnrede.br">
  <display-name lang="pt">CBN Rede</display-name>
