@@ -1,25 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , 00h30 13/01 - Dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://raw.githubusercontent.com/Emanueldelima/iptvmakebr/main/canais/tvdiario.php
+#EXTINF:-1 tvg-id="NOME_DO_CANAL" tvg-name="NOME_DO_CANAL" tvg-logo="URL_DO_LOGO" group-title="NOME_DO_GRUPO",NOME_DO_CANAL
+URL_DO_CANAL
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" ,Exelcior tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-eu-2.livepush.io/live/emHTMbO5dl5aSu1w/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NOME_DO_CANAL_2" tvg-name="NOME_DO_CANAL_2" tvg-logo="URL_DO_LOGO_2" group-title="NOME_DO_GRUPO_2",NOME_DO_CANAL_2
+URL_DO_CANAL_2
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" , America TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.samcast.com.br/redeamericatv/redeamericatv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canalteste" tvg-chno="000" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" ,Fox Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1683989975.m3u8
-
-#EXTINF: -1 tvg-id="Canalteste" tvg-name="TV eta" tvg-chno="012" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Variedades" pltv-subgroup = "tvgazeta", TV Gazeta - TV Cidade Araçatuba 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvgazeta
-
-#EXTINF: -1 tvg-id="RecordNews.br" tvg-chno="000" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="Variedades" , Record News (YouTube)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://iblups.com/e_excelsior52x
