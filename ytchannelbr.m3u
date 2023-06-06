@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml
 
-#EXTINF:-1 tvg-id="NOME_DO_CANAL" tvg-name="NOME_DO_CANAL" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="NOME_DO_GRUPO",NOME_DO_CANAL
+#EXTINF:-1 tvg-id="NOME_DO_CANAL" tvg-name="Canal do Usuario" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="NOME_DO_GRUPO",NOME_DO_CANAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
