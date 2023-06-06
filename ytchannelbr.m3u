@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml
 
-#EXTINF:-1 tvg-id="NOME_DO_CANAL" tvg-name="NOME_DO_CANAL" tvg-logo="URL_DO_LOGO" group-title="NOME_DO_GRUPO",NOME_DO_CANAL
+#EXTINF:-1 tvg-id="NOME_DO_CANAL" tvg-name="NOME_DO_CANAL" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="NOME_DO_GRUPO",NOME_DO_CANAL
 URL_DO_CANAL
 
 #EXTINF:-1 tvg-id="NOME_DO_CANAL_2" tvg-name="NOME_DO_CANAL_2" tvg-logo="URL_DO_LOGO_2" group-title="NOME_DO_GRUPO_2",NOME_DO_CANAL_2
