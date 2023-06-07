@@ -3,7 +3,7 @@
 
 # Canal 1
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,AUDIO="audio1"
-http://url_do_canal1/stream.m3u8
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="Português",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="pt",URI="audio1.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="Inglês",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="en",URI="audio2.m3u8"
