@@ -626,7 +626,10 @@ https://8923.brasilstream.com.br/stream?nocache=32711111
 #EXTINF: -1 tvg-id="radioclubeamce.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYFTr-1feNBTIN-sMO1WKCuTeGBAvg8d9sg&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Clube Fortaleza AM
 https://r10.ciclano.io:15075/stream?1651714823719
 
-#EXTINF: -1 tvg-id="Rádiouniversitaria" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title="Canais de Áudio" audio-track="fm,am" radio="true",Rádio Universitaria Recife FM
+#EXTINF: -1 tvg-id="Rádiouniversitaria" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title="Canais de Áudio" audio-track="FM,AM" radio="true",Rádio Universitaria Recife FM
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="FM",DEFAULT=YES,AUTOSELECT=YES,URI="http://150.161.93.221/hls/stream/index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="AM",DEFAULT=NO,AUTOSELECT=YES,URI="https://radiomec-stream.ebc.com.br/ebc/radiomec/chunks.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,AUDIO="audio"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://150.161.93.221/hls/stream/index.m3u8
 
