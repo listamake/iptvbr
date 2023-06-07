@@ -1,11 +1,16 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml
+#EXTM3U
+#EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="NOME_DO_CANAL" tvg-name="Canal do Usuario" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="NOME_DO_GRUPO",NOME_DO_CANAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
+# Canal 1
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,AUDIO="audio1"
+http://url_do_canal1/stream.m3u8
 
-#EXTINF:-1 tvg-id="NOME_DO_CANAL_2" tvg-name="NOME_DO_CANAL_2" tvg-logo="URL_DO_LOGO_2" group-title="NOME_DO_GRUPO_2",NOME_DO_CANAL_2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="Português",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="pt",URI="audio1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="Inglês",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="en",URI="audio2.m3u8"
 
+# Canal 2
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,AUDIO="audio2"
+http://url_do_canal2/stream.m3u8
 
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio2",NAME="Português",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="pt",URI="audio1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio2",NAME="Espanhol",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="es",URI="audio3.m3u8"
