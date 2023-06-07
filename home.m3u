@@ -257,7 +257,11 @@ https://stream.ichibantv.com:3013/stream/play.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/canalstart/canalstart/chunklist_w1822730812.m3u8
 
-#EXTINF: -1 tvg-id="PLAYTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Variedades", PlayTV
+#EXTINF: -1 tvg-id="PLAYTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Canais Geek", PlayTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-id="PLAYTV.br" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Canais Geek", PlayTV - Via Yeeaah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 
@@ -379,7 +383,7 @@ https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
 http://177.137.208.46:9080/hls/brsupertv.m3u8
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - Virtual TV
-https://cdn03.alfamax.com.br/RBTV/index.fmp4.m3u8?token=iDC4OWDCq04701
+https://cdn03.alfamax.com.br/RBTV/tracks-a1/index.fmp4.m3u8?token=iDC4OWDCq04701
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", TV Manajoara HD
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
