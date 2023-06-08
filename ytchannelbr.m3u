@@ -3,9 +3,5 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Canal 1" tvg-logo="logo_canal1.png" group-title="Entretenimento",Canal 1
 http://url_do_canal1/stream.m3u8
 
-# Canal 2
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,AUDIO="audio2"
-http://url_do_canal2/stream.m3u8
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio2",NAME="Português",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="pt",URI="audio1.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio2",NAME="Espanhol",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="es",URI="audio3.m3u8"
+#EXTINF: -1 tvg-id="anitv.br" tvg-chno="021" tvg-logo="https://cdn.discordapp.com/attachments/990727404676853810/1099885583427453098/Picsart_23-04-23_23-02-52-253.jpg" group-title="Canais Geek", Geekdot HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
