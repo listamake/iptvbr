@@ -273,11 +273,7 @@ https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CoUGhWFqduZe4Jz0C8t9CnGjp2I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF: -1 tvg-id="soutv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c0e655688a14b616d690908fe663ffb.webp" group-title="Documentários" , Sou tv.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
-
-#EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_279,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png" group-title="Variedades" , Vivax TV
+#EXTINF: -1 tvg-id="vivaxtv.br" tvg-logo="https://yt3.googleusercontent.com/hWtOfi2rrfgST6mA_dLAU3PJRkbYNDRadh7K4QjOK5BseXScsY3MSpiZUXblGGXyMgX74zI1V-8=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Vivax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8
 
@@ -377,7 +373,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-VLL6nqHMH8_-HnZQWBwvEpYjgumV3ZpqKdsrEd-h_Sa)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-VLL6nqHMH8_-HnZQWBwvEqntXQ7N1uVSjB5UCBAEMUx)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -438,8 +434,9 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 #EXTINF: -1 tvg-id="SBT.br" tvg-chno="156" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWRgsUrwVUIpIUVa9-_7pKrHuIMTWfbSthpbdE=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" ,TV Cidade Verde Picos
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
 
-#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/388866bfe999800f5b8c219e94c5bd35.webp" group-title="Regionais" , TV Floresta
+#EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/388866bfe999800f5b8c219e94c5bd35.webp" group-title="Regionais" , TV Tribuna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://proxy-15.nyc.dailymotion.com/sec(YNIM0Z7pM0_G8_IAIuJiEGQq123o-hkNOTihWDLqzGgNkOAtIM2mwwBg_QW3p2piW9MqQhmAZSlrnlL645LWYpWRwh-qH9dpWU2p2YFpOTg)/video/445/491/520194544_mp4_h264_aac_hq.m3u8#cell=nyc
 
 #EXTINF: -1 tvg-id="SBTPara.br" tvg-chno="157" tvg-logo="https://yt3.googleusercontent.com/y0p1RaSWskCQQsJ3I0rNHUfL5hgBupFKcfytleDskahWACwrNqRm4FS3bXcw2PGYpzdhlS_Zpt4=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Paraense WEB
 https://cdn.jmvstream.com/w/AVJ-13102/playlist/chunklist.m3u8
@@ -489,13 +486,16 @@ https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/play
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Salvador HD
-https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODYyNzAyNjIsImlhdCI6MTY4NTY2NTQ2MiwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODU2NjM2NjIsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.zwVpo6-eWaAuq9DtollROHs8O4OPinm0XQwfJhWVeQY&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODcxOTQ4ODgsImlhdCI6MTY4NjU5MDA4OCwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODY1ODgyODgsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.kwV3Hc67w-lctwh4qdI_qoSLcmXkjXCIAK1y4_wU7_M&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Paraná HD
-https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODYyNzAyMTEsImlhdCI6MTY4NTY2NTQxMSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODU2NjM2MTEsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.uGjLI2QXPAK6NdTj8lcXP1gQPMHs89e_dAKf8LP6jeA&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODcxOTQ4NTcsImlhdCI6MTY4NjU5MDA1NywiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODY1ODgyNTcsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.dbij_X6gZnf1RCrw7OytHhkIYOE-Dw1jBqNbJK0suvw&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="TVNBT.br" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais", TV NBT
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+
+#EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOaWUUZkBaV2boKWDKoz2-42TDAJp-o3nIYhuRo=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", TV One HD
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w1862302272.m3u8
 
 #EXTINF: -1 tvg-id="NatureTV.br" group-title="Canais de Música" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu85DOk9vNgwlrhRLYTtxOr5dqtBPKaXIYBDrjU0vw=s900-c-k-c0x00ffffff-no-rj", Nature TV
 https://stream.ads.ottera.tv/cl/230531chrad7h1io181c53r390/842x474_1751200_2_f.m3u8?i=475_3041
@@ -510,7 +510,7 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w557659804.m3u8
 
 #EXTINF: -1 tvg-id="TVDiario.br"  tvg-name="TV Diário" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVTbXSvABZ9dqkdv-N-buOvOtp_CKN8ivDyW8Gj9IKt7)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-VLL6nqHMH8_-HnZQWBwvEqntXQ7N1uVSjB5UCBAEMUx)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="awtv.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento", AWTV HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
@@ -523,7 +523,7 @@ https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CrIFC3H0ePuK8A7EYusFk43j_oo
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-chno="153" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Gazeta Digital
-https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4iLa8r9_LvrRFJL5QRUi6ZeNtZNtyxNzflInOaInsqn)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-VLL6nqHMH8_-HnZQWBwvEqntXQ7N1uVSjB5UCBAEMUx)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -614,7 +614,7 @@ https://cdn.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/chunklist.m3u8
 https://evpp.mm.uol.com.br/band/bandnewsfm_rj/chunklist_w645368273.m3u8
 
 #EXTINF: -1 tvg-id="radiorockfm.br" tvg-logo="https://pbs.twimg.com/profile_images/1508199729737388040/eEZzwmR2_400x400.jpg" group-title="Canais de Áudio",89 FM A Rádio Rock
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8IYjKE1k16IQsBbdHi3KYNgcTWzCi37aGOJ5a6MkM2u)/dm/3/x7wjrui/s/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-VLL6nqHMH8_-HnZQWBwvEqntXQ7N1uVSjB5UCBAEMUx)/dm/3/x7wjrui/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="radioclubeampe.br" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title="Canais de Áudio" radio="true",Rádio Clube Recife AM
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
@@ -626,7 +626,7 @@ https://cast.animu.com.br:5110/stream?0.5413026947303499
 https:\\stm1.radiojhero.com:18008\
 
 #EXTINF: -1 tvg-id="radiopontasweb.br" tvg-logo="https://media.discordapp.net/attachments/1051302158898843648/1069431910708813854/radio202711_1666010840.jpg" group-title="Canais de Áudio" radio="true",Rádio Pontas
-http://stream.zeno.fm/g4qzkzldylnuv
+https://players.rcast.net/square/69547
 
 #EXTINF: -1 tvg-id="radiotupi.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGfTq0TwGbw2-hqAVIOGgCwDd0W0T9Gje4w&usqp=CAU" group-title="Canais de Áudio" radio="true",Rádio Tupi FM
 https://8923.brasilstream.com.br/stream?nocache=32711111
