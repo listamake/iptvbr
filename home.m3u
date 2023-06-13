@@ -246,11 +246,11 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stream.ichibantv.com:3904/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-id="damubiku.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Canais Geek" , Otaku Sign TV
+#EXTINF: -1 tvg-id="animetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Canais Geek" , Otaku Sign TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1154821370.m3u8
 
-#EXTINF: -1 tvg-id="damubiku.br" tvg-logo="https://media.discordapp.net/attachments/1117239320454119534/1118182598850654208/20230611_012551.png" group-title="Canais Geek" , Toonick
+#EXTINF: -1 tvg-id="animetv.br" tvg-logo="https://media.discordapp.net/attachments/1117239320454119534/1118182598850654208/20230611_012551.png" group-title="Canais Geek" , Toonick
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/playingtv/playingtv/playlist.m3u8
 
