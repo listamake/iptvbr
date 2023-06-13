@@ -209,7 +209,20 @@
   <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
 </channel>
 <channel id="7tvbs.br">
- <display-name lang="pt">Damu Biku HD</display-name>
+ <display-name lang="pt">TV Entreamericas HD</display-name>
+  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
+   <url>mi.tv</url>
+</channel>
+<channel id="locomotionla.br">
+ <display-name lang="pt">Locomotion SD</display-name>
+  <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
+   <url>mi.tv</url>
+</channel>
+<channel id="animetv.br">
+ <display-name lang="pt">Otaku Sign TV</display-name>
+ <display-name lang="pt">Toonick</display-name>
+ <display-name lang="pt">Anime TV</display-name>
+ <display-name lang="pt">Locomotion SD</display-name>
   <icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png"/>
    <url>mi.tv</url>
 </channel>
@@ -302,27 +315,27 @@
  <title lang="pt">Jiraiya: O Incrível Ninja</title>
  <desc lang="pt">Conheça a história do jovem Toha, que foi criado e é treinado por Tetsuzan para ser o sucessor da família Togakur. Ele guarda metade da inscrição para um tesouro que é objeto de desejo de todos os ninjas do mundo.</desc>
 </programme>
-<programme start="20230612123000 -0300" stop="20230612130000 -0300" channel="anitv.br">
+<programme start="20230614123000 -0300" stop="20230614130000 -0300" channel="anitv.br">
  <title lang="pt">Esquadrão Relâmpago Changeman</title>
  <desc lang="pt">Cinco integrantes do exército dos Defensores da Terra são banhados pela Força Terrestre e adquirem cada um os poderes de um densetsu-ju, que é um animal lendário: Dragão, Grifo, Pégaso, Sereia e Fênix.</desc>
 </programme>
-<programme start="20230612130000 -0300" stop="20230612133000 -0300" channel="anitv.br">
+<programme start="20230614130000 -0300" stop="20230614133000 -0300" channel="anitv.br">
  <title lang="pt">The Middle: Uma Família Perdida no Meio do Nada</title>
  <desc lang="pt">Na família Heck, a mãe de meia idade e de classe média, Frankie Heck usa seu senso de humor para tentar orientar sua família pelos altos e baixos da vida conforme ela cursa uma escola de auxílio dental. </desc>
 </programme>
-<programme start="20230612133000 -0300" stop="20230612140000 -0300" channel="anitv.br">
+<programme start="20230614133000 -0300" stop="20230614140000 -0300" channel="anitv.br">
  <title lang="en">Como Eu Conheci Sua Mãe</title>
  <desc lang="en">Ted se apaixonou. Tudo começou quando seu melhor amigo, Marshall, soltou a bomba de que planejava pedir em casamento a namorada de longa data, Lily, uma professora de jardim de infância.</desc>
 </programme>
-<programme start="20230612140000 -0300" stop="20230612143000 -0300" channel="anitv.br">
+<programme start="20230614140000 -0300" stop="20230614143000 -0300" channel="anitv.br">
  <title lang="en">Três é Demais</title>
  <desc lang="en">Nem todas as famílias são iguais. Esta, por exemplo, não é nada convencional. Depois da morte de sua esposa, Pam, num acidente de carro, o locutor de esportes Danny Tanner se vê em apuros para criar as três filhas.</desc>
 </programme>
-<programme start="20230612143000 -0300" stop="20230612163000 -0300" channel="anitv.br">
+<programme start="20230614143000 -0300" stop="20230614163000 -0300" channel="anitv.br">
  <title lang="pt">Faixa Light</title>
  <desc lang="pt">Uma faixa dedicada ao romance e a cómedia, pra deixar suas tardes mais leves.</desc>
 </programme>
-<programme start="20230612163000 -0300" stop="20230612173000 -0300" channel="anitv.br">
+<programme start="20230614163000 -0300" stop="20230614173000 -0300" channel="anitv.br">
  <title lang="pt">Descendentes do Sol</title>
  <desc lang="pt">Alguns relacionamentos estão destinados a acontecer, apesar dos desafios do tempo e do lugar. Yoo Si Jin (Song Joong Ki), líder da Unidade de Forças Especiais, conhece a cirurgiã Kang Mo Yeon (Song Hye Kyo) na emergência do hospital depois que Si Jin e seu segundo no comando, Seo Dae Young (Jin Goo), perseguiram um ladrão no dia de folga deles.</desc>
 </programme>
@@ -2034,7 +2047,7 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20230618000000 -0300" stop="20230619000000 -0300" channel="StrikerVerso.br">
+<programme start="20230618000000 -0300" stop="20230620000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -2069,6 +2082,20 @@
 <programme start="202306160000000 -0300" stop="2023061700000 -0300" channel="tvbs.br">
  <title lang="pt">Programação TV Teennet</title>
  <desc lang="pt">TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+</programme>
+ 
+ ###animetv.br###
+<programme start="202306120000000 -0300" stop="2023061500000 -0300" channel="animetv.br">
+ <title lang="pt">Programação de Animes</title>
+ <desc lang="pt">Varios animes</desc>
+</programme>
+<programme start="202306150000000 -0300" stop="2023061800000 -0300" channel="animetv.br">
+ <title lang="pt">Programação de Animes</title>
+ <desc lang="pt">Varios animes</desc>
+</programme>
+<programme start="202306180000000 -0300" stop="2023062300000 -0300" channel="animetv.br">
+ <title lang="pt">Programação de Animes</title>
+ <desc lang="pt">Varios animes</desc>
 </programme>
  
  ###xtremetv.br###
@@ -2409,7 +2436,7 @@
 </programme>
  
   ####EsporteBrasilia.br####
-<programme start="20230609000000 -0300" stop="20230617000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230620000000 -0300" stop="20230627000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
