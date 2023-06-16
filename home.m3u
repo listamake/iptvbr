@@ -49,8 +49,9 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1434766956.m3u8
 
-#EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="014" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w958860307.m3u8
+#EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="014" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png" group-title="Variedades" pltv-subgroup="Rede Brasil", Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
@@ -126,9 +127,8 @@ https://stream.urbantv.com.br/urbantvsports/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="TVDiario.br" tvg-chno="038" tvg-name="TV Diario" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="Variedades", TV Diário
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd
+#EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="038" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w958860307.m3u8
 
 #EXTINF: -1 tvg-id="bstv.br" tvg-chno="039" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -519,7 +519,7 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 #EXTINF: -1 tvg-id="redeamerica.br"  tvg-logo="https://observatoriodeourofino.com.br/wordpress/wp-content/uploads/2021/11/Rede-America-1.jpg" group-title="Entretenimento", Rede America TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtIFnaSOLb8m7bYvcWTIhnSYmKu5zJ6b7UOhRcKrQrZrx9VRTEkV9TkMLnhg5qjh3ova34xYf2Dt2u0Ehaz27Rj5gi1-hwsQvxnpGfR5CvbTa1fJWPFl3zO1-_ocIyMqiE6xfwR7wUM8obUgrFf7y97px-m9JQ-0jTuaCbnwuzM7NsRE7tMJgsVrrMPDwlN7644zH67zYK207yq4NdqTE1CV35ivKZ2fZkOGoFb_jyNMwk2kMshufBznMmuPRIwDRhJEVtIrJYJNHdT0a1YTTThKTjYYNVQY8xGLh-s6n79meUyqL0FBGbRrqAe_Mvj4-ahV5Xc1ldz3LHcCDBzMSKlox6O0YIoFi0ROwbhIRkRD6365aOfwfjj8tePZthJdV1VeJDtWmhaH-2twqQxmd85_U8hhwke3v0Y5AEelpcFpI8qKyjW4iCBT8dJ51Vn5bz6A8CAxVZgbp1kABVnIw-4bMR-qJGVdwfWng441Tl7TNAMTPhYeUVgU2z78IEiXMv2Vg7qtN79FQkzTQ8XI4l-Dnx-3ZNvyNv1Dc5qCO7z0Z32L8Pr1bEHuM-wxjxxUhQLJjQHg0zTMzN1_JEiV0GsEzwbhORl3HydL8WycLtXOKbCVuEBWP10mqnbcj2mcI6JEp0uzLZWlcXEbNMnfFUYXXW-TptxZLsf_8k7EBc68T9ubvqqyOvP3CnU2yvURSR8eVeGqtzp6h2tQt6jjPtGOhW3Zkt3HbqAA2N7d7EgqLtnEGaYOnqWmmfJ5H-iws-9ceesDMGYc1LmVUAFdF48AJxU-2VrpccD0r1FMpMZO-31-kJb7f4CEtsliAXG3m1IvwcLMQ0cCRcQJtfbNxbVo4NB17x2OWC6q1Qx0PMVGOwzmYCNcMOMSq_wh9jFQRcBCJ3AB9Ax9SGh1N0Ae-6lSc2zScB1p-z8k2bquP5Rt-2W-Ql57jpLNegYajKQxS-nbV1AaDNXFvvauEvFuBxrfGyABKgl1cy1lYXN0LTEwnQU.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cs8FvhnMhFTf_w_y-pz1VGOAlEMv2bxXa1eRK0PH3esWUZMuyJN6am8wblPb2LMEms6PK87Y72xBEMpINi_P_zTfMqy8qYaRlXAU2Uc9t482h749eQPaJf41OThwCie1EcUYT7051ClHRXb74I_AH4-VG7UOMj0MNQFdL3vgFhu1bG7r8G1uX_ZZMPy0lhy7861sxaPikx0Bo824yiaXh8cIWMbwpDCgVEgeZjF7-Vl7wgbdM_6AWSqwfT8ffi8r_O8ezA58yZ8TsF6rzikapK55lIGFP1WV54ABoqcIuOxERd_smm3kxemO_oPWBba3yWuoc-Ur8C-4DEr6j16wdMWrf3Yz1GwXGLlm64F6fosue8nbYvL4tt-pkeewpoImOVePjscjqL5KxDBZQLg87232MsDVIWQjPjFGV2are5wwuMa225djoQrbeUWdngXU2gyECLVT4V60lDE2gmTW-yZek-ea-KZJAbNbQsjD8K9TqyX0NIQ67Kkd2KAFJZd7omAKp6F5fhR3Bvq6ddTvVg_GQa8lwfpgYGDkUaLlk6Piei6aveF1D7MWfx3XfxALI2i-l43vPdowcMJic7EzfCPbvrzBaKGJlGgWkfoc2F2TODsPwZ5g-U4zHlrVS4UsKZPcFQWzN3M6yAWYGE77Z8oZpwgRg5GRFGyVtfqn9vMkyKgz0YuHgVx3jzoKsttplRap2d-lQJj0fuxdA1krMxTZ6sJtM1a7INAXQBRaJczx7rrc4d__kYxqOc-qaENjG7hGpkOzA6i3tUXG-qRymZ_vkc4rpA7YzlX82eoL0_jcUFlgmvfSnXJIWZyz9ZHPSPnXkDLl_vALgt5dUdcJ3MBdVLCLx0hq8aFXtxds5tPGvzgxaP0XDc3n9ZQEkYFyYGMMKGQ1nGv2ZGXUh5cbBqRKvUsxvGAOT8ndEzK_YCHqghnu9yo4Kn7OCCt4ausPU68aDJk6wfFssrPowQ61gCABKgl1cy1lYXN0LTEwngU.m3u8
 
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIpsIkydaZKyaBkpiTWSm6CNUEFXfE-X0GkIPdSw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" ,Rede Metropolis HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
