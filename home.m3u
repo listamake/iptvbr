@@ -249,7 +249,7 @@ https://stream.ichibantv.com:3904/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-id="animetv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="Canais Geek" , Otaku Sign TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv.srvvox.com.br/otakusigntv/otakusigntv/chunklist_w1154821370.m3u8
+https://stmv1.srvif.com/otaku/otaku/chunklist_w1556604543.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais Geek" , Teste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
