@@ -261,7 +261,7 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230630700000 -0300" stop="20230630120000 -0300" channel="anitv.br">
+<programme start="20230630070000 -0300" stop="20230630120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
@@ -523,15 +523,15 @@
  
  ####sabado anitv####
  
-<programme start="20230702000000 -0300" stop="20230702003000 -0300" channel="anitv.br">
+<programme start="20230701000000 -0300" stop="20230701003000 -0300" channel="anitv.br">
  <title lang="en">Science Fell in Love, So I Tried to Prove it</title>
  <desc lang="en">O que acontece quando um garoto e uma garota apaixonados por ciência e pesquisa se apaixonam? Ayame Himuro faz pós-graduação na Universidade de Saitama, e resolveu chamar seu colega de laboratório, Shinya Yukimura, pra sair. Naturalmente, o amor tem razões que nem a razão compreende! Mas ela seria um fracasso de engenheira se não fosse capaz de provar logicamente que o amor não existe. Com isso em mente, o casal envolve o resto do laboratório inteiro em experimentos para comprovar a existência do amor. Muitas risadas e momentos emocionantes nesta comédia romântica científica!</desc>
 </programme>
-<programme start="20230702003000 -0300" stop="20230702010000 -0300" channel="anitv.br">
+<programme start="20230701003000 -0300" stop="20230701010000 -0300" channel="anitv.br">
  <title lang="pt">Rent-A-Girlfriend</title>
  <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
 </programme>
-<programme start="20230702010000 -0300" stop="20230702063000 -0300" channel="anitv.br">
+<programme start="20230701010000 -0300" stop="20230701063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
