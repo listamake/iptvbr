@@ -231,6 +231,11 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
    <url>mi.tv</url>
 </channel>
+<channel id="teennet.br">
+ <display-name lang="pt">TV Teen Net HD</display-name>
+  <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp"/>
+   <url>mi.tv</url>
+</channel>
 <channel id="pooptv.br">
  <display-name lang="pt">PoopTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8616aaff4b962f7f674d860e5fdeee9a.webp"/>
