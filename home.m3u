@@ -504,7 +504,7 @@ https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w1862302272.m3u8
 
 #EXTINF: -1 tvg-id="foradetediotv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec7e3fb0435c5aadb37ced264e0d3b3.webp" group-title="Canais de Humor",Fora Tédio TV
-https://srv5.zcast.com.br/foratedio/foratedio/playlist.m3u8
+https://d2nvs31859zcd8.cloudfront.net/tvmaresol/850590321/52924b6f-560e-4984-a373-65db83fb5342/1080p60/index-dvr.m3u8
 
 #EXTINF: -1 tvg-id="pooptv.br" tvg-logo="https://media.discordapp.net/attachments/1122249392443883600/1122249541857591409/logo_pooptv_def.png?width=308&height=233" group-title="Canais de Humor", PoopTV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
