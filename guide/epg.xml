@@ -170,9 +170,12 @@
  <display-name lang="pt">EnerGeek</display-name>
   <icon src="https://pbs.twimg.com/profile_images/1507190273662726147/sS_Z9Ki7_400x400.jpg"/>
 </channel>
-<channel id="radiobandnewssp.br">
- <display-name lang="pt">Rádio Band News SP</display-name>
-  <icon src="https://pbs.twimg.com/profile_images/1397295714628218884/A6Efk-71_400x400.jpg"/>
+<channel id="bandfmrede.br">
+ <display-name lang="pt">Band FM</display-name>
+  <display-name lang="pt">Band FM Campinas</display-name>
+  <display-name lang="pt">Band FM Sorocaba</display-name>
+  <display-name lang="pt">Band FM Pouso Alegre</display-name>
+  <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png"/>
 </channel>
 <channel id="ManajoaraAMBelem.br">
  <display-name lang="pt">Super Manajoara HD</display-name>
@@ -288,20 +291,20 @@
 
    ####grade semanal anitv####
  
-<programme start="20230706000000 -0300" stop="20230706003000 -0300" channel="anitv.br">
+<programme start="20230710000000 -0300" stop="20230710003000 -0300" channel="anitv.br">
  <title lang="en">Science Fell in Love, So I Tried to Prove it</title>
  <desc lang="en">O que acontece quando um garoto e uma garota apaixonados por ciência e pesquisa se apaixonam? Ayame Himuro faz pós-graduação na Universidade de Saitama, e resolveu chamar seu colega de laboratório, Shinya Yukimura, pra sair. Naturalmente, o amor tem razões que nem a razão compreende! Mas ela seria um fracasso de engenheira se não fosse capaz de provar logicamente que o amor não existe. Com isso em mente, o casal envolve o resto do laboratório inteiro em experimentos para comprovar a existência do amor. Muitas risadas e momentos emocionantes nesta comédia romântica científica!</desc>
 </programme>
-<programme start="20230706003000 -0300" stop="20230706010000 -0300" channel="anitv.br">
+<programme start="20230710003000 -0300" stop="20230710010000 -0300" channel="anitv.br">
  <title lang="pt">Rent-A-Girlfriend</title>
  <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
 </programme>
-<programme start="20230706010000 -0300" stop="20230706070000 -0300" channel="anitv.br">
+<programme start="20230710010000 -0300" stop="20230710070000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 
-<programme start="20230706070000 -0300" stop="20230706080000 -0300" channel="anitv.br">
+<programme start="20230710070000 -0300" stop="20230710080000 -0300" channel="anitv.br">
  <title lang="pt">O Show da Pantera Cor-de-Rosa</title>
  <desc lang="pt">A Pantera Cor-de-Rosa foi um personagem criado para fazer apenas uma introdução ao filme Pantera Cor-de-Rosa, de Blake Edwards. O sucesso foi tão grande que começou a ter uma série animada própria.</desc>
 </programme>
@@ -970,27 +973,27 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230706000000 -0300" stop="20230706020000 -0300" channel="CanalUsuario.br">
+<programme start="20230709000000 -0300" stop="20230709020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230706020000 -0300" stop="20230706030000 -0300" channel="CanalUsuario.br">
+<programme start="20230709020000 -0300" stop="20230709030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230706030000 -0300" stop="20230706040000 -0300" channel="CanalUsuario.br">
+<programme start="20230709030000 -0300" stop="20230709040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230706040000 -0300" stop="20230706100000 -0300" channel="CanalUsuario.br">
+<programme start="20230709040000 -0300" stop="20230709100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230706100000 -0300" stop="20230706110000 -0300" channel="CanalUsuario.br">
+<programme start="20230709100000 -0300" stop="20230709110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230706110000 -0300" stop="20230706130000 -0300" channel="CanalUsuario.br">
+<programme start="20230709110000 -0300" stop="20230709130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -1401,15 +1404,15 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
-<programme start="20230707000000 -0300" stop="202307070730000 -0300" channel="CentralTV.br">
+<programme start="20230710000000 -0300" stop="202307100730000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230707073000 -0300" stop="20230707113000 -0300" channel="CentralTV.br">
+<programme start="20230710073000 -0300" stop="20230710113000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230707113000 -0300" stop="20230707130000 -0300" channel="CentralTV.br">
+<programme start="20230710113000 -0300" stop="20230710130000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
@@ -1604,21 +1607,21 @@
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230702200000 -0300" stop="20230702210000 -0300" channel="CentralTV.br">
+<programme start="20230709200000 -0300" stop="20230709210000 -0300" channel="CentralTV.br">
  <title lang="pt">Planeta Games - Reprise</title>
  <desc lang="pt">Reprise</desc>
 </programme>
-<programme start="20230702210000 -0300" stop="20230703003000 -0300" channel="CentralTV.br">
+<programme start="20230709210000 -0300" stop="20230710003000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
     ###adessotv.br###
-<programme start="20230707004000 -0300" stop="20230707012000 -0300" channel="adessotv.br">
+<programme start="20230710004000 -0300" stop="20230710012000 -0300" channel="adessotv.br">
  <title lang="pt">Mini Docs</title>
  <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
 </programme>
-<programme start="20230707012000 -0300" stop="20230707060000 -0300" channel="adessotv.br">
+<programme start="20230710012000 -0300" stop="20230710060000 -0300" channel="adessotv.br">
  <title lang="pt">Sessão Coruja</title>
  <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
 </programme>
@@ -1674,15 +1677,15 @@
 </programme>
  
     ###TVMax.br###
-<programme start="20230707000000 -0300" stop="20230707070000 -0300" channel="TVMax.br">
+<programme start="20230710000000 -0300" stop="20230710070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230707070000 -0300" stop="20230707080000 -0300" channel="TVMax.br">
+<programme start="20230710070000 -0300" stop="20230710080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230707080000 -0300" stop="20230707100000 -0300" channel="TVMax.br">
+<programme start="20230710080000 -0300" stop="20230710100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
@@ -2428,11 +2431,11 @@
  
    ####vivaxtv.br####
 
-<programme start="20230703000000 -0300" stop="20230703003000 -0300" channel="vivaxtv.br">
+<programme start="20230710000000 -0300" stop="20230710003000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias - Reprise</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230703003000 -0300" stop="20230703060000 -0300" channel="vivaxtv.br">
+<programme start="20230710003000 -0300" stop="20230710060000 -0300" channel="vivaxtv.br">
  <title lang="pt">Programação VivaxTV</title>
  <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
 </programme> 
@@ -2632,11 +2635,11 @@
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230706130000 -0300" stop="20230706210000 -0300" channel="Clc.br">
+<programme start="20230710130000 -0300" stop="20230710210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230706210000 -0300" stop="20230707010000 -0300" channel="Clc.br">
+<programme start="20230710210000 -0300" stop="20230711010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -2668,7 +2671,7 @@
 </programme>
  
    ####radiometroweb.br####
-<programme start="20230703000000 -0300" stop="20230706000000 -0300" channel="radiometroweb.br">
+<programme start="20230710000000 -0300" stop="20230716000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -2717,23 +2720,35 @@
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
  
-  ####radiobandnewssp.br####
-<programme start="20230706000000 -0300" stop="20230709000000 -0300" channel="radiobandnewssp.br">
- <title lang="pt">Programação Rádio Band News</title>
- <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
+  ####bandfmrede.br####
+<programme start="20230708000000 -0300" stop="20230708050000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Coruja</title>
+ <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230709000000 -0300" stop="20230714000000 -0300" channel="radiobandnewssp.br">
- <title lang="pt">Programação Rádio Band News</title>
- <desc lang="pt">A BandNews FM é a primeira rede brasileira de emissoras de rádio em FM com jornalismo 24 horas no ar. A cada 20 minutos, oferecemos ao ouvinte um jornal completo e atualizado, com a opinião dos nossos apresentadores e colunistas. Nestes 20 minutos, apresentamos as principais notícias do Brasil e do mundo, mas com grande espaço para o noticiário de cada cidade.</desc>
+<programme start="20230708050000 -0300" stop="20230708070000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Bom Dia</title>
+ <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
+</programme>
+<programme start="20230708070000 -0300" stop="20230708090000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title>
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
+</programme>
+<programme start="20230708090000 -0300" stop="20230708110000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Manhã Show</title>
+ <desc lang="pt">O programa oferece uma mistura de entretenimento e informação por meio de quadros como Caixa Premiada, Super 6 e Band Notícias. Os ouvintes interagem de forma descontraída e se divertem, enquanto recebem informações atualizadas e relevantes.</desc>
+</programme>
+<programme start="20230708110000 -0300" stop="20230708200000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title>
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
  
    ####radiosociedade####
  
-<programme start="20230706000000 -0300" stop="20230706220000 -0300" channel="radiosociedade.br">
+<programme start="20230710000000 -0300" stop="20230710220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230706220000 -0300" stop="20230707040000 -0300" channel="radiosociedade.br">
+<programme start="20230710220000 -0300" stop="20230711040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
@@ -2787,15 +2802,15 @@
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230706120000 -0300" stop="20230706140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230710120000 -0300" stop="20230710140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230706140000 -0300" stop="20230706180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230710140000 -0300" stop="20230710180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230706180000 -0300" stop="20230706200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230710180000 -0300" stop="20230710200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
@@ -2901,15 +2916,15 @@
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230706120000 -0300" stop="20230706140000 -0300" channel="cbnrede.br">
+<programme start="20230710120000 -0300" stop="20230710140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230706140000 -0300" stop="20230706160000 -0300" channel="cbnrede.br">
+<programme start="20230710140000 -0300" stop="20230710160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230706160000 -0300" stop="20230706210000 -0300" channel="cbnrede.br">
+<programme start="20230710160000 -0300" stop="20230710210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
@@ -3043,15 +3058,15 @@
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
 </programme>
  
-<programme start="20230703050000 -0300" stop="20230703070000 -0300" channel="radioclubeampe.br">
+<programme start="20230710050000 -0300" stop="20230710070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20230703070000 -0300" stop="20230703073000 -0300" channel="radioclubeampe.br">
+<programme start="20230710070000 -0300" stop="20230710073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
-<programme start="20230703073000 -0300" stop="20230703080000 -0300" channel="radioclubeampe.br">
+<programme start="20230710073000 -0300" stop="20230710080000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Clube Notícias</title>
  <desc lang="pt">jornal</desc>
 </programme>
@@ -3234,11 +3249,11 @@
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230703120000 -0300" stop="20230703123000 -0300" channel="radiojornalpe.br">
+<programme start="20230710120000 -0300" stop="20230710123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230706123000 -0300" stop="20230706140000 -0300" channel="radiojornalpe.br">
+<programme start="20230710123000 -0300" stop="20230710140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
 </programme>
@@ -3412,15 +3427,15 @@
 </programme>
 
       ####Canalteste####
-<programme start="20230702000000 -0300" stop="20230705000000 -0300" channel="Canalteste">
+<programme start="20230712000000 -0300" stop="20230715000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230705000000 -0300" stop="20230708000000 -0300" channel="Canalteste">
+<programme start="20230715000000 -0300" stop="20230718000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230628000000 -0300" stop="20230702000000 -0300" channel="Canalteste">
+<programme start="20230708000000 -0300" stop="20230712000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
@@ -3517,7 +3532,7 @@
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230629000000 -0300" stop="20230704000000 -0300" channel="MixFMBelem.br">
+<programme start="20230709000000 -0300" stop="20230714000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
@@ -3588,7 +3603,7 @@
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
-<programme start="20230706000000 -0300" stop="20230708000000 -0300" channel="TVTop.br">
+<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
 </programme>
