@@ -13,7 +13,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
 
 #EXTINF:0 tvg-id="GloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODkwMTA3NjEsImlhdCI6MTY4ODkyNDM2MSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.ttjVdFzKHZI9pJn1jS9AnAcFRrIgD7m6JMS9QUBVNupg966Fg6qppvUgkb3btUChNSdvqwVjE_QzneoBkOCB0fte4kCrPPiIoJGd9KdiOWbsPTWBv6OI5nh5alFH4rKUXfb2uaGsWVNPEfa0F7PwuHFAHHaCVQOqjWe0LZset_wy-dUr6vBcxrExxbFEMqoLYbv7LX9Y-odCamk9cTD0GWq0uklCq00bOOcmhaMFcN36VKYvmylaJaXifCcxwGb118j7JmWogs0BUcyDvu9e105oEYLWP6ZqEUUZbQnb1Zh5Y94QEcZA-jjOAYe1tT1AdfFJXt79BVrSTUQkb8Cmcg/nu/f(bMin=2000,dvr=120,i=2)/globo-pe1/globo-pe1-audio_1=128000-video=915968.m3u8?dvr_window_length=120
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODkwOTM0NTIsImlhdCI6MTY4OTAwNzA1MiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.i6Sfb8lD4HuCtsbXwF_ZTNw-cHPFLR6FD8P6UO7XNsljLDNsYtceqU0OqU9bXJ7NKioLL3YUKeS-luUc-lQ8_uIqZ0WTTkxY3LbZ4mf8iqg2Lv7isnOkkMmYIqBeHeIUSN3EwgXVLEzICbUSTmHIDGnDyk7InTmc2BWJoNhW887KsteDmckMdBya2-hGmZKs4H423mnTt2FrVF35i8rUACwQ0aUxuULD5XRsp7Gb3pY9JBbtarDlGEgelpOGzmKHROxjPBcXg9z8HGuz8vB5mdZTWlo5VzerCvTnOCYjt2tyslB3bBs_C7n-MCHLqLg918n0eXdu41kc_HaNcP888A/nu/f(bMin=2000,dvr=120,i=2)/globo-pe1/globo-pe1-audio_1=128000-video=3632000.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://pbs.twimg.com/profile_images/1328747070845489154/kL9Q2HGr_400x400.jpg" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -268,7 +268,7 @@ https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 
 #EXTINF: -1 tvg-id="ch.br" tvg-logo="https://labdicasjornalismo.com/images/ck/images/Capturar(4).PNG" group-title="Canais de Humor" , Canal Linear: Chaves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CssFOZiSl7RM9lyb_qBBrvNmKKKoZQpC4xwfLvybs5JjOteqJ8ErYPJHvL7Rf7WaKJM7lguVR8Yy2njctCxn-XUIUolkQwKJysdG_atG3Ni1KPaKEvdlq9sXW2Z_Dd8GGC-tNrACxJIzqOHShF6s79Ya3kwacq-zAvQ0pejLLmvmey-SAP7XIx4IiEptdkA7BTNpyAmfWeAu0C3IZVb-5vJUE_sDhDvZtJspXkUfqJ7n-OdcCY2sq0-0CfZsyMDegQWRMoIKijF9RsUM0C_IzO4ioLz2ujy_k3v5IWWuHX-J_1MTWqOrAinZG46TSsCDT2o2mfW13FPIr8niAYZTEml5Gf-XxYrutPtgqK_JIsH_--ykSsan8m5yt2uIBVT9o1PV_SmwoomNAFJFq8dvCbnvzV63ctgBsSFDfhEryyO4GesVOIc5Vy94qL5ysd7BgaVcil5fRMmz5U_CQum-4pylErl_tN7qhV_EjjWucl15q_o0a4WWWg3YujH2CUD3sF1CAgp9QIuc7zaS2E9NP8sai4IDTpFn01kdBT-FRgHH5GUkjP8XB6PeQT52HUhcBzDjD6QHReLvB06-N0G3Rm_lken6sCh2vGBz0TWQl9ElWJKxW8NhHJk_H_4eN28C6yANVAFHI29FEO_BdmS9VFqNhFUjPMkUKc_Dwt3lv9jZ2RTjTWkimdO_i-A-AhbyYDpQ0Nz3JhaaiiBaWTS1fF2Auj5PS_oEqes_mOTrDeqiFH50w3JcQI8OsI5ITEOWlLOHJoosH9F1hodv6r4GRe1lxzvTwvIsufm-fZdzRwGV4rL9Msoq73NKzlrhe7fGyxxQOyiJFvShfoyiQgMHCCCPGEKXh1ul4179PlPSBYhiSPsbm1NVqycHf4UiwiwrcN9W7IAZpxYXXdUA-XxbWfNc4eGFoaYGPhNKdbBQtOc5L3rcIUcqOuiaa2PjCxoMhXIjmwZjZ3wVy2hYIAEqCXVzLWVhc3QtMTC1BQ.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CssF0GoI3aQ2C8aijLbsZ2jPzdQTZAJJ0VD9KXZx6cBDAfVyBHzA7gQa9R0wKjjLv_qGWFWxYJU86WwQ0ZZBsu_xsQt5_nU2tqnpCV9Js23WhVJmJlv18aqM3s1HuiU_PeR4YFI0lsugQhMfz73_uIPzmW7rwpK2FgbtrGp5rad7kax8hjdzKksLKsooNewLqN_-e8zCTrpCh7h0y7BLN9-mATuaHqHOIQ4yHMeLicB9OTmXAER4MZq_uR3yJOklq3UpnlzfCW3v5QeTD35Uk2wZx04TcHFI9kWjI009gABb6RAgpf4sziw2L0uNrK7gTkjvbYL14WFLvOkXmPBgCjVez8zsdCdxwdrtSEnH07F1SmoLmf_IYxRF1GqPcIo-jevSc1qCpg-u1VA5o3Wl4MqTcqC5puasW3BQKyImEA2AvdSgByfTpEQYyQ6FO2Y0wUOPsVnj7w3y-3CjVR14sEvmm-EFudalqzuD-eWKLFXW6cXIuhtcyTrQV-Y8n3WO2ds7UEd182AtLNxbVn8HN2Lms8xmdiiosKv0i66twUaiE1FTXIWIJqMK_4lzBVfOnK0SsGLBF3t2fsmwh9rbBLkY3yR_OVLEoQiLPh4jr5Kv7BKTo2trK0BBQSJuDggV-8GH6MXEQlwfcYjN46-l833mBqLalcRZU-ltJVzJCMOs6ZLzCM6ZyX869m1F9bXMT-Vrd09M5Yhe71mD9oaJSmCHVLHT-qFk31oFIlOUiQm_NPmGbt4MVu-sI8I79MrlUrhMWBgE5B5DHkKgfJzpWpm5KhbKI6ZkM38oaFWufmyWOAKiaBYipEs1xfqFHnmIyBbC5lvhQ5puXqjP8EScbyBSeYcN7jMvCNUcQdtfaVdr0ICQDKDL7rd6HM4LQIFKhn7R6yykwDEMNEjd8Jlz0AptktmKr2Z1C__chQxq_G1oyg1L6e8ROSX8OmpR3BoMhTb_flb67xHfDPl7IAEqCXVzLWVhc3QtMTC2BQ.m3u8
 
 #EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" aspect-ratio=16:9 , Locomotion SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -375,7 +375,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-aLwtcrV9u5HOhrNCw5yUfQ6HDpAVDTBWNODJIeDV2_h)/cloud/3/x82cxbb/s/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-aVUxwfJO0ts1vVKjdUKg-tDwmY2fts8yrA6Z2Nbngrz)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -525,13 +525,13 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 
 #EXTINF: -1 tvg-id="redeamerica.br"  tvg-logo="https://observatoriodeourofino.com.br/wordpress/wp-content/uploads/2021/11/Rede-America-1.jpg" group-title="Entretenimento", Rede America TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cs8FTluAdGCV1h90E5rP2WdPuqXhz8mKX4Jgiijzm-t9Qg7CYQC-9IIJ4wuHbYkj-ZYhIYwzKTch-ENbOr2n3XJU-i0N0zC6GlmXLPTvgMWaWf_ZIyAuqb2pUFUjbuB_qqYXZ1i4Yx92rbkUfgKGuG62VXSDlWW-50TmCpvWv6CXdoQcfJURMRbQrk9qb_RkvXdeR87JJBDyMvmoAMKSVoSeNHGwgTy16Cs5kwLS1q_cnnvWe2u7x21tk-MncOylSapRjyBJ06GHtjNITeY_fR98znInaoQEq_CotPokeJ5Iz63Ck0VOvpaTGYfA_JU_XZifRa9FBsYUemtjxUipSnHPf-NXKmXvz6Uz11L4dYFPVhsDCGcgkrxxqGElOjY0NDKtLci5vvw-u7gMuki5n9gkZwieMdjev6e2wnxGeillGV2eCD0GZ3NZgQzueMGHXwjA_fdjPSDegXpanXTLk4F9Qh42lKUc7ee2OIMR5CfTw6yDuq92zIFGx_6BCg5H2ujYsol7M44GefIcravPhyVXa2bDbhNBYwrDN8zMeHFPvMo9UK60uRSYs0k_icJ7InAcVpcCNVKCLX8ppvYf63T32H-ccq8pYqj-0yUEIEjVWuBDDVt87NTb5WrIq-T1v1J59jCS-hnBnTTW-XgPXRe0OX02WBIGrTrCzDQb82DrrUHaxD47Z0Lk0AW3PetKFI30AL0HhfMe7-5h7tN1jbM1xYVNLKEfIc_RL5uZNrKi34U5U8Iwy1pgbLzID_24nLJqxXv7rPRBKOP9kGW1bNO-j9i_pNN-HyeykjSVP6PTlBbj2ItymYrPxRK86OzKNscq5qzGgFvkAgf187W7T2NMKcJK3_fnPEktZZd6QTRTjhp0YOVDnv9vxnP-JROBfVCblma78HTCyqHToSblESY_TbSCTY_6hw4TNapSumWnUvsjncInAYgQKXnq_Lbxnz8aDPTL0WB4Jclg1EyBuSABKgl1cy1lYXN0LTEwtQU.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtEFtPU7mgezQ2gRu7y4BSVZFqUfRPOHUDdSUQETGhGm7FeyXzmFu5yWj60RPTJY-_R55UAvTSayCc2Ef1HCVuTXD5H1EJ1o2bTQGlD75fjtHuc0eHtJIlXsxUP7HOC4pUp7PsKLn1jYD6U2BdYZNAbX6h8ZbU0JBdfPAtK-yf7MyKeTPugD32JEXmgmRL4MPovKam4b02oQhvJbuGpQ8jKQXMe76eQLHpGQt8mMtU3Z9y3dmI57MMG2X2NRGOU1qSHPhkvrCJACH_nwbMJmgtDSf3CnNvKu4bfEVnx2UeUuEkeeq1s83sYeV-Og1WdxmvStew6P0BwtwIDtod3Pq1HEvKZ7yENenQT-FHVhyraihchQBOhd31-CxKBGOLLrdtH1ZB_6t2560sPT7LTmZXxY08bXoSfy5cVbrYnU770o-aWmDlI70v-lJuziAnnC3ZhJZF56RL3rRNb0MN0CLZglsIWKwmUjFwsToIwz5NuS60Ofqc8A9SvTUGG-WKIH9zwzZ-reE8itqfmT_7oEbAWG0D7BHnNOJY1v3GyBlKaqShtp7UpdyMGzZflZv9mBXmDA8a01UaTbgOYNAGf0xOQ-JhY2OWk0TsMrTCXZ_1gz9OLgHpnej1q-2yIohQlYcX1r3wo9AnnJW7mP6YKjDGAcUXN48dmJoahtRBhJkH8Ycz6I2yTv1Za7EOVEOZitYPA-gozIuZ2QPj5b0qSC2iuzbtSXmSYvL9VsdpEy5K4ctdsn7UdmM1PI7_5jnL948DV8qBG9zCVky8QgOKlRFrK3QCB9_lo33i6H9BOzR4IpUKM1weuw9I20sVPbX-UBxTdxcNg_X6tozZzTgErebBBAuVPtIyUIP6XcIf_SkjXDFQmU_xBBQFRvussBGHGGvmxtH4hxzitlETZAtJVGie0B0ps2ElQwOSkcmgxq2JCc5e4WfwpAsTO4AWhueJ3ozggPrhoM1gABoKmWTQpzTvc1IAEqCXVzLWVhc3QtMTC2BQ.m3u8
 
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIpsIkydaZKyaBkpiTWSm6CNUEFXfE-X0GkIPdSw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" ,Rede Metropolis HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-chno="153" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Gazeta Digital
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v6jGTt-kTlNe0yHlIh3EMX8JAPBgeqS4pw9aXmHaaCXM)/dm/3/x89qors/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-POFcPW1UWSQpjRqr2P4R4hYoeaA1crvVBQDxQD5v5m)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -603,11 +603,11 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1
 
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio", CBN São Paulo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODkwMTA4NDcsImlhdCI6MTY4ODkyNDQ0NywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9jYm5zcDI0aGEvcGxheWxpc3QubTN1OCJ9.wXLb59TC1m5al3XTdSNa1TZfkoQMqeIE9QcFF9VmACdwQSu9OJwlLDj0zgSQCVELtJ-j6Gd3lrTDTMsv1s3ASoroUWzKsQLLqlcMP1UFpbRXwgf6lHM7Di2OYmlJcV7cuuG-rhU4iisZ6zoY1bWX3t9q5xhcS0b5YY75TYnRL7g_ibiZt2BS2Zw2VACes2SqrH3dt6VBiEK-fgsgeVRwC9vhwdOcSSmDQvUg_wGzuDbWkdEa5ypIdfdmOt7wEopT91HloUpgJn-QdTCdxXahaXdd_Du5vadVNc1TW5bMhvSaq51-1s31gAh0YI-gRSEtbawL85exV-4W4AH2MUCnFg/nu/f(bMin=2000,dvr=120,i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=558976.m3u8?dvr_window_length=120
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2ODkwOTM0ODUsImlhdCI6MTY4OTAwNzA4NSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9jYm5zcDI0aGEvcGxheWxpc3QubTN1OCJ9.K59lHxZCRJ6tDVTbmjSiyBrEtYePEw3IbDlLWnet1tFy1ge_YyeRrEHTDnkRk-ZGU0Xq1hZb4NvkYXaJwrlqTtigeNl6azxSrOFfqkbo0-kHB3WNuFd6xhVjBF5xn1rCw4i8wVdqeUa0cyUy08TlUoqlGyRvJfduNFIisDzZjnHQEnYMgQkVYUAy911qtPdExii67p9gUcRTlqVZm6atChVCdz1zQQMWeg3v6gxIQUekx81cHAWuiWgGwLDUiZdZ6_24xISbSe9L8ELIc0E2GbKz-NONcrkbluQ0VkCeptQkKU2TCh4R7kJLigjpanXld7TbJPtirUbBvn2iDlzNkA/nu/f(bMin=2000,dvr=120,i=2)/cbnsp24ha/cbnsp24ha-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
 
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMjYL8s4fnPCjNv2NyN9Rbppv4cjEBZWnckA36y=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio", CBN Recife HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video05.logicahost.com.br/tvasabranca/tvasabranca/chunklist_w681002446.m3u8
+https://video05.logicahost.com.br/tvasabranca/tvasabranca/playlist.m3u8
 
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://yt3.googleusercontent.com/cOhejwbgDPCBkY5G78Qux9JUN6VZPmnv6VZquyPhtDXlkxZ7qcJyUolUTDOokHdZO-ldQ5Sb=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio", CBN Campinas HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -625,6 +625,10 @@ https://cdn-mirtes787.ciclano.io:1443/mirtes787/mirtes787/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.transmissaodigital.com/bandpousoalegre/bandpousoalegre/playlist.m3u8
 
+#EXTINF: -1 tvg-id="bandfmrede.br" tvg-logo="https://yt3.googleusercontent.com/SjHk3bo1i_rDUFto46T_y4u2MaZIUvJvYIBwHbbokU4Qk5R_p2Wya4pd0k9Qs7nWy21KDOLd=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio",Band FM Campinas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://srv7.zcast.com.br/bandfmcampinas/bandfmcampinas/playlist.m3u8
+
 #EXTINF: -1 tvg-id="nativafmrede.br" tvg-logo="https://yt3.googleusercontent.com/UY02nx4vTBOqBBisRdJlc-78KwBGOWiRLZoDns9fKwl06xFw0cS8R8Bv4WZwB-pnr9aCXcG3=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio",Nativa Campinas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://srv7.zcast.com.br/nativafmcampinas/nativafmcampinas/playlist.m3u8
@@ -638,7 +642,7 @@ https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/in
 https://6fa56255cc1a8b78f6dcfc6941498a9a.livehwc3.cn/player-culturaam.stream.uol.com.br/live/culturaam.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=40666d14aa9fde47a8377fbcfcecaed6
 
 #EXTINF: -1 tvg-id="radiorockfm.br" tvg-logo="https://pbs.twimg.com/profile_images/1508199729737388040/eEZzwmR2_400x400.jpg" group-title="Canais de Áudio",89 FM A Rádio Rock
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0_ETl8nb8O4yLd2n-w2-H6AB8bYevWzwVFkW2P3b3cL)/dm/3/x7wjrui/s/live-1.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwpAWN8RtBn9bG9w-ujEY3JfjxEVH6FdKUvIr0ZGYusV)/dm/3/x7wjrui/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="radioclubeampe.br" tvg-logo="https://img.radios.com.br/radio/xl/radio18891_1497439138.PNG" group-title="Canais de Áudio" radio="true",Rádio Clube Recife AM
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
