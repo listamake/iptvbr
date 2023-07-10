@@ -780,35 +780,35 @@
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230707040000 -0300" stop="20230707060000 -0300" channel="yaaeeh.br">
+<programme start="20230711040000 -0300" stop="20230711060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230707060000 -0300" stop="20230707070000 -0300" channel="yaaeeh.br">
+<programme start="20230711060000 -0300" stop="20230711070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230707070000 -0300" stop="20230707090000 -0300" channel="yaaeeh.br">
+<programme start="20230711070000 -0300" stop="20230711090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230707090000 -0300" stop="20230707100000 -0300" channel="yaaeeh.br">
+<programme start="20230711090000 -0300" stop="20230711100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230707100000 -0300" stop="20230707120000 -0300" channel="yaaeeh.br">
+<programme start="20230711100000 -0300" stop="20230711120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230707120000 -0300" stop="20230707130000 -0300" channel="yaaeeh.br">
+<programme start="20230711120000 -0300" stop="20230711130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230707130000 -0300" stop="20230707150000 -0300" channel="yaaeeh.br">
+<programme start="20230711130000 -0300" stop="20230711150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230707150000 -0300" stop="20230707160000 -0300" channel="yaaeeh.br">
+<programme start="20230711150000 -0300" stop="20230711160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
@@ -884,15 +884,15 @@
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20230707000000 -0300" stop="20230707190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230712000000 -0300" stop="20230712190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230707190000 -0300" stop="20230707200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230712190000 -0300" stop="20230712200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230707200000 -0300" stop="20230707210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230712200000 -0300" stop="20230712210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
@@ -920,117 +920,117 @@
 
 ###CanalUsuario.br###
  
-<programme start="20230708000000 -0300" stop="20230708020000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230708020000 -0300" stop="20230708030000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
- <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
-</programme>
-<programme start="20230708030000 -0300" stop="20230708040000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
- <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
-</programme>
-<programme start="20230708040000 -0300" stop="20230708100000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230708100000 -0300" stop="20230708110000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
- <desc lang="pt">Produções da disney.</desc>
-</programme>
-<programme start="20230708110000 -0300" stop="20230708130000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230708130000 -0300" stop="20230708140000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
- <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
-</programme>
-<programme start="20230708140000 -0300" stop="20230708170000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230708170000 -0300" stop="20230708180000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
- <desc lang="pt">Produções da disney.</desc>
-</programme>
-<programme start="20230708180000 -0300" stop="20230708220000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230708220000 -0300" stop="20230708230000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
- <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
-</programme>
-<programme start="20230405200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Fala Mais Online</title>
- <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
-</programme>
-<programme start="20230708230000 -0300" stop="20230709000000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
- 
-<programme start="20230709000000 -0300" stop="20230709020000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230709020000 -0300" stop="20230709030000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
- <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
-</programme>
-<programme start="20230709030000 -0300" stop="20230709040000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
- <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
-</programme>
-<programme start="20230709040000 -0300" stop="20230709100000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230709100000 -0300" stop="20230709110000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
- <desc lang="pt">Produções da disney.</desc>
-</programme>
-<programme start="20230709110000 -0300" stop="20230709130000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230709130000 -0300" stop="20230709140000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
- <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
-</programme>
-<programme start="20230709140000 -0300" stop="20230709170000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230709170000 -0300" stop="20230709180000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
- <desc lang="pt">Produções da disney.</desc>
-</programme>
-<programme start="20230709180000 -0300" stop="20230709220000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-<programme start="20230709220000 -0300" stop="20230709230000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
- <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
-</programme>
-<programme start="20230405200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Fala Mais Online</title>
- <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
-</programme>
-<programme start="20230709230000 -0300" stop="20230710000000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
- <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-</programme>
-
 <programme start="20230710000000 -0300" stop="20230710020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230710020000 -0300" stop="20230710030000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+</programme>
+<programme start="20230710030000 -0300" stop="20230710040000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Planeta Feroz - Furacão</title>
+ <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+</programme>
+<programme start="20230710040000 -0300" stop="20230710100000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230710100000 -0300" stop="20230710110000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title>
+ <desc lang="pt">Produções da disney.</desc>
+</programme>
+<programme start="20230710110000 -0300" stop="20230710130000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230710130000 -0300" stop="20230710140000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+</programme>
+<programme start="20230710140000 -0300" stop="20230710170000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230710170000 -0300" stop="20230710180000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title>
+ <desc lang="pt">Produções da disney.</desc>
+</programme>
+<programme start="20230710180000 -0300" stop="20230710220000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230710220000 -0300" stop="20230710230000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Planeta Feroz - Furacão</title>
+ <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+</programme>
+<programme start="20230405200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Fala Mais Online</title>
+ <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
+</programme>
+<programme start="20230710230000 -0300" stop="20230711000000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+ 
+<programme start="20230711000000 -0300" stop="20230711020000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230711020000 -0300" stop="20230711030000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+</programme>
+<programme start="20230711030000 -0300" stop="20230711040000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Planeta Feroz - Furacão</title>
+ <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+</programme>
+<programme start="20230711040000 -0300" stop="20230711100000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230711100000 -0300" stop="20230711110000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title>
+ <desc lang="pt">Produções da disney.</desc>
+</programme>
+<programme start="20230711110000 -0300" stop="20230711130000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230711130000 -0300" stop="20230711140000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+</programme>
+<programme start="20230711140000 -0300" stop="20230711170000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230711170000 -0300" stop="20230711180000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title>
+ <desc lang="pt">Produções da disney.</desc>
+</programme>
+<programme start="20230711180000 -0300" stop="20230711220000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230711220000 -0300" stop="20230711230000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Planeta Feroz - Furacão</title>
+ <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+</programme>
+<programme start="20230411200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Fala Mais Online</title>
+ <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
+</programme>
+<programme start="20230711230000 -0300" stop="20230712000000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+
+<programme start="20230712000000 -0300" stop="20230712020000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>
+ <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+</programme>
+<programme start="20230712020000 -0300" stop="20230712030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
