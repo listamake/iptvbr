@@ -128,7 +128,7 @@ https://stream.urbantv.com.br/urbantvsports/video.m3u8
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="038" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w958860307.m3u8
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
 
 #EXTINF: -1 tvg-id="bstv.br" tvg-chno="039" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
