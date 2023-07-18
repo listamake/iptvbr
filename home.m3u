@@ -33,7 +33,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 
 #EXTINF: -1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-chno="009" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="Notícias", Record News - TV SIM ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w9779571.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="Euronews.br" tvg-chno="010" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="Notícias",Euronews em português
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -111,7 +111,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-chno="033" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", CNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTAwMDE5MDAsImlhdCI6MTY4OTM5NzEwMCwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODkzOTUzMDAsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.HB4zvn_eYluAnkNwHsAhky3157qHpJogBBPUOpYph3E&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTAyNTIyODEsImlhdCI6MTY4OTY0NzQ4MSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODk2NDU2ODEsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvMmI1MTI2NjItYTQwZi00NmVmLWI1NDAtZThlZTNmNWJiMWZiLyJ9.-DurJHOw6c7KhkhAQYeHNs8DqrlkgL0ECmtTKMnu6Gc&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-chno="034" tvg-name="Rede Meio Norte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU" group-title="Variedades", Rede Meio Norte - TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
@@ -373,7 +373,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-chno="0" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="Regionais", Record News SC
+#EXTINF: -1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-chno="0" tvg-logo="https://pbs.twimg.com/profile_images/1574594693714911232/Cyby7WtT_400x400.jpg" group-title="Notícias", Record News SC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://caikron.com.br:19360/floripa/floripa.m3u8
 
@@ -497,16 +497,19 @@ https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/play
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Salvador HD
-https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODk0NDAzNzUsImlhdCI6MTY4ODgzNTU3NSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODg4MzM3NzUsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.A0_cBtg6dVWn4bnWfGbiOauw1Csk92jqDG7SHE59scE&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTAyNTIyNjEsImlhdCI6MTY4OTY0NzQ2MSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODk2NDU2NjEsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvYzBmYmFiMWQtOGFkNi00YjZjLWIwNTMtYjMwYTg5YjAyMTEwLyJ9.DAlLEMHi5AguLQS0z7XvA8-Zfz4jY5B1-zybMdnyzS4&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Paraná HD
-https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODk0NDAzMTksImlhdCI6MTY4ODgzNTUxOSwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODg4MzM3MTksInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.ga5wQMSiCC6VgmF6YV_x634xuNq54y-c6BbOqz3fISA&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
+https://akamai.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTAyNTIyMDIsImlhdCI6MTY4OTY0NzQwMiwiaWQiOiIxM2I3MjBiNS1hYzdiLTQ5OWMtOWU5NS0xZGZkZGYyYmMxNTgiLCJuYmYiOjE2ODk2NDU2MDIsInVpZCI6IjEzYjcyMGI1LWFjN2ItNDk5Yy05ZTk1LTFkZmRkZjJiYzE1OCIsInVyaV9zdWIiOiIvZWU0ZDNhYjgtYTE2Mi00MmQ4LWE0ZDAtZTRhZTAzZjkyMjRhLyJ9.xNJxkkbOQqPfgrRGfqQAAbeTf3J_Llxz_KpkFS7R8SA&uid=13b720b5-ac7b-499c-9e95-1dfddf2bc158
 
 #EXTINF: -1 tvg-id="TVNBT.br" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais", TV NBT
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 
 #EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOaWUUZkBaV2boKWDKoz2-42TDAJp-o3nIYhuRo=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", TV One HD - Rede Meio Norte
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w1862302272.m3u8
+
+#EXTINF: -1 tvg-id="foradetediotv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec7e3fb0435c5aadb37ced264e0d3b3.webp" group-title="Canais de Humor",Fora Tédio TV
+https://srv5.zcast.com.br/foratedio/foratedio/playlist.m3u8
 
 #EXTINF: -1 tvg-id="pooptv.br" tvg-logo="https://media.discordapp.net/attachments/1122249392443883600/1122249541857591409/logo_pooptv_def.png?width=308&height=233" group-title="Canais de Humor", PoopTV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
