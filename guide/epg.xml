@@ -2645,11 +2645,11 @@
 </programme>
  
  ####Clc.br####
-<programme start="2023071910000 -0300" stop="20230719080000 -0300" channel="Clc.br">
+<programme start="2023072110000 -0300" stop="20230721080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230719080000 -0300" stop="20230719130000 -0300" channel="Clc.br">
+<programme start="20230721080000 -0300" stop="20230721130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -2662,19 +2662,19 @@
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230718010000 -0300" stop="20230718080000 -0300" channel="Clc.br">
+<programme start="20230720010000 -0300" stop="20230720080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230718080000 -0300" stop="20230718130000 -0300" channel="Clc.br">
+<programme start="20230720080000 -0300" stop="20230720130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230718130000 -0300" stop="20230718210000 -0300" channel="Clc.br">
+<programme start="20230720130000 -0300" stop="20230720210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230718210000 -0300" stop="20230719010000 -0300" channel="Clc.br">
+<programme start="20230720210000 -0300" stop="20230721010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -2689,7 +2689,7 @@
 </programme>
  
    ####radiometroweb.br####
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="radiometroweb.br">
+<programme start="20230721000000 -0300" stop="20230723000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -2699,27 +2699,27 @@
 </programme>
  
  
-<programme start="20230716000000 -0300" stop="20230716120000 -0300" channel="radiometroweb.br">
+<programme start="20230723000000 -0300" stop="20230723120000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230716120000 -0300" stop="20230716150000 -0300" channel="radiometroweb.br">
+<programme start="20230723120000 -0300" stop="20230723150000 -0300" channel="radiometroweb.br">
  <title lang="pt">Som Massa</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230716150000 -0300" stop="20230716183000 -0300" channel="radiometroweb.br">
+<programme start="20230723150000 -0300" stop="20230723183000 -0300" channel="radiometroweb.br">
  <title lang="pt">Equipe Bola Furada</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230716183000 -0300" stop="20230716200000 -0300" channel="radiometroweb.br">
+<programme start="20230723183000 -0300" stop="20230723200000 -0300" channel="radiometroweb.br">
  <title lang="pt">Amigos da Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230716200000 -0300" stop="20230716210000 -0300" channel="radiometroweb.br">
+<programme start="20230723200000 -0300" stop="20230723210000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230716210000 -0300" stop="20230717000000 -0300" channel="radiometroweb.br">
+<programme start="20230723210000 -0300" stop="20230724000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -2729,7 +2729,7 @@
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
@@ -2740,15 +2740,15 @@
  
   ####bandfmrede.br####
 
-<programme start="20230719000000 -0300" stop="20230719050000 -0300" channel="bandfmrede.br">
+<programme start="20230721000000 -0300" stop="20230721050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title>
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230719050000 -0300" stop="20230719060000 -0300" channel="bandfmrede.br">
+<programme start="20230721050000 -0300" stop="20230721060000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title>
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230719060000 -0300" stop="20230719090000 -0300" channel="bandfmrede.br">
+<programme start="20230721060000 -0300" stop="20230721090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora do Ronco</title>
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
@@ -2765,27 +2765,27 @@
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
 
-<programme start="20230718000000 -0300" stop="20230718050000 -0300" channel="bandfmrede.br">
+<programme start="20230720000000 -0300" stop="20230720050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title>
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230718050000 -0300" stop="20230718060000 -0300" channel="bandfmrede.br">
+<programme start="20230720050000 -0300" stop="20230720060000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title>
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230718060000 -0300" stop="20230718090000 -0300" channel="bandfmrede.br">
+<programme start="20230720060000 -0300" stop="20230720090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora do Ronco</title>
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
-<programme start="20230718090000 -0300" stop="20230718210000 -0300" channel="bandfmrede.br">
+<programme start="20230720090000 -0300" stop="20230720210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title>
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230718210000 -0300" stop="20230718220000 -0300" channel="bandfmrede.br">
+<programme start="20230720210000 -0300" stop="20230720220000 -0300" channel="bandfmrede.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230718220000 -0300" stop="20230719000000 -0300" channel="bandfmrede.br">
+<programme start="20230720220000 -0300" stop="20230721000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Love</title>
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
@@ -2860,20 +2860,20 @@
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230716000000 -0300" stop="20230716220000 -0300" channel="radiosociedade.br">
+<programme start="20230720000000 -0300" stop="20230720220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230716220000 -0300" stop="20230717040000 -0300" channel="radiosociedade.br">
+<programme start="20230720220000 -0300" stop="20230721040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230717000000 -0300" stop="20230717220000 -0300" channel="radiosociedade.br">
+<programme start="20230721000000 -0300" stop="20230721220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230717220000 -0300" stop="20230718000000 -0300" channel="radiosociedade.br">
+<programme start="20230721220000 -0300" stop="20230722000000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
@@ -2889,15 +2889,15 @@
  
     ####radiocidadeverde####
 
-<programme start="20230719000000 -0300" stop="20230719063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230721000000 -0300" stop="20230721063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230719063000 -0300" stop="20230719083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230721063000 -0300" stop="20230721083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230719083000 -0300" stop="20230719100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230721083000 -0300" stop="20230721100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
@@ -2913,56 +2913,56 @@
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230717140000 -0300" stop="20230717180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230719140000 -0300" stop="20230719180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230717180000 -0300" stop="20230717200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230719180000 -0300" stop="20230719200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230717200000 -0300" stop="20230717210000 -0300" channel="radiocidadeverde">
+<programme start="20230719200000 -0300" stop="20230719210000 -0300" channel="radiocidadeverde">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230717210000 -0300" stop="20230718063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230719210000 -0300" stop="20230720063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
   
-<programme start="20230718063000 -0300" stop="20230718083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720063000 -0300" stop="20230720083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230718083000 -0300" stop="20230718100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720083000 -0300" stop="20230720100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230718100000 -0300" stop="20230718113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720100000 -0300" stop="20230720113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230718113000 -0300" stop="20230718120000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720113000 -0300" stop="20230720120000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230718120000 -0300" stop="20230718140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720120000 -0300" stop="20230720140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230718140000 -0300" stop="20230718180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720140000 -0300" stop="20230720180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230718180000 -0300" stop="20230718200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720180000 -0300" stop="20230720200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230718200000 -0300" stop="20230718210000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720200000 -0300" stop="20230720210000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230718210000 -0300" stop="20230719063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230720210000 -0300" stop="20230721063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
