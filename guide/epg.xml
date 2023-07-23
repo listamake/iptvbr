@@ -1576,60 +1576,70 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 
- 
-<programme start="20230725000000 -0300" stop="20230725073000 -0300" channel="CentralTV.br">
+<programme start="20230725000000 -0300" stop="20230726000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230725073000 -0300" stop="20230725113000 -0300" channel="CentralTV.br">
+
+ 
+<programme start="20230726000000 -0300" stop="20230726073000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title>
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+<programme start="20230726073000 -0300" stop="20230726113000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230725113000 -0300" stop="20230725130000 -0300" channel="CentralTV.br">
+<programme start="20230726113000 -0300" stop="20230726130000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20230720130000 -0300" stop="20230720131500 -0300" channel="CentralTV.br">
+<programme start="20230726130000 -0300" stop="20230726131500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230720131500 -0300" stop="20230720140000 -0300" channel="CentralTV.br">
+<programme start="20230726131500 -0300" stop="20230726140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230721140000 -0300" stop="20230721144000 -0300" channel="CentralTV.br">
+<programme start="20230726140000 -0300" stop="20230726144000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230721144000 -0300" stop="20230721150000 -0300" channel="CentralTV.br">
+<programme start="20230726144000 -0300" stop="20230726150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230721150000 -0300" stop="20230721153000 -0300" channel="CentralTV.br">
+<programme start="20230726150000 -0300" stop="20230726153000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230721153000 -0300" stop="20230721183000 -0300" channel="CentralTV.br">
+<programme start="20230726153000 -0300" stop="20230726183000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230721183000 -0300" stop="20230721193000 -0300" channel="CentralTV.br">
+<programme start="20230726183000 -0300" stop="20230726193000 -0300" channel="CentralTV.br">
  <title lang="pt">Milk News</title>
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
-<programme start="20230721193000 -0300" stop="20230721200000 -0300" channel="CentralTV.br">
+<programme start="20230726193000 -0300" stop="20230726200000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230721200000 -0300" stop="20230721210000 -0300" channel="CentralTV.br">
+<programme start="20230726200000 -0300" stop="20230726210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230721210000 -0300" stop="20230721213000 -0300" channel="CentralTV.br">
+<programme start="20230726210000 -0300" stop="20230726213000 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230721210000 -0300" stop="20230722000000 -0300" channel="CentralTV.br">
+<programme start="20230726210000 -0300" stop="20230727000000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title>
+ <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+</programme>
+
+<programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -1760,31 +1770,42 @@
  <title lang="pt">Músicais</title>
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
+
+<programme start="20230725004000 -0300" stop="20230726004000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
  
-<programme start="20230725004000 -0300" stop="20230725012000 -0300" channel="adessotv.br">
+<programme start="20230726004000 -0300" stop="20230726012000 -0300" channel="adessotv.br">
  <title lang="pt">Mini Docs</title>
  <desc lang="pt">Documentários especiais com temas variados e interessantes.</desc>
 </programme>
-<programme start="20230725012000 -0300" stop="20230725060000 -0300" channel="adessotv.br">
+<programme start="20230726012000 -0300" stop="20230726060000 -0300" channel="adessotv.br">
  <title lang="pt">Sessão Coruja</title>
  <desc lang="pt">Confira exibições de filmes durante a madrugada.</desc>
 </programme>
-<programme start="20230725060000 -0300" stop="20230725130000 -0300" channel="adessotv.br">
+<programme start="20230726060000 -0300" stop="20230726130000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230721130000 -0300" stop="20230721140000 -0300" channel="adessotv.br">
+<programme start="20230726130000 -0300" stop="20230726140000 -0300" channel="adessotv.br">
  <title lang="pt">Prato Limpo</title>
  <desc lang="pt">A verdade, a notícia completa e apurada, levando aquilo que realmente interessa.</desc>
 </programme>
-<programme start="20230721140000 -0300" stop="20230721230000 -0300" channel="adessotv.br">
+<programme start="20230726140000 -0300" stop="20230726230000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
  <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
 </programme>
-<programme start="20230721230000 -0300" stop="20230722004000 -0300" channel="adessotv.br">
+<programme start="20230726230000 -0300" stop="20230727004000 -0300" channel="adessotv.br">
  <title lang="pt">Músicais</title>
  <desc lang="pt">Confira exibições de Clips, eventos e shows.</desc>
 </programme>
+
+<programme start="20230725004000 -0300" stop="20230726004000 -0300" channel="adessotv.br">
+ <title lang="pt">Programação Adesso TV</title>
+ <desc lang="pt">ADESSO TV é um canal de Televisão produzido pela Diffusione Comunicação para ser exibido em diversas plataformas como: Operadoras de TV a Cabo, IPTV, Streaming, apps em Smart TVs e em redes sociais como Facebook e Youtube.</desc>
+</programme>
+ 
  
 <programme start="20230722004000 -0300" stop="20230723000000 -0300" channel="adessotv.br">
  <title lang="pt">Programação Adesso TV</title>
@@ -1796,100 +1817,110 @@
 </programme>
  
     ###TVMax.br###
-<programme start="20230721000000 -0300" stop="20230721070000 -0300" channel="TVMax.br">
+<programme start="20230724000000 -0300" stop="20230724070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230721070000 -0300" stop="20230721080000 -0300" channel="TVMax.br">
+<programme start="20230724070000 -0300" stop="20230724080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230721080000 -0300" stop="20230721100000 -0300" channel="TVMax.br">
+<programme start="20230724080000 -0300" stop="20230724100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20230721100000 -0300" stop="20230721110000 -0300" channel="TVMax.br">
+<programme start="20230724100000 -0300" stop="20230724110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20230721110000 -0300" stop="20230721120000 -0300" channel="TVMax.br">
+<programme start="20230724110000 -0300" stop="20230724120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20230721120000 -0300" stop="20230721130000 -0300" channel="TVMax.br">
+<programme start="20230724120000 -0300" stop="20230724130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20230721130000 -0300" stop="20230721150000 -0300" channel="TVMax.br">
+<programme start="20230724130000 -0300" stop="20230724150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20230721150000 -0300" stop="20230721153000 -0300" channel="TVMax.br">
+<programme start="20230724150000 -0300" stop="20230724153000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230721153000 -0300" stop="20230721160000 -0300" channel="TVMax.br">
+<programme start="20230724153000 -0300" stop="20230724160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230721160000 -0300" stop="20230721190000 -0300" channel="TVMax.br">
+<programme start="20230724160000 -0300" stop="20230724190000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230721190000 -0300" stop="20230721200000 -0300" channel="TVMax.br">
+<programme start="20230724190000 -0300" stop="20230724200000 -0300" channel="TVMax.br">
  <title lang="pt">Vegeta TV</title>
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
-<programme start="20230721200000 -0300" stop="20230722000000 -0300" channel="TVMax.br">
+<programme start="20230724200000 -0300" stop="20230725000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+
+<programme start="20230725000000 -0300" stop="20230726000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="20230720000000 -0300" stop="20230720070000 -0300" channel="TVMax.br">
+<programme start="20230726000000 -0300" stop="20230726070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230720070000 -0300" stop="20230720080000 -0300" channel="TVMax.br">
+<programme start="20230726070000 -0300" stop="20230726080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230720080000 -0300" stop="20230720100000 -0300" channel="TVMax.br">
+<programme start="20230726080000 -0300" stop="20230726100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20230720100000 -0300" stop="20230720110000 -0300" channel="TVMax.br">
+<programme start="20230726100000 -0300" stop="20230726110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20230720110000 -0300" stop="20230720120000 -0300" channel="TVMax.br">
+<programme start="20230726110000 -0300" stop="20230726120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20230720120000 -0300" stop="20230720130000 -0300" channel="TVMax.br">
+<programme start="20230726120000 -0300" stop="20230726130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20230720130000 -0300" stop="20230720150000 -0300" channel="TVMax.br">
+<programme start="20230726130000 -0300" stop="20230726150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20230720150000 -0300" stop="20230720153000 -0300" channel="TVMax.br">
+<programme start="20230726150000 -0300" stop="20230726153000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230720153000 -0300" stop="20230720160000 -0300" channel="TVMax.br">
+<programme start="20230726153000 -0300" stop="20230726160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230720160000 -0300" stop="20230720190000 -0300" channel="TVMax.br">
+<programme start="20230726160000 -0300" stop="20230726190000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230720190000 -0300" stop="20230720200000 -0300" channel="TVMax.br">
+<programme start="20230726190000 -0300" stop="20230726200000 -0300" channel="TVMax.br">
  <title lang="pt">Vegeta TV</title>
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
-<programme start="20230720200000 -0300" stop="20230721000000 -0300" channel="TVMax.br">
+<programme start="20230726200000 -0300" stop="20230727000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>
+ <desc lang="pt">O Rio Corre pra max!!</desc>
+</programme>
+
+<programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1938,7 +1969,7 @@
 </programme>
  
 ####pooptv.br####
-<programme start="20230719000000 -0300" stop="20230722000000 -0300" channel="pooptv.br">
+<programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="pooptv.br">
  <title lang="pt">YouTube Poop BR +16</title>
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
   <rating system="CLASSIND">
@@ -1962,73 +1993,83 @@
 
  
 ####TVMaisFamilia.br####
+
+<programme start="20230724100000 -0300" stop="20230725010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
  
-<programme start="20230721010000 -0300" stop="20230721030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725010000 -0300" stop="20230725030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230721030000 -0300" stop="20230721050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725030000 -0300" stop="20230725050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230721050000 -0300" stop="20230721070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725050000 -0300" stop="20230725070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230721070000 -0300" stop="20230721080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725070000 -0300" stop="20230725080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230721080000 -0300" stop="20230721081500 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725080000 -0300" stop="20230725081500 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Brasil em Dia</title>
  <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
 </programme>
-<programme start="20230721081500 -0300" stop="20230721083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725081500 -0300" stop="20230725083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programa Pago</title>
  <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
-<programme start="20230721083000 -0300" stop="20230721090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725083000 -0300" stop="20230725090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title>
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230721090000 -0300" stop="20230721100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725090000 -0300" stop="20230725100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230721100000 -0300" stop="20230721150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725100000 -0300" stop="20230725150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20230721150000 -0300" stop="20230721180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725150000 -0300" stop="20230725180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20230721180000 -0300" stop="20230721190000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725180000 -0300" stop="20230725190000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20230721190000 -0300" stop="20230721200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725190000 -0300" stop="20230725200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230721200000 -0300" stop="20230721220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725200000 -0300" stop="20230725220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230721220000 -0300" stop="20230721230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725220000 -0300" stop="20230725230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230721230000 -0300" stop="20230722010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230725230000 -0300" stop="20230726010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title>
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
+
+<programme start="20230726100000 -0300" stop="20230727010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
  
-<programme start="20230720010000 -0300" stop="20230720030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727010000 -0300" stop="20230727030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230720030000 -0300" stop="20230720050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727030000 -0300" stop="20230727050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
@@ -2309,7 +2350,7 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20230720000000 -0300" stop="20230724000000 -0300" channel="StrikerVerso.br">
+<programme start="20230730000000 -0300" stop="20230804000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -2366,44 +2407,44 @@
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307211200000 -0300" stop="20230721175700 -0300" channel="teennet.br">
+<programme start="202307241200000 -0300" stop="20230724175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307211757000 -0300" stop="20230721180000 -0300" channel="teennet.br">
+<programme start="202307241757000 -0300" stop="20230724180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307211800000 -0300" stop="20230721235700 -0300" channel="teennet.br">
+<programme start="202307241800000 -0300" stop="20230724235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307212357000 -0300" stop="20230722000000 -0300" channel="teennet.br">
+<programme start="202307242357000 -0300" stop="20230725000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
 
-<programme start="202307220000000 -0300" stop="20230722115700 -0300" channel="teennet.br">
+<programme start="202307250000000 -0300" stop="20230725115700 -0300" channel="teennet.br">
 <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307221157000 -0300" stop="20230722120000 -0300" channel="teennet.br">
+<programme start="202307251157000 -0300" stop="20230725120000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307221200000 -0300" stop="20230722175700 -0300" channel="teennet.br">
+<programme start="202307251200000 -0300" stop="20230725175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307221757000 -0300" stop="20230722180000 -0300" channel="teennet.br">
+<programme start="202307251757000 -0300" stop="20230725180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307221800000 -0300" stop="20230722235700 -0300" channel="teennet.br">
+<programme start="202307251800000 -0300" stop="20230725235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307222357000 -0300" stop="20230723000000 -0300" channel="teennet.br">
+<programme start="202307252357000 -0300" stop="20230726000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -2418,7 +2459,7 @@
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307180000000 -0300" stop="2023072200000 -0300" channel="tvbs.br">
+<programme start="202307280000000 -0300" stop="2023080200000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -2443,7 +2484,7 @@
  
  ###xtremetv.br###
  
-<programme start="202307190000000 -0300" stop="2023072300000 -0300" channel="xtremetv.br">
+<programme start="202307290000000 -0300" stop="2023080300000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
@@ -2461,7 +2502,7 @@
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="202307180000000 -0300" stop="2023072200000 -0300" channel="turnerdemo.br">
+<programme start="202307280000000 -0300" stop="2023080200000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -2586,119 +2627,119 @@
  
    ####vivaxtv.br####
 
-<programme start="20230721000000 -0300" stop="20230721020000 -0300" channel="vivaxtv.br">
+<programme start="20230726000000 -0300" stop="20230726020000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias - Reprise</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230721020000 -0300" stop="20230721060000 -0300" channel="vivaxtv.br">
+<programme start="20230726020000 -0300" stop="20230726060000 -0300" channel="vivaxtv.br">
  <title lang="pt">Programação VivaxTV</title>
  <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
 </programme> 
-<programme start="20230721060000 -0300" stop="20230721070000 -0300" channel="vivaxtv.br">
+<programme start="20230726060000 -0300" stop="20230726070000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230721070000 -0300" stop="20230721120000 -0300" channel="vivaxtv.br">
+<programme start="20230726070000 -0300" stop="20230726120000 -0300" channel="vivaxtv.br">
  <title lang="pt">DESENHOS</title>
  <desc lang="pt">Assista aos desenhos mais divertidos da televisão.</desc>
 </programme>
-<programme start="20230721120000 -0300" stop="20230721123000 -0300" channel="vivaxtv.br">
+<programme start="20230726120000 -0300" stop="20230726123000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230721123000 -0300" stop="20230721140000 -0300" channel="vivaxtv.br">
+<programme start="20230726123000 -0300" stop="20230726140000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ VIVAX</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230721140000 -0300" stop="20230721150000 -0300" channel="vivaxtv.br">
+<programme start="20230726140000 -0300" stop="20230726150000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230721150000 -0300" stop="20230721160000 -0300" channel="vivaxtv.br">
+<programme start="20230726150000 -0300" stop="20230726160000 -0300" channel="vivaxtv.br">
   <title lang="pt">Pod Vivax</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230721160000 -0300" stop="20230721163000 -0300" channel="vivaxtv.br">
+<programme start="20230726160000 -0300" stop="20230726163000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230721163000 -0300" stop="20230721180000 -0300" channel="vivaxtv.br">
+<programme start="20230726163000 -0300" stop="20230726180000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ VIVAX</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230721180000 -0300" stop="20230721183000 -0300" channel="vivaxtv.br">
+<programme start="20230726180000 -0300" stop="20230726183000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados - O Vigilante Rodoviário</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230721183000 -0300" stop="20230721210000 -0300" channel="vivaxtv.br">
+<programme start="20230726183000 -0300" stop="20230726210000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230721210000 -0300" stop="20230721220000 -0300" channel="vivaxtv.br">
+<programme start="20230726210000 -0300" stop="20230726220000 -0300" channel="vivaxtv.br">
   <title lang="pt">Pod Vivax</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230721220000 -0300" stop="20230722000000 -0300" channel="vivaxtv.br">
- <title lang="pt">Show Ao Vivo</title>
- <desc lang="pt">programa</desc>
-</programme> 
+<programme start="20230726220000 -0300" stop="20230727000000 -0300" channel="vivaxtv.br">
+ <title lang="pt">Programação VivaxTV</title>
+ <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
+</programme>  
 
-<programme start="20230722000000 -0300" stop="20230722020000 -0300" channel="vivaxtv.br">
+<programme start="20230727000000 -0300" stop="20230727020000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias - Reprise</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230722020000 -0300" stop="20230722060000 -0300" channel="vivaxtv.br">
+<programme start="20230727020000 -0300" stop="20230722060000 -0300" channel="vivaxtv.br">
  <title lang="pt">Programação VivaxTV</title>
  <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
 </programme> 
-<programme start="20230722060000 -0300" stop="20230722070000 -0300" channel="vivaxtv.br">
+<programme start="20230727060000 -0300" stop="20230727070000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230722070000 -0300" stop="20230722120000 -0300" channel="vivaxtv.br">
+<programme start="20230727070000 -0300" stop="20230727120000 -0300" channel="vivaxtv.br">
  <title lang="pt">DESENHOS</title>
  <desc lang="pt">Assista aos desenhos mais divertidos da televisão.</desc>
 </programme>
-<programme start="20230722120000 -0300" stop="20230722123000 -0300" channel="vivaxtv.br">
+<programme start="20230727120000 -0300" stop="20230727123000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230722123000 -0300" stop="20230722140000 -0300" channel="vivaxtv.br">
+<programme start="20230727123000 -0300" stop="20230727140000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ VIVAX</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230722140000 -0300" stop="20230722150000 -0300" channel="vivaxtv.br">
+<programme start="20230727140000 -0300" stop="20230727150000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230722150000 -0300" stop="20230722160000 -0300" channel="vivaxtv.br">
+<programme start="20230727150000 -0300" stop="20230727160000 -0300" channel="vivaxtv.br">
   <title lang="pt">Pod Vivax</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230722160000 -0300" stop="20230722163000 -0300" channel="vivaxtv.br">
+<programme start="20230727160000 -0300" stop="20230727163000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230722163000 -0300" stop="20230722180000 -0300" channel="vivaxtv.br">
+<programme start="20230727163000 -0300" stop="20230727180000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ VIVAX</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230722180000 -0300" stop="20230722183000 -0300" channel="vivaxtv.br">
+<programme start="20230727180000 -0300" stop="20230727183000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados - O Vigilante Rodoviário</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230722183000 -0300" stop="20230722210000 -0300" channel="vivaxtv.br">
+<programme start="20230727183000 -0300" stop="20230727210000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230722210000 -0300" stop="20230722220000 -0300" channel="vivaxtv.br">
+<programme start="20230727210000 -0300" stop="20230727220000 -0300" channel="vivaxtv.br">
   <title lang="pt">Pod Vivax</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230722220000 -0300" stop="20230723000000 -0300" channel="vivaxtv.br">
- <title lang="pt">Show Ao Vivo</title>
- <desc lang="pt">programa</desc>
-</programme> 
+<programme start="20230727220000 -0300" stop="20230728000000 -0300" channel="vivaxtv.br">
+ <title lang="pt">Programação VivaxTV</title>
+ <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
+</programme>  
  
 <programme start="20230723000000 -0300" stop="20230723020000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias - Reprise</title>
@@ -2775,42 +2816,47 @@
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20230718000000 -0300" stop="20230724000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230728000000 -0300" stop="20230804000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
  
  ####Clc.br####
-<programme start="2023072110000 -0300" stop="20230721080000 -0300" channel="Clc.br">
+<programme start="2023072510000 -0300" stop="20230725080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230721080000 -0300" stop="20230721130000 -0300" channel="Clc.br">
+<programme start="20230725080000 -0300" stop="20230725130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230721130000 -0300" stop="20230721210000 -0300" channel="Clc.br">
+<programme start="20230725130000 -0300" stop="20230725210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230721210000 -0300" stop="20230722010000 -0300" channel="Clc.br">
+<programme start="20230725210000 -0300" stop="20230726010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
- 
-<programme start="20230722010000 -0300" stop="20230722080000 -0300" channel="Clc.br">
+
+<programme start="20230726030000 -0300" stop="20230727000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230722080000 -0300" stop="20230722130000 -0300" channel="Clc.br">
+ 
+<programme start="20230727010000 -0300" stop="20230727080000 -0300" channel="Clc.br">
+ <title lang="pt">Programção GLN</title>
+ <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
+</programme>
+<programme start="20230727080000 -0300" stop="20230727130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230722130000 -0300" stop="20230722210000 -0300" channel="Clc.br">
+<programme start="20230727130000 -0300" stop="20230727210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230722210000 -0300" stop="20230723010000 -0300" channel="Clc.br">
+<programme start="20230727210000 -0300" stop="20230728010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -2825,11 +2871,11 @@
 </programme>
  
    ####radiometroweb.br####
-<programme start="20230721000000 -0300" stop="20230723000000 -0300" channel="radiometroweb.br">
+<programme start="20230724000000 -0300" stop="20230726000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
-<programme start="20230718000000 -0300" stop="20230721000000 -0300" channel="radiometroweb.br">
+<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="radiometroweb.br">
  <title lang="pt">Programação Rádio Metró</title>
  <desc lang="pt">#CadaVezMelhor, Rádio da Rede Metrópole</desc>
 </programme>
@@ -2901,29 +2947,39 @@
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
 
-<programme start="20230725000000 -0300" stop="20230725050000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Coruja</title>
- <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
-</programme>
-<programme start="20230725050000 -0300" stop="20230725060000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Bom Dia</title>
- <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
-</programme>
-<programme start="20230725060000 -0300" stop="20230725090000 -0300" channel="bandfmrede.br">
- <title lang="pt">Hora do Ronco</title>
- <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
-</programme>
-<programme start="20230721090000 -0300" stop="20230721210000 -0300" channel="bandfmrede.br">
+<programme start="20230725000000 -0300" stop="20230726000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title>
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230721210000 -0300" stop="20230721220000 -0300" channel="bandfmrede.br">
+
+<programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Coruja</title>
+ <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
+</programme>
+<programme start="20230726050000 -0300" stop="20230726060000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Bom Dia</title>
+ <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
+</programme>
+<programme start="20230726060000 -0300" stop="20230726090000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Hora do Ronco</title>
+ <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
+</programme>
+<programme start="20230726090000 -0300" stop="20230726210000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title>
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
+</programme>
+<programme start="20230726210000 -0300" stop="20230726220000 -0300" channel="bandfmrede.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230721220000 -0300" stop="20230722000000 -0300" channel="bandfmrede.br">
+<programme start="20230726220000 -0300" stop="20230727000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Love</title>
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
+</programme>
+
+<programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title>
+ <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
  
  ####sab e dom####
@@ -3025,82 +3081,92 @@
  
     ####radiocidadeverde####
 
-<programme start="20230721000000 -0300" stop="20230721063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724000000 -0300" stop="20230724063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230721063000 -0300" stop="20230721083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724063000 -0300" stop="20230724083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230721083000 -0300" stop="20230721100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724083000 -0300" stop="20230724100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230719100000 -0300" stop="20230719113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724100000 -0300" stop="20230724113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230719113000 -0300" stop="20230719120000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724113000 -0300" stop="20230724120000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230719120000 -0300" stop="20230719140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724120000 -0300" stop="20230724140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230719140000 -0300" stop="20230719180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724140000 -0300" stop="20230724180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230719180000 -0300" stop="20230719200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724180000 -0300" stop="20230724200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230719200000 -0300" stop="20230719210000 -0300" channel="radiocidadeverde">
+<programme start="20230724200000 -0300" stop="20230724210000 -0300" channel="radiocidadeverde">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230719210000 -0300" stop="20230720063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230724210000 -0300" stop="20230725063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+
+<programme start="20220725000000 -0300" stop="20230726000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Programação Rádio Cidade Verde</title>
+ <desc lang="pt">rádio </desc>
 </programme>
   
-<programme start="20230720063000 -0300" stop="20230720083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726063000 -0300" stop="20230726083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title>
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230720083000 -0300" stop="20230720100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726083000 -0300" stop="20230726100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title>
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230720100000 -0300" stop="20230720113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726100000 -0300" stop="20230726113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230720113000 -0300" stop="20230720120000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726113000 -0300" stop="20230726120000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230720120000 -0300" stop="20230720140000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726120000 -0300" stop="20230726140000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">CV Notícias</title>
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230721140000 -0300" stop="20230721180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726140000 -0300" stop="20230726180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title>
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230721180000 -0300" stop="20230721200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726180000 -0300" stop="20230726200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230721200000 -0300" stop="20230721210000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726200000 -0300" stop="20230726210000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230721210000 -0300" stop="20230722063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230726210000 -0300" stop="20230727063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
+</programme>
+
+<programme start="20220727000000 -0300" stop="20230728000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Programação Rádio Cidade Verde</title>
+ <desc lang="pt">rádio </desc>
 </programme>
  
 <programme start="20230722063000 -0300" stop="20230722083000 -0300" channel="radiocidadeverde.br">
@@ -3135,52 +3201,57 @@
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
  
-<programme start="20230719000000 -0300" stop="20230719050000 -0300" channel="cbnrede.br">
+<programme start="20230724000000 -0300" stop="20230724050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230719050000 -0300" stop="20230719060000 -0300" channel="cbnrede.br">
+<programme start="20230724050000 -0300" stop="20230724060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230719060000 -0300" stop="20230719070000 -0300" channel="cbnrede.br">
+<programme start="20230724060000 -0300" stop="20230724070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230719070000 -0300" stop="20230719093000 -0300" channel="cbnrede.br">
+<programme start="20230724070000 -0300" stop="20230724093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230719093000 -0300" stop="20230719100000 -0300" channel="cbnrede.br">
+<programme start="20230724093000 -0300" stop="20230724100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230719100000 -0300" stop="20230719120000 -0300" channel="cbnrede.br">
+<programme start="20230724100000 -0300" stop="20230724120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230719120000 -0300" stop="20230719140000 -0300" channel="cbnrede.br">
+<programme start="20230724120000 -0300" stop="20230724140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230717140000 -0300" stop="20230717160000 -0300" channel="cbnrede.br">
+<programme start="20230724140000 -0300" stop="20230724160000 -0300" channel="cbnrede.br">
  <title lang="pt">Estúdio CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230717160000 -0300" stop="20230717210000 -0300" channel="cbnrede.br">
+<programme start="20230724160000 -0300" stop="20230724210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230717210000 -0300" stop="20230718000000 -0300" channel="cbnrede.br">
+<programme start="20230724210000 -0300" stop="2023072500000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
+
+<programme start="20230725000000 -0300" stop="2023072600000 -0300" channel="cbnrede.br">
+ <title lang="pt">Programação Rádio CBN</title>
+ <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
+</programme>
  
-<programme start="20230718000000 -0300" stop="20230718050000 -0300" channel="cbnrede.br">
+<programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230718050000 -0300" stop="20230718060000 -0300" channel="cbnrede.br">
+<programme start="20230726050000 -0300" stop="20230726060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
@@ -3254,39 +3325,39 @@
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
    ###dom###
-<programme start="20230716000000 -0300" stop="20230716060000 -0300" channel="cbnrede.br">
+<programme start="20230723000000 -0300" stop="20230723060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230716060000 -0300" stop="20230716090000 -0300" channel="cbnrede.br">
+<programme start="20230723060000 -0300" stop="20230723090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230716090000 -0300" stop="20230716093000 -0300" channel="cbnrede.br">
+<programme start="20230723090000 -0300" stop="20230723093000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Autoesporte</title>
  <desc lang="pt">Com	Guilherme Muniz e Marcus Vinícius Gasques</desc>
 </programme>
-<programme start="20230716093000 -0300" stop="20230716120000 -0300" channel="cbnrede.br">
+<programme start="20230723093000 -0300" stop="20230723120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Esportes</title>
  <desc lang="pt">Carlos Eduardo Eboli</desc>
 </programme>
-<programme start="20230716120000 -0300" stop="20230716150000 -0300" channel="cbnrede.br">
+<programme start="20230723120000 -0300" stop="20230723150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230716150000 -0300" stop="20230716210000 -0300" channel="cbnrede.br">
+<programme start="20230723150000 -0300" stop="20230723210000 -0300" channel="cbnrede.br">
  <title lang="pt">Show da Notícia e/ou Futebol</title>
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20230716210000 -0300" stop="20230716223000 -0300" channel="cbnrede.br">
+<programme start="20230723210000 -0300" stop="20230723223000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230716223000 -0300" stop="20230716230000 -0300" channel="cbnrede.br">
+<programme start="20230723223000 -0300" stop="20230723230000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Sustentabilidade</title>
  <desc lang="pt">Rosana Jatobá</desc>
 </programme>
-<programme start="20230716230000 -0300" stop="20230717000000 -0300" channel="cbnrede.br">
+<programme start="20230723230000 -0300" stop="20230724000000 -0300" channel="cbnrede.br">
  <title lang="pt">Fim de Expediente</title>
  <desc lang="pt">Dan Stulbach, José Godoy, Luiz Gustavo Medina</desc>
 </programme>
