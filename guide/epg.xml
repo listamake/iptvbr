@@ -119,7 +119,11 @@
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp"/>
 </channel>
 <channel id="EsporteBrasilia.br">
- <display-name lang="pt">Esportes Brasília TV HD</display-name>
+ <display-name lang="pt">Esportes Brasília HD</display-name>
+  <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg"/>
+</channel>
+<channel id="UrbantvSports.br">
+ <display-name lang="pt">Urban Sports HD</display-name>
   <icon src="https://pbs.twimg.com/profile_images/929827164828131328/pppAHJbA_400x400.jpg"/>
 </channel>
 <channel id="RSNewsSports.br">
@@ -286,6 +290,8 @@
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
+
+
  
 <programme start="20221230193000 -0300" stop="20221230220000 -0300" channel="anitv.br">
  <title lang="pt">SuperOnze - Especial</title>
@@ -621,7 +627,7 @@
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230723063000 -0300" stop="20230424000000 -0300" channel="anitv.br">
+<programme start="20230723070000 -0300" stop="20230724000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -2290,11 +2296,11 @@
 </programme>
  
    ####TVNBT.br####
-<programme start="2023071900000 -0300" stop="20230724000000 -0300" channel="TVNBT.br">
+<programme start="2023072900000 -0300" stop="20230804000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023072400000 -0300" stop="20230726000000 -0300" channel="TVNBT.br">
+<programme start="2023072300000 -0300" stop="20230726000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
@@ -2302,7 +2308,7 @@
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023071700000 -0300" stop="20230719000000 -0300" channel="TVNBT.br">
+<programme start="2023072700000 -0300" stop="20230729000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
@@ -2324,11 +2330,11 @@
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20230718000000 -0300" stop="20230719000000 -0300" channel="ISTVHD.br">
+<programme start="20230728000000 -0300" stop="20230729000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
-<programme start="20230719000000 -0300" stop="20230722000000 -0300" channel="ISTVHD.br">
+<programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -2342,6 +2348,10 @@
  <title lang="pt">Sábadão na Metro</title>
  <desc lang="pt">anime</desc>
 </programme>
+<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="StrikerVerso.br">
+ <title lang="pt">Programação StrikerVerso</title>
+ <desc lang="pt">Descubra o inesperado</desc>
+</programme>
 <programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
@@ -2354,7 +2364,7 @@
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
-<programme start="20230724000000 -0300" stop="20230726000000 -0300" channel="StrikerVerso.br">
+<programme start="20230804000000 -0300" stop="20230806000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
 </programme>
@@ -2808,7 +2818,7 @@
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="202307240000000 -0300" stop="20230726000000 -0300" channel="FronteiraMovies.br">
+<programme start="202307230000000 -0300" stop="20230726000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
@@ -2908,14 +2918,28 @@
  
   ####EsporteBrasilia.br####
 <programme start="20230722000000 -0300" stop="20230726000000 -0300" channel="EsporteBrasilia.br">
- <title lang="pt">Programação Canal Urban Sports</title>
+ <title lang="pt">Programação Esportes Brasília</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
 <programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="EsporteBrasilia.br">
- <title lang="pt">Programação Canal Urban Sports</title>
+ <title lang="pt">Programação Esportes Brasília</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
 <programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="EsporteBrasilia.br">
+ <title lang="pt">Programação Esportes Brasília</title>
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
+</programme>
+
+  ####UrbantvSports.br####
+<programme start="20230722000000 -0300" stop="20230726000000 -0300" channel="UrbantvSports.br">
+ <title lang="pt">Programação Canal Urban Sports</title>
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
+</programme>
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="UrbantvSports.br">
+ <title lang="pt">Programação Canal Urban Sports</title>
+ <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
+</programme>
+<programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="UrbantvSports.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
@@ -3043,20 +3067,20 @@
  
    ####radiosociedade####
  
-<programme start="20230721000000 -0300" stop="20230721220000 -0300" channel="radiosociedade.br">
+<programme start="20230725000000 -0300" stop="20230725220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230721220000 -0300" stop="20230722040000 -0300" channel="radiosociedade.br">
+<programme start="20230725220000 -0300" stop="20230726040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230722000000 -0300" stop="20230722220000 -0300" channel="radiosociedade.br">
+<programme start="20230726000000 -0300" stop="20230726220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230722220000 -0300" stop="20230723040000 -0300" channel="radiosociedade.br">
+<programme start="20230726220000 -0300" stop="20230727040000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
@@ -3122,7 +3146,7 @@
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
 
-<programme start="20220725000000 -0300" stop="20230726000000 -0300" channel="radiocidadeverde.br">
+<programme start="20230725063000 -0300" stop="20230726063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Programação Rádio Cidade Verde</title>
  <desc lang="pt">rádio </desc>
 </programme>
@@ -3164,7 +3188,7 @@
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
 
-<programme start="20220727000000 -0300" stop="20230728000000 -0300" channel="radiocidadeverde.br">
+<programme start="20230727063000 -0300" stop="20230728000000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Programação Rádio Cidade Verde</title>
  <desc lang="pt">rádio </desc>
 </programme>
@@ -3255,23 +3279,23 @@
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230718060000 -0300" stop="20230718070000 -0300" channel="cbnrede.br">
+<programme start="20230726060000 -0300" stop="20230726070000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230718070000 -0300" stop="20230718093000 -0300" channel="cbnrede.br">
+<programme start="20230726070000 -0300" stop="20230726093000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title>
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230718093000 -0300" stop="20230718100000 -0300" channel="cbnrede.br">
+<programme start="20230726093000 -0300" stop="20230726100000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN em Foco</title>
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230718100000 -0300" stop="20230718120000 -0300" channel="cbnrede.br">
+<programme start="20230726100000 -0300" stop="20230726120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230718120000 -0300" stop="20230718140000 -0300" channel="cbnrede.br">
+<programme start="20230726120000 -0300" stop="20230726140000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
