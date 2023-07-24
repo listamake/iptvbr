@@ -276,19 +276,23 @@
 <programme start="20230724000000 -0300" stop="20230724120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
+ <rating system="CLASSIFICACAO_ETARIA">10</rating>
 </programme>
 <programme start="20230724120000 -0300" stop="20230725000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
+ <rating system="CLASSIFICACAO_ETARIA">10</rating>
 </programme>
 
 <programme start="20230725000000 -0300" stop="20230725120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
+ <rating system="CLASSIFICACAO_ETARIA">10</rating>
 </programme>
 <programme start="20230725120000 -0300" stop="20230726000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
+ <rating system="CLASSIFICACAO_ETARIA">10</rating>
 </programme>
 
 
@@ -1985,16 +1989,12 @@
 <programme start="20230722000000 -0300" stop="20230726000000 -0300" channel="pooptv.br">
  <title lang="pt">YouTube Poop BR +16</title>
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
-  <rating system="CLASSIND">
-    <value>16</value>
-  </rating>
+ <rating system="CLASSIFICACAO_ETARIA">16</rating>
 </programme>
 <programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="pooptv.br">
  <title lang="pt">YouTube Poop BR +16</title>
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
-  <rating system="CLASSIND">
-    <value>16</value>
-  </rating>
+ <rating system="CLASSIFICACAO_ETARIA">16</rating>
 </programme>
 
  
