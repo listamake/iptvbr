@@ -905,7 +905,7 @@
 <programme start="20230725190000 -0300" stop="20230725200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
-<rating system="CLASSIFICACAO_ETARIA"><value>14</value><icon src="https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/simbolos-de-autoclassificacao/nr14-auto.png" /></rating>
+<rating system="CLASSIFICACAO_ETARIA"><value>14</value></rating>
 </programme>
 <programme start="20230725200000 -0300" stop="20230725210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
