@@ -273,12 +273,12 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230724000000 -0300" stop="20230724120000 -0300" channel="anitv.br">
+<programme start="20230726000000 -0300" stop="20230726120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA">10</rating>
 </programme>
-<programme start="20230724120000 -0300" stop="20230725000000 -0300" channel="anitv.br">
+<programme start="20230726120000 -0300" stop="20230727000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA">10</rating>
@@ -903,6 +903,10 @@
 <programme start="20230725190000 -0300" stop="20230725200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
+<rating system="MPAA">
+      <value>NC-17</value>
+      <icon src="NC-17_symbol.png" />
+    </rating>
 </programme>
 <programme start="20230725200000 -0300" stop="20230725210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
