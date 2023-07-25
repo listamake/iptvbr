@@ -918,7 +918,7 @@
 <programme start="20230725210000 -0300" stop="20230725213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
-<rating system="CLASSIND"> <value>12</value> </rating>
+<rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230725213000 -0300" stop="20230725233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
