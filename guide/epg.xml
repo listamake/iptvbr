@@ -798,6 +798,7 @@
 <programme start="20230726000000 -0300" stop="20230726010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+ <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
 <programme start="20230726010000 -0300" stop="20230726030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
@@ -910,10 +911,14 @@
 <programme start="20230725200000 -0300" stop="20230725210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
+<rating system="CLASSIND">
+    <value>12</value>
+  </rating>
 </programme>
 <programme start="20230725210000 -0300" stop="20230725213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
+<rating system="CLASSIND"> <value>12</value> </rating>
 </programme>
 <programme start="20230725213000 -0300" stop="20230725233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
@@ -1108,6 +1113,7 @@
 <programme start="20230725180000 -0300" stop="20230725220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIFICACAO_ETARIA"><value>AL</value></rating>
 </programme>
 <programme start="20230725220000 -0300" stop="20230725230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
