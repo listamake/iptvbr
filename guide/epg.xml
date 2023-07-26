@@ -971,20 +971,23 @@
 <programme start="20230726000000 -0300" stop="20230726020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230723020000 -0300" stop="20230723030000 -0300" channel="CanalUsuario.br">
+<programme start="20230726020000 -0300" stop="20230726030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230723030000 -0300" stop="20230723040000 -0300" channel="CanalUsuario.br">
+<programme start="20230726030000 -0300" stop="20230726040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
-<programme start="20230723040000 -0300" stop="20230723100000 -0300" channel="CanalUsuario.br">
+<programme start="20230726040000 -0300" stop="20230726100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230723100000 -0300" stop="20230723110000 -0300" channel="CanalUsuario.br">
+<programme start="20230726100000 -0300" stop="20230726110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
 </programme>
@@ -2999,6 +3002,7 @@
 <programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title>
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
 <programme start="20230726050000 -0300" stop="20230726060000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title>
@@ -3412,16 +3416,17 @@
  <desc lang="pt">A Rádio Clube AM, 720khz, é a mais antiga do Brasil e oferece aos seus ouvintes uma programação variada em sintonia com o gosto popular, identificado por uma pesquisa do Instituto Datamétrica. Seus programas aliam música, esporte, notícia e prestação de serviços à credibilidade de comunicadores experientes e bastante conhecidos pelo público.</desc>
 </programme>
             ########semanal radioclubeam#####
-<programme start="20230717000000 -0300" stop="20230717050000 -0300" channel="radioclubeampe.br">
+<programme start="20230725000000 -0300" stop="20230726050000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Madrugada Clube AM</title>
  <desc lang="pt">Sucessos, músicas que marcaram. Uma seleção muito especial pra fazer mais prazerosa a sua madrugada.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
  
-<programme start="20230717050000 -0300" stop="20230717070000 -0300" channel="radioclubeampe.br">
+<programme start="20230726050000 -0300" stop="20230726070000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Você faz a notícia</title>
  <desc lang="pt">jonal</desc>
 </programme>
-<programme start="20230717070000 -0300" stop="20230717073000 -0300" channel="radioclubeampe.br">
+<programme start="20230726070000 -0300" stop="20230726073000 -0300" channel="radioclubeampe.br">
  <title lang="pt">Alvorada Esportiva</title>
  <desc lang="pt">O Café da manhã dos esportistas pernabucano</desc>
 </programme>
@@ -3790,13 +3795,15 @@
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
 </programme>
-<programme start="20230715000000 -0300" stop="20230718000000 -0300" channel="Canalteste">
+<programme start="20230725000000 -0300" stop="20230728000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230718000000 -0300" stop="20230722000000 -0300" channel="Canalteste">
+<programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
        ####RSNewsSports.br####
@@ -3804,13 +3811,15 @@
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="RSNewsSports.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230718000000 -0300" stop="20230724000000 -0300" channel="RSNewsSports.br">
+<programme start="20230728000000 -0300" stop="20230804000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
        ####AllSports.br####
 <programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="AllSports.br">
