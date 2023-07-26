@@ -923,10 +923,16 @@
 <programme start="20230725213000 -0300" stop="20230725233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
+ <rating system="CLASSIND">
+    <value>12</value>
+  </rating>
 </programme>
 <programme start="20230725233000 -0300" stop="20230726000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
+ <rating system="CLASSIND">
+    <value>12</value>
+  </rating>
 </programme>
  
 <programme start="20230726000000 -0300" stop="20230726190000 -0300" channel="KpopTVPlay.br">
@@ -3097,11 +3103,11 @@
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
  
-<programme start="20230723000000 -0300" stop="20230723220000 -0300" channel="radiosociedade.br">
+<programme start="20230727000000 -0300" stop="20230727220000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação Rádio Sociedade</title>
  <desc lang="pt">A rádio da Bahia!</desc>
 </programme>
-<programme start="20230723220000 -0300" stop="20230724000000 -0300" channel="radiosociedade.br">
+<programme start="20230727220000 -0300" stop="20230728000000 -0300" channel="radiosociedade.br">
  <title lang="pt">Programação IURD</title>
  <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
 </programme>
