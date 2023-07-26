@@ -273,11 +273,13 @@
 <programme start="20230726000000 -0300" stop="20230726120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
+ <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
 <programme start="20230726120000 -0300" stop="20230727000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
+ <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
 
@@ -933,6 +935,7 @@
 <programme start="20230726000000 -0300" stop="20230726190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
 <programme start="20230726190000 -0300" stop="20230726200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
@@ -984,32 +987,36 @@
 <programme start="20230726040000 -0300" stop="20230726100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230726100000 -0300" stop="20230726110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
+  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230723110000 -0300" stop="20230723130000 -0300" channel="CanalUsuario.br">
+<programme start="20230726110000 -0300" stop="20230726130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230723130000 -0300" stop="20230723140000 -0300" channel="CanalUsuario.br">
+<programme start="20230726130000 -0300" stop="20230726140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230723140000 -0300" stop="20230723170000 -0300" channel="CanalUsuario.br">
+<programme start="20230726140000 -0300" stop="20230726170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230723170000 -0300" stop="20230723180000 -0300" channel="CanalUsuario.br">
+<programme start="20230726170000 -0300" stop="20230726180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230723180000 -0300" stop="20230723220000 -0300" channel="CanalUsuario.br">
+<programme start="20230726180000 -0300" stop="20230726220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230723220000 -0300" stop="20230723230000 -0300" channel="CanalUsuario.br">
+<programme start="20230726220000 -0300" stop="20230726230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1017,24 +1024,24 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230723230000 -0300" stop="20230724000000 -0300" channel="CanalUsuario.br">
+<programme start="20230726230000 -0300" stop="20230727000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230724000000 -0300" stop="20230724020000 -0300" channel="CanalUsuario.br">
+<programme start="20230727000000 -0300" stop="20230727020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230724020000 -0300" stop="20230724030000 -0300" channel="CanalUsuario.br">
+<programme start="20230727020000 -0300" stop="20230727030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230724030000 -0300" stop="20230724040000 -0300" channel="CanalUsuario.br">
+<programme start="20230727030000 -0300" stop="20230727040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230724040000 -0300" stop="20230724100000 -0300" channel="CanalUsuario.br">
+<programme start="20230727040000 -0300" stop="20230727100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -3908,32 +3915,35 @@
 </programme>
  
    ####MaisFavelaTV.br####
-<programme start="20230722000000 -0300" stop="20230725000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230802000000 -0300" stop="20230805000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
 </programme>
-<programme start="20230715000000 -0300" stop="20230719000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230725000000 -0300" stop="20230729000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
 </programme>
-<programme start="20230719000000 -0300" stop="20230722000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
 </programme>
 
 
   ###antena1tv.br###
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="antena1tv.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="antena1tv.br">
  <title lang="pt">Programação Antena 1</title>
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230718000000 -0300" stop="20230723000000 -0300" channel="antena1tv.br">
+<programme start="20230728000000 -0300" stop="20230803000000 -0300" channel="antena1tv.br">
  <title lang="pt">Programação Antena 1</title>
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="antena1tv.br">
+<programme start="20230803000000 -0300" stop="20230806000000 -0300" channel="antena1tv.br">
  <title lang="pt">Programação Antena 1</title>
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
  
   ###jkfmrede.br###
@@ -3941,11 +3951,11 @@
  <title lang="pt">Programação JK</title>
  <desc lang="pt">Rádio JK tocando o melhor por 24 horas.</desc>
 </programme>
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="jkfmrede.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="jkfmrede.br">
  <title lang="pt">Programação JK</title>
  <desc lang="pt">Rádio JK tocando o melhor por 24 horas.</desc>
 </programme>
-<programme start="20230718000000 -0300" stop="20230724000000 -0300" channel="jkfmrede.br">
+<programme start="20230728000000 -0300" stop="20230804000000 -0300" channel="jkfmrede.br">
  <title lang="pt">Programação JK</title>
  <desc lang="pt">Rádio JK tocando o melhor por 24 horas.</desc>
 </programme>
@@ -3965,31 +3975,37 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20230719000000 -0300" stop="20230723000000 -0300" channel="TVTop.br">
+<programme start="20230729000000 -0300" stop="20230803000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+ <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="TVTop.br">
+<programme start="20230803000000 -0300" stop="20230806000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+ <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="20230716000000 -0300" stop="20230719000000 -0300" channel="TVTop.br">
+<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
+ <rating system="CLASSIND"><value>10</value></rating>
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="RetroCartoon.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230718000000 -0300" stop="20230723000000 -0300" channel="RetroCartoon.br">
+<programme start="20230728000000 -0300" stop="20230803000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="RetroCartoon.br">
+<programme start="20230803000000 -0300" stop="20230806000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
 </tv>
