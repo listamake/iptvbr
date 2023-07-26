@@ -210,7 +210,6 @@
  <display-name lang="pt">CBN Rede</display-name>
  <display-name lang="pt">CBN Rio HD</display-name>
  <display-name lang="pt">CBN São Paulo HD</display-name>
-  <url>mi.tv</url>
   <icon src="https://www.cxradio.com.br/img/Radio/Logo/b6bc2e62040df6e1f6c2038aa66b755f.jpg"/>
 </channel>
 <channel id="7tvbs.br">
@@ -911,9 +910,7 @@
 <programme start="20230725200000 -0300" stop="20230725210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
-<rating system="CLASSIND">
-    <value>12</value>
-  </rating>
+<rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230725210000 -0300" stop="20230725213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
@@ -1132,6 +1129,7 @@
 <programme start="20230725230000 -0300" stop="20230726000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
  
     ###fkids.br###
@@ -1196,30 +1194,34 @@
 </programme>
 
     ###canalstart.br###
-<programme start="20230724000000 -0300" stop="20230725010000 -0300" channel="canalstart.br">
+<programme start="20230724000000 -0300" stop="20230725020000 -0300" channel="canalstart.br">
  <title lang="pt">Programação Canal Start</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
  
-<programme start="20230725010000 -0300" stop="20230725020000 -0300" channel="canalstart.br">
+<programme start="20230725020000 -0300" stop="20230725030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
 <programme start="20230725020000 -0300" stop="20230726010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 
-<programme start="20230726000000 -0300" stop="20230727010000 -0300" channel="canalstart.br">
+<programme start="20230726000000 -0300" stop="20230727020000 -0300" channel="canalstart.br">
  <title lang="pt">Programação Canal Start</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
  
-<programme start="20230727010000 -0300" stop="20230727020000 -0300" channel="canalstart.br">
+<programme start="20230727020000 -0300" stop="20230727030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+ <rating system="CLASSIND"><value>18</value></rating>
 </programme>
-<programme start="20230727020000 -0300" stop="20230728010000 -0300" channel="canalstart.br">
+<programme start="20230727030000 -0300" stop="20230728010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
@@ -3287,6 +3289,7 @@
 <programme start="20230725000000 -0300" stop="2023072600000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title>
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
  
 <programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="cbnrede.br">
@@ -3813,12 +3816,14 @@
 <programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="AllSports.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230718000000 -0300" stop="20230723000000 -0300" channel="AllSports.br">
+<programme start="20230728000000 -0300" stop="20230803000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
