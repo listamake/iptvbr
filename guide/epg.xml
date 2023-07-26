@@ -1212,13 +1212,13 @@
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230725020000 -0300" stop="20230726010000 -0300" channel="canalstart.br">
+<programme start="20230725030000 -0300" stop="20230726010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 
-<programme start="20230726000000 -0300" stop="20230727020000 -0300" channel="canalstart.br">
+<programme start="20230726010000 -0300" stop="20230727020000 -0300" channel="canalstart.br">
  <title lang="pt">Programação Canal Start</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating>
@@ -3614,39 +3614,43 @@
  <title lang="pt">Programação Rádio Jornal Recife</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230717063000 -0300" stop="20230717070000 -0300" channel="radiojornalpe.br">
+<programme start="20230726063000 -0300" stop="20230726070000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O bandeira 2</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230717070000 -0300" stop="20230717120000 -0300" channel="radiojornalpe.br">
+<programme start="20230717070000 -0300" stop="20230726120000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Super Manhã</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230717120000 -0300" stop="20230717123000 -0300" channel="radiojornalpe.br">
+<programme start="20230726120000 -0300" stop="20230726123000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Edição do Meio-dia</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230717123000 -0300" stop="20230717140000 -0300" channel="radiojornalpe.br">
+<programme start="20230726123000 -0300" stop="20230726140000 -0300" channel="radiojornalpe.br">
  <title lang="pt">O Assunto é Futebol</title>
  <desc lang="pt">Resenha esportiva com o escrete de ouro</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230717140000 -0300" stop="20230717160000 -0300" channel="radiojornalpe.br">
+<programme start="20230726140000 -0300" stop="20230726160000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Rádio Livre</title>
  <desc lang="pt">No consultorio do rádio livre voce tira duvidas atravez do painel interativo com um medico convidado.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230717160000 -0300" stop="20230717180000 -0300" channel="radiojornalpe.br">
+<programme start="20230726160000 -0300" stop="20230726180000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Balanço de Notícias</title>
  <desc lang="pt">Seleção musical</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230717180000 -0300" stop="20230717190000 -0300" channel="radiojornalpe.br">
+<programme start="20230726180000 -0300" stop="20230726190000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Bola Rolando</title>
  <desc lang="pt">Seleção musical</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230717190000 -0300" stop="20230717200000 -0300" channel="radiojornalpe.br">
+<programme start="20230726190000 -0300" stop="20230726200000 -0300" channel="radiojornalpe.br">
  <title lang="pt">Movimento Esportivo</title>
  <desc lang="pt">Seleção musical</desc>
 </programme>
-<programme start="20230717200000 -0300" stop="20230717210000 -0300" channel="radiojornalpe.br">
+<programme start="20230726200000 -0300" stop="20230726210000 -0300" channel="radiojornalpe.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme>
@@ -3803,6 +3807,7 @@
 <programme start="20230722000000 -0300" stop="20230725000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230725000000 -0300" stop="20230728000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
@@ -3889,7 +3894,7 @@
 </programme>
  
    ####ManajoaraAMBelem.br####
-<programme start="20230722000000 -0300" stop="20230724000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20230802000000 -0300" stop="20230804000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
@@ -3897,25 +3902,25 @@
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
-<programme start="20230716000000 -0300" stop="20230718000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
-<programme start="20230718000000 -0300" stop="20230722000000 -0300" channel="ManajoaraAMBelem.br">
+<programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="ManajoaraAMBelem.br">
  <title lang="pt">Programação Super Manajoara AM Bélem</title>
  <desc lang="pt">Super Rádio Marajoara é uma emissora de rádio brasileira sediada em Belém, capital do estado do Pará. Opera no dial AM, na frequência 1130 kHz, e pertence ao Grupo Marajoara de Comunicação, do empresário Carlos Santos.</desc>
 </programme>
  
    ####MixFMBelem.br####
-<programme start="20230716000000 -0300" stop="20230719000000 -0300" channel="MixFMBelem.br">
+<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230719000000 -0300" stop="20230724000000 -0300" channel="MixFMBelem.br">
+<programme start="20230729000000 -0300" stop="20230804000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
-<programme start="20230724000000 -0300" stop="20230726000000 -0300" channel="MixFMBelem.br">
+<programme start="20230804000000 -0300" stop="20230806000000 -0300" channel="MixFMBelem.br">
  <title lang="pt">Programação Mix FM Bélem</title>
  <desc lang="pt">Com enfoque nos sucessos nacionais e internacionais da música Pop e Hip Hop. Em sua grade de programação conta com programas de músicas pedidas, de música mais tocadas e pedidas, e programas temáticos, dedicados a um estilo ou gênero musical.</desc>
 </programme>
@@ -3924,14 +3929,17 @@
 <programme start="20230802000000 -0300" stop="20230805000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
 <programme start="20230725000000 -0300" stop="20230729000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
 <programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
+  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
 
 
