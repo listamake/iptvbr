@@ -2090,11 +2090,13 @@
 <programme start="20230725230000 -0300" stop="20230726010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title>
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+ <rating system="CLASSIND"><value>10</value></rating>
 </programme>
 
 <programme start="20230726100000 -0300" stop="20230727010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
  
 <programme start="20230727010000 -0300" stop="20230727030000 -0300" channel="TVMaisFamilia.br">
@@ -2410,27 +2412,31 @@
 </programme>
 ####teennet.br####
 
-<programme start="202307230000000 -0300" stop="2023072315700 -0300" channel="teennet.br">
+<programme start="202307260000000 -0300" stop="2023072615700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="202307231157000 -0300" stop="20230723120000 -0300" channel="teennet.br">
+<programme start="202307261157000 -0300" stop="20230726120000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="202307231200000 -0300" stop="20230723175700 -0300" channel="teennet.br">
+<programme start="202307261200000 -0300" stop="20230726175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202307231757000 -0300" stop="20230723180000 -0300" channel="teennet.br">
+<programme start="202307261757000 -0300" stop="20230726180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="202307231800000 -0300" stop="20230723235700 -0300" channel="teennet.br">
+<programme start="202307261800000 -0300" stop="20230726235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307232357000 -0300" stop="20230724000000 -0300" channel="teennet.br">
+<programme start="202307262357000 -0300" stop="20230727000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
