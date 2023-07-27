@@ -2435,10 +2435,12 @@
 <programme start="202307261800000 -0300" stop="20230726235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
 <programme start="202307262357000 -0300" stop="20230727000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
 <programme start="202307240000000 -0300" stop="20230724115700 -0300" channel="teennet.br">
@@ -2518,10 +2520,12 @@
 <programme start="202307210000000 -0300" stop="2023072500000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">Varios animes</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
 <programme start="202307250000000 -0300" stop="2023072800000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">Varios animes</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
  
  ###xtremetv.br###
