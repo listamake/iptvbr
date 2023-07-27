@@ -270,20 +270,20 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230726000000 -0300" stop="20230726120000 -0300" channel="anitv.br">
+<programme start="20230727000000 -0300" stop="20230727120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
-<programme start="20230726120000 -0300" stop="20230727000000 -0300" channel="anitv.br">
+<programme start="20230727120000 -0300" stop="20230728000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
 
-<programme start="20230725000000 -0300" stop="20230725120000 -0300" channel="anitv.br">
+<programme start="20230728000000 -0300" stop="20230728120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
@@ -897,34 +897,34 @@
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20230725000000 -0300" stop="20230725190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230727000000 -0300" stop="20230727190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 <rating system="CLASSIFICACAO_ETARIA"><value>12</value></rating>
 </programme>
-<programme start="20230725190000 -0300" stop="20230725200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230727190000 -0300" stop="20230727200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>14</value><icon src="https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/simbolos-de-autoclassificacao/nr14-auto.png" /></rating>
 </programme>
-<programme start="20230725200000 -0300" stop="20230725210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230727200000 -0300" stop="20230727210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 <rating system="CLASSIND"><value>12</value></rating>
 </programme>
-<programme start="20230725210000 -0300" stop="20230725213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230727210000 -0300" stop="20230727213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 <rating system="CLASSIFICACAO_ETARIA"><value>12</value></rating>
 </programme>
-<programme start="20230725213000 -0300" stop="20230725233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230727213000 -0300" stop="20230727233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
  <rating system="CLASSIND">
     <value>12</value>
   </rating>
 </programme>
-<programme start="20230725233000 -0300" stop="20230726000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230727233000 -0300" stop="20230728000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
  <rating system="CLASSIND">
@@ -932,28 +932,28 @@
   </rating>
 </programme>
  
-<programme start="20230726000000 -0300" stop="20230726190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230728000000 -0300" stop="20230728190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230726190000 -0300" stop="20230726200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230728190000 -0300" stop="20230728200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230726200000 -0300" stop="20230726210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230728200000 -0300" stop="20230728210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230726210000 -0300" stop="20230726213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230728210000 -0300" stop="20230728213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230726213000 -0300" stop="20230726233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230728213000 -0300" stop="20230728233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20230726233000 -0300" stop="20230727000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230728233000 -0300" stop="20230729000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
@@ -1036,40 +1036,46 @@
 <programme start="20230727020000 -0300" stop="20230727030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727030000 -0300" stop="20230727040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230727040000 -0300" stop="20230727100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230724100000 -0300" stop="20230724110000 -0300" channel="CanalUsuario.br">
+<programme start="20230727100000 -0300" stop="20230727110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230724110000 -0300" stop="20230724130000 -0300" channel="CanalUsuario.br">
+<programme start="20230727110000 -0300" stop="20230727130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230724130000 -0300" stop="20230724140000 -0300" channel="CanalUsuario.br">
+<programme start="20230727130000 -0300" stop="20230727140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230724140000 -0300" stop="20230724170000 -0300" channel="CanalUsuario.br">
+<programme start="20230727140000 -0300" stop="20230727170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230724170000 -0300" stop="20230724180000 -0300" channel="CanalUsuario.br">
+<programme start="20230727170000 -0300" stop="20230727180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230724180000 -0300" stop="20230724220000 -0300" channel="CanalUsuario.br">
+<programme start="20230727180000 -0300" stop="20230727220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230724220000 -0300" stop="20230724230000 -0300" channel="CanalUsuario.br">
+<programme start="20230727220000 -0300" stop="20230727230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
