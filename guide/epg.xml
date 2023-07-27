@@ -81,8 +81,7 @@
  <display-name lang="pt">UlbTV HD</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp"/>
 </channel>
-<channel id="FronteiraMovies.br">
- <display-name lang="pt">Fronteira Movies</display-name>
+<channel id="FronteiraMovies.br"><display-name lang="pt">Fronteira Movies</display-name>
 </channel>
 <channel id="Clc.br">
  <display-name lang="pt">GLN TV HD</display-name>
@@ -1567,55 +1566,55 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
  
-<programme start="20230724000000 -0300" stop="202307240730000 -0300" channel="CentralTV.br">
+<programme start="20230728000000 -0300" stop="202307280730000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230724073000 -0300" stop="20230724113000 -0300" channel="CentralTV.br">
+<programme start="20230728073000 -0300" stop="20230728113000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title>
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230724113000 -0300" stop="20230724130000 -0300" channel="CentralTV.br">
+<programme start="20230728113000 -0300" stop="20230728130000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa 190</title>
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
-<programme start="20230724130000 -0300" stop="20230724131500 -0300" channel="CentralTV.br">
+<programme start="20230728130000 -0300" stop="20230728131500 -0300" channel="CentralTV.br">
  <title lang="pt">Momento Mario Celso</title>
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230724131500 -0300" stop="20230724140000 -0300" channel="CentralTV.br">
+<programme start="20230728131500 -0300" stop="20230728140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230724140000 -0300" stop="20230724143000 -0300" channel="CentralTV.br">
+<programme start="20230728140000 -0300" stop="20230728143000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230724143000 -0300" stop="20230724150000 -0300" channel="CentralTV.br">
+<programme start="20230728143000 -0300" stop="20230728150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230724150000 -0300" stop="20230724153000 -0300" channel="CentralTV.br">
+<programme start="20230728150000 -0300" stop="20230728153000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230724153000 -0300" stop="20230724183000 -0300" channel="CentralTV.br">
+<programme start="20230728153000 -0300" stop="20230728183000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230724183000 -0300" stop="20230724193000 -0300" channel="CentralTV.br">
+<programme start="20230728183000 -0300" stop="20230728193000 -0300" channel="CentralTV.br">
  <title lang="pt">Milk News</title>
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
-<programme start="20230724193000 -0300" stop="20230724200000 -0300" channel="CentralTV.br">
+<programme start="20230728193000 -0300" stop="20230728200000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230724200000 -0300" stop="20230724210000 -0300" channel="CentralTV.br">
+<programme start="20230728200000 -0300" stop="20230728210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230724210000 -0300" stop="20230725000000 -0300" channel="CentralTV.br">
+<programme start="20230728210000 -0300" stop="20230729000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -1967,6 +1966,7 @@
 <programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
 
 ###TVMax.br sab e dom###
@@ -2113,11 +2113,11 @@
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230720050000 -0300" stop="20230720070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727050000 -0300" stop="20230720070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230720070000 -0300" stop="20230720080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727070000 -0300" stop="20230720080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
@@ -2137,33 +2137,40 @@
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230720100000 -0300" stop="20230720150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727100000 -0300" stop="20230727150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title>
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230720150000 -0300" stop="20230720180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727150000 -0300" stop="20230727180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title>
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230720180000 -0300" stop="20230720190000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727180000 -0300" stop="20230727190000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230720190000 -0300" stop="20230720200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727190000 -0300" stop="20230727200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230720200000 -0300" stop="20230720220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727200000 -0300" stop="20230727220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230720220000 -0300" stop="20230720230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727220000 -0300" stop="20230727230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title>
- <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating> 
 </programme>
-<programme start="20230720230000 -0300" stop="20230721010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230727230000 -0300" stop="20230728010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title>
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
  
   ###sab###
@@ -2334,21 +2341,21 @@
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023072300000 -0300" stop="20230726000000 -0300" channel="TVNBT.br">
+<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023072600000 -0300" stop="20230727000000 -0300" channel="TVNBT.br">
+<programme start="20230726000000 -0300" stop="20230727000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
-<programme start="2023072700000 -0300" stop="20230729000000 -0300" channel="TVNBT.br">
+<programme start="20230727000000 -0300" stop="20230729000000 -0300" channel="TVNBT.br">
  <title lang="pt">Programação TV NBT</title>
  <desc lang="pt">Somos o mais novo canal de variedades e entretenimento de Belém. Trazendo um novo conceito de Programação e sendo a mais nova filial da REDE NGT de São Paulo.</desc>
 </programme>
  
     ####ISTVHD.br####
-<programme start="2023072200000 -0300" stop="20230723000000 -0300" channel="ISTVHD.br">
+<programme start="20230722000000 -0300" stop="20230723000000 -0300" channel="ISTVHD.br">
  <title lang="pt">Programação  ISTV</title>
  <desc lang="pt">A ISTV é a emissora dos clássicos do cinema, das séries de TV e dos desenhos que é sucesso no Digital e no HD. Mais de 16 milhões de telespectadores recebem o conteúdo da ISTV todos os dias nas diferentes plataformas.</desc>
 </programme>
@@ -2389,18 +2396,22 @@
 <programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230728000000 -0300" stop="20230730000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230730000000 -0300" stop="20230804000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230804000000 -0300" stop="20230806000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
 
@@ -2418,117 +2429,122 @@
 </programme>
 ####teennet.br####
 
-<programme start="202307260000000 -0300" stop="2023072615700 -0300" channel="teennet.br">
+<programme start="20230727000000 -0300" stop="2023072715700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="202307261157000 -0300" stop="20230726120000 -0300" channel="teennet.br">
+<programme start="20230727115700 -0300" stop="20230727120000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="202307261200000 -0300" stop="20230726175700 -0300" channel="teennet.br">
+<programme start="20230727120000 -0300" stop="20230727175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202307261757000 -0300" stop="20230726180000 -0300" channel="teennet.br">
+<programme start="20230727175700 -0300" stop="20230727180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="202307261800000 -0300" stop="20230726235700 -0300" channel="teennet.br">
+<programme start="20230727180000 -0300" stop="20230727235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202307262357000 -0300" stop="20230727000000 -0300" channel="teennet.br">
+<programme start="202307272357000 -0300" stop="20230728000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
-<programme start="202307240000000 -0300" stop="20230724115700 -0300" channel="teennet.br">
+<programme start="202307280000000 -0300" stop="20230728115700 -0300" channel="teennet.br">
 <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202307241157000 -0300" stop="20230724120000 -0300" channel="teennet.br">
+<programme start="20230728115700 -0300" stop="20230728120000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="202307241200000 -0300" stop="20230724175700 -0300" channel="teennet.br">
+<programme start="20230728120000 -0300" stop="20230728175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307241757000 -0300" stop="20230724180000 -0300" channel="teennet.br">
+<programme start="20230724175700 -0300" stop="20230724180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307241800000 -0300" stop="20230724235700 -0300" channel="teennet.br">
+<programme start="20230724180000 -0300" stop="20230724235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307242357000 -0300" stop="20230725000000 -0300" channel="teennet.br">
+<programme start="20230724235700 -0300" stop="20230725000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
 
-<programme start="202307250000000 -0300" stop="20230725115700 -0300" channel="teennet.br">
+<programme start="20230725000000 -0300" stop="20230725115700 -0300" channel="teennet.br">
 <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307251157000 -0300" stop="20230725120000 -0300" channel="teennet.br">
+<programme start="20230725115700 -0300" stop="20230725120000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307251200000 -0300" stop="20230725175700 -0300" channel="teennet.br">
+<programme start="20230725120000 -0300" stop="20230725175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307251757000 -0300" stop="20230725180000 -0300" channel="teennet.br">
+<programme start="20230725175700 -0300" stop="20230725180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307251800000 -0300" stop="20230725235700 -0300" channel="teennet.br">
+<programme start="20230725180000 -0300" stop="20230725235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307252357000 -0300" stop="20230726000000 -0300" channel="teennet.br">
+<programme start="20230725235700 -0300" stop="20230726000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
 
  
    ####Polidoro TV####
-<programme start="202307250000000 -0300" stop="2023072600000 -0300" channel="tvbs.br">
+<programme start="20230725000000 -0300" stop="2023072600000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
-<programme start="202307260000000 -0300" stop="2023072800000 -0300" channel="tvbs.br">
+<programme start="20230726000000 -0300" stop="2023072800000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202307280000000 -0300" stop="2023080200000 -0300" channel="tvbs.br">
+<programme start="20230728000000 -0300" stop="2023080200000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202307220000000 -0300" stop="2023072500000 -0300" channel="tvbs.br">
+<programme start="20230802000000 -0300" stop="2023080500000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
  
  ###animetv.br###
-<programme start="202307280000000 -0300" stop="2023080100000 -0300" channel="animetv.br">
+<programme start="20230728000000 -0300" stop="2023080100000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">Varios animes</desc>
 </programme>
-<programme start="202307210000000 -0300" stop="2023072500000 -0300" channel="animetv.br">
+<programme start="20230721000000 -0300" stop="2023072500000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">Varios animes</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="202307250000000 -0300" stop="2023072800000 -0300" channel="animetv.br">
+<programme start="20230725000000 -0300" stop="2023072800000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title>
  <desc lang="pt">Varios animes</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
@@ -2536,29 +2552,29 @@
  
  ###xtremetv.br###
  
-<programme start="202307290000000 -0300" stop="2023080300000 -0300" channel="xtremetv.br">
+<programme start="20230729000000 -0300" stop="2023080300000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="202307230000000 -0300" stop="2023072600000 -0300" channel="xtremetv.br">
+<programme start="20230723000000 -0300" stop="2023072600000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="202307260000000 -0300" stop="2023072900000 -0300" channel="xtremetv.br">
+<programme start="20230726000000 -0300" stop="2023072900000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
  
  ###turnerdemo.br###
-<programme start="202307260000000 -0300" stop="2023072800000 -0300" channel="turnerdemo.br">
+<programme start="20230726000000 -0300" stop="2023072800000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="202307280000000 -0300" stop="2023080200000 -0300" channel="turnerdemo.br">
+<programme start="20230728000000 -0300" stop="2023080200000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="202307220000000 -0300" stop="2023072600000 -0300" channel="turnerdemo.br">
+<programme start="20230722000000 -0300" stop="2023072600000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -2660,19 +2676,19 @@
 </programme>
  
    ####7tvbs.br####
-<programme start="2022060114000 -0300" stop="20220602000000 -0300" channel="7tvbs.br">
+<programme start="20220601140000 -0300" stop="20220602000000 -0300" channel="7tvbs.br">
  <title lang="pt">Black Clover</title>
  <desc lang="pt">Em um mundo cheio de magia, dois meninos órfãos - Asta, nascido com poderes antimagia únicos, e Yuno, um prodígio mágico - se esforçam para se tornar o Rei Mago, o maior de todos os usuários de magia.</desc>
 </programme>
-<programme start="2023062400000 -0300" stop="20230626000000 -0300" channel="7tvbs.br">
+<programme start="20230624000000 -0300" stop="20230626000000 -0300" channel="7tvbs.br">
  <title lang="pt">Programação TV Entreamericas</title>
  <desc lang="pt">anime</desc>
 </programme> 
-<programme start="2023062600000 -0300" stop="20230628000000 -0300" channel="7tvbs.br">
+<programme start="20230626000000 -0300" stop="20230628000000 -0300" channel="7tvbs.br">
  <title lang="pt">Programação TV Entreamericas</title>
  <desc lang="pt">anime</desc>
 </programme> 
-<programme start="2023062800000 -0300" stop="20230630000000 -0300" channel="7tvbs.br">
+<programme start="20230628000000 -0300" stop="20230630000000 -0300" channel="7tvbs.br">
  <title lang="pt">Programação TV Entreamericas</title>
  <desc lang="pt">anime</desc>
 </programme> 
@@ -2860,7 +2876,7 @@
 </programme> 
  
    ####FronteiraMovies.br####
-<programme start="202307230000000 -0300" stop="20230726000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title>
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
@@ -2874,7 +2890,7 @@
 </programme>
  
  ####Clc.br####
-<programme start="2023072510000 -0300" stop="20230725080000 -0300" channel="Clc.br">
+<programme start="20230725100000 -0300" stop="20230725080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
