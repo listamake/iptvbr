@@ -720,31 +720,33 @@
 
  
    #####semanal yeeaah#####
-<programme start="20230724000000 -0300" stop="20230724010000 -0300" channel="yaaeeh.br">
+<programme start="20230728000000 -0300" stop="20230728010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230724010000 -0300" stop="20230724030000 -0300" channel="yaaeeh.br">
+<programme start="20230728010000 -0300" stop="20230728030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230724030000 -0300" stop="20230724040000 -0300" channel="yaaeeh.br">
+<programme start="20230728030000 -0300" stop="20230728040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230724040000 -0300" stop="20230724060000 -0300" channel="yaaeeh.br">
+<programme start="20230728040000 -0300" stop="20230728060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230724060000 -0300" stop="20230724070000 -0300" channel="yaaeeh.br">
+<programme start="20230728060000 -0300" stop="20230728070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230724070000 -0300" stop="20230724090000 -0300" channel="yaaeeh.br">
+<programme start="20230728070000 -0300" stop="20230728090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230724090000 -0300" stop="20230724100000 -0300" channel="yaaeeh.br">
+<programme start="20230728090000 -0300" stop="20230728100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -864,10 +866,12 @@
 <programme start="20230727000000 -0300" stop="20230727120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
 <programme start="20230727120000 -0300" stop="20230728000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
  
     ###KpopTVPlay.br###
@@ -1065,26 +1069,31 @@
 <programme start="20230727140000 -0300" stop="20230727170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230727170000 -0300" stop="20230727180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
+ <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727180000 -0300" stop="20230727220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230727220000 -0300" stop="20230727230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230411200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230724230000 -0300" stop="20230725000000 -0300" channel="CanalUsuario.br">
+<programme start="20230727230000 -0300" stop="20230728000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
+ <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
 <programme start="20230725000000 -0300" stop="20230725020000 -0300" channel="CanalUsuario.br">
