@@ -278,8 +278,7 @@
 <programme start="20230728120000 -0300" stop="20230729000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
- <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
+ <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
 
 <programme start="20230728000000 -0300" stop="20230728120000 -0300" channel="anitv.br">
@@ -1956,19 +1955,21 @@
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230726153000 -0300" stop="20230726160000 -0300" channel="TVMax.br">
+<programme start="20230728153000 -0300" stop="20230728160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
 </programme>
-<programme start="20230726160000 -0300" stop="20230726190000 -0300" channel="TVMax.br">
+<programme start="20230728160000 -0300" stop="20230728190000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
-<programme start="20230726190000 -0300" stop="20230726200000 -0300" channel="TVMax.br">
+<programme start="20230728190000 -0300" stop="20230728200000 -0300" channel="TVMax.br">
  <title lang="pt">Vegeta TV</title>
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
-<programme start="20230726200000 -0300" stop="20230727000000 -0300" channel="TVMax.br">
+<programme start="20230728200000 -0300" stop="20230729000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1976,7 +1977,7 @@
 <programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
- <rating system="CLASSIND"><value>A10</value></rating>
+ <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
 
 ###TVMax.br sab e dom###
