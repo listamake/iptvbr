@@ -269,13 +269,13 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230727000000 -0300" stop="20230727120000 -0300" channel="anitv.br">
+<programme start="20230728000000 -0300" stop="20230728120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
-<programme start="20230727120000 -0300" stop="20230728000000 -0300" channel="anitv.br">
+<programme start="20230728120000 -0300" stop="20230729000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
@@ -291,13 +291,6 @@
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
-</programme>
-
-
- 
-<programme start="20221230193000 -0300" stop="20221230220000 -0300" channel="anitv.br">
- <title lang="pt">SuperOnze - Especial</title>
- <desc lang="pt">Homenagem a Pelé</desc>
 </programme>
  
 <programme start="20230509233000 -0300" stop="20230510000000 -0300" channel="anitv.br">
@@ -560,7 +553,7 @@
  <title lang="pt">Rent-A-Girlfriend</title>
  <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
 </programme>
-<programme start="20230722010000 -0300" stop="20230722063000 -0300" channel="anitv.br">
+<programme start="20230729000000 -0300" stop="20230729063000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
@@ -589,9 +582,10 @@
  <desc lang="pt">Planet Survival se passa no século XXII e conta a história sobre 7 estudantes e 1 gata robô. Luna, Sharla, Menoli, Howard, Bell, Shingo, Kaoru e Chako estão em uma era onde os humanos vivem em colônias espaciais e têm uma tecnologia muito avançada, mas a natureza agora só existe nos livros.</desc>
 </programme>
 
-<programme start="20230415080000 -0300" stop="20230416203000 -0300" channel="anitv.br">
+<programme start="20230729063000 -0300" stop="20230730000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
 
 <programme start="20230722203000 -0300" stop="20230722210000 -0300" channel="anitv.br">
@@ -754,37 +748,44 @@
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230724120000 -0300" stop="20230724130000 -0300" channel="yaaeeh.br">
+<programme start="20230728120000 -0300" stop="20230728130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230724130000 -0300" stop="20230724150000 -0300" channel="yaaeeh.br">
+<programme start="20230728130000 -0300" stop="20230728150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+ <rating system="CLASSIND"><value>A14</value></rating>
 </programme>
-<programme start="20230724150000 -0300" stop="20230724160000 -0300" channel="yaaeeh.br">
+<programme start="20230728150000 -0300" stop="20230728160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230724160000 -0300" stop="20230724180000 -0300" channel="yaaeeh.br">
+<programme start="20230728160000 -0300" stop="20230728180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+ <rating system="CLASSIND"><value>A14</value></rating>
 </programme>
-<programme start="20230724180000 -0300" stop="20230724190000 -0300" channel="yaaeeh.br">
+<programme start="20230728180000 -0300" stop="20230728190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+ <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230724190000 -0300" stop="20230724200000 -0300" channel="yaaeeh.br">
+<programme start="20230728190000 -0300" stop="20230728200000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+ <rating system="CLASSIND"><value>A14</value></rating>
 </programme>
-<programme start="20230724200000 -0300" stop="20230724220000 -0300" channel="yaaeeh.br">
+<programme start="20230728200000 -0300" stop="20230728220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230724220000 -0300" stop="20230725000000 -0300" channel="yaaeeh.br">
+<programme start="20230728220000 -0300" stop="20230729000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
+ <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
 
 <programme start="20230725000000 -0300" stop="20230725120000 -0300" channel="yaaeeh.br">
