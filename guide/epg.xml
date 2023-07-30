@@ -269,13 +269,13 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230728000000 -0300" stop="20230728120000 -0300" channel="anitv.br">
+<programme start="20230731000000 -0300" stop="20230731120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
-<programme start="20230728120000 -0300" stop="20230729000000 -0300" channel="anitv.br">
+<programme start="20230731120000 -0300" stop="20230801729000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
@@ -680,7 +680,7 @@
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230730060000 -0300" stop="20230730120000 -0300" channel="yaaeeh.br">
+<programme start="20230730060000 -0300" stop="20230730090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -700,12 +700,12 @@
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230723180000 -0300" stop="20230723190000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah APP</title>
+<programme start="20230730180000 -0300" stop="20230730190000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
-</programme>
-<programme start="20230723190000 -0300" stop="20230724000000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+</programme>     
+<programme start="20230730190000 -0300" stop="20230731000000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 
@@ -873,23 +873,23 @@
 </programme>
  
     ###KpopTVPlay.br###
-<programme start="20230724000000 -0300" stop="20230724190000 -0300" channel="KpopTVPlay.br">
- <title lang="pt">Programação Kpop TV Play</title>
+<programme start="20230731000000 -0300" stop="20230731190000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230724190000 -0300" stop="20230724200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230731190000 -0300" stop="20230731200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230724200000 -0300" stop="20230724210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230731200000 -0300" stop="20230731210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230724210000 -0300" stop="20230724213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230731210000 -0300" stop="20230731213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230724213000 -0300" stop="20230724233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230731213000 -0300" stop="20230731233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
@@ -962,7 +962,7 @@
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 <programme start="20230730000000 -0300" stop="20230731000000 -0300" channel="KpopTVPlay.br">
- <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating>
+ <title lang="pt">Programação Kpop TV Play</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
@@ -988,34 +988,34 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230726100000 -0300" stop="20230726110000 -0300" channel="CanalUsuario.br">
+<programme start="20230730100000 -0300" stop="20230730110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
   <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230726110000 -0300" stop="20230726130000 -0300" channel="CanalUsuario.br">
+<programme start="20230730110000 -0300" stop="20230730130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230726130000 -0300" stop="20230726140000 -0300" channel="CanalUsuario.br">
+<programme start="20230730130000 -0300" stop="20230730140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230726140000 -0300" stop="20230726170000 -0300" channel="CanalUsuario.br">
+<programme start="20230730140000 -0300" stop="20230730170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230726170000 -0300" stop="20230726180000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
+<programme start="20230730170000 -0300" stop="20230730180000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title> 
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230726180000 -0300" stop="20230726220000 -0300" channel="CanalUsuario.br">
+<programme start="20230730180000 -0300" stop="20230730220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230726220000 -0300" stop="20230726230000 -0300" channel="CanalUsuario.br">
+<programme start="20230730220000 -0300" stop="20230730230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title>
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1212,23 +1212,22 @@
 </programme>
 
     ###canalstart.br###
-<programme start="20230724000000 -0300" stop="20230725020000 -0300" channel="canalstart.br">
- <title lang="pt">Programação Canal Start</title>
+<programme start="20230731010000 -0300" stop="20230801020000 -0300" channel="canalstart.br">
+ <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
- <rating system="CLASSIND"><value>12</value></rating>
 </programme>
  
-<programme start="20230725020000 -0300" stop="20230725030000 -0300" channel="canalstart.br">
+<programme start="20230801020000 -0300" stop="20230801030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230725030000 -0300" stop="20230726010000 -0300" channel="canalstart.br">
+<programme start="20230801030000 -0300" stop="20230802010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 
-<programme start="20230726010000 -0300" stop="20230727020000 -0300" channel="canalstart.br">
+<programme start="20230802010000 -0300" stop="20230803020000 -0300" channel="canalstart.br">
  <title lang="pt">Programação Canal Start</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating>
@@ -1796,19 +1795,19 @@
  <title lang="pt">Super Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230723173000 -0300" stop="20230723183000 -0300" channel="CentralTV.br">
+<programme start="20230730173000 -0300" stop="2023073023183000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Bate Papo - Reprise</title>
  <desc lang="pt">Semanalmente Mário Cesar trás entrevistas com empresários e personalidades da sociedade Paranaense. Não perca, Programa Bate Papo.</desc>
 </programme>
-<programme start="20230723183000 -0300" stop="20230723200000 -0300" channel="CentralTV.br">
+<programme start="20230730183000 -0300" stop="20230730200000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230723200000 -0300" stop="20230723210000 -0300" channel="CentralTV.br">
+<programme start="20230730200000 -0300" stop="20230730210000 -0300" channel="CentralTV.br">
  <title lang="pt">Planeta Games - Reprise</title>
  <desc lang="pt">Reprise</desc>
 </programme>
-<programme start="20230723210000 -0300" stop="20230724003000 -0300" channel="CentralTV.br">
+<programme start="20230730210000 -0300" stop="20230731003000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -2042,19 +2041,16 @@
  
 ####pooptv.br####
 <programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="pooptv.br">
- <title lang="pt">YouTube Poop BR +16</title>
+ <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
-  <rating system="CLASSIND"><value>16</value></rating>
 </programme>
-<programme start="20230722000000 -0300" stop="20230726000000 -0300" channel="pooptv.br">
- <title lang="pt">YouTube Poop BR +16</title>
+<programme start="20230802000000 -0300" stop="20230806000000 -0300" channel="pooptv.br">
+ <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
-<rating system="CLASSIND"><value>16</value></rating>
 </programme>
-<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="pooptv.br">
- <title lang="pt">YouTube Poop BR +16</title>
+<programme start="20230806000000 -0300" stop="20230809000000 -0300" channel="pooptv.br">
+ <title lang="pt">YouTube Poop BR +16</title>  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
-<rating system="CLASSIND"><value>16</value></rating>
 </programme>
 
  
