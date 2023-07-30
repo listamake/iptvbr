@@ -673,7 +673,7 @@
       ####DOM####
 
 <programme start="20230730000000 -0300" stop="20230730060000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
+ <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230730030000 -0300" stop="20230730060000 -0300" channel="yaaeeh.br">
@@ -921,9 +921,7 @@
 <programme start="20230727213000 -0300" stop="20230727233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
- <rating system="CLASSIND">
-    <value>12</value>
-  </rating>
+ <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230727233000 -0300" stop="20230728000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
@@ -1265,7 +1263,7 @@
 </programme>
 
 <programme start="20230730000000 -0300" stop="20230730020000 -0300" channel="canalstart.br">
- <title lang="pt">Hora Cult</title>  <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
+ <title lang="pt">Hora Cult</title>  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
 <programme start="20230730020000 -0300" stop="20230730030000 -0300" channel="canalstart.br">
@@ -1766,36 +1764,36 @@
 </programme>
 
     ###don.centraltv###
-<programme start="20230723000000 -0300" stop="20230723030000 -0300" channel="CentralTV.br">
- <title lang="pt">Sessão Terror</title>
+<programme start="20230730000000 -0300" stop="20230730030000 -0300" channel="CentralTV.br">
+ <title lang="pt">Sessão Terror</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
  <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
 </programme>
-<programme start="20230723030000 -0300" stop="20230723070000 -0300" channel="CentralTV.br">
- <title lang="pt">CentralTV CineClassic</title>
+<programme start="20230730030000 -0300" stop="20230730070000 -0300" channel="CentralTV.br">
+ <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20230723070000 -0300" stop="20230723080000 -0300" channel="CentralTV.br">
- <title lang="pt">Festival Disney</title>
+<programme start="20230730070000 -0300" stop="20230730080000 -0300" channel="CentralTV.br">
+ <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230723080000 -0300" stop="20230723110000 -0300" channel="CentralTV.br">
- <title lang="pt">Programação Central TV</title>
+<programme start="20230730080000 -0300" stop="20230730110000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230723110000 -0300" stop="20230723113000 -0300" channel="CentralTV.br">
- <title lang="pt">Programa Câmera Brasil</title>
+<programme start="20230730110000 -0300" stop="20230730113000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programa Câmera Brasil</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/WhatsApp-Image-2022-07-11-at-12.37.28.jpeg" />
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230723113000 -0300" stop="20230723124500 -0300" channel="CentralTV.br">
- <title lang="pt">Programação Central TV</title>
+<programme start="20230730113000 -0300" stop="20230730124500 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230723124500 -0300" stop="20230723144500 -0300" channel="CentralTV.br">
- <title lang="pt">Jukebox TV</title>
+<programme start="20230730124500 -0300" stop="20230730144500 -0300" channel="CentralTV.br">
+ <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
  <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
 </programme>
-<programme start="20230723154500 -0300" stop="20230723173000 -0300" channel="CentralTV.br">
- <title lang="pt">Super Séries</title>
+<programme start="20230730154500 -0300" stop="20230730173000 -0300" channel="CentralTV.br">
+ <title lang="pt">Super Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="20230723173000 -0300" stop="20230723183000 -0300" channel="CentralTV.br">
