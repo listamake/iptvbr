@@ -617,7 +617,7 @@
    ####domingo anitv####
 
 <programme start="20230730000000 -0300" stop="20230730070000 -0300" channel="anitv.br">
- <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
+ <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" /> 
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
 <programme start="20230730070000 -0300" stop="20230731000000 -0300" channel="anitv.br">
@@ -673,31 +673,31 @@
       ####DOM####
 
 <programme start="20230730000000 -0300" stop="20230730060000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> 
+ <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230730030000 -0300" stop="20230730060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230723060000 -0300" stop="20230723120000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+<programme start="20230730060000 -0300" stop="20230730120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230723090000 -0300" stop="20230723120000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah APP - Maratona</title>
+<programme start="20230730090000 -0300" stop="20230730120000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP - Maratona</title <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Shurato Hidaka e Gai Kuroki são dois melhores amigos de infância e opostos um do outro em aparência e personalidade. Enquanto lutavam um contra o outro na final de um torneio de artes marciais, foram subitamente encobertos por uma luz misteriosa e transmigrados para um lugar paralelo, o Mundo Celestial, onde a tecnologia moderna não existe e, ao invés disso, as pessoas dependem de seus Sohma, uma forma de energia espiritual.</desc>
 </programme>
-<programme start="20230723120000 -0300" stop="20230723130000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah APP</title>
+<programme start="20230730120000 -0300" stop="20230730130000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah APP</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>             
-<programme start="20230723130000 -0300" stop="20230723140000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games - Maratona</title>
+<programme start="20230703130000 -0300" stop="20230730140000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games - Maratona</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230723140000 -0300" stop="20230723180000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+<programme start="20230730140000 -0300" stop="20230730180000 -0300" channel="yaaeeh.br">
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230723180000 -0300" stop="20230723190000 -0300" channel="yaaeeh.br">
@@ -2260,24 +2260,24 @@
  <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
 </programme>
  
-<programme start="20230723000000 -0300" stop="20230723083000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>
+<programme start="20230730000000 -0300" stop="20230730083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
-<programme start="20230723083000 -0300" stop="20230723090000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mudança de Vida</title>
+<programme start="20230730083000 -0300" stop="20230730090000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mudança de Vida</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230723090000 -0300" stop="20230723120000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+<programme start="20230730090000 -0300" stop="20230730120000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230723120000 -0300" stop="20230723160000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Parque Patati Patatá</title>
+<programme start="20230730120000 -0300" stop="20230730160000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
-<programme start="20230723160000 -0300" stop="20230724010000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>
+<programme start="20230730160000 -0300" stop="20230731010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg"
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
 
