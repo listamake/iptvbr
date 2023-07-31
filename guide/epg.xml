@@ -275,7 +275,7 @@
  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
-<programme start="20230731120000 -0300" stop="20230801729000000 -0300" channel="anitv.br">
+<programme start="20230731120000 -0300" stop="20230801000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
@@ -286,7 +286,7 @@
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
-<programme start="20230725120000 -0300" stop="20230726000000 -0300" channel="anitv.br">
+<programme start="20230728120000 -0300" stop="20230726000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title>
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
@@ -741,45 +741,45 @@
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230724100000 -0300" stop="20230724120000 -0300" channel="yaaeeh.br">
+<programme start="20230801100000 -0300" stop="20230801120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230728120000 -0300" stop="20230728130000 -0300" channel="yaaeeh.br">
+<programme start="20230801120000 -0300" stop="20230801130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230728130000 -0300" stop="20230728150000 -0300" channel="yaaeeh.br">
+<programme start="20230801130000 -0300" stop="20230801150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
 </programme>
-<programme start="20230728150000 -0300" stop="20230728160000 -0300" channel="yaaeeh.br">
+<programme start="20230801150000 -0300" stop="20230801160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
 </programme>
-<programme start="20230728160000 -0300" stop="20230728180000 -0300" channel="yaaeeh.br">
+<programme start="20230801160000 -0300" stop="20230801180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
 </programme>
-<programme start="20230728180000 -0300" stop="20230728190000 -0300" channel="yaaeeh.br">
+<programme start="20230801180000 -0300" stop="20230801190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230728190000 -0300" stop="20230728200000 -0300" channel="yaaeeh.br">
+<programme start="20230801190000 -0300" stop="20230728200000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating>
 </programme>
-<programme start="20230728200000 -0300" stop="20230728220000 -0300" channel="yaaeeh.br">
+<programme start="20230801200000 -0300" stop="20230728220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230728220000 -0300" stop="20230729000000 -0300" channel="yaaeeh.br">
+<programme start="20230801220000 -0300" stop="20230729000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />
@@ -906,7 +906,7 @@
 <programme start="20230727190000 -0300" stop="20230727200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>14</value><icon src="https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/simbolos-de-autoclassificacao/nr14-auto.png" /></rating>
+ <rating system="CLASSIND"><value>14</value><icon src="https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/simbolos-de-autoclassificacao/nr14-auto.png" /></rating>
 </programme>
 <programme start="20230727200000 -0300" stop="20230727210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
@@ -993,69 +993,64 @@
  <desc lang="pt">Produções da disney.</desc>
   <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230730110000 -0300" stop="20230730130000 -0300" channel="CanalUsuario.br">
+<programme start="20230801110000 -0300" stop="20230801130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230730130000 -0300" stop="20230730140000 -0300" channel="CanalUsuario.br">
+<programme start="20230801130000 -0300" stop="20230801140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230730140000 -0300" stop="20230730170000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+<programme start="20230801140000 -0300" stop="20230801170000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230730170000 -0300" stop="20230730180000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title> 
+<programme start="20230801170000 -0300" stop="20230801180000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230730180000 -0300" stop="20230730220000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+<programme start="20230801180000 -0300" stop="20230801220000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230730220000 -0300" stop="20230730230000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
+<programme start="20230801220000 -0300" stop="20230801230000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
 <programme start="20230405200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230726230000 -0300" stop="20230727000000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+<programme start="20230801230000 -0300" stop="20230802000000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230727000000 -0300" stop="20230727020000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+<programme start="20230802000000 -0300" stop="20230802020000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230727020000 -0300" stop="20230727030000 -0300" channel="CanalUsuario.br">
+<programme start="20230802020000 -0300" stop="20230802030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230727030000 -0300" stop="20230727040000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
+<programme start="20230802030000 -0300" stop="2023080227040000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
- <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230727040000 -0300" stop="20230727100000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
- <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230727100000 -0300" stop="20230727110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>
  <desc lang="pt">Produções da disney.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727110000 -0300" stop="20230727130000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
- <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 <programme start="20230727130000 -0300" stop="20230727140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
@@ -1063,7 +1058,7 @@
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727140000 -0300" stop="20230727170000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
@@ -1073,7 +1068,7 @@
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727180000 -0300" stop="20230727220000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
@@ -1087,7 +1082,7 @@
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
 <programme start="20230727230000 -0300" stop="20230728000000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
@@ -1233,12 +1228,12 @@
  <rating system="CLASSIND"><value>12</value></rating>
 </programme>
  
-<programme start="20230727020000 -0300" stop="20230727030000 -0300" channel="canalstart.br">
+<programme start="20230803020000 -0300" stop="20230803030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>18</value></rating>
 </programme>
-<programme start="20230728030000 -0300" stop="20230729010000 -0300" channel="canalstart.br">
+<programme start="20230803030000 -0300" stop="20230804010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
@@ -1607,31 +1602,31 @@
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230728140000 -0300" stop="20230728143000 -0300" channel="CentralTV.br">
- <title lang="pt">Festival Hanna Barbera</title>
+<programme start="20230801140000 -0300" stop="20230801143000 -0300" channel="CentralTV.br">
+ <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230728143000 -0300" stop="20230728150000 -0300" channel="CentralTV.br">
- <title lang="pt">Programa Faça e Lucre</title>
+<programme start="20230801143000 -0300" stop="20230801150000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programa Faça e Lucre</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_15-1024x573.jpg" />
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230728150000 -0300" stop="20230728153000 -0300" channel="CentralTV.br">
- <title lang="pt">Programação Central TV</title>
+<programme start="20230801150000 -0300" stop="20230801153000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230728153000 -0300" stop="20230728183000 -0300" channel="CentralTV.br">
+<programme start="20230801153000 -0300" stop="20230801183000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title>
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230728183000 -0300" stop="20230728193000 -0300" channel="CentralTV.br">
+<programme start="20230801183000 -0300" stop="20230801193000 -0300" channel="CentralTV.br">
  <title lang="pt">Milk News</title>
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
-<programme start="20230728193000 -0300" stop="20230728200000 -0300" channel="CentralTV.br">
+<programme start="20230801193000 -0300" stop="20230801200000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>
  <desc lang="pt"></desc>
 </programme>
-<programme start="20230728200000 -0300" stop="20230728210000 -0300" channel="CentralTV.br">
+<programme start="20230808200000 -0300" stop="20230808210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -1680,7 +1675,7 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="20230726153000 -0300" stop="20230726183000 -0300" channel="CentralTV.br">
- <title lang="pt">Cinemania</title>
+ <title lang="pt">Cinemania</title> 
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
 <programme start="20230726183000 -0300" stop="20230726193000 -0300" channel="CentralTV.br">
@@ -1717,9 +1712,8 @@
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
 </programme>
 <programme start="20230729030000 -0300" stop="20230729040000 -0300" channel="CentralTV.br">
- <title lang="pt">Festival Hanna Barbera</title>
+ <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
- <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
 </programme>
 <programme start="20230729040000 -0300" stop="20230729070000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
