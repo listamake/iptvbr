@@ -994,9 +994,8 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230801130000 -0300" stop="20230801140000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230801140000 -0300" stop="20230801170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
@@ -1028,47 +1027,44 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230802020000 -0300" stop="20230802030000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
 <programme start="20230802030000 -0300" stop="2023080227040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230727040000 -0300" stop="20230727100000 -0300" channel="CanalUsuario.br">
+<programme start="20230802040000 -0300" stop="20230802100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230727100000 -0300" stop="20230727110000 -0300" channel="CanalUsuario.br">
+<programme start="20230802100000 -0300" stop="20230802110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230727110000 -0300" stop="20230727130000 -0300" channel="CanalUsuario.br">
+<programme start="20230802110000 -0300" stop="20230802130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230727130000 -0300" stop="20230727140000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+<programme start="20230802130000 -0300" stop="20230802140000 -0300" channel="CanalUsuario.br">
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727140000 -0300" stop="20230727170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230727170000 -0300" stop="20230727180000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
+ <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727180000 -0300" stop="20230727220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230727220000 -0300" stop="20230727230000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
- <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230411200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Fala Mais Online</title>
@@ -1077,55 +1073,50 @@
 <programme start="20230727230000 -0300" stop="20230728000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
- <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
 <programme start="20230725000000 -0300" stop="20230725020000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
-  <rating system="CLASSIFICACAO_ETARIA"><value>L</value></rating>
 </programme>
 <programme start="20230725020000 -0300" stop="20230725030000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>L</value></rating>
 </programme>
 <programme start="20230725030000 -0300" stop="20230725040000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
 <programme start="20230725040000 -0300" stop="20230725100000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230725100000 -0300" stop="20230725110000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
+ <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
 <programme start="20230725110000 -0300" stop="20230725130000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230725130000 -0300" stop="20230725140000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
 <programme start="20230725140000 -0300" stop="20230725170000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>L</value></rating>
 </programme>
 <programme start="20230725170000 -0300" stop="20230725180000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Club Disney</title>
+ <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
 <programme start="20230725180000 -0300" stop="20230725220000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Informercial</title>
+ <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>L</value></rating>
 </programme>
 <programme start="20230725220000 -0300" stop="20230725230000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Planeta Feroz - Furacão</title>
+ <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
 <programme start="20230405200000 -0300" stop="2023040522000 -0300" channel="CanalUsuario.br">
@@ -1138,12 +1129,12 @@
 </programme>
  
     ###fkids.br###
-<programme start="20230721000000 -0300" stop="20230725000000 -0300" channel="fkids.br">
- <title lang="pt">Programação Experimental</title>
+<programme start="20230801000000 -0300" stop="20230805000000 -0300" channel="fkids.br">
+ <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230725000000 -0300" stop="20230728000000 -0300" channel="fkids.br">
- <title lang="pt">Programação Experimental</title>
+<programme start="20230805000000 -0300" stop="20230808000000 -0300" channel="fkids.br">
+ <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
 <programme start="20230728000000 -0300" stop="20230801000000 -0300" channel="fkids.br">
@@ -1579,18 +1570,18 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="20230801073000 -0300" stop="20230801113000 -0300" channel="CentralTV.br">
- <title lang="pt">Clube da Criança</title>
+ <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
 <programme start="20230801113000 -0300" stop="20230801130000 -0300" channel="CentralTV.br">
- <title lang="pt">Programa 190</title>
+ <title lang="pt">Programa 190</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_18-1024x553.png" />
  <desc lang="pt">Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
 </programme>
 <programme start="20230801130000 -0300" stop="20230801728131500 -0300" channel="CentralTV.br">
- <title lang="pt">Momento Mario Celso</title>
+ <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/MARIOCELSO_jpg-1024x576.jpg" />
  <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
 </programme>
-<programme start="20230801131500 -0300" stop="20230801728140000 -0300" channel="CentralTV.br">
+<programme start="20230801131500 -0300" stop="20230801140000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -1607,22 +1598,22 @@
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 <programme start="20230801153000 -0300" stop="20230801183000 -0300" channel="CentralTV.br">
- <title lang="pt">Cinemania</title>
+ <title lang="pt">Cinemania</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
 <programme start="20230801183000 -0300" stop="20230801193000 -0300" channel="CentralTV.br">
- <title lang="pt">Milk News</title>
+ <title lang="pt">Milk News</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
 <programme start="20230801193000 -0300" stop="20230801200000 -0300" channel="CentralTV.br">
- <title lang="pt">Festival Disney</title>
- <desc lang="pt"></desc>
+ <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
+ <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
-<programme start="20230808200000 -0300" stop="20230808210000 -0300" channel="CentralTV.br">
- <title lang="pt">Programação Central TV</title>
+<programme start="20230801200000 -0300" stop="20230801210000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230728210000 -0300" stop="20230729000000 -0300" channel="CentralTV.br">
+<programme start="20230801210000 -0300" stop="20230802000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
@@ -1675,8 +1666,8 @@
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
 <programme start="20230726193000 -0300" stop="20230726200000 -0300" channel="CentralTV.br">
- <title lang="pt">Festival Disney</title>
- <desc lang="pt"></desc>
+ <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
+ <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
 <programme start="20230726200000 -0300" stop="20230726210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
@@ -1759,7 +1750,7 @@
 </programme>
 <programme start="20230730070000 -0300" stop="20230730080000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
- <desc lang="pt"></desc>
+ <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
 <programme start="20230730080000 -0300" stop="20230730110000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
@@ -2075,35 +2066,35 @@
  <title lang="pt">Mudança de Vida</title>
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230725090000 -0300" stop="20230725100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230801090000 -0300" stop="20230801100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230725100000 -0300" stop="20230725150000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Alegria</title>
+<programme start="20230801100000 -0300" stop="20230801150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20230725150000 -0300" stop="20230725180000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Sempre Melhor</title>
+<programme start="20230801150000 -0300" stop="20230801180000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Sempre Melhor</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a8.png" />
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20230725180000 -0300" stop="20230725190000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós</title>
+<programme start="20230801180000 -0300" stop="20230801190000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20230725190000 -0300" stop="20230725200000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+<programme start="20230801190000 -0300" stop="20230801200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230725200000 -0300" stop="20230725220000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Música</title>
+<programme start="20230801200000 -0300" stop="20230801220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230725220000 -0300" stop="20230725230000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Nossa Noite</title>
+<programme start="20230801220000 -0300" stop="20230801230000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230725230000 -0300" stop="20230726010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230801230000 -0300" stop="20230802010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title>
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
  <rating system="CLASSIND"><value>10</value></rating>
@@ -2116,7 +2107,7 @@
 </programme>
  
 <programme start="20230727010000 -0300" stop="20230727030000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós - Reprise</title>
+ <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
 <programme start="20230727030000 -0300" stop="20230727050000 -0300" channel="TVMaisFamilia.br">
@@ -2124,7 +2115,7 @@
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
 <programme start="20230727050000 -0300" stop="20230720070000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós - Reprise</title>
+ <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
 <programme start="20230727070000 -0300" stop="20230720080000 -0300" channel="TVMaisFamilia.br">
@@ -3329,16 +3320,16 @@
  <title lang="pt">CBN Brasil</title>
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230724140000 -0300" stop="20230724160000 -0300" channel="cbnrede.br">
- <title lang="pt">Estúdio CBN</title>
+<programme start="20230801140000 -0300" stop="20230801160000 -0300" channel="cbnrede.br">
+ <title lang="pt">Estúdio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/UMG9_18BQuw/maxresdefault.jpg" />
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230724160000 -0300" stop="20230724210000 -0300" channel="cbnrede.br">
- <title lang="pt">Programação Rádio CBN</title>
+<programme start="20230801160000 -0300" stop="20230801210000 -0300" channel="cbnrede.br">
+ <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230724210000 -0300" stop="2023072500000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Noite Total</title>
+<programme start="20230801210000 -0300" stop="2023080200000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Noite Total</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://media3.audimo.com/catalog/book-cover-image/328750/400x400/328750-2307111608-cbn-noite-total.jpg" />
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
 
