@@ -289,15 +289,13 @@
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230806000000 -0300" stop="20230801120000 -0300" channel="anitv.br">
+<programme start="20230801000000 -0300" stop="20230801120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
- <rating system="CLASSIND"><value>10</value></rating>
 </programme>
 <programme start="20230801120000 -0300" stop="20230802000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
- <rating system="CLASSIND"><value>10</value></rating>
 </programme>
  
 <programme start="20230509233000 -0300" stop="20230510000000 -0300" channel="anitv.br">
@@ -719,20 +717,20 @@
 
  
    #####semanal yeeaah#####
-<programme start="20230801000000 -0300" stop="20230808010000 -0300" channel="yaaeeh.br">
+<programme start="20230801000000 -0300" stop="20230801010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230801010000 -0300" stop="20230808030000 -0300" channel="yaaeeh.br">
+<programme start="20230801010000 -0300" stop="20230818030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230801030000 -0300" stop="20230808040000 -0300" channel="yaaeeh.br">
+<programme start="20230801030000 -0300" stop="20230801040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230801040000 -0300" stop="20230808060000 -0300" channel="yaaeeh.br">
+<programme start="20230801040000 -0300" stop="20230801060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -772,17 +770,17 @@
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230801190000 -0300" stop="20230728200000 -0300" channel="yaaeeh.br">
+<programme start="20230801190000 -0300" stop="20230801200000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating>
 </programme>
-<programme start="20230801200000 -0300" stop="20230728220000 -0300" channel="yaaeeh.br">
+<programme start="20230801200000 -0300" stop="20230801220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230801220000 -0300" stop="20230729000000 -0300" channel="yaaeeh.br">
+<programme start="20230801220000 -0300" stop="20230802000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />
