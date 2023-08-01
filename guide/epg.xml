@@ -2044,32 +2044,32 @@
  
 ####TVMaisFamilia.br####
 
-<programme start="20230724100000 -0300" stop="20230725010000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>
+<programme start="20230731000000 -0300" stop="20230801010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
  
-<programme start="20230725010000 -0300" stop="20230725030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230801010000 -0300" stop="20230801030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230725030000 -0300" stop="20230725050000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS FÉ</title>
+<programme start="20230801030000 -0300" stop="20230801050000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230725050000 -0300" stop="20230725070000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós - Reprise</title>
+<programme start="20230801050000 -0300" stop="20230801070000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230725070000 -0300" stop="20230725080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230801070000 -0300" stop="20230801080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230725080000 -0300" stop="20230725081500 -0300" channel="TVMaisFamilia.br">
+<programme start="20230801080000 -0300" stop="20230801081500 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Brasil em Dia</title>
  <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
 </programme>
-<programme start="20230725081500 -0300" stop="20230725083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230801081500 -0300" stop="20230801083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programa Pago</title>
  <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
@@ -2111,7 +2111,7 @@
  <rating system="CLASSIND"><value>10</value></rating>
 </programme>
 
-<programme start="20230726100000 -0300" stop="20230727010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230726010000 -0300" stop="20230727010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title>
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
@@ -2122,7 +2122,7 @@
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
 <programme start="20230727030000 -0300" stop="20230727050000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS FÉ</title>
+ <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
 <programme start="20230727050000 -0300" stop="20230720070000 -0300" channel="TVMaisFamilia.br">
@@ -2160,7 +2160,7 @@
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230727180000 -0300" stop="20230727190000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós</title>
+ <title lang="pt">Entre Nós</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
@@ -2556,32 +2556,30 @@
 </programme>
  
  ###animetv.br###
-<programme start="20230728000000 -0300" stop="2023080100000 -0300" channel="animetv.br">
- <title lang="pt">Programação de Animes</title>
+<programme start="20230728000000 -0300" stop="20230801000000 -0300" channel="animetv.br">
+ <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Varios animes</desc>
 </programme>
-<programme start="20230721000000 -0300" stop="2023072500000 -0300" channel="animetv.br">
- <title lang="pt">Programação de Animes</title>
+<programme start="20230801000000 -0300" stop="20230805000000 -0300" channel="animetv.br">
+ <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Varios animes</desc>
- <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230725000000 -0300" stop="2023072800000 -0300" channel="animetv.br">
- <title lang="pt">Programação de Animes</title>
+<programme start="20230805000000 -0300" stop="20230808000000 -0300" channel="animetv.br">
+ <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Varios animes</desc>
- <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
  
  ###xtremetv.br###
  
-<programme start="20230729000000 -0300" stop="2023080300000 -0300" channel="xtremetv.br">
+<programme start="20230729000000 -0300" stop="20230803000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="20230723000000 -0300" stop="2023072600000 -0300" channel="xtremetv.br">
+<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="20230726000000 -0300" stop="2023072900000 -0300" channel="xtremetv.br">
+<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
