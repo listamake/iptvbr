@@ -9,9 +9,7 @@
  <display-name lang="pt">PlayTV</display-name>
   <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2d312151d9e78ff54528d3fbe3659ac4.webp"/>
 </channel>
-<channel id="vivaxtv.br">
- <display-name lang="pt">Vivax TV</display-name>
-  <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
+<channel id="vivaxtv.br"> <display-name lang="pt">Vivax TV</display-name> <icon src="https://pbs.twimg.com/profile_images/1108215380852510720/iv0yVgpw_400x400.jpg"/>
 </channel>
 <channel id="ISTVHD.br">
  <display-name lang="pt">ISTV HD</display-name>
@@ -269,27 +267,24 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230718010000 -0300" stop="20230718070000 -0300" channel="anitv.br">
- <title lang="pt">REPRISES da Madrugada</title>
- <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-</programme>
-<programme start="20230731000000 -0300" stop="20230731120000 -0300" channel="anitv.br">
- <title lang="pt">Programação Geekdot</title>
- <desc lang="pt">é Steam na net e anime na veia !!</desc>
- <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
- <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
-</programme>
-<programme start="20230731120000 -0300" stop="20230801000000 -0300" channel="anitv.br">
- <title lang="pt">Programação Geekdot</title>
- <desc lang="pt">é Steam na net e anime na veia !!</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
-</programme>
-
-<programme start="20230801000000 -0300" stop="20230801060000 -0300" channel="anitv.br">
+<programme start="20230802000000 -0300" stop="20230802060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230801000000 -0300" stop="20230801120000 -0300" channel="anitv.br">
+<programme start="20230802000000 -0300" stop="20230802120000 -0300" channel="anitv.br">
+ <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">é Steam na net e anime na veia !!</desc>
+</programme>
+<programme start="20230802120000 -0300" stop="20230803000000 -0300" channel="anitv.br">
+ <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">é Steam na net e anime na veia !!</desc>
+</programme>
+
+<programme start="20230803000000 -0300" stop="20230803060000 -0300" channel="anitv.br">
+ <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+ <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+</programme>
+<programme start="20230803000000 -0300" stop="20230803120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
