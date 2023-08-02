@@ -3294,35 +3294,31 @@
  <title lang="pt">CBN Primeiras Notícias</title>
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230724060000 -0300" stop="20230724070000 -0300" channel="cbnrede.br">
- <title lang="pt">Jornal da CBN</title>
+<programme start="20230802060000 -0300" stop="20230802093000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicc0REdGTNqQw93US7hn_CwzWTFlDT6HdSQ" />
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230724070000 -0300" stop="20230724093000 -0300" channel="cbnrede.br">
- <title lang="pt">Jornal da CBN</title>
- <desc lang="pt">Noticiario</desc>
-</programme>
-<programme start="20230724093000 -0300" stop="20230724100000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN em Foco</title>
+<programme start="20230802093000 -0300" stop="20230802100000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN em Foco</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC0vrk17D3vdLdwJnrZqzcljCyGyC12G09w" />
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230724100000 -0300" stop="20230724120000 -0300" channel="cbnrede.br">
+<programme start="20230802100000 -0300" stop="20230802120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230724120000 -0300" stop="20230724140000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Brasil</title>
+<programme start="20230802120000 -0300" stop="20230802140000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1574501267262652436/YpiU97mt_400x400.png" />
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230801140000 -0300" stop="20230801160000 -0300" channel="cbnrede.br">
- <title lang="pt">Estúdio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/UMG9_18BQuw/maxresdefault.jpg" />
+<programme start="20230802140000 -0300" stop="20230802160000 -0300" channel="cbnrede.br">
+ <title lang="pt">Estúdio CBN</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/UMG9_18BQuw/maxresdefault.jpg" />
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230801160000 -0300" stop="20230801210000 -0300" channel="cbnrede.br">
+<programme start="20230802160000 -0300" stop="20230802210000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230801210000 -0300" stop="2023080200000 -0300" channel="cbnrede.br">
+<programme start="20230802210000 -0300" stop="20230803000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://media3.audimo.com/catalog/book-cover-image/328750/400x400/328750-2307111608-cbn-noite-total.jpg" />
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
