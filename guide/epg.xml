@@ -957,7 +957,6 @@
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
- 
 <programme start="20230801100000 -0300" stop="20230801110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
@@ -966,23 +965,23 @@
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230801130000 -0300" stop="20230801140000 -0300" channel="CanalUsuario.br">
+<programme start="20230804130000 -0300" stop="20230804140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230801140000 -0300" stop="20230801170000 -0300" channel="CanalUsuario.br">
+<programme start="20230804140000 -0300" stop="20230804170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230801170000 -0300" stop="20230801180000 -0300" channel="CanalUsuario.br">
+<programme start="20230804170000 -0300" stop="20230804180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230801180000 -0300" stop="20230801220000 -0300" channel="CanalUsuario.br">
+<programme start="20230804180000 -0300" stop="20230804220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230801220000 -0300" stop="20230801230000 -0300" channel="CanalUsuario.br">
+<programme start="20230804220000 -0300" stop="20230804230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -990,28 +989,28 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230801230000 -0300" stop="20230802000000 -0300" channel="CanalUsuario.br">
+<programme start="20230804230000 -0300" stop="20230805000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230802000000 -0300" stop="20230802020000 -0300" channel="CanalUsuario.br">
+<programme start="20230805000000 -0300" stop="20230805020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230802020000 -0300" stop="20230802030000 -0300" channel="CanalUsuario.br">
+<programme start="20230805020000 -0300" stop="20230805030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230802030000 -0300" stop="20230802040000 -0300" channel="CanalUsuario.br">
+<programme start="20230805030000 -0300" stop="20230805040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230802040000 -0300" stop="20230802100000 -0300" channel="CanalUsuario.br">
+<programme start="20230805040000 -0300" stop="20230805100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230802100000 -0300" stop="20230802110000 -0300" channel="CanalUsuario.br">
+<programme start="20230805100000 -0300" stop="20230805110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
@@ -1188,19 +1187,19 @@
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>18</value></rating>
 </programme>
-<programme start="20230803030000 -0300" stop="20230804010000 -0300" channel="canalstart.br">
+<programme start="20230804030000 -0300" stop="20230805000000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
 </programme>
 
      ###canalstart.br sab e dom##
-<programme start="20230729000000 -0300" stop="20230729020000 -0300" channel="canalstart.br">
+<programme start="20230805000000 -0300" stop="20230805020000 -0300" channel="canalstart.br">
  <title lang="pt">Hora Cult</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
 </programme>
-<programme start="20230729020000 -0300" stop="20230729030000 -0300" channel="canalstart.br">
+<programme start="20230805020000 -0300" stop="20230805030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H - Especial</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
