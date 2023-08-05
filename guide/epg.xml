@@ -2987,7 +2987,7 @@
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
 <programme start="20230802210000 -0300" stop="20230802220000 -0300" channel="bandfmrede.br">
- <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
+ <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
 <programme start="20230802220000 -0300" stop="20230803000000 -0300" channel="bandfmrede.br">
@@ -3013,15 +3013,15 @@
  <title lang="pt">Hora do Ronco</title>
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
-<programme start="20230726090000 -0300" stop="20230726210000 -0300" channel="bandfmrede.br">
- <title lang="pt">Programação Band FM</title>
+<programme start="20230804090000 -0300" stop="20230804210000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230726210000 -0300" stop="20230726220000 -0300" channel="bandfmrede.br">
- <title lang="pt">A Voz do Brasil</title>
+<programme start="20230804210000 -0300" stop="20230804220000 -0300" channel="bandfmrede.br">
+ <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230726220000 -0300" stop="20230727000000 -0300" channel="bandfmrede.br">
+<programme start="20230804220000 -0300" stop="20230805000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Love</title>
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
@@ -3048,8 +3048,8 @@
  <title lang="pt">Manhã Show</title>
  <desc lang="pt">O programa oferece uma mistura de entretenimento e informação por meio de quadros como Caixa Premiada, Super 6 e Band Notícias. Os ouvintes interagem de forma descontraída e se divertem, enquanto recebem informações atualizadas e relevantes.</desc>
 </programme>
-<programme start="20230722110000 -0300" stop="20230722200000 -0300" channel="bandfmrede.br">
- <title lang="pt">Programação Band FM</title>
+<programme start="20230805110000 -0300" stop="20230805200000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
 <programme start="20230722200000 -0300" stop="20230722210000 -0300" channel="bandfmrede.br">
@@ -3130,11 +3130,11 @@
  
     ####radiocidadeverde####
 
-<programme start="20230724000000 -0300" stop="20230724063000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Parada Musical</title>
+<programme start="20230807000000 -0300" stop="20230807063000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230724063000 -0300" stop="20230724083000 -0300" channel="radiocidadeverde.br">
+<programme start="20230807063000 -0300" stop="20230807083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p13.jpg" />
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
@@ -3234,13 +3234,13 @@
  <title lang="pt">CV Esporte</title>
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230722120000 -0300" stop="20230723000000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Parada Musical</title>
+<programme start="20230805120000 -0300" stop="20230806000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
  
-<programme start="20230723000000 -0300" stop="20230724000000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Parada Musical</title>
+<programme start="20230806000000 -0300" stop="20230807000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
  
