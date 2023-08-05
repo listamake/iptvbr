@@ -1946,15 +1946,15 @@
 
 ###TVMax.br sab e dom###
  
-<programme start="20230722000000 -0300" stop="20230722190000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Max</title>
+<programme start="20230805000000 -0300" stop="20230805190000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230722190000 -0300" stop="20230722200000 -0300" channel="TVMax.br">
- <title lang="pt">PubliRio Online</title>
+<programme start="20230805190000 -0300" stop="20230805200000 -0300" channel="TVMax.br">
+ <title lang="pt">PubliRio Online</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230722200000 -0300" stop="20230722210000 -0300" channel="TVMax.br">
+<programme start="20230805200000 -0300" stop="20230805210000 -0300" channel="TVMax.br">
  <title lang="pt">Fofocas e Tal</title>
  <desc lang="pt">No programa Fofocas e Tal você vai ficar sabendo sobre tudo o que rola no mundo das celebridades! Sempre com convidados especiais.</desc>
 </programme>
@@ -2004,33 +2004,99 @@
  
 ####TVMaisFamilia.br####
 
-<programme start="20230731000000 -0300" stop="20230801010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230807000000 -0300" stop="20230808010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
  
-<programme start="20230801010000 -0300" stop="20230801030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230808010000 -0300" stop="20230808030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230801030000 -0300" stop="20230801050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230808030000 -0300" stop="20230808050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230801050000 -0300" stop="20230801070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230808050000 -0300" stop="20230808070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230801070000 -0300" stop="20230801080000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Joseph Prince</title>
+<programme start="20230808070000 -0300" stop="20230808080000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230801080000 -0300" stop="20230801081500 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Brasil em Dia</title>
+<programme start="20230808080000 -0300" stop="20230808081500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Brasil em Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://imagens.ebc.com.br/ZZ4GWtExzHOTqtnaxEa3-oustCQ=/960x540/smart/https://play.ebc.com.br/imagens/CCH244_1682688081539.png" />
  <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
 </programme>
-<programme start="20230801081500 -0300" stop="20230801083000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programa Pago</title>
+<programme start="20230808081500 -0300" stop="20230808083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+ <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+</programme>
+<programme start="20230808083000 -0300" stop="20230808090000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+</programme>
+<programme start="20230808090000 -0300" stop="20230808100000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20230808100000 -0300" stop="20230808150000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
+ <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
+</programme>
+<programme start="20230808150000 -0300" stop="20230808180000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Sempre Melhor</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a8.png" />
+ <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
+</programme>
+<programme start="20230808180000 -0300" stop="20230808190000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
+</programme>
+<programme start="20230808190000 -0300" stop="20230808200000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20230808200000 -0300" stop="20230808220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20230808220000 -0300" stop="20230808230000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
+ <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
+</programme>
+<programme start="20230808230000 -0300" stop="20230809010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+</programme>
+
+<programme start="20230809010000 -0300" stop="20230810010000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+ 
+<programme start="20230810010000 -0300" stop="20230810030000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="20230810030000 -0300" stop="20230810050000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
+ <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
+</programme>
+<programme start="20230810050000 -0300" stop="20230810070000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
+ <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
+</programme>
+<programme start="20230810070000 -0300" stop="20230810080000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
+ <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
+</programme>
+<programme start="20230810080000 -0300" stop="20230810081500 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Brasil em Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://imagens.ebc.com.br/ZZ4GWtExzHOTqtnaxEa3-oustCQ=/960x540/smart/https://play.ebc.com.br/imagens/CCH244_1682688081539.png" />
+ <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
+</programme>
+<programme start="20230810081500 -0300" stop="20230810083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
  <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
 <programme start="20230802083000 -0300" stop="20230802090000 -0300" channel="TVMaisFamilia.br">
@@ -2038,7 +2104,7 @@
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
 <programme start="20230802090000 -0300" stop="20230802100000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
 <programme start="20230802100000 -0300" stop="20230802150000 -0300" channel="TVMaisFamilia.br">
@@ -2065,80 +2131,6 @@
  <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230801230000 -0300" stop="20230802010000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mudança de Vida</title>
- <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
- <rating system="CLASSIND"><value>10</value></rating>
-</programme>
-
-<programme start="20230726010000 -0300" stop="20230727010000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>
- <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
- <rating system="CLASSIND"><value>AL</value></rating>
-</programme>
- 
-<programme start="20230727010000 -0300" stop="20230727030000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
- <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
-</programme>
-<programme start="20230727030000 -0300" stop="20230727050000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
- <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
-</programme>
-<programme start="20230727050000 -0300" stop="20230720070000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
- <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
-</programme>
-<programme start="20230727070000 -0300" stop="20230720080000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Joseph Prince</title>
- <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
-</programme>
-<programme start="20230720080000 -0300" stop="20230720081500 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Brasil em Dia</title>
- <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
-</programme>
-<programme start="20230720081500 -0300" stop="20230720083000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programa Pago</title>
- <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
-</programme>
-<programme start="20230720083000 -0300" stop="20230720090000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mudança de Vida</title>
- <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
-</programme>
-<programme start="20230720090000 -0300" stop="20230720100000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
- <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
-</programme>
-<programme start="20230727100000 -0300" stop="20230727150000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Alegria</title>
- <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
- <rating system="CLASSIND"><value>L</value></rating>
-</programme>
-<programme start="20230727150000 -0300" stop="20230727180000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Sempre Melhor</title>
- <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
-</programme>
-<programme start="20230727180000 -0300" stop="20230727190000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
- <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
- <rating system="CLASSIND"><value>L</value></rating>
-</programme>
-<programme start="20230727190000 -0300" stop="20230727200000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
- <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
-</programme>
-<programme start="20230727200000 -0300" stop="20230727220000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Música</title>
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
- <rating system="CLASSIND"><value>L</value></rating>
-</programme>
-<programme start="20230728220000 -0300" stop="20230728230000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Nossa Noite</title>
-  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
-</programme>
 <programme start="20230728230000 -0300" stop="20230728232000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
@@ -2151,75 +2143,72 @@
 </programme>
  
   ###sab###
-<programme start="2023072900000 -0300" stop="20230729010000 -0300" channel="TVMaisFamilia.br">
+<programme start="2023080500000 -0300" stop="20230805010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230729010000 -0300" stop="20230729050000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">MAIS FÉ</title>
+<programme start="20230805010000 -0300" stop="20230805050000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
 </programme>
-<programme start="20230729050000 -0300" stop="20230729070000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Entre Nós - Reprise</title>
+<programme start="20230805050000 -0300" stop="20230805070000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
 </programme>
-<programme start="20230729070000 -0300" stop="20230729080000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Música</title>
+<programme start="20230805070000 -0300" stop="20230805080000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
- <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
 </programme>
-<programme start="20230729080000 -0300" stop="20230729090000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Joseph Prince</title>
+<programme start="20230805080000 -0300" stop="20230805090000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Joseph Prince</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230722090000 -0300" stop="20230722100000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
+<programme start="20230805090000 -0300" stop="20230805100000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230722100000 -0300" stop="20230722120000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>
+<programme start="20230805100000 -0300" stop="20230805120000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
-<programme start="20230722120000 -0300" stop="20230722160000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Parque Patati Patatá</title>
- <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
-</programme>
-<programme start="20230722160000 -0300" stop="20230722190000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>
- <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
-</programme>
-<programme start="20230722190000 -0300" stop="20230722210000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>
- <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
-</programme>
-<programme start="20230722210000 -0300" stop="20230722220000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mais Música</title>
- <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
-</programme>
-<programme start="20230722220000 -0300" stop="20230723000000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Cine Mais Fámilia</title>
- <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
-</programme>
- 
-<programme start="20230730000000 -0300" stop="20230730083000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Programação Rede Mais Família</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
- <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
-</programme>
-<programme start="20230730083000 -0300" stop="20230730090000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">Mudança de Vida</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
- <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
-</programme>
-<programme start="20230730090000 -0300" stop="20230730120000 -0300" channel="TVMaisFamilia.br">
- <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
- <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
-</programme>
-<programme start="20230730120000 -0300" stop="20230730160000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230805120000 -0300" stop="20230805160000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
-<programme start="20230730160000 -0300" stop="20230731010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230805160000 -0300" stop="20230805190000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+<programme start="20230805190000 -0300" stop="20230805210000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20230805210000 -0300" stop="202308052220000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
+ <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
+</programme>
+<programme start="20230805220000 -0300" stop="20230806000000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Cine Mais Fámilia</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a5.png" />
+ <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
+</programme>
+ 
+<programme start="20230806000000 -0300" stop="20230806083000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Programação Rede Mais Família</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
+ <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
+</programme>
+<programme start="20230806083000 -0300" stop="20230806090000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Mudança de Vida</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
+ <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
+</programme>
+<programme start="20230806090000 -0300" stop="20230806120000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+ <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
+</programme>
+<programme start="20230806120000 -0300" stop="20230806160000 -0300" channel="TVMaisFamilia.br">
+ <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
+ <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
+</programme>
+<programme start="20230806160000 -0300" stop="20230807010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
