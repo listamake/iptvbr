@@ -1001,39 +1001,39 @@
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230805030000 -0300" stop="20230805040000 -0300" channel="CanalUsuario.br">
+<programme start="20230806030000 -0300" stop="20230806040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230805040000 -0300" stop="20230805100000 -0300" channel="CanalUsuario.br">
+<programme start="20230806040000 -0300" stop="20230806100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230805100000 -0300" stop="20230805110000 -0300" channel="CanalUsuario.br">
+<programme start="20230806100000 -0300" stop="20230806110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230802110000 -0300" stop="20230802130000 -0300" channel="CanalUsuario.br">
+<programme start="20230806110000 -0300" stop="20230806130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230802130000 -0300" stop="20230802140000 -0300" channel="CanalUsuario.br">
+<programme start="20230806130000 -0300" stop="20230806140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230802140000 -0300" stop="20230802170000 -0300" channel="CanalUsuario.br">
+<programme start="20230806140000 -0300" stop="20230806170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230802170000 -0300" stop="20230802180000 -0300" channel="CanalUsuario.br">
+<programme start="20230806170000 -0300" stop="20230806180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230802180000 -0300" stop="20230802220000 -0300" channel="CanalUsuario.br">
+<programme start="20230806180000 -0300" stop="20230806220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230802220000 -0300" stop="20230802230000 -0300" channel="CanalUsuario.br">
+<programme start="20230806220000 -0300" stop="20230806230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1041,20 +1041,20 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230802230000 -0300" stop="20230803000000 -0300" channel="CanalUsuario.br">
+<programme start="20230806230000 -0300" stop="20230807000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 
-<programme start="20230725000000 -0300" stop="20230725020000 -0300" channel="CanalUsuario.br">
+<programme start="20230807000000 -0300" stop="20230807020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230725020000 -0300" stop="20230725030000 -0300" channel="CanalUsuario.br">
+<programme start="20230807020000 -0300" stop="20230807030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230725030000 -0300" stop="20230725040000 -0300" channel="CanalUsuario.br">
+<programme start="20230807030000 -0300" stop="20230807040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1161,22 +1161,22 @@
 </programme>
 
     ###canalstart.br###
-<programme start="20230731010000 -0300" stop="20230801020000 -0300" channel="canalstart.br">
+<programme start="20230807010000 -0300" stop="20230808020000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
  
-<programme start="20230801020000 -0300" stop="20230801030000 -0300" channel="canalstart.br">
+<programme start="20230808020000 -0300" stop="20230808030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230801030000 -0300" stop="20230802010000 -0300" channel="canalstart.br">
+<programme start="20230808030000 -0300" stop="20230809010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 
-<programme start="20230802010000 -0300" stop="20230803020000 -0300" channel="canalstart.br">
+<programme start="20230809010000 -0300" stop="20230810020000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
@@ -1203,21 +1203,21 @@
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
 </programme>
-<programme start="20230729030000 -0300" stop="20230730000000 -0300" channel="canalstart.br">
+<programme start="20230805030000 -0300" stop="20230806000000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV - Maratona</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
 </programme>
 
-<programme start="20230730000000 -0300" stop="20230730020000 -0300" channel="canalstart.br">
+<programme start="20230806000000 -0300" stop="20230806020000 -0300" channel="canalstart.br">
  <title lang="pt">Hora Cult</title>  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230730020000 -0300" stop="20230730030000 -0300" channel="canalstart.br">
+<programme start="20230806020000 -0300" stop="20230806030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H - Especial</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230730030000 -0300" stop="20230731010000 -0300" channel="canalstart.br">
+<programme start="20230806030000 -0300" stop="20230807010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV - Maratona</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
@@ -2970,28 +2970,28 @@
  
   ####bandfmrede.br####
 
-<programme start="20230724000000 -0300" stop="20230724050000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Coruja</title>
+<programme start="20230807000000 -0300" stop="20230807050000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230724050000 -0300" stop="20230724060000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Bom Dia</title>
+<programme start="20230807050000 -0300" stop="20230807060000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230724060000 -0300" stop="20230724090000 -0300" channel="bandfmrede.br">
- <title lang="pt">Hora do Ronco</title>
+<programme start="20230807060000 -0300" stop="20230807090000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Hora do Ronco</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/8Yb2Joz5B4Q/sddefault.jpg" />
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
-<programme start="20230802090000 -0300" stop="20230802210000 -0300" channel="bandfmrede.br">
+<programme start="20230807090000 -0300" stop="20230807210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230802210000 -0300" stop="20230802220000 -0300" channel="bandfmrede.br">
+<programme start="20230807210000 -0300" stop="20230807220000 -0300" channel="bandfmrede.br">
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
 <programme start="20230802220000 -0300" stop="20230803000000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
+ <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
 
@@ -3001,12 +3001,11 @@
 </programme>
 
 <programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Coruja</title>
+ <title lang="pt">Band Coruja</title><rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
- <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
 <programme start="20230726050000 -0300" stop="20230726060000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Bom Dia</title>
+ <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
 <programme start="20230726060000 -0300" stop="20230726090000 -0300" channel="bandfmrede.br">
@@ -3033,11 +3032,11 @@
  
  ####sab e dom####
 <programme start="20230722000000 -0300" stop="20230722050000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Coruja</title>
+ <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
 <programme start="20230722050000 -0300" stop="20230722070000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Bom Dia</title>
+ <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
 <programme start="20230722070000 -0300" stop="20230722090000 -0300" channel="bandfmrede.br">
@@ -3056,37 +3055,37 @@
  <title lang="pt">Hora Cheia</title>
  <desc lang="pt">O Hora Cheia da Band FM toca 1 hora de músicas em sequência e premia os ouvintes sorteados que acertarem quantas músicas foram tocadas na edição.</desc>
 </programme>
-<programme start="20230722210000 -0300" stop="20230723000000 -0300" channel="bandfmrede.br">
- <title lang="pt">Pista da Band</title>
+<programme start="20230805210000 -0300" stop="20230806000000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Pista da Band</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Pista-da-Band.jpg" />
  <desc lang="pt">O Pista da Band apresenta, todo sábado a partir das 21h00 às 00h00, 3 horas de programa com as últimas tendências das pistas do mundo. Muito além de tocar os hits, o programa traz informações e atualidades da música eletrônica.</desc>
 </programme>
 
-<programme start="20230723000000 -0300" stop="20230723050000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Coruja</title>
+<programme start="20230806000000 -0300" stop="20230806050000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230723050000 -0300" stop="20230723070000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Bom Dia</title>
+<programme start="20230806050000 -0300" stop="20230806070000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230723070000 -0300" stop="20230723090000 -0300" channel="bandfmrede.br">
- <title lang="pt">Estação Band FM</title>
+<programme start="20230806070000 -0300" stop="20230806090000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Estação Band FM</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Estacao-Band-FM.jpg" />
  <desc lang="pt">O Estação Band FM é uma opção divertida e descontraída para o fim de tarde, com notícias curiosas e comentários bem humorados.O programa promove uma experiência agradável e dinâmica para seus ouvintes, tornando o momento ainda mais relaxante. Aproveite para se divertir!</desc>
 </programme>
-<programme start="20230723090000 -0300" stop="20230723110000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Ao Vivo</title>
+<programme start="20230806090000 -0300" stop="20230806110000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Ao Vivo</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/02/Band-Ao-Vivo.jpg" />
  <desc lang="pt">O Band Ao Vivo é um dos programas mais animados da Band FM.Apresentado de domingo a domingo, o programa passa uma energia contagiante com sucessos ao vivo gravados em shows pelo Brasil a fora.</desc>
 </programme>
-<programme start="20230723110000 -0300" stop="20230723200000 -0300" channel="bandfmrede.br">
- <title lang="pt">Programação Band FM</title>
+<programme start="20230806110000 -0300" stop="20230806200000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230723200000 -0300" stop="20230723210000 -0300" channel="bandfmrede.br">
- <title lang="pt">As Mais Pedidas da Semana</title>
+<programme start="20230806200000 -0300" stop="20230806210000 -0300" channel="bandfmrede.br">
+ <title lang="pt">As Mais Pedidas da Semana</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2016/07/As-mais-pedidas-1a.jpg" />
  <desc lang="pt">a Band FM toca 1 hora de que músicas foram as mais tocadas na semana.</desc>
 </programme>
-<programme start="20230723210000 -0300" stop="20230724000000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Love</title>
+<programme start="20230806210000 -0300" stop="20230807000000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
  
