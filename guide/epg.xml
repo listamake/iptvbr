@@ -1742,7 +1742,7 @@
  <title lang="pt">Super Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230806173000 -0300" stop="2023080623183000 -0300" channel="CentralTV.br">
+<programme start="20230806173000 -0300" stop="20230806183000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Bate Papo</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1024x574.jpg" />
  <desc lang="pt">Semanalmente Mário Cesar trás entrevistas com empresários e personalidades da sociedade Paranaense. Não perca, Programa Bate Papo.</desc>
 </programme>
@@ -3390,19 +3390,23 @@
  <title lang="pt">Revista CBN</title>
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230723150000 -0300" stop="20230723210000 -0300" channel="cbnrede.br">
- <title lang="pt">Show da Notícia e/ou Futebol</title>
+<programme start="20230806150000 -0300" stop="20230806154500 -0300" channel="cbnrede.br">
+ <title lang="pt">Show da Notícia e/ou Futebol</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/Tu08AYk-1kE/maxresdefault.jpg" />
  <desc lang="pt">noticias ou jornadas esportivas.</desc>
 </programme>
-<programme start="20230723210000 -0300" stop="20230723223000 -0300" channel="cbnrede.br">
- <title lang="pt">Programação Rádio CBN</title>
+<programme start="20230806154500 -0300" stop="20230806190000 -0300" channel="cbnrede.br">
+ <title lang="pt">Futebol</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://servico.globoradio.globo.com/uploads/fotos/2020/02/13a06673-aade-414e-938e-29c6332fbae9.png.400x400_q75_box-442%2C0%2C1523%2C1080_crop_detail.jpg" />
+ <desc lang="pt">noticias ou jornadas esportivas.</desc>
+</programme>
+<programme start="20230806190000 -0300" stop="20230806223000 -0300" channel="cbnrede.br">
+ <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230723223000 -0300" stop="20230723230000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Sustentabilidade</title>
+<programme start="20230806223000 -0300" stop="20230806230000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Sustentabilidade</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/lsSTIPcl8ys/maxresdefault.jpg" />
  <desc lang="pt">Rosana Jatobá</desc>
 </programme>
-<programme start="20230723230000 -0300" stop="20230724000000 -0300" channel="cbnrede.br">
+<programme start="20230806230000 -0300" stop="20230807000000 -0300" channel="cbnrede.br">
  <title lang="pt">Fim de Expediente</title>
  <desc lang="pt">Dan Stulbach, José Godoy, Luiz Gustavo Medina</desc>
 </programme>
