@@ -1738,7 +1738,7 @@
  <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
  <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
 </programme>
-<programme start="20230806154500 -0300" stop="20230806173000 -0300" channel="CentralTV.br">
+<programme start="20230806144500 -0300" stop="20230806173000 -0300" channel="CentralTV.br">
  <title lang="pt">Super Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_1-1024x559.png" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -3993,12 +3993,12 @@
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="RetroCartoon.br">
+<programme start="20230806000000 -0300" stop="20230808000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="20230803000000 -0300" channel="RetroCartoon.br">
+<programme start="20230808000000 -0300" stop="20230813000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
