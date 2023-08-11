@@ -413,7 +413,7 @@
  <desc lang="pt">NG4 E-SPORTS</desc>
 </programme>
 <programme start="20230810230000 -0300" stop="20230810233000 -0300" channel="anitv.br">
- <title lang="pt">Play It Cool, Guys</title>  <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://i.ytimg.com/vi/Jp1-zr3yJHc/sddefault.jpg" />
+ <title lang="pt">Play It Cool, Guys</title>  <rating system="CLASSIND"><value>12</value></rating>  <icon src="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/5e472cbfb1ab45775c27143630acca0b.jpe" />
  <desc lang="pt">A princípio, esses caras parecem ser uns galãs charmosos... E você quer se aproximar deles... Mas aí você percebe que são todos uns desastrados. Eles e</desc>
 </programme>
 <programme start="20230810233000 -0300" stop="20230811000000 -0300" channel="anitv.br">
@@ -429,12 +429,12 @@
  <title lang="pt">Rent-A-Girlfriend</title>
  <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
 </programme>
-<programme start="20230721010000 -0300" stop="20230721070000 -0300" channel="anitv.br">
+<programme start="20230811010000 -0300" stop="20230811070000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title>
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
 
-<programme start="20230721070000 -0300" stop="20230721080000 -0300" channel="anitv.br">
+<programme start="20230811070000 -0300" stop="20230811080000 -0300" channel="anitv.br">
  <title lang="pt">O Show da Pantera Cor-de-Rosa</title>
  <desc lang="pt">A Pantera Cor-de-Rosa foi um personagem criado para fazer apenas uma introdução ao filme Pantera Cor-de-Rosa, de Blake Edwards. O sucesso foi tão grande que começou a ter uma série animada própria.</desc>
 </programme>
@@ -753,56 +753,56 @@
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230804218000 -0300" stop="20230805000000 -0300" channel="yaaeeh.br">
+<programme start="20230810218000 -0300" stop="20230811000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />
 </programme>
 
-<programme start="20230725000000 -0300" stop="20230725120000 -0300" channel="yaaeeh.br">
+<programme start="20230811000000 -0300" stop="20230811120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20230725120000 -0300" stop="20230726000000 -0300" channel="yaaeeh.br">
+<programme start="20230811120000 -0300" stop="20230812000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
  
-<programme start="20230726000000 -0300" stop="20230726010000 -0300" channel="yaaeeh.br">
+<programme start="20230812000000 -0300" stop="20230812010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
  <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
-<programme start="20230726010000 -0300" stop="20230726030000 -0300" channel="yaaeeh.br">
+<programme start="20230812010000 -0300" stop="20230812030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230726030000 -0300" stop="20230726040000 -0300" channel="yaaeeh.br">
+<programme start="20230812030000 -0300" stop="20230812040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230726040000 -0300" stop="20230726060000 -0300" channel="yaaeeh.br">
+<programme start="20230812040000 -0300" stop="20230812060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230726060000 -0300" stop="20230726070000 -0300" channel="yaaeeh.br">
+<programme start="20230812060000 -0300" stop="20230812070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230726070000 -0300" stop="20230726090000 -0300" channel="yaaeeh.br">
+<programme start="20230812070000 -0300" stop="20230812090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230726090000 -0300" stop="20230726100000 -0300" channel="yaaeeh.br">
+<programme start="20230812090000 -0300" stop="20230812100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230726100000 -0300" stop="20230726120000 -0300" channel="yaaeeh.br">
+<programme start="20230812100000 -0300" stop="20230812120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230726120000 -0300" stop="20230726130000 -0300" channel="yaaeeh.br">
+<programme start="20230812120000 -0300" stop="20230816130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
