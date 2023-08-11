@@ -944,9 +944,8 @@
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 <programme start="20230811020000 -0300" stop="20230811030000 -0300" channel="CanalUsuario.br">
- <title lang="pt">Maravilhas da Natureza - A História do Mundo</title>
+ <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
- <rating system="CLASSIND"><value>L</value></rating>
 </programme>
 <programme start="20230811030000 -0300" stop="20230811040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
@@ -1987,15 +1986,15 @@
 </programme>
  
 ####pooptv.br####
-<programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="pooptv.br">
+<programme start="20230809000000 -0300" stop="20230812000000 -0300" channel="pooptv.br">
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
-<programme start="20230802000000 -0300" stop="20230806000000 -0300" channel="pooptv.br">
+<programme start="20230812000000 -0300" stop="20230816000000 -0300" channel="pooptv.br">
  <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
-<programme start="20230806000000 -0300" stop="20230809000000 -0300" channel="pooptv.br">
+<programme start="20230816000000 -0300" stop="20230819000000 -0300" channel="pooptv.br">
  <title lang="pt">YouTube Poop BR +16</title>  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
  <desc lang="pt">YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
 </programme>
@@ -2074,103 +2073,103 @@
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
  
-<programme start="20230810010000 -0300" stop="20230810030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811010000 -0300" stop="20230811030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230810030000 -0300" stop="20230810050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811030000 -0300" stop="20230811050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230810050000 -0300" stop="20230810070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811050000 -0300" stop="20230811070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230810070000 -0300" stop="20230810080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811070000 -0300" stop="20230811080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230810080000 -0300" stop="20230810081500 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811080000 -0300" stop="20230811081500 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Brasil em Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://imagens.ebc.com.br/ZZ4GWtExzHOTqtnaxEa3-oustCQ=/960x540/smart/https://play.ebc.com.br/imagens/CCH244_1682688081539.png" />
  <desc lang="pt">Acompanhe as notícias atualizadas do governo federal e os fatos importantes do dia.</desc>
 </programme>
-<programme start="20230810081500 -0300" stop="20230810083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811081500 -0300" stop="20230811083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
  <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
 </programme>
-<programme start="20230802083000 -0300" stop="20230802090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811083000 -0300" stop="20230811090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230802090000 -0300" stop="20230802100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811090000 -0300" stop="20230811100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230802100000 -0300" stop="20230802150000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811100000 -0300" stop="20230811150000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
  <desc lang="pt">A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc>
 </programme>
-<programme start="20230802150000 -0300" stop="20230802180000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811150000 -0300" stop="20230811180000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Sempre Melhor</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a8.png" />
  <desc lang="pt">Um programa de variedades composto por atrações de interesse público, entrevistas com personalidades, especialistas do meio jurídico, quadro de gastronomia, curiosidades, moda, estética e muitas novidades.</desc>
 </programme>
-<programme start="20230802180000 -0300" stop="20230802190000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811180000 -0300" stop="20230811190000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA</desc>
 </programme>
-<programme start="20230801190000 -0300" stop="20230801200000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811190000 -0300" stop="20230811200000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230801200000 -0300" stop="20230801220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811200000 -0300" stop="20230811220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230801220000 -0300" stop="20230801230000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811220000 -0300" stop="20230811230000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Nossa Noite</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a4.png" />
  <desc lang="pt">De segunda à sexta-feira, o programa Nossa Noite é apresentado por Rinaldi Faria. Entrevistas, música e entretenimento são destaques e contam com a participação de uma plateia ativa além de diversas personalidades.</desc>
 </programme>
-<programme start="20230728230000 -0300" stop="20230728232000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811230000 -0300" stop="20230811232000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
 </programme>
-<programme start="20230723200000 -0300" stop="20230729000000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811200000 -0300" stop="20230812000000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
 </programme>
  
   ###sab###
-<programme start="2023080500000 -0300" stop="20230805010000 -0300" channel="TVMaisFamilia.br">
+<programme start="2023081200000 -0300" stop="20230812010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230805010000 -0300" stop="20230805050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812010000 -0300" stop="20230812050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
-<programme start="20230805050000 -0300" stop="20230805070000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812050000 -0300" stop="20230812070000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/entre-nos.jpg" />
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230805070000 -0300" stop="20230805080000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812070000 -0300" stop="20230812080000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230805080000 -0300" stop="20230805090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812080000 -0300" stop="20230812090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Joseph Prince</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a9.png" />
  <desc lang="pt">Mundialmente conhecido, Prince é filho de sacerdote de origem indiana e mãe chinesa. Proclama o evangelho da graça por meio de livros e programas de tv. Milhares de lares são alcançados por seu ministério televisivo em mais de 150 países.</desc>
 </programme>
-<programme start="20230805090000 -0300" stop="20230805100000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812090000 -0300" stop="20230812100000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230805100000 -0300" stop="20230805120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812100000 -0300" stop="20230812120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
-<programme start="20230805120000 -0300" stop="20230805160000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812120000 -0300" stop="20230812160000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
@@ -3000,28 +2999,28 @@
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
 
-<programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="bandfmrede.br">
+<programme start="20230811000000 -0300" stop="20230811050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title><rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230726050000 -0300" stop="20230726060000 -0300" channel="bandfmrede.br">
+<programme start="20230811050000 -0300" stop="20230811060000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230726060000 -0300" stop="20230726090000 -0300" channel="bandfmrede.br">
+<programme start="20230811060000 -0300" stop="20230811090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora do Ronco</title>
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
-<programme start="20230804090000 -0300" stop="20230804210000 -0300" channel="bandfmrede.br">
+<programme start="20230811090000 -0300" stop="20230811210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230804210000 -0300" stop="20230804220000 -0300" channel="bandfmrede.br">
+<programme start="20230811210000 -0300" stop="20230811220000 -0300" channel="bandfmrede.br">
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230804220000 -0300" stop="20230805000000 -0300" channel="bandfmrede.br">
- <title lang="pt">Band Love</title>
+<programme start="20230811220000 -0300" stop="20230812000000 -0300" channel="bandfmrede.br">
+ <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
 
@@ -3031,31 +3030,31 @@
 </programme>
  
  ####sab e dom####
-<programme start="20230722000000 -0300" stop="20230722050000 -0300" channel="bandfmrede.br">
+<programme start="20230812000000 -0300" stop="20230812050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230722050000 -0300" stop="20230722070000 -0300" channel="bandfmrede.br">
+<programme start="20230812050000 -0300" stop="20230812070000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230722070000 -0300" stop="20230722090000 -0300" channel="bandfmrede.br">
+<programme start="20230812070000 -0300" stop="20230812090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Top Five</title>
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230722090000 -0300" stop="20230722110000 -0300" channel="bandfmrede.br">
+<programme start="20230812090000 -0300" stop="20230812110000 -0300" channel="bandfmrede.br">
  <title lang="pt">Manhã Show</title>
  <desc lang="pt">O programa oferece uma mistura de entretenimento e informação por meio de quadros como Caixa Premiada, Super 6 e Band Notícias. Os ouvintes interagem de forma descontraída e se divertem, enquanto recebem informações atualizadas e relevantes.</desc>
 </programme>
-<programme start="20230805110000 -0300" stop="20230805200000 -0300" channel="bandfmrede.br">
+<programme start="20230812110000 -0300" stop="20230812200000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230722200000 -0300" stop="20230722210000 -0300" channel="bandfmrede.br">
+<programme start="20230812200000 -0300" stop="20230812210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora Cheia</title>
  <desc lang="pt">O Hora Cheia da Band FM toca 1 hora de músicas em sequência e premia os ouvintes sorteados que acertarem quantas músicas foram tocadas na edição.</desc>
 </programme>
-<programme start="20230805210000 -0300" stop="20230806000000 -0300" channel="bandfmrede.br">
+<programme start="20230812210000 -0300" stop="20230813000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Pista da Band</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Pista-da-Band.jpg" />
  <desc lang="pt">O Pista da Band apresenta, todo sábado a partir das 21h00 às 00h00, 3 horas de programa com as últimas tendências das pistas do mundo. Muito além de tocar os hits, o programa traz informações e atualidades da música eletrônica.</desc>
 </programme>
@@ -3250,7 +3249,7 @@
 </programme>
  
 <programme start="20230724000000 -0300" stop="20230724050000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Madrugada</title>
+ <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
 <programme start="20230724050000 -0300" stop="20230724060000 -0300" channel="cbnrede.br">
@@ -3292,52 +3291,52 @@
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
  
-<programme start="20230726000000 -0300" stop="20230726050000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Madrugada</title>
+<programme start="20230811000000 -0300" stop="20230811050000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230726050000 -0300" stop="20230726060000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Primeiras Notícias</title>
+<programme start="20230811050000 -0300" stop="20230811060000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Primeiras Notícias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2023/03/9ed7a99f-7078-4b87-ad64-1374aa488752.jpeg.320x180_q75_box-0%2C236%2C1080%2C844_crop_detail.jpg" />
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230726060000 -0300" stop="20230726070000 -0300" channel="cbnrede.br">
- <title lang="pt">Jornal da CBN</title>
+<programme start="20230811060000 -0300" stop="20230811070000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1166817519711260679/UjyrWpvZ_400x400.jpg" />
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230726070000 -0300" stop="20230726093000 -0300" channel="cbnrede.br">
- <title lang="pt">Jornal da CBN</title>
+<programme start="20230811070000 -0300" stop="20230811093000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1166817519711260679/UjyrWpvZ_400x400.jpg" />
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230726093000 -0300" stop="20230726100000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN em Foco</title>
+<programme start="20230811093000 -0300" stop="20230811100000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN em Foco</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC0vrk17D3vdLdwJnrZqzcljCyGyC12G09w" />
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230726100000 -0300" stop="20230726120000 -0300" channel="cbnrede.br">
+<programme start="20230811100000 -0300" stop="20230811120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230726120000 -0300" stop="20230726140000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Brasil</title>
+<programme start="20230811120000 -0300" stop="20230811140000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1574501267262652436/YpiU97mt_400x400.png" />
  <desc lang="pt">fique bem informado do que acontece no brasil.</desc>
 </programme>
-<programme start="20230721140000 -0300" stop="20230721160000 -0300" channel="cbnrede.br">
- <title lang="pt">Estúdio CBN</title>
+<programme start="20230811140000 -0300" stop="20230811160000 -0300" channel="cbnrede.br">
+ <title lang="pt">Estúdio CBN</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/UMG9_18BQuw/maxresdefault.jpg" />
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230721160000 -0300" stop="202307210210000 -0300" channel="cbnrede.br">
- <title lang="pt">Programação Rádio CBN</title>
+<programme start="20230811160000 -0300" stop="202308110210000 -0300" channel="cbnrede.br">
+ <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230721210000 -0300" stop="20230722000000 -0300" channel="cbnrede.br">
+<programme start="20230811210000 -0300" stop="20230812000000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Noite Total</title>
  <desc lang="pt">fique bem informado do que acontece no mundo.</desc>
 </programme>
      ###sab###
-<programme start="20230722000000 -0300" stop="20230722050000 -0300" channel="cbnrede.br">
- <title lang="pt">CBN Madrugada</title>
+<programme start="20230812000000 -0300" stop="20230812050000 -0300" channel="cbnrede.br">
+ <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230722050000 -0300" stop="20230722060000 -0300" channel="cbnrede.br">
+<programme start="20230812050000 -0300" stop="20230812060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Primeiras Notícias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2023/03/9ed7a99f-7078-4b87-ad64-1374aa488752.jpeg.320x180_q75_box-0%2C236%2C1080%2C844_crop_detail.jpg" />
  <desc lang="pt">bem informado</desc>
 </programme>
@@ -3795,49 +3794,49 @@
 </programme>
 
       ####Canalteste####
-<programme start="20230722000000 -0300" stop="20230725000000 -0300" channel="Canalteste">
+<programme start="20230812000000 -0300" stop="20230815000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230725000000 -0300" stop="20230728000000 -0300" channel="Canalteste">
+<programme start="20230815000000 -0300" stop="20230818000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="Canalteste">
+<programme start="20230808000000 -0300" stop="20230812000000 -0300" channel="Canalteste">
  <title lang="pt">Programação de Teste</title>
  <desc lang="pt">Canal em fase de testes</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
        ####RSNewsSports.br####
-<programme start="20230724000000 -0300" stop="20230726000000 -0300" channel="RSNewsSports.br">
+<programme start="20230814000000 -0300" stop="20230816000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
 </programme>
-<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="RSNewsSports.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="20230804000000 -0300" channel="RSNewsSports.br">
+<programme start="20230808000000 -0300" stop="20230814000000 -0300" channel="RSNewsSports.br">
  <title lang="pt">Programação RS News Sports</title>
  <desc lang="pt">A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
        ####AllSports.br####
-<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="AllSports.br">
+<programme start="20230813000000 -0300" stop="20230816000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="AllSports.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="20230803000000 -0300" channel="AllSports.br">
+<programme start="20230808000000 -0300" stop="20230813000000 -0300" channel="AllSports.br">
  <title lang="pt">Programação All Sports</title>
  <desc lang="pt">All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc>
 </programme>
@@ -3917,17 +3916,17 @@
 </programme>
  
    ####MaisFavelaTV.br####
-<programme start="20230802000000 -0300" stop="20230805000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230802000000 -0300" stop="20230815000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230725000000 -0300" stop="20230729000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230815000000 -0300" stop="20230819000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
  <rating system="CLASSIND"><value>A12</value></rating>
 </programme>
-<programme start="20230729000000 -0300" stop="20230802000000 -0300" channel="MaisFavelaTV.br">
+<programme start="20230819000000 -0300" stop="20230822000000 -0300" channel="MaisFavelaTV.br">
  <title lang="pt">Programação TV Cidade</title>
  <desc lang="pt">A TV que tem a Cara do Rio.</desc>
   <rating system="CLASSIND"><value>A12</value></rating>
@@ -3935,17 +3934,17 @@
 
 
   ###antena1tv.br###
-<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="antena1tv.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="antena1tv.br">
  <title lang="pt">Programação Antena 1</title>
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="20230803000000 -0300" channel="antena1tv.br">
+<programme start="20230808000000 -0300" stop="20230813000000 -0300" channel="antena1tv.br">
  <title lang="pt">Programação Antena 1</title>
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230803000000 -0300" stop="20230806000000 -0300" channel="antena1tv.br">
+<programme start="20230813000000 -0300" stop="20230816000000 -0300" channel="antena1tv.br">
  <title lang="pt">Programação Antena 1</title>
  <desc lang="pt">A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
@@ -3980,24 +3979,24 @@
 </programme>
  
    ####TVTop.br####
-<programme start="20230729000000 -0300" stop="20230803000000 -0300" channel="TVTop.br">
+<programme start="20230809000000 -0300" stop="20230813000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
  <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="20230803000000 -0300" stop="20230806000000 -0300" channel="TVTop.br">
+<programme start="20230813000000 -0300" stop="20230816000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
  <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="TVTop.br">
+<programme start="20230816000000 -0300" stop="20230819000000 -0300" channel="TVTop.br">
  <title lang="pt">Programação Músical</title>
  <desc lang="pt">Música para todos os gostos. Com vários clips.</desc>
  <rating system="CLASSIND"><value>10</value></rating>
 </programme>
  
      ####RetroCartoon.br#####
-<programme start="20230806000000 -0300" stop="20230808000000 -0300" channel="RetroCartoon.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
@@ -4007,7 +4006,7 @@
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230803000000 -0300" stop="20230806000000 -0300" channel="RetroCartoon.br">
+<programme start="20230813000000 -0300" stop="20230816000000 -0300" channel="RetroCartoon.br">
  <title lang="pt">Desenhos Clássicos 24h</title>
  <desc lang="pt">CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
