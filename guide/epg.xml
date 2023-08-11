@@ -616,11 +616,11 @@
 
    ####domingo anitv####
 
-<programme start="20230806000000 -0300" stop="20230806070000 -0300" channel="anitv.br">
+<programme start="20230813000000 -0300" stop="20230813070000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" /> 
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
-<programme start="20230806070000 -0300" stop="20230807000000 -0300" channel="anitv.br">
+<programme start="20230813070000 -0300" stop="20230814000000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUvcZ1CbKcYCQ6eTncK6pntRBSqmmmD3ueXEY-otmj0SNsyJw1Bt6sTq99AalQG2WdwZWCSBm7ti6rpX4aFVs3tmZAEmkepJLuIqB7gcUje_IIHSIEZGTRCbIwn_8E9DwttVW9XAuQev0T3hpphni18Z-RMB-RJ81ba0FMKAXqrqk1aFvfR-wRADHs4UU/s320/fds.png" /> 
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
@@ -760,22 +760,20 @@
 </programme>
 
 <programme start="20230811000000 -0300" stop="20230811120000 -0300" channel="yaaeeh.br">
- <title lang="pt">Programação Yeeaah</title>
+ <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
 <programme start="20230811120000 -0300" stop="20230812000000 -0300" channel="yaaeeh.br">
- <title lang="pt">Programação Yeeaah</title>
+ <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
  
 <programme start="20230812000000 -0300" stop="20230812010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
- <rating system="CLASSIFICACAO_ETARIA"><value>10</value></rating>
 </programme>
 <programme start="20230812010000 -0300" stop="20230812030000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230812030000 -0300" stop="20230812040000 -0300" channel="yaaeeh.br">
@@ -783,7 +781,7 @@
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
 <programme start="20230812040000 -0300" stop="20230812060000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230812060000 -0300" stop="20230812070000 -0300" channel="yaaeeh.br">
@@ -791,15 +789,15 @@
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230812070000 -0300" stop="20230812090000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230812090000 -0300" stop="20230812100000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230812100000 -0300" stop="20230812120000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230812120000 -0300" stop="20230812130000 -0300" channel="yaaeeh.br">
@@ -807,7 +805,7 @@
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230812130000 -0300" stop="20230812150000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230812150000 -0300" stop="20230812160000 -0300" channel="yaaeeh.br">
@@ -815,7 +813,7 @@
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230812160000 -0300" stop="20230812180000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games</title>
+ <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230726180000 -0300" stop="20230726190000 -0300" channel="yaaeeh.br">
@@ -823,7 +821,7 @@
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230726190000 -0300" stop="20230726200000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games - Ao Vivo</title>
+ <title lang="pt">Yeeaah Games - Ao Vivo</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 <programme start="20230726200000 -0300" stop="20230726220000 -0300" channel="yaaeeh.br">
@@ -831,7 +829,7 @@
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
 <programme start="20230726220000 -0300" stop="20230727000000 -0300" channel="yaaeeh.br">
- <title lang="pt">Yeeaah Games - Ao Vivo</title>
+ <title lang="pt">Yeeaah Games - Ao Vivo</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 
@@ -847,27 +845,27 @@
 </programme>
  
     ###KpopTVPlay.br###
-<programme start="20230807000000 -0300" stop="20230807190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230813000000 -0300" stop="20230813190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230807190000 -0300" stop="20230807200000 -0300" channel="KpopTVPlay.br">
- <title lang="pt">Hits on Top</title>
+<programme start="20230813190000 -0300" stop="20230813200000 -0300" channel="KpopTVPlay.br">
+ <title lang="pt">Hits on Top</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Hits-On-Top@6x-1024x92.png" />
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230807200000 -0300" stop="20230807210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230813200000 -0300" stop="20230813210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230731210000 -0300" stop="20230731213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230813210000 -0300" stop="20230813213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230731213000 -0300" stop="20230731233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230813213000 -0300" stop="20230813233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Captura-de-Tela-2022-08-27-a%CC%80s-12.37.08-926x640.png" />
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20230731233000 -0300" stop="20230801000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230813233000 -0300" stop="20230814000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
@@ -877,7 +875,7 @@
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 <programme start="20230801190000 -0300" stop="20230801200000 -0300" channel="KpopTVPlay.br">
- <title lang="pt">Hits on Top</title>
+ <title lang="pt">Hits on Top</title> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Hits-On-Top@6x-1024x92.png" />
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
  <rating system="CLASSIND"><value>14</value><icon src="https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1/simbolos-de-autoclassificacao/nr14-auto.png" /></rating>
 </programme>
@@ -894,7 +892,6 @@
 <programme start="20230727213000 -0300" stop="20230727233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Captura-de-Tela-2022-08-27-a%CC%80s-12.37.08-926x640.png" />
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
- <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 <programme start="20230727233000 -0300" stop="20230728000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
@@ -1053,7 +1050,7 @@
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230807030000 -0300" stop="20230807040000 -0300" channel="CanalUsuario.br">
+<programme start="20230813030000 -0300" stop="20230813040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1658,20 +1655,20 @@
 
     ###sab.centraltv###
  
-<programme start="20230805000000 -0300" stop="20230805030000 -0300" channel="CentralTV.br">
+<programme start="20230812000000 -0300" stop="20230812030000 -0300" channel="CentralTV.br">
  <title lang="pt">Sessão Terror</title>
  <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
 </programme>
-<programme start="20230805030000 -0300" stop="20230805040000 -0300" channel="CentralTV.br">
+<programme start="20230812030000 -0300" stop="20230812040000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230729040000 -0300" stop="20230729070000 -0300" channel="CentralTV.br">
+<programme start="20230812040000 -0300" stop="20230812070000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20230729070000 -0300" stop="20230729093000 -0300" channel="CentralTV.br">
+<programme start="20230812070000 -0300" stop="20230812093000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
