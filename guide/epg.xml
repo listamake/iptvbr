@@ -2470,7 +2470,7 @@
 
  
    ####Polidoro TV####
-<programme start="20230805000000 -0300" stop="2023080600000 -0300" channel="tvbs.br">
+<programme start="20230815000000 -0300" stop="2023081600000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
 </programme>
@@ -2479,12 +2479,12 @@
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="2023080200000 -0300" channel="tvbs.br">
+<programme start="20230808000000 -0300" stop="2023081200000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230802000000 -0300" stop="2023080500000 -0300" channel="tvbs.br">
+<programme start="20230812000000 -0300" stop="2023081500000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
@@ -2520,15 +2520,15 @@
 </programme>
  
  ###turnerdemo.br###
-<programme start="20230726000000 -0300" stop="2023072800000 -0300" channel="turnerdemo.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="20230728000000 -0300" stop="2023080200000 -0300" channel="turnerdemo.br">
+<programme start="20230818000000 -0300" stop="20230812008000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="20230722000000 -0300" stop="2023072600000 -0300" channel="turnerdemo.br">
+<programme start="20230812000000 -0300" stop="20230816008000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -2831,15 +2831,15 @@
  
    ####FronteiraMovies.br####
 <programme start="20230813000000 -0300" stop="20230816000000 -0300" channel="FronteiraMovies.br">
- <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="//www.espectaculosbcn.com/wp-content/uploads/2020/12/cine-1.jpg" />
+ <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
 <programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="FronteiraMovies.br">
- <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="//www.espectaculosbcn.com/wp-content/uploads/2020/12/cine-1.jpg" />
+ <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
 <programme start="20230808000000 -0300" stop="20230814000000 -0300" channel="FronteiraMovies.br">
- <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="//www.espectaculosbcn.com/wp-content/uploads/2020/12/cine-1.jpg" />
+ <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
  
