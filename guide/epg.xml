@@ -551,8 +551,8 @@
  <title lang="pt">Rent-A-Girlfriend</title>
  <desc lang="pt">Kinoshita Kazuya é um jovem de 20 anos de fracasso de um estudante universitário. Ele conseguiu beijar sua namorada uma vez, mas foi abandonado depois de um mês. "Ugh... Porra. Nunca mais quero passar por isso."</desc>
 </programme>
-<programme start="20230812000000 -0300" stop="20230813063000 -0300" channel="anitv.br">
- <title lang="pt">REPRISES da Madrugada</title>
+<programme start="20230812000000 -0300" stop="20230812063000 -0300" channel="anitv.br">
+ <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>14</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">reprise de animes que foi exibido durante a programação</desc>
 </programme>
 <programme start="20230722070000 -0300" stop="20230722080000 -0300" channel="anitv.br">
