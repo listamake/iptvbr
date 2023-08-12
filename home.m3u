@@ -119,20 +119,21 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF: -1 tvg-id="UrbantvSports.br" tvg-name="Urban Sports HD" tvg-chno="037" tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/13/thumb_sports-1662477364.png" group-title="Canais de Esportes", Urban Sports HD
 https://stream.urbantv.com.br/urbantvsports/video.m3u8
 
-#EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="038" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
+#EXTINF: -1 tvg-id="ISTVHD.br" tvg-chno="038" tvg-logo="https://pbs.twimg.com/profile_images/1629174479522787328/eBjHSBLE_400x400.jpg" group-title="Entretenimento",ISTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
+
+#EXTINF: -1 tvg-id="ulbtv.br"  tvg-chno="039" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3dce7475bde4f62583c13a5804dad6a8.webp" group-title="Entretenimento", UlbTV HD
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w580604736.m3u8
 
-#EXTINF: -1 tvg-id="bstv.br" tvg-chno="039" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
+#EXTINF: -1 tvg-id="bstv.br" tvg-chno="040" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="adessotv.br" tvg-chno="040" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="Entretenimento", Adesso TV HD
+#EXTINF: -1 tvg-id="adessotv.br" tvg-chno="041" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="Entretenimento", Adesso TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="ISTVHD.br" tvg-chno="041" tvg-logo="https://pbs.twimg.com/profile_images/1629174479522787328/eBjHSBLE_400x400.jpg" group-title="Entretenimento",ISTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/playlist.m3u8
 
 #EXTINF: -1 tvg-id="rbctv.br" tvg-chno="042" tvg-logo="https://static.wixstatic.com/media/d64a09_eb6335c1f3f24da298fc988d02053dd6~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_eb6335c1f3f24da298fc988d02053dd6~mv2.png" group-title="Variedades" , RBC TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -144,7 +145,7 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF: -1 tvg-id="ch.br" tvg-chno="046" tvg-logo="https://pbs.twimg.com/media/C0rxlj8XAAAKns7.jpg" group-title="Canais de Humor" , Canal Linear: Clube do Chaves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CssFjlutHS7ThI_1qP-ZwC93KIBc6UsHyIMLwchrms-oN98jlEQj48fz0SvX18qCsj2nyplyNBoGhqw5rB1tcik3eY74Xx1NyjTR0y2isMAiKisQkli10-erxwUPnWGxlimso6oYfXugNWeKF9AiQTARGklcik7lbYY63-Qw1_6MALRwOBEcol2-_jSWgl7SnIieFB-AEyIdsnafKNUnWGf1_EHzXF0IU5X9SQgnZSyYqOonalXNtEK_-3gOeZv2KzVev76oRF16ynRr-O0BsX-KLoV3a7XHe7GPHP2qSpAyU6ymGwQLZeF6qAK2EuhhfmuDR6JU0OsG6rhfoYVXdLpxfuSKszv9V12iJLhIvmw6q75u_J7Vhp8hoHo9qKF5dRCNbdCXtFlaitGx6YkqCXibWUNfyhPa2G8RHkwm2BoqR2cjLcA92kkwKoyq2ODAjbIhbCMtCuGQm9xDTHrVKrJ2MFqU3dcaNMduj0LTa-S5YaVLEARt_bNgPlymYKjv-iseGs88abH4i9d7YgVt6cQC48GHyupsGHO_S0EHnOn83G9HmifbMkaVWo3GISy1OZACygvISoeFUfU4pSyVajxAKub4_CbWk3LoYhS8foCfW4JTXzkcZh_83VLGQ5ccWfXuM8EV-8tti0rLK7KwN4hYSmGLYMUQ44iDBvFKd3l9__cpD6LHCQPOQBAi27ogSrjasRpexCbuU525hxuDV1pyjegvj2_UyFHSjZoscnkLwW_qop_2_Veb44Hedybw3dH5MB_2jg_Xshy-Ouih1fV8GHj72wzgUP6HqyNARsVzAxN9-LlBwEul3Vg7rk-5GPKT78Ig_5g0DkD9h10WB_ZlF9925cRQ5KioM0vlEAZpejDnvZ9FMipxViyhAUPCZeCY3U8ikqP6fLe9klDxrmGXxrrgd8IJXO4hqEVnalMHOMwLwbynoHr_UpxXkRoMIzBrAq58nWijPFxOIAEqCXVzLWVhc3QtMTDXBQ.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CsMFMNeMDn0-URhv7P0sZv4KEJuhuQgOpqXSc8z4wgaJAGPZcM2tlW0jhad30Bvk__iqbjjcVQVKDvu0UZP0dTAuhfZLf5Gws-qaZbZLdyQb7DPYhWYir_KURy1effmB59bG36tD0jbWqNmZEmGjZw-bcj-m4OSphhcn6igCnbjnzJECVU2YMCSAN5Ln4b_N4qT0Fk6nAPgZX8-2KWuw_YGfxWhYEDZ_xSJvl6531HzVf3M43uxS6w5n2mRCnIZlaI711gpXCCEPE8avbyzH9TvosLkanr0jmZLcosr0jhDeVKaxzIo3jW6O9JjszIwfoIImD5JsycKsD6ILZArBqy52mLllKnPn6N_bvLGbW-sC78Jd8ygYBeluMllOQ7LQLxpbd4i1Hrax6nOyoUOmQ_NZZ_VC30pKxhagB5Z611iLjqOaLbdIfwIoDe5TyM8ST_srhy3bnSGGnGZu-orosiPZjVxyUB4WUPaPlUKJS-hWlJxJXuo0eDMAUBmQqLIgAd5V8y_10Y-TXVbnuYhwup8X2Al7Hjq6IM7NwaJ3BPuEeesWQsEzVbOvz4MVUCkVgiLtAF-ZqvPP6Fx1MkUO1Txvwr8-ev-mmtJw9vtxuh98zYLr0l5ObcW2-PqO-IWwU3xnCsxsCynScwYV2HQu5bBfti1f9u9ni8pHlfhg9FG_xHWmxcJoj8WLw5WOV-0UkY_KTSmbIwZE_Y_zAebpbXrFXhqc2kKjdePRCHgaQNuWsso-Tppr_LKI2t2qJ-I0cSiZScgMgqcwD8l35BDtGQSKeAgxlpzyRDcQ_H2yqt-_njqNQZoUlHzTDcQ6SmRwfQ6WLLL8t3lgJCDTvOBJ7eXAQaXx7OW3dwQSCZZkKou6MwQK0DuOFizQ_Zu6LxXn9wYdndetKSJw1r_bY9zUhJtEhLd_RlhNySW-0pXIb6gOBTXo1rQaDEB4kzrfmMz40M2_kSABKgl1cy1lYXN0LTEw1wU.m3u8
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="047" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais de Desenho" aspect-ratio=16:9, RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
