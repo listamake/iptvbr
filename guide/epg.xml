@@ -1933,36 +1933,35 @@
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
 
-<programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="TVMax.br">
- <title lang="pt">Programação TV Max</title>
+<programme start="20230811000000 -0300" stop="20230812000000 -0300" channel="TVMax.br">
+ <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
- <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
 
 ###TVMax.br sab e dom###
  
-<programme start="20230805000000 -0300" stop="20230805190000 -0300" channel="TVMax.br">
+<programme start="20230812000000 -0300" stop="20230812190000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230805190000 -0300" stop="20230805200000 -0300" channel="TVMax.br">
+<programme start="20230812190000 -0300" stop="20230812200000 -0300" channel="TVMax.br">
  <title lang="pt">PubliRio Online</title>  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_ba16cd7393e944c4ad25269dffe92a99~mv2.jpeg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230805200000 -0300" stop="20230805210000 -0300" channel="TVMax.br">
+<programme start="20230812200000 -0300" stop="20230812210000 -0300" channel="TVMax.br">
  <title lang="pt">Fofocas e Tal</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/b88112_6b9b9a77355a4fadb1634658675e8785~mv2.png" />
  <desc lang="pt">No programa Fofocas e Tal você vai ficar sabendo sobre tudo o que rola no mundo das celebridades! Sempre com convidados especiais.</desc>
 </programme>
-<programme start="20230805220000 -0300" stop="20230805230000 -0300" channel="TVMax.br">
+<programme start="20230812220000 -0300" stop="20230812230000 -0300" channel="TVMax.br">
  <title lang="pt">Alô Helô</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://static.wixstatic.com/media/0f057e_fd3268d9086e418c91e457f16da4a218~mv2.jpg" />
  <desc lang="pt">Com apresentação da jornalista Helô Pinheiro.Helô, como é sabido de todos, foi a musa inspiradora de Tom Jobim e Vinícius de Morais na composição da música Garota de Ipanema. Porém o que nem todos sabem é que Garota de Ipanema é a música mais tocada na história da MPB. No programa ela entrevista amigos e famosos.</desc>
 </programme>
-<programme start="20230805230000 -0300" stop="20230806000000 -0300" channel="TVMax.br">
+<programme start="20230812230000 -0300" stop="20230813000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
 
-<programme start="20230806000000 -0300" stop="20230807000000 -0300" channel="TVMax.br">
+<programme start="20230813000000 -0300" stop="20230814000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -1999,16 +1998,16 @@
  
 ####TVMaisFamilia.br####
 
-<programme start="20230807000000 -0300" stop="20230808010000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230814000000 -0300" stop="20230815010000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
  
-<programme start="20230808010000 -0300" stop="20230808030000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230815010000 -0300" stop="20230815030000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Entre Nós - Reprise</title>
  <desc lang="pt">UM PAPO DESCONTRAÍDO COM BOA MÚSICA E A PARTICIPAÇÃO DO TELESPECTADOR VOCÊ SÓ VÊ AQUI ENTRE NÓS! TODAS AS TARDES, NA REDE MAIS FAMÍLIA.</desc>
 </programme>
-<programme start="20230808030000 -0300" stop="20230808050000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230815030000 -0300" stop="20230815050000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
 </programme>
@@ -2131,7 +2130,7 @@
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
 </programme>
-<programme start="20230811200000 -0300" stop="20230812000000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230811232000 -0300" stop="20230812000000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">MAIS FÉ</title>
  <desc lang="pt">Um momento dedicado á louvores, mensagens motivacionais e testemunhos que edificam a fé.</desc>
  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a3.png" />
@@ -2170,36 +2169,36 @@
  <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
-<programme start="20230805160000 -0300" stop="20230805190000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812160000 -0300" stop="20230812190000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
-<programme start="20230805190000 -0300" stop="20230805210000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812190000 -0300" stop="20230812210000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230805210000 -0300" stop="202308052220000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812210000 -0300" stop="202308122220000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mais Música</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a7.png" />
  <desc lang="pt">Louvores e clipes de grandes nomes da música gospel. É o momento de soltar a voz em casa!</desc>
 </programme>
-<programme start="20230805220000 -0300" stop="20230806000000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230812220000 -0300" stop="20230813000000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Cine Mais Fámilia</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/a5.png" />
  <desc lang="pt">Prepare a pipoca e convide os amigos. Filmes novos nas noites de sábado no Cine Mais Família!</desc>
 </programme>
  
-<programme start="20230806000000 -0300" stop="20230806083000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230813000000 -0300" stop="20230813083000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Programação Rede Mais Família</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://agentegospel.com.br/wp-content/uploads/2022/04/rede-mais-familia-rinaldi-faria-tv.jpg" />
  <desc lang="pt">Nossa programação é voltada para a informação com seriedade, a prestação de serviços à população, o debate inteligente de temas da atualidade e o entretenimento sadio para toda a família.</desc>
 </programme>
-<programme start="20230806083000 -0300" stop="20230806090000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230813083000 -0300" stop="20230813090000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Mudança de Vida</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
  <desc lang="pt">Louvores Um verdadeiro culto em casa!</desc>
 </programme>
-<programme start="20230806090000 -0300" stop="20230806120000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230813090000 -0300" stop="20230813120000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
  <desc lang="pt">Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc>
 </programme>
-<programme start="20230806120000 -0300" stop="20230806160000 -0300" channel="TVMaisFamilia.br">
+<programme start="20230813120000 -0300" stop="20230813160000 -0300" channel="TVMaisFamilia.br">
  <title lang="pt">Parque Patati Patatá</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/parque-patati-patata-tv.jpg" />
  <desc lang="pt">Série infantil com abordagem educativa e lúdica. A apresentação fica por conta dos palhaços mais queridos do Brasil, Patati Patata, que levam a garotada para um cenário de diversão e aprendizagem.</desc>
 </programme>
@@ -2362,17 +2361,17 @@
  <desc lang="pt">Descubra o inesperado</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230728000000 -0300" stop="20230730000000 -0300" channel="StrikerVerso.br">
+<programme start="20230808000000 -0300" stop="20230810000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230730000000 -0300" stop="20230804000000 -0300" channel="StrikerVerso.br">
+<programme start="20230810000000 -0300" stop="20230814000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230804000000 -0300" stop="20230806000000 -0300" channel="StrikerVerso.br">
+<programme start="20230814000000 -0300" stop="20230816000000 -0300" channel="StrikerVerso.br">
  <title lang="pt">Programação StrikerVerso</title>
  <desc lang="pt">Descubra o inesperado</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
@@ -2499,15 +2498,15 @@
 </programme>
  
  ###animetv.br###
-<programme start="20230728000000 -0300" stop="20230801000000 -0300" channel="animetv.br">
+<programme start="20230808000000 -0300" stop="20230811000000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Varios animes</desc>
 </programme>
-<programme start="20230801000000 -0300" stop="20230805000000 -0300" channel="animetv.br">
+<programme start="20230811000000 -0300" stop="20230815000000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Varios animes</desc>
 </programme>
-<programme start="20230805000000 -0300" stop="20230808000000 -0300" channel="animetv.br">
+<programme start="20230815000000 -0300" stop="20230818000000 -0300" channel="animetv.br">
  <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
  <desc lang="pt">Varios animes</desc>
 </programme>
