@@ -1444,43 +1444,39 @@
 </programme>
  
 ### SABADO ###
-<programme start="20230708000000 -0300" stop="20230708070000 -0300" channel="ulbtv.br">
+<programme start="20230812000000 -0300" stop="20230812070000 -0300" channel="ulbtv.br">
  <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
  <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
 </programme>
-<programme start="20230708070000 -0300" stop="20230708080000 -0300" channel="ulbtv.br">
+<programme start="20230812070000 -0300" stop="20230812090000 -0300" channel="ulbtv.br">
  <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
  <desc lang="pt">Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc>
 </programme>
-<programme start="20230708090000 -0300" stop="20230708121500 -0300" channel="ulbtv.br">
+<programme start="20230812090000 -0300" stop="20230812123000 -0300" channel="ulbtv.br">
  <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
  <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
 </programme>
-<programme start="20230708121500 -0300" stop="20230708150000 -0300" channel="ulbtv.br">
- <title lang="pt">Tele Clássicos</title>
+<programme start="20230812123000 -0300" stop="20230812150000 -0300" channel="ulbtv.br">
+ <title lang="pt">Tele Clássicos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
  <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
 </programme>
-<programme start="20230708150000 -0300" stop="20230708160000 -0300" channel="ulbtv.br">
- <title lang="pt">Perfil Show</title>
- <desc lang="pt">Um programa com muita música e apresentação de Clarice Santos e Paulo Martinelli.</desc>
+<programme start="20230812150000 -0300" stop="20230812163000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cinema na TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
+ <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
 </programme>
-<programme start="20230708160000 -0300" stop="20230708163000 -0300" channel="ulbtv.br">
- <title lang="pt">Só para Rir</title>
- <desc lang="pt">Assista as pegadinhas mais engraçadas.</desc>
-</programme>
-<programme start="20230708163000 -0300" stop="20230708183000 -0300" channel="ulbtv.br">
- <title lang="pt">Sessão Anime</title>
+<programme start="20230812163000 -0300" stop="20230812183000 -0300" channel="ulbtv.br">
+ <title lang="pt">Sessão Anime</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
  <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
 </programme>
-<programme start="20230708183000 -0300" stop="20230708203000 -0300" channel="ulbtv.br">
+<programme start="20230812183000 -0300" stop="20230812203000 -0300" channel="ulbtv.br">
  <title lang="pt">Ulb Seriados</title>
  <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
 </programme>
-<programme start="20230708203000 -0300" stop="20230708220000 -0300" channel="ulbtv.br">
- <title lang="pt">Cine Pipoca</title>
+<programme start="20230812203000 -0300" stop="20230812220000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
  <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
 </programme>
-<programme start="20230708220000 -0300" stop="20230708230000 -0300" channel="ulbtv.br">
+<programme start="20230812220000 -0300" stop="20230812230000 -0300" channel="ulbtv.br">
  <title lang="pt">Hora Clipes</title>
  <desc lang="pt">Os melhores clipes estão no Hora Clipes.</desc>
 </programme>
@@ -3052,23 +3048,23 @@
  <desc lang="pt">O Pista da Band apresenta, todo sábado a partir das 21h00 às 00h00, 3 horas de programa com as últimas tendências das pistas do mundo. Muito além de tocar os hits, o programa traz informações e atualidades da música eletrônica.</desc>
 </programme>
 
-<programme start="20230806000000 -0300" stop="20230806050000 -0300" channel="bandfmrede.br">
+<programme start="20230813000000 -0300" stop="20230813050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230806050000 -0300" stop="20230806070000 -0300" channel="bandfmrede.br">
+<programme start="20230813050000 -0300" stop="20230813070000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230806070000 -0300" stop="20230806090000 -0300" channel="bandfmrede.br">
+<programme start="20230813070000 -0300" stop="20230813090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Estação Band FM</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Estacao-Band-FM.jpg" />
  <desc lang="pt">O Estação Band FM é uma opção divertida e descontraída para o fim de tarde, com notícias curiosas e comentários bem humorados.O programa promove uma experiência agradável e dinâmica para seus ouvintes, tornando o momento ainda mais relaxante. Aproveite para se divertir!</desc>
 </programme>
-<programme start="20230806090000 -0300" stop="20230806110000 -0300" channel="bandfmrede.br">
+<programme start="20230813090000 -0300" stop="20230813110000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Ao Vivo</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/02/Band-Ao-Vivo.jpg" />
  <desc lang="pt">O Band Ao Vivo é um dos programas mais animados da Band FM.Apresentado de domingo a domingo, o programa passa uma energia contagiante com sucessos ao vivo gravados em shows pelo Brasil a fora.</desc>
 </programme>
-<programme start="20230806110000 -0300" stop="20230806200000 -0300" channel="bandfmrede.br">
+<programme start="20230813110000 -0300" stop="20230813200000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
@@ -3163,16 +3159,16 @@
 </programme>
 
 <programme start="20230725063000 -0300" stop="20230726063000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Programação Rádio Cidade Verde</title>
+ <title lang="pt">Programação Rádio Cidade Verde</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">rádio </desc>
 </programme>
   
 <programme start="20230726063000 -0300" stop="20230726083000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Acorda Piauí</title>
+ <title lang="pt">Acorda Piauí</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p13.jpg" />
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
 <programme start="20230726083000 -0300" stop="20230726100000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Viva Cidade</title>
+ <title lang="pt">Viva Cidade</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p5.jpg" />
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
 <programme start="20230726100000 -0300" stop="20230726113000 -0300" channel="radiocidadeverde.br">
@@ -3180,11 +3176,11 @@
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
 <programme start="20230726113000 -0300" stop="20230726120000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">CV Esporte</title>
+ <title lang="pt">CV Esporte</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p11.jpg" />
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
 <programme start="20230726120000 -0300" stop="20230726140000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">CV Notícias</title>
+ <title lang="pt">CV Notícias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p1.jpg" />
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
 <programme start="20230726140000 -0300" stop="20230726180000 -0300" channel="radiocidadeverde.br">
@@ -3200,37 +3196,37 @@
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
 <programme start="20230726210000 -0300" stop="20230727063000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Parada Musical</title>
+ <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
 
-<programme start="20230727063000 -0300" stop="20230728000000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Programação Rádio Cidade Verde</title>
+<programme start="20230811063000 -0300" stop="20230812000000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Programação Rádio Cidade Verde</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">rádio </desc>
 </programme>
  
-<programme start="20230722063000 -0300" stop="20230722083000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Acorda Piauí</title>
+<programme start="20230812063000 -0300" stop="20230812083000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Acorda Piauí</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p13.jpg" />
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230722083000 -0300" stop="20230722100000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">Viva Cidade</title>
+<programme start="20230812083000 -0300" stop="20230812100000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">Viva Cidade</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p5.jpg" />
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
-<programme start="20230722100000 -0300" stop="20230722113000 -0300" channel="radiocidadeverde.br">
+<programme start="20230812100000 -0300" stop="20230812113000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Tem de Tudo</title>
  <desc lang="pt">Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc>
 </programme>
-<programme start="20230722113000 -0300" stop="20230722120000 -0300" channel="radiocidadeverde.br">
- <title lang="pt">CV Esporte</title>
+<programme start="20230812113000 -0300" stop="20230812120000 -0300" channel="radiocidadeverde.br">
+ <title lang="pt">CV Esporte</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p11.jpg" />
  <desc lang="pt"> O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc>
 </programme>
-<programme start="20230805120000 -0300" stop="20230806000000 -0300" channel="radiocidadeverde.br">
+<programme start="20230812120000 -0300" stop="20230813000000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
  
-<programme start="20230806000000 -0300" stop="20230807000000 -0300" channel="radiocidadeverde.br">
+<programme start="20230813000000 -0300" stop="20230814000000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt"> muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
@@ -3333,40 +3329,40 @@
  <title lang="pt">CBN Primeiras Notícias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2023/03/9ed7a99f-7078-4b87-ad64-1374aa488752.jpeg.320x180_q75_box-0%2C236%2C1080%2C844_crop_detail.jpg" />
  <desc lang="pt">bem informado</desc>
 </programme>
-<programme start="20230715060000 -0300" stop="20230715090000 -0300" channel="cbnrede.br">
- <title lang="pt">Jornal da CBN</title>
+<programme start="20230812060000 -0300" stop="20230812090000 -0300" channel="cbnrede.br">
+ <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1166817519711260679/UjyrWpvZ_400x400.jpg" />
  <desc lang="pt">Noticiario</desc>
 </programme>
-<programme start="20230715090000 -0300" stop="20230715093000 -0300" channel="cbnrede.br">
+<programme start="20230812090000 -0300" stop="20230812093000 -0300" channel="cbnrede.br">
  <title lang="pt">O Mundo em Meia Hora</title>
  <desc lang="pt">Com Fernando Andrade, Guga Chacra e Ariel Palacios</desc>
 </programme>
-<programme start="20230715093000 -0300" stop="20230715100000 -0300" channel="cbnrede.br">
+<programme start="20230812093000 -0300" stop="20230812100000 -0300" channel="cbnrede.br">
  <title lang="pt">Bem-estar e Movimento</title>
  <desc lang="pt">fique bem brasil.</desc>
 </programme>
-<programme start="20230715100000 -0300" stop="20230715120000 -0300" channel="cbnrede.br">
+<programme start="20230712100000 -0300" stop="20230812120000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Plaça</title>
  <desc lang="pt">fique bem informado do que acontece no seu estado ou cidade.</desc>
 </programme>
-<programme start="20230805120000 -0300" stop="20230805150000 -0300" channel="cbnrede.br">
+<programme start="20230812120000 -0300" stop="20230812150000 -0300" channel="cbnrede.br">
  <title lang="pt">Revista CBN</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKMmpEhERr-DbPr4pGk__mQ3klwtbz-lNnY6EJGnupjm8ZNVK58iAxdA408QMIGGSG-qxpjT_x52XZ0N_N-Nr2a4EYy9BrdzNFsOhKFb2c6EPNaMsYeiPhFDjpZADTEsvIXOv4YG8rVbM98r3OpsYbyBiWTTgD24FI9FdFV-jsvR9GeIx0IgpLTlh2ueQ/s320/cbn%20revista.png" />
  <desc lang="pt">Revista eletronica.</desc>
 </programme>
-<programme start="20230805150000 -0300" stop="20230805230000 -0300" channel="cbnrede.br">
+<programme start="20230812150000 -0300" stop="20230812230000 -0300" channel="cbnrede.br">
  <title lang="pt">Programação Rádio CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg.320x180_q75_box-0%2C38%2C720%2C442_crop_detail.jpg" />
  <desc lang="pt">A Central Brasileira de Notícias é uma rede de rádio brasileira, pertencente ao Sistema Globo de Rádio.</desc>
 </programme>
-<programme start="20230805230000 -0300" stop="20230806000000 -0300" channel="cbnrede.br">
+<programme start="20230812230000 -0300" stop="20230813000000 -0300" channel="cbnrede.br">
  <title lang="pt">Globo News Painel</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.ytimg.com/vi/5SnySAaKtdY/hqdefault.jpg" />
  <desc lang="pt">interligado a globo newws</desc>
 </programme>
    ###dom###
-<programme start="20230806000000 -0300" stop="20230806060000 -0300" channel="cbnrede.br">
+<programme start="20230813000000 -0300" stop="20230806060000 -0300" channel="cbnrede.br">
  <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
  <desc lang="pt">Com Paulo Galvão</desc>
 </programme>
-<programme start="20230806060000 -0300" stop="20230806090000 -0300" channel="cbnrede.br">
+<programme start="20230813060000 -0300" stop="20230813090000 -0300" channel="cbnrede.br">
  <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1166817519711260679/UjyrWpvZ_400x400.jpg" />
  <desc lang="pt">Noticiario</desc>
 </programme>
