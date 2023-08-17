@@ -844,27 +844,27 @@
 </programme>
  
     ###KpopTVPlay.br###
-<programme start="20230814000000 -0300" stop="20230814190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821000000 -0300" stop="20230821190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230814190000 -0300" stop="20230814200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821190000 -0300" stop="20230821200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Hits-On-Top@6x-1024x92.png" />
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230814200000 -0300" stop="20230814210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821200000 -0300" stop="20230821210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Ativo-1@6x-1024x626.png" />
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230814210000 -0300" stop="20230814213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821210000 -0300" stop="20230821213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/MV_fe@6x-984x640.png" />
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230814213000 -0300" stop="20230814233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821213000 -0300" stop="20230821233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Captura-de-Tela-2022-08-27-a%CC%80s-12.37.08-926x640.png" />
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20230814233000 -0300" stop="20230815000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821233000 -0300" stop="20230822000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
@@ -923,26 +923,26 @@
  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
 </programme>
 
-<programme start="20230812000000 -0300" stop="20230813000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230819000000 -0300" stop="20230820000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230813000000 -0300" stop="20230814000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230820000000 -0300" stop="20230821000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
 ###CanalUsuario.br###
  
-<programme start="20230811000000 -0300" stop="20230811020000 -0300" channel="CanalUsuario.br">
+<programme start="20230820000000 -0300" stop="20230820020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230814020000 -0300" stop="20230814030000 -0300" channel="CanalUsuario.br">
+<programme start="20230820020000 -0300" stop="20230820030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230814030000 -0300" stop="20230814040000 -0300" channel="CanalUsuario.br">
+<programme start="20230820030000 -0300" stop="20230820040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -999,35 +999,35 @@
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230815040000 -0300" stop="20230815100000 -0300" channel="CanalUsuario.br">
+<programme start="20230818040000 -0300" stop="20230818100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230815100000 -0300" stop="20230815110000 -0300" channel="CanalUsuario.br">
+<programme start="20230818100000 -0300" stop="20230818110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230815110000 -0300" stop="20230815130000 -0300" channel="CanalUsuario.br">
+<programme start="20230818110000 -0300" stop="20230818130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230815130000 -0300" stop="20230815140000 -0300" channel="CanalUsuario.br">
+<programme start="20230818130000 -0300" stop="20230818140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230812140000 -0300" stop="20230812170000 -0300" channel="CanalUsuario.br">
+<programme start="20230818140000 -0300" stop="20230818170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230812170000 -0300" stop="20230812180000 -0300" channel="CanalUsuario.br">
+<programme start="20230818170000 -0300" stop="20230818180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230812180000 -0300" stop="20230812220000 -0300" channel="CanalUsuario.br">
+<programme start="20230818180000 -0300" stop="20230818220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230812220000 -0300" stop="202308122230000 -0300" channel="CanalUsuario.br">
+<programme start="20230818220000 -0300" stop="202308182230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1035,52 +1035,52 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230812230000 -0300" stop="20230813000000 -0300" channel="CanalUsuario.br">
+<programme start="20230818230000 -0300" stop="20230819000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 
-<programme start="20230813000000 -0300" stop="20230813020000 -0300" channel="CanalUsuario.br">
+<programme start="20230819000000 -0300" stop="20230819020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230813020000 -0300" stop="20230813030000 -0300" channel="CanalUsuario.br">
+<programme start="20230819020000 -0300" stop="20230819030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230813030000 -0300" stop="20230813040000 -0300" channel="CanalUsuario.br">
+<programme start="20230819030000 -0300" stop="20230819040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230813040000 -0300" stop="20230813100000 -0300" channel="CanalUsuario.br">
+<programme start="20230819040000 -0300" stop="20230819100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230813100000 -0300" stop="20230813110000 -0300" channel="CanalUsuario.br">
+<programme start="20230819100000 -0300" stop="20230819110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230813110000 -0300" stop="20230815130000 -0300" channel="CanalUsuario.br">
+<programme start="20230819110000 -0300" stop="20230819130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230813130000 -0300" stop="20230813140000 -0300" channel="CanalUsuario.br">
+<programme start="20230819130000 -0300" stop="20230819140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230813140000 -0300" stop="20230813170000 -0300" channel="CanalUsuario.br">
+<programme start="20230819140000 -0300" stop="20230819170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230813170000 -0300" stop="20230813180000 -0300" channel="CanalUsuario.br">
+<programme start="20230819170000 -0300" stop="20230819180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230725180000 -0300" stop="20230725220000 -0300" channel="CanalUsuario.br">
+<programme start="20230819180000 -0300" stop="20230819220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230725220000 -0300" stop="20230725230000 -0300" channel="CanalUsuario.br">
+<programme start="20230819220000 -0300" stop="20230819230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1088,7 +1088,7 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230731230000 -0300" stop="20230801000000 -0300" channel="CanalUsuario.br">
+<programme start="20230819230000 -0300" stop="2023082000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -1155,16 +1155,16 @@
 </programme>
 
     ###canalstart.br###
-<programme start="20230814010000 -0300" stop="20230815030000 -0300" channel="canalstart.br">
+<programme start="20230821010000 -0300" stop="20230822030000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
  
-<programme start="20230815030000 -0300" stop="20230815040000 -0300" channel="canalstart.br">
+<programme start="20230822030000 -0300" stop="20230822040000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230816040000 -0300" stop="20230817010000 -0300" channel="canalstart.br">
+<programme start="20230822040000 -0300" stop="20230823010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating>
@@ -1187,31 +1187,31 @@
 </programme>
 
      ###canalstart.br sab e dom##
-<programme start="20230812000000 -0300" stop="20230812020000 -0300" channel="canalstart.br">
+<programme start="20230819000000 -0300" stop="20230819020000 -0300" channel="canalstart.br">
  <title lang="pt">Hora Cult</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
 </programme>
-<programme start="20230812020000 -0300" stop="20230812030000 -0300" channel="canalstart.br">
+<programme start="20230819020000 -0300" stop="20230819030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H - Especial</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
 </programme>
-<programme start="20230812030000 -0300" stop="20230813000000 -0300" channel="canalstart.br">
+<programme start="20230819030000 -0300" stop="20230820000000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV - Maratona</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
 </programme>
 
-<programme start="20230813000000 -0300" stop="20230813020000 -0300" channel="canalstart.br">
+<programme start="20230820000000 -0300" stop="20230820020000 -0300" channel="canalstart.br">
  <title lang="pt">Hora Cult</title>  <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230813020000 -0300" stop="20230813030000 -0300" channel="canalstart.br">
+<programme start="20230820020000 -0300" stop="20230820030000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H - Especial</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
-<programme start="20230813030000 -0300" stop="20230814010000 -0300" channel="canalstart.br">
+<programme start="20230820030000 -0300" stop="20230821010000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV - Maratona</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
@@ -1228,7 +1228,7 @@
 </programme>
  
 <programme start="20230725000000 -0300" stop="20230725080000 -0300" channel="bstv.br">
- <title lang="pt">BSTV Hits</title>
+ <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="20230725080000 -0300" stop="20230725110000 -0300" channel="bstv.br">
@@ -1243,30 +1243,30 @@
  <title lang="pt">Jornal do Boris</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230725123000 -0300" stop="20230725140000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230817123000 -0300" stop="20230817140000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230725140000 -0300" stop="20230725160000 -0300" channel="bstv.br">
+<programme start="20230817140000 -0300" stop="20230817160000 -0300" channel="bstv.br">
  <title lang="pt">Cine Play</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230725160000 -0300" stop="20230726000000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230817160000 -0300" stop="20230818000000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 
-<programme start="20230726000000 -0300" stop="20230726120000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230818000000 -0300" stop="20230818120000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230726120000 -0300" stop="20230727000000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230818120000 -0300" stop="20230819000000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 
 <programme start="20230728000000 -0300" stop="20230728080000 -0300" channel="bstv.br">
- <title lang="pt">BSTV Hits</title>
+ <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="20230728080000 -0300" stop="20230728110000 -0300" channel="bstv.br">
@@ -1274,7 +1274,7 @@
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="20230728110000 -0300" stop="20230728120000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+ <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
 <programme start="20230728120000 -0300" stop="20230728123000 -0300" channel="bstv.br">
@@ -1297,28 +1297,28 @@
 
     ###bstv.br sab e dom###
 
-<programme start="20230812000000 -0300" stop="20230812080000 -0300" channel="bstv.br">
+<programme start="20230819000000 -0300" stop="20230819080000 -0300" channel="bstv.br">
  <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230812080000 -0300" stop="20230812110000 -0300" channel="bstv.br">
+<programme start="20230819080000 -0300" stop="20230819110000 -0300" channel="bstv.br">
  <title lang="pt">Hora Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230812110000 -0300" stop="20230812000000 -0300" channel="bstv.br">
+<programme start="20230819110000 -0300" stop="20230819000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230812230000 -0300" stop="20230813080000 -0300" channel="bstv.br">
+<programme start="20230819230000 -0300" stop="20230820080000 -0300" channel="bstv.br">
  <title lang="pt">BSTV Hits</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
  
-<programme start="20230723080000 -0300" stop="20230723110000 -0300" channel="bstv.br">
+<programme start="20230820080000 -0300" stop="20230820110000 -0300" channel="bstv.br">
  <title lang="pt">Hora Kids</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230723110000 -0300" stop="20230724000000 -0300" channel="bstv.br">
+<programme start="20230820110000 -0300" stop="20230821000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -1361,89 +1361,6 @@
 </programme>
 
  
-<programme start="20230707000000 -0300" stop="20230707073500 -0300" channel="ulbtv.br">
- <title lang="pt">Séries da TV</title>
- <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
-</programme>
-<programme start="20230707073500 -0300" stop="20230707090000 -0300" channel="ulbtv.br">
- <title lang="pt">Realidades Brasil</title>
- <desc lang="pt">Assista de segunda a sexta ao vivo, às 07h35, Realidade Brasil, com a apresentação de Gildinho e participação de Rony Locher, Notícias do Brasil e do Mundo.</desc>
-</programme>
-<programme start="20230707090000 -0300" stop="20230707120000 -0300" channel="ulbtv.br">
- <title lang="pt">UlbTV Kids</title>
- <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
-</programme>
-<programme start="20230707120000 -0300" stop="20230707150000 -0300" channel="ulbtv.br">
- <title lang="pt">Tele Clássicos</title>
- <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
-</programme>
-<programme start="20230707150000 -0300" stop="20230707163000 -0300" channel="ulbtv.br">
- <title lang="pt">Cinema na TV</title>
- <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
-</programme>
-<programme start="20230707163000 -0300" stop="20230707183000 -0300" channel="ulbtv.br">
- <title lang="pt">Sessão Anime</title>
- <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
-</programme>
-<programme start="20230707183000 -0300" stop="20230707203000 -0300" channel="ulbtv.br">
- <title lang="pt">Ulb Seriados</title>
- <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
-</programme>
-<programme start="20230707203000 -0300" stop="20230707220000 -0300" channel="ulbtv.br">
- <title lang="pt">Cine Pipoca</title>
- <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
-</programme>
-<programme start="20230707220000 -0300" stop="20230707223000 -0300" channel="ulbtv.br">
- <title lang="pt">Só para Rir</title>
- <desc lang="pt">Assista as pegadinhas mais engraçadas.</desc>
-</programme>
-<programme start="20230707223000 -0300" stop="20230707230000 -0300" channel="ulbtv.br">
- <title lang="pt">Hora Clipes</title>
- <desc lang="pt">Os melhores clipes estão no Hora Clipes.</desc>
-</programme>
-<programme start="20230707230000 -0300" stop="20230708000000 -0300" channel="ulbtv.br">
- <title lang="pt">Mr. Bean</title>
- <desc lang="pt">Mr. Bean é capaz de transformar as mais simples situações do dia a dia em cômicas confusões.</desc>
-</programme>
- 
-<programme start="20230706000000 -0300" stop="20230706073500 -0300" channel="ulbtv.br">
- <title lang="pt">Séries da TV</title>
- <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
-</programme>
-<programme start="20230706073500 -0300" stop="20230706090000 -0300" channel="ulbtv.br">
- <title lang="pt">Realidades Brasil</title>
- <desc lang="pt">Assista de segunda a sexta ao vivo, às 07h35, Realidade Brasil, com a apresentação de Gildinho e participação de Rony Locher, Notícias do Brasil e do Mundo.</desc>
-</programme>
-<programme start="20230706090000 -0300" stop="20230706120000 -0300" channel="ulbtv.br">
- <title lang="pt">UlbTV Kids</title>
- <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
-</programme>
-<programme start="20230706120000 -0300" stop="20230706150000 -0300" channel="ulbtv.br">
- <title lang="pt">Tele Clássicos</title>
- <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
-</programme>
-<programme start="20230706150000 -0300" stop="20230706163000 -0300" channel="ulbtv.br">
- <title lang="pt">Cinema na TV</title>
- <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
-</programme>
-<programme start="20230706163000 -0300" stop="20230706183000 -0300" channel="ulbtv.br">
- <title lang="pt">Sessão Anime</title>
- <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
-</programme>
-<programme start="20230706183000 -0300" stop="20230706203000 -0300" channel="ulbtv.br">
- <title lang="pt">Ulb Seriados</title>
- <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
-</programme>
-<programme start="20230811203000 -0300" stop="2023081120000 -0300" channel="ulbtv.br">
- <title lang="pt">Cine Pipoca</title>
- <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
-</programme>
-<programme start="20230811220000 -0300" stop="20230812000000 -0300" channel="ulbtv.br">
- <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
- <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
-</programme>
- 
-### SABADO ###
 <programme start="20230812000000 -0300" stop="20230812070000 -0300" channel="ulbtv.br">
  <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
  <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
@@ -1456,27 +1373,102 @@
  <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
  <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
 </programme>
-<programme start="20230812123000 -0300" stop="20230812150000 -0300" channel="ulbtv.br">
+<programme start="20230817123000 -0300" stop="20230817150000 -0300" channel="ulbtv.br">
  <title lang="pt">Tele Clássicos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
  <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
 </programme>
-<programme start="20230812150000 -0300" stop="20230812163000 -0300" channel="ulbtv.br">
+<programme start="20230817150000 -0300" stop="20230817163000 -0300" channel="ulbtv.br">
  <title lang="pt">Cinema na TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
  <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
 </programme>
-<programme start="20230812163000 -0300" stop="20230812183000 -0300" channel="ulbtv.br">
+<programme start="20230817163000 -0300" stop="20230817183000 -0300" channel="ulbtv.br">
  <title lang="pt">Sessão Anime</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
  <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
 </programme>
-<programme start="20230812183000 -0300" stop="20230812203000 -0300" channel="ulbtv.br">
+<programme start="20230817183000 -0300" stop="20230817203000 -0300" channel="ulbtv.br">
  <title lang="pt">Ulb Seriados</title>
  <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
 </programme>
-<programme start="20230812203000 -0300" stop="20230812220000 -0300" channel="ulbtv.br">
+<programme start="20230817203000 -0300" stop="20230817220000 -0300" channel="ulbtv.br">
  <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
  <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
 </programme>
-<programme start="20230812220000 -0300" stop="20230812230000 -0300" channel="ulbtv.br">
+<programme start="20230817220000 -0300" stop="20230818000000 -0300" channel="ulbtv.br">
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
+ <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
+</programme>
+ 
+<programme start="20230818000000 -0300" stop="20230818070000 -0300" channel="ulbtv.br">
+ <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
+ <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
+</programme>
+<programme start="20230818070000 -0300" stop="20230818090000 -0300" channel="ulbtv.br">
+ <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
+ <desc lang="pt">Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc>
+</programme>
+<programme start="20230818090000 -0300" stop="20230818123000 -0300" channel="ulbtv.br">
+ <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
+ <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
+</programme>
+<programme start="20230818123000 -0300" stop="20230818150000 -0300" channel="ulbtv.br">
+ <title lang="pt">Tele Clássicos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
+ <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
+</programme>
+<programme start="20230818150000 -0300" stop="20230812163000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cinema na TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
+ <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
+</programme>
+<programme start="20230818163000 -0300" stop="20230818183000 -0300" channel="ulbtv.br">
+ <title lang="pt">Sessão Anime</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
+ <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
+</programme>
+<programme start="20230818183000 -0300" stop="20230812203000 -0300" channel="ulbtv.br">
+ <title lang="pt">Ulb Seriados</title>
+ <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
+</programme>
+<programme start="20230818203000 -0300" stop="20230818220000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
+ <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
+</programme>
+<programme start="20230818220000 -0300" stop="20230819000000 -0300" channel="ulbtv.br">
+ <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
+ <desc lang="pt">No Series você assiste as melhores Series da TV!</desc>
+</programme>
+ 
+### SABADO ###
+<programme start="20230819000000 -0300" stop="20230819070000 -0300" channel="ulbtv.br">
+ <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
+ <desc lang="pt">Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
+</programme>
+<programme start="20230819070000 -0300" stop="20230819090000 -0300" channel="ulbtv.br">
+ <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
+ <desc lang="pt">Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc>
+</programme>
+<programme start="20230819090000 -0300" stop="20230819123000 -0300" channel="ulbtv.br">
+ <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
+ <desc lang="pt">Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
+</programme>
+<programme start="20230819123000 -0300" stop="20230819150000 -0300" channel="ulbtv.br">
+ <title lang="pt">Tele Clássicos</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
+ <desc lang="pt">Acompanhe as séries clássicas que marcaram época.</desc>
+</programme>
+<programme start="20230819150000 -0300" stop="20230819163000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cinema na TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
+ <desc lang="pt">Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
+</programme>
+<programme start="20230819163000 -0300" stop="20230819183000 -0300" channel="ulbtv.br">
+ <title lang="pt">Sessão Anime</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
+ <desc lang="pt">No Sessão Anime você acompanha a os melhores animes da TV!</desc>
+</programme>
+<programme start="20230819183000 -0300" stop="20230819203000 -0300" channel="ulbtv.br">
+ <title lang="pt">Ulb Seriados</title>
+ <desc lang="pt">As melhores séries estão aqui no Ulb Seriados!</desc>
+</programme>
+<programme start="20230819203000 -0300" stop="20230819220000 -0300" channel="ulbtv.br">
+ <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
+ <desc lang="pt">Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
+</programme>
+<programme start="20230819220000 -0300" stop="20230819230000 -0300" channel="ulbtv.br">
  <title lang="pt">Hora Clipes</title>
  <desc lang="pt">Os melhores clipes estão no Hora Clipes.</desc>
 </programme>
@@ -1609,91 +1601,87 @@
  <title lang="pt">Festival Hanna Barbera</title>
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230811144000 -0300" stop="20230811150000 -0300" channel="CentralTV.br">
+<programme start="20230817144000 -0300" stop="20230817150000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Faça e Lucre</title>
  <desc lang="pt">Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
 </programme>
-<programme start="20230811150000 -0300" stop="20230811153000 -0300" channel="CentralTV.br">
+<programme start="20230817150000 -0300" stop="20230817153000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230811153000 -0300" stop="20230811183000 -0300" channel="CentralTV.br">
+<programme start="20230817153000 -0300" stop="20230817183000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230811183000 -0300" stop="20230811193000 -0300" channel="CentralTV.br">
+<programme start="20230817183000 -0300" stop="20230817193000 -0300" channel="CentralTV.br">
  <title lang="pt">Milk News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
  <desc lang="pt">Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
 </programme>
-<programme start="20230811193000 -0300" stop="20230811200000 -0300" channel="CentralTV.br">
+<programme start="20230817193000 -0300" stop="20230817200000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Disney</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
  <desc lang="pt">Varios de desenhos de grande sucesso da disney.</desc>
 </programme>
-<programme start="20230811200000 -0300" stop="20230811210000 -0300" channel="CentralTV.br">
+<programme start="20230817200000 -0300" stop="20230817210000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230811210000 -0300" stop="20230811213000 -0300" channel="CentralTV.br">
- <title lang="pt">Momento Mario Celso</title>
- <desc lang="pt">Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
-</programme>
-<programme start="20230811210000 -0300" stop="20230812000000 -0300" channel="CentralTV.br">
- <title lang="pt">Programação Central TV</title>
+<programme start="20230817210000 -0300" stop="20230818000000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 
-<programme start="20230727000000 -0300" stop="20230728000000 -0300" channel="CentralTV.br">
- <title lang="pt">Programação Central TV</title>
+<programme start="20230818000000 -0300" stop="20230819000000 -0300" channel="CentralTV.br">
+ <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
 
     ###sab.centraltv###
  
-<programme start="20230812000000 -0300" stop="20230812030000 -0300" channel="CentralTV.br">
+<programme start="20230819000000 -0300" stop="20230819030000 -0300" channel="CentralTV.br">
  <title lang="pt">Sessão Terror</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
  <desc lang="pt">Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
 </programme>
-<programme start="20230812030000 -0300" stop="20230812040000 -0300" channel="CentralTV.br">
+<programme start="20230819030000 -0300" stop="20230819040000 -0300" channel="CentralTV.br">
  <title lang="pt">Festival Hanna Barbera</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
  <desc lang="pt">Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
 </programme>
-<programme start="20230812040000 -0300" stop="20230812070000 -0300" channel="CentralTV.br">
+<programme start="20230819040000 -0300" stop="20230819070000 -0300" channel="CentralTV.br">
  <title lang="pt">CentralTV CineClassic</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
  <desc lang="pt">Os clássicos do cinema agora na tela da sua TV.</desc>
 </programme>
-<programme start="20230812070000 -0300" stop="20230812093000 -0300" channel="CentralTV.br">
+<programme start="20230819070000 -0300" stop="20230819093000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230812093000 -0300" stop="20230812110000 -0300" channel="CentralTV.br">
+<programme start="20230819093000 -0300" stop="20230819110000 -0300" channel="CentralTV.br">
  <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
  <desc lang="pt">De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
 </programme>
-<programme start="20230812110000 -0300" stop="20230812113000 -0300" channel="CentralTV.br">
+<programme start="20230819110000 -0300" stop="20230819113000 -0300" channel="CentralTV.br">
  <title lang="pt">Programa Câmera Brasil</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/WhatsApp-Image-2022-07-11-at-12.37.28.jpeg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
-<programme start="20230812113000 -0300" stop="20230812133000 -0300" channel="CentralTV.br">
+<programme start="20230819113000 -0300" stop="20230819133000 -0300" channel="CentralTV.br">
  <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
  <desc lang="pt">As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
 </programme>
-<programme start="20230812133000 -0300" stop="20230812143000 -0300" channel="CentralTV.br">
+<programme start="20230819133000 -0300" stop="20230819143000 -0300" channel="CentralTV.br">
  <title lang="pt">Hora do Ulisses</title>
  <desc lang="pt">"Hora do Ulisses" é o programa de culinária que vai transformar as suas refeições em momentos especiais! Comandado pelo renomado Chef Ulisses Viganó Junior, o programa apresenta receitas criativas e práticas, ideais para o dia a dia ou para impressionar em ocasiões especiais.</desc>
 </programme>
-<programme start="20230812141500 -0300" stop="20230812151500 -0300" channel="CentralTV.br">
+<programme start="20230819141500 -0300" stop="20230819151500 -0300" channel="CentralTV.br">
  <title lang="pt">Programa da Cris</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1-1.png" />
  <desc lang="pt">O Programa Da Cris é direcionado para incentivar as mulheres a encontrarem e desenvolverem a sua voz, ou seja, identificar os seus ativos e os alavancar.</desc>
 </programme>
-<programme start="20230812151500 -0300" stop="20230812160000 -0300" channel="CentralTV.br">
+<programme start="20230819151500 -0300" stop="20230819160000 -0300" channel="CentralTV.br">
  <title lang="pt">Do Fundo do Baú</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_2-1024x607.jpg" />
  <desc lang="pt">As velhinhas estão de volta! Os melhores flashbacks dos anos 80 e 90 você acompanha nas edições do programa Do Fundo do Baú…</desc>
 </programme>
-<programme start="20230805160000 -0300" stop="20230805200000 -0300" channel="CentralTV.br">
+<programme start="20230819160000 -0300" stop="20230819200000 -0300" channel="CentralTV.br">
  <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
  <desc lang="pt">A sua sessão de cinema sem sair de casa!</desc>
 </programme>
-<programme start="20230805200000 -0300" stop="20230806000000 -0300" channel="CentralTV.br">
+<programme start="20230819200000 -0300" stop="20230820000000 -0300" channel="CentralTV.br">
  <title lang="pt">Programação Central TV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
  <desc lang="pt">A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
 </programme>
@@ -2838,56 +2826,56 @@
  <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
-<programme start="20230808000000 -0300" stop="20230814000000 -0300" channel="FronteiraMovies.br">
+<programme start="20230818000000 -0300" stop="20230824000000 -0300" channel="FronteiraMovies.br">
  <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
  <desc lang="pt">O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc>
 </programme>
  
  ####Clc.br####
-<programme start="20230725100000 -0300" stop="20230725080000 -0300" channel="Clc.br">
+<programme start="20230818100000 -0300" stop="20230818080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230725080000 -0300" stop="20230725130000 -0300" channel="Clc.br">
+<programme start="20230818080000 -0300" stop="20230818130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230725130000 -0300" stop="20230725210000 -0300" channel="Clc.br">
+<programme start="20230818130000 -0300" stop="20230818210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230725210000 -0300" stop="20230726010000 -0300" channel="Clc.br">
+<programme start="20230818210000 -0300" stop="20230819010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
 
-<programme start="20230726030000 -0300" stop="20230727000000 -0300" channel="Clc.br">
+<programme start="20230816030000 -0300" stop="20230817000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230727010000 -0300" stop="20230727080000 -0300" channel="Clc.br">
+<programme start="20230817010000 -0300" stop="20230817080000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230727080000 -0300" stop="20230727130000 -0300" channel="Clc.br">
+<programme start="20230817080000 -0300" stop="20230817130000 -0300" channel="Clc.br">
  <title lang="pt">GLN KIDS - Desenhos Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230727130000 -0300" stop="20230727210000 -0300" channel="Clc.br">
+<programme start="20230817130000 -0300" stop="20230817210000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230727210000 -0300" stop="20230728010000 -0300" channel="Clc.br">
+<programme start="20230817210000 -0300" stop="20230818010000 -0300" channel="Clc.br">
  <title lang="pt">GLN SUPER Clássicos</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
  
-<programme start="20230723030000 -0300" stop="20230724000000 -0300" channel="Clc.br">
+<programme start="20230819030000 -0300" stop="20230820000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
-<programme start="20230724000000 -0300" stop="20230725000000 -0300" channel="Clc.br">
+<programme start="20230820000000 -0300" stop="20230821000000 -0300" channel="Clc.br">
  <title lang="pt">Programção GLN</title>
  <desc lang="pt">Um canal dedicado à filmes de vários gêneros</desc>
 </programme>
@@ -2929,56 +2917,56 @@
 </programme>
  
   ####EsporteBrasilia.br####
-<programme start="20230722000000 -0300" stop="20230726000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230822000000 -0300" stop="20230826000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Esportes Brasília</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Esportes Brasília</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="EsporteBrasilia.br">
+<programme start="20230818000000 -0300" stop="20230822000000 -0300" channel="EsporteBrasilia.br">
  <title lang="pt">Programação Esportes Brasília</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
 
   ####UrbantvSports.br####
-<programme start="20230722000000 -0300" stop="20230726000000 -0300" channel="UrbantvSports.br">
+<programme start="20230822000000 -0300" stop="20230826000000 -0300" channel="UrbantvSports.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230726000000 -0300" stop="20230728000000 -0300" channel="UrbantvSports.br">
+<programme start="20230816000000 -0300" stop="20230818000000 -0300" channel="UrbantvSports.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
-<programme start="20230728000000 -0300" stop="20230802000000 -0300" channel="UrbantvSports.br">
+<programme start="20230818000000 -0300" stop="20230822000000 -0300" channel="UrbantvSports.br">
  <title lang="pt">Programação Canal Urban Sports</title>
  <desc lang="pt">A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc>
 </programme>
  
   ####bandfmrede.br####
 
-<programme start="20230807000000 -0300" stop="20230807050000 -0300" channel="bandfmrede.br">
+<programme start="20230817000000 -0300" stop="20230817050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230807050000 -0300" stop="20230807060000 -0300" channel="bandfmrede.br">
+<programme start="20230817050000 -0300" stop="20230817060000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230807060000 -0300" stop="20230807090000 -0300" channel="bandfmrede.br">
+<programme start="20230817060000 -0300" stop="20230817090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora do Ronco</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/8Yb2Joz5B4Q/sddefault.jpg" />
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
-<programme start="20230807090000 -0300" stop="20230807210000 -0300" channel="bandfmrede.br">
+<programme start="20230817090000 -0300" stop="20230817210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230807210000 -0300" stop="20230807220000 -0300" channel="bandfmrede.br">
+<programme start="20230817210000 -0300" stop="20230817220000 -0300" channel="bandfmrede.br">
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230807220000 -0300" stop="20230808000000 -0300" channel="bandfmrede.br">
+<programme start="20230817220000 -0300" stop="20230818000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
@@ -2988,27 +2976,27 @@
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
 
-<programme start="20230811000000 -0300" stop="20230811050000 -0300" channel="bandfmrede.br">
+<programme start="20230817000000 -0300" stop="20230818050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title><rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230811050000 -0300" stop="20230811060000 -0300" channel="bandfmrede.br">
+<programme start="20230818050000 -0300" stop="20230818060000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230811060000 -0300" stop="20230811090000 -0300" channel="bandfmrede.br">
+<programme start="20230818060000 -0300" stop="20230818090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora do Ronco</title>
  <desc lang="pt">O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc>
 </programme>
-<programme start="20230811090000 -0300" stop="20230811210000 -0300" channel="bandfmrede.br">
+<programme start="20230818090000 -0300" stop="20230818210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230811210000 -0300" stop="20230811220000 -0300" channel="bandfmrede.br">
+<programme start="20230818210000 -0300" stop="20230818220000 -0300" channel="bandfmrede.br">
  <title lang="pt">A Voz do Brasil</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/5/5a/Logotipo_de_A_Voz_do_Brasil.jpg" />
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230811220000 -0300" stop="20230812000000 -0300" channel="bandfmrede.br">
+<programme start="20230818220000 -0300" stop="20230819000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
@@ -3019,52 +3007,52 @@
 </programme>
  
  ####sab e dom####
-<programme start="20230812000000 -0300" stop="20230812050000 -0300" channel="bandfmrede.br">
+<programme start="20230819000000 -0300" stop="20230819050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230812050000 -0300" stop="20230812070000 -0300" channel="bandfmrede.br">
+<programme start="20230819050000 -0300" stop="20230819070000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230812070000 -0300" stop="20230812090000 -0300" channel="bandfmrede.br">
+<programme start="20230819070000 -0300" stop="20230819090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Top Five</title>
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230812090000 -0300" stop="20230812110000 -0300" channel="bandfmrede.br">
+<programme start="20230819090000 -0300" stop="20230819110000 -0300" channel="bandfmrede.br">
  <title lang="pt">Manhã Show</title>
  <desc lang="pt">O programa oferece uma mistura de entretenimento e informação por meio de quadros como Caixa Premiada, Super 6 e Band Notícias. Os ouvintes interagem de forma descontraída e se divertem, enquanto recebem informações atualizadas e relevantes.</desc>
 </programme>
-<programme start="20230812110000 -0300" stop="20230812200000 -0300" channel="bandfmrede.br">
+<programme start="20230819110000 -0300" stop="20230819200000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230812200000 -0300" stop="20230812210000 -0300" channel="bandfmrede.br">
+<programme start="20230819200000 -0300" stop="20230819210000 -0300" channel="bandfmrede.br">
  <title lang="pt">Hora Cheia</title>
  <desc lang="pt">O Hora Cheia da Band FM toca 1 hora de músicas em sequência e premia os ouvintes sorteados que acertarem quantas músicas foram tocadas na edição.</desc>
 </programme>
-<programme start="20230812210000 -0300" stop="20230813000000 -0300" channel="bandfmrede.br">
+<programme start="20230819210000 -0300" stop="20230820000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Pista da Band</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Pista-da-Band.jpg" />
  <desc lang="pt">O Pista da Band apresenta, todo sábado a partir das 21h00 às 00h00, 3 horas de programa com as últimas tendências das pistas do mundo. Muito além de tocar os hits, o programa traz informações e atualidades da música eletrônica.</desc>
 </programme>
 
-<programme start="20230813000000 -0300" stop="20230813050000 -0300" channel="bandfmrede.br">
+<programme start="20230820000000 -0300" stop="20230820050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
-<programme start="20230813050000 -0300" stop="20230813070000 -0300" channel="bandfmrede.br">
+<programme start="20230820050000 -0300" stop="20230820070000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Bom Dia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ydKjJnqBqT4/mqdefault.jpg" />
  <desc lang="pt">Os brasileiros estão cada vez mais despertando cedo e começar o dia com boas risadas é uma excelente forma de começar com energia e animação! O programa “Band Bom Dia” foi criado com esse propósito, para ser um despertador positivo, repleto de alegria e bom humor.</desc>
 </programme>
-<programme start="20230813070000 -0300" stop="20230813090000 -0300" channel="bandfmrede.br">
+<programme start="20230820070000 -0300" stop="20230820090000 -0300" channel="bandfmrede.br">
  <title lang="pt">Estação Band FM</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/01/Estacao-Band-FM.jpg" />
  <desc lang="pt">O Estação Band FM é uma opção divertida e descontraída para o fim de tarde, com notícias curiosas e comentários bem humorados.O programa promove uma experiência agradável e dinâmica para seus ouvintes, tornando o momento ainda mais relaxante. Aproveite para se divertir!</desc>
 </programme>
-<programme start="20230813090000 -0300" stop="20230813110000 -0300" channel="bandfmrede.br">
+<programme start="20230820090000 -0300" stop="20230820110000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Ao Vivo</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmcampinas.com/storage/2023/02/Band-Ao-Vivo.jpg" />
  <desc lang="pt">O Band Ao Vivo é um dos programas mais animados da Band FM.Apresentado de domingo a domingo, o programa passa uma energia contagiante com sucessos ao vivo gravados em shows pelo Brasil a fora.</desc>
 </programme>
-<programme start="20230813110000 -0300" stop="20230813200000 -0300" channel="bandfmrede.br">
+<programme start="20230820110000 -0300" stop="20230820200000 -0300" channel="bandfmrede.br">
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
