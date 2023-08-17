@@ -2976,7 +2976,7 @@
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
 
-<programme start="20230817000000 -0300" stop="20230818050000 -0300" channel="bandfmrede.br">
+<programme start="20230818000000 -0300" stop="20230818050000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Coruja</title><rating system="CLASSIND"><value>A12</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2014/02/49DF55EB-FDA6-4A6C-8308-CFF779657977-554x345.jpeg" />
  <desc lang="pt">O Band Coruja é sua companhia perfeita para a madrugada, com bate-papo, brincadeiras e interação com os ouvintes. Não perca a oportunidade de se divertir enquanto acompanha a programação da rádio!</desc>
 </programme>
@@ -3056,11 +3056,11 @@
  <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
  <desc lang="pt">Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc>
 </programme>
-<programme start="20230806200000 -0300" stop="20230806210000 -0300" channel="bandfmrede.br">
+<programme start="20230820200000 -0300" stop="20230820210000 -0300" channel="bandfmrede.br">
  <title lang="pt">As Mais Pedidas da Semana</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bandconquista.com.br/wp-content/uploads/2016/07/As-mais-pedidas-1a.jpg" />
  <desc lang="pt">a Band FM toca 1 hora de que músicas foram as mais tocadas na semana.</desc>
 </programme>
-<programme start="20230806210000 -0300" stop="20230807000000 -0300" channel="bandfmrede.br">
+<programme start="20230820210000 -0300" stop="20230821000000 -0300" channel="bandfmrede.br">
  <title lang="pt">Band Love</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://bandfmtriangulo.com/wp-content/uploads/2023/01/Band-Love-1-770x350.jpg" />
  <desc lang="pt">O programa Band Love é uma opção ideal para os apaixonados. Com histórias de amor inspiradoras e músicas românticas, o programa é perfeito para quem busca uma experiência agradável e emocionante nas noites de rádio. Além de reprisar a história de amor do dia do programa Quem Ama Não Esquece. Não perca essa oportunidade de se encantar!</desc>
 </programme>
@@ -3171,33 +3171,33 @@
  <title lang="pt">CV Notícias</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p1.jpg" />
  <desc lang="pt">Os principais fatos do dia e as tendências do momento</desc>
 </programme>
-<programme start="20230726140000 -0300" stop="20230726180000 -0300" channel="radiocidadeverde.br">
+<programme start="20230817140000 -0300" stop="20230817180000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Show da Tarde</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p6.jpg" />
  <desc lang="pt">Nossas tardes com sabor especial, em ritmo muito mais quente.</desc>
 </programme>
-<programme start="20230726180000 -0300" stop="20230726200000 -0300" channel="radiocidadeverde.br">
+<programme start="20230817180000 -0300" stop="20230817200000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title>
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
-<programme start="20230726200000 -0300" stop="20230726210000 -0300" channel="radiocidadeverde.br">
+<programme start="20230817200000 -0300" stop="20230817210000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">A Voz do Brasil</title>
  <desc lang="pt">A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
 </programme> 
-<programme start="20230726210000 -0300" stop="20230727063000 -0300" channel="radiocidadeverde.br">
+<programme start="20230817210000 -0300" stop="20230818063000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc>
 </programme>
 
-<programme start="20230811063000 -0300" stop="20230812000000 -0300" channel="radiocidadeverde.br">
+<programme start="20230818063000 -0300" stop="20230819000000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Programação Rádio Cidade Verde</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
  <desc lang="pt">rádio </desc>
 </programme>
- 
-<programme start="20230812063000 -0300" stop="20230812083000 -0300" channel="radiocidadeverde.br">
+  <!-- Programas do Fim de semana -->
+<programme start="20230819063000 -0300" stop="20230819083000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Acorda Piauí</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p13.jpg" />
  <desc lang="pt">O melhor do jornalismo com a análise precisa sobre os fatos que vão marcar o dia.</desc>
 </programme>
-<programme start="20230812083000 -0300" stop="20230812100000 -0300" channel="radiocidadeverde.br">
+<programme start="20230819083000 -0300" stop="20230819100000 -0300" channel="radiocidadeverde.br">
  <title lang="pt">Viva Cidade</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p5.jpg" />
  <desc lang="pt">Muita diversão no ritmo dos maiores sucessos do momento.</desc>
 </programme>
