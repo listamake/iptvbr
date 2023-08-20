@@ -267,28 +267,28 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230814000000 -0300" stop="20230814060000 -0300" channel="anitv.br">
+<programme start="20230821000000 -0300" stop="20230821060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230817060000 -0300" stop="20230817120000 -0300" channel="anitv.br">
+<programme start="20230821060000 -0300" stop="20230821120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
-<programme start="20230817120000 -0300" stop="20230818000000 -0300" channel="anitv.br">
+<programme start="20230821120000 -0300" stop="20230822000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
 
-<programme start="20230818000000 -0300" stop="20230818060000 -0300" channel="anitv.br">
+<programme start="20230822000000 -0300" stop="20230822060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230818060000 -0300" stop="20230818120000 -0300" channel="anitv.br">
+<programme start="20230822060000 -0300" stop="20230822120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
-<programme start="20230818120000 -0300" stop="20230819000000 -0300" channel="anitv.br">
+<programme start="20230822120000 -0300" stop="20230823000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
@@ -625,31 +625,31 @@
  <desc lang="pt">Aos fins de semana a Geekdot vem com tudo, maratonas de animes DIRETO, de uma vez só, aproveite este Find e vem pra Dot!.</desc>
 </programme>
 
-<programme start="20230716070000 -0300" stop="20230716080000 -0300" channel="anitv.br">
+<programme start="20230721070000 -0300" stop="20230721080000 -0300" channel="anitv.br">
  <title lang="pt">Budega do Maguila</title>
  <desc lang="pt">A Budega do Maguila é uma tentativa de resgatar o rádio humorístico que tanto marcou gerações nos anos 1990 e 2000. Apresentado por Ian José Silva, o programa leva a seus ouvintes os grandes sucessos (e muita coisa lado B) do forró das antigas, sertanejo, brega, Jovem Guarda, enfim, tudo menos o lixo musical da atualidade, bem como comentários do dia a dia e esquetes de humor satirizando programas e locutores de várias emissoras.</desc>
 </programme>
-<programme start="20230716080000 -0300" stop="20230716103000 -0300" channel="anitv.br">
+<programme start="20230721080000 -0300" stop="20230721103000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS: Fire Force</title>
  <desc lang="pt">Shinra e seus companheiros estão prontos para entrar para a Brigada de Incêndio para impedir que os demônios flamejantes, chamados de Infernais, incendeiem toda a cidade!</desc>
 </programme>
-<programme start="20230716103000 -0300" stop="20230716130000 -0300" channel="anitv.br">
+<programme start="20230721103000 -0300" stop="20230721130000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS: SPYxFAMILY</title>
  <desc lang="pt">Há décadas, as nações de Ostania e Westalis promovem uma guerra fria sem fim. Para investigar os movimentos do presidente de um importante partido político, Westalis mobiliza Twilight, seu melhor agente, a montar uma família falsa e se infiltrar nos eventos sociais promovidos pela escola do filho do político. Mas por um acaso do destino, Twilight acaba adotando Anya, uma jovem com poderes telepáticos, e se "casando" com Yor, uma assassina profissional! Sem saberem das identidades uns dos outros, este trio incomum vai embarcar em aventuras cheias de surpresas para garantir a paz mundial.</desc>
 </programme>
-<programme start="20230716130000 -0300" stop="20230716153000 -0300" channel="anitv.br">
+<programme start="20230721130000 -0300" stop="20230721153000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS: Dr. STONE</title>
  <desc lang="pt">Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo.</desc>
 </programme>
-<programme start="20230716153000 -0300" stop="20230716180000 -0300" channel="anitv.br">
+<programme start="20230721153000 -0300" stop="20230716180000 -0300" channel="anitv.br">
  <title lang="en">Maratona #FDS: My Hero Academia</title>
  <desc lang="en">Midoriya, um menino que nasceu sem individualidade em mundo que é normal tê-las, mas mesmo assim sonha em se tornar um super-herói.</desc>
 </programme>
-<programme start="20230716180000 -0300" stop="20230716203000 -0300" channel="anitv.br">
+<programme start="20230721180000 -0300" stop="20230716203000 -0300" channel="anitv.br">
  <title lang="en">Maratona #FDS: Ranma ½</title>
  <desc lang="en">No meio do treinamento, Ranma e seu pai caem, cada um em uma fonte diferente, e acabam amaldiçoados. Depois desse incidente, toda vez que Ranma se molha com água fria, transforma-se em uma bela garota, enquanto seu pai em um enorme panda. Somente o banho com água quente pode reverter os personagens à sua forma original (ainda que temporariamente).</desc>
 </programme>
-<programme start="202307166203000 -0300" stop="20230716230000 -0300" channel="anitv.br">
+<programme start="202307216203000 -0300" stop="20230716230000 -0300" channel="anitv.br">
  <title lang="pt">Maratona #FDS: Tsuredure Children</title>
  <desc lang="pt">Pra vocês que nunca conseguiram dizer um "eu te amo" - esta é uma história de estudantes comuns de colegial, e como o amor os deixa motivados, chocados, magoados, risonhos e chorosos. Mesmo quando nem tudo dá certo, esta história de adolescência e romance vai lhe mostrar como eles aproveitam seus dias dourados. Aqui, cada personagem é um protagonista, e você vai encontrar alguém com quem se identificar.</desc>
 </programme>
@@ -723,121 +723,121 @@
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230814040000 -0300" stop="20230814060000 -0300" channel="yaaeeh.br">
+<programme start="20230821040000 -0300" stop="20230821060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230814060000 -0300" stop="20230814070000 -0300" channel="yaaeeh.br">
+<programme start="20230821060000 -0300" stop="20230821070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230814070000 -0300" stop="20230801400000 -0300" channel="yaaeeh.br">
+<programme start="20230821070000 -0300" stop="20230821100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230814100000 -0300" stop="20230801420000 -0300" channel="yaaeeh.br">
+<programme start="20230821100000 -0300" stop="20230821420000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230814120000 -0300" stop="20230814130000 -0300" channel="yaaeeh.br">
+<programme start="20230821120000 -0300" stop="20230821130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230814130000 -0300" stop="20230814150000 -0300" channel="yaaeeh.br">
+<programme start="20230821130000 -0300" stop="20230821150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
 </programme>
-<programme start="20230814150000 -0300" stop="20230814180000 -0300" channel="yaaeeh.br">
+<programme start="20230821150000 -0300" stop="20230821180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230814218000 -0300" stop="20230815000000 -0300" channel="yaaeeh.br">
+<programme start="20230821218000 -0300" stop="20230822000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />
 </programme>
 
-<programme start="20230815000000 -0300" stop="20230815120000 -0300" channel="yaaeeh.br">
+<programme start="20230822000000 -0300" stop="20230822120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
-<programme start="20230815120000 -0300" stop="20230816000000 -0300" channel="yaaeeh.br">
+<programme start="20230822120000 -0300" stop="20230823000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
 </programme>
  
-<programme start="20230816000000 -0300" stop="20230816010000 -0300" channel="yaaeeh.br">
+<programme start="20230823000000 -0300" stop="20230823010000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" />
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230816010000 -0300" stop="20230816030000 -0300" channel="yaaeeh.br">
+<programme start="20230823010000 -0300" stop="20230823030000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230812030000 -0300" stop="20230812040000 -0300" channel="yaaeeh.br">
+<programme start="20230823030000 -0300" stop="20230823040000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Notícias</title>
  <desc lang="pt">Jornalisticos com as principais notícias do dia, informação e prestação de serviços.</desc>
 </programme>
-<programme start="20230812040000 -0300" stop="20230812060000 -0300" channel="yaaeeh.br">
+<programme start="20230823040000 -0300" stop="20230823060000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230812060000 -0300" stop="20230812070000 -0300" channel="yaaeeh.br">
+<programme start="20230823060000 -0300" stop="20230823070000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" />
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230817070000 -0300" stop="20230817090000 -0300" channel="yaaeeh.br">
+<programme start="20230823070000 -0300" stop="20230823090000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230817090000 -0300" stop="20230817100000 -0300" channel="yaaeeh.br">
+<programme start="20230823090000 -0300" stop="20230823100000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230817100000 -0300" stop="20230817120000 -0300" channel="yaaeeh.br">
+<programme start="20230823100000 -0300" stop="20230823120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230817120000 -0300" stop="20230817130000 -0300" channel="yaaeeh.br">
+<programme start="20230823120000 -0300" stop="20230823130000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" />
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230817130000 -0300" stop="20230817150000 -0300" channel="yaaeeh.br">
+<programme start="20230823130000 -0300" stop="20230823150000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230817150000 -0300" stop="20230817160000 -0300" channel="yaaeeh.br">
+<programme start="20230823150000 -0300" stop="20230823160000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230817160000 -0300" stop="20230817180000 -0300" channel="yaaeeh.br">
+<programme start="20230823160000 -0300" stop="20230823180000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230817180000 -0300" stop="20230817190000 -0300" channel="yaaeeh.br">
+<programme start="20230823180000 -0300" stop="20230823190000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" />
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230817190000 -0300" stop="20230817200000 -0300" channel="yaaeeh.br">
+<programme start="20230823190000 -0300" stop="20230823200000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230817200000 -0300" stop="20230817220000 -0300" channel="yaaeeh.br">
+<programme start="20230823200000 -0300" stop="20230823220000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" />
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230817220000 -0300" stop="20230818000000 -0300" channel="yaaeeh.br">
+<programme start="20230823220000 -0300" stop="20230824000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" /> 
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
 
-<programme start="20230818000000 -0300" stop="20230818120000 -0300" channel="yaaeeh.br">
+<programme start="20230824000000 -0300" stop="20230824120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230818120000 -0300" stop="20230819000000 -0300" channel="yaaeeh.br">
+<programme start="20230824120000 -0300" stop="20230825000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Programação Yeeaah</title>
  <desc lang="pt">O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
@@ -883,28 +883,28 @@
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 <rating system="CLASSIND"><value>12</value></rating>
 </programme>
-<programme start="20230817210000 -0300" stop="20230817213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230822210000 -0300" stop="20230822213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/MV_fe@6x-984x640.png" />
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230817213000 -0300" stop="20230817233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230822213000 -0300" stop="20230822233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Captura-de-Tela-2022-08-27-a%CC%80s-12.37.08-926x640.png" />
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
 </programme>
-<programme start="20230817233000 -0300" stop="20230818000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230822233000 -0300" stop="20230823000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
 </programme>
  
-<programme start="20230818000000 -0300" stop="20230818190000 -0300" channel="KpopTVPlay.br">
+<programme start="20230823000000 -0300" stop="20230823190000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230818190000 -0300" stop="20230818200000 -0300" channel="KpopTVPlay.br">
+<programme start="20230823190000 -0300" stop="20230823200000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Hits on Top</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Hits-On-Top@6x-1024x92.png" />
  <desc lang="pt">Os principais lançamentos da atualidade e as músicas que estão bombando nos charts você assiste no Hits on Top.</desc>
 </programme>
-<programme start="20230818200000 -0300" stop="20230818210000 -0300" channel="KpopTVPlay.br">
+<programme start="20230823200000 -0300" stop="20230823210000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Boys VS. Girls</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Ativo-1@6x-1024x626.png" />
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
@@ -970,11 +970,11 @@
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230817180000 -0300" stop="20230817220000 -0300" channel="CanalUsuario.br">
+<programme start="20230820180000 -0300" stop="20230820220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230817220000 -0300" stop="20230817230000 -0300" channel="CanalUsuario.br">
+<programme start="20230820220000 -0300" stop="20230820230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -982,52 +982,52 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230817230000 -0300" stop="20230818000000 -0300" channel="CanalUsuario.br">
+<programme start="20230820230000 -0300" stop="20230821000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230818000000 -0300" stop="20230818020000 -0300" channel="CanalUsuario.br">
+<programme start="20230821000000 -0300" stop="20230821020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230818020000 -0300" stop="20230818030000 -0300" channel="CanalUsuario.br">
+<programme start="20230821020000 -0300" stop="20230821030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230818030000 -0300" stop="20230818040000 -0300" channel="CanalUsuario.br">
+<programme start="20230821030000 -0300" stop="20230821040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230818040000 -0300" stop="20230818100000 -0300" channel="CanalUsuario.br">
+<programme start="20230821040000 -0300" stop="20230821100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230818100000 -0300" stop="20230818110000 -0300" channel="CanalUsuario.br">
+<programme start="20230821100000 -0300" stop="20230821110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230818110000 -0300" stop="20230818130000 -0300" channel="CanalUsuario.br">
+<programme start="20230821110000 -0300" stop="20230821130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230818130000 -0300" stop="20230818140000 -0300" channel="CanalUsuario.br">
+<programme start="20230821130000 -0300" stop="20230821140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230818140000 -0300" stop="20230818170000 -0300" channel="CanalUsuario.br">
+<programme start="20230821140000 -0300" stop="20230821170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230818170000 -0300" stop="20230818180000 -0300" channel="CanalUsuario.br">
+<programme start="20230821170000 -0300" stop="20230821180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230818180000 -0300" stop="20230818220000 -0300" channel="CanalUsuario.br">
+<programme start="20230821180000 -0300" stop="20230821220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230818220000 -0300" stop="202308182230000 -0300" channel="CanalUsuario.br">
+<programme start="20230821220000 -0300" stop="202308212230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1035,40 +1035,40 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230818230000 -0300" stop="20230819000000 -0300" channel="CanalUsuario.br">
+<programme start="20230821230000 -0300" stop="20230822000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 
-<programme start="20230819000000 -0300" stop="20230819020000 -0300" channel="CanalUsuario.br">
+<programme start="20230822000000 -0300" stop="20230822020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230819020000 -0300" stop="20230819030000 -0300" channel="CanalUsuario.br">
+<programme start="20230822020000 -0300" stop="20230822030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230819030000 -0300" stop="20230819040000 -0300" channel="CanalUsuario.br">
+<programme start="20230822030000 -0300" stop="20230822040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230819040000 -0300" stop="20230819100000 -0300" channel="CanalUsuario.br">
+<programme start="20230822040000 -0300" stop="20230822100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230819100000 -0300" stop="20230819110000 -0300" channel="CanalUsuario.br">
+<programme start="20230822100000 -0300" stop="20230822110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230819110000 -0300" stop="20230819130000 -0300" channel="CanalUsuario.br">
+<programme start="20230822110000 -0300" stop="20230822130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230819130000 -0300" stop="20230819140000 -0300" channel="CanalUsuario.br">
+<programme start="20230822130000 -0300" stop="20230822140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230819140000 -0300" stop="20230819170000 -0300" channel="CanalUsuario.br">
+<programme start="20230822140000 -0300" stop="20230822170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -1098,7 +1098,7 @@
  <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230815000000 -0300" stop="20230818000000 -0300" channel="fkids.br">
+<programme start="20230825000000 -0300" stop="20230828000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
@@ -1170,17 +1170,17 @@
  <rating system="CLASSIND"><value>12</value></rating>
 </programme>
 
-<programme start="20230817010000 -0300" stop="20230818030000 -0300" channel="canalstart.br">
+<programme start="20230823010000 -0300" stop="20230824030000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
 </programme>
  
-<programme start="20230818030000 -0300" stop="20230818040000 -0300" channel="canalstart.br">
+<programme start="20230824030000 -0300" stop="20230824040000 -0300" channel="canalstart.br">
  <title lang="pt">Hora H</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>18</value></rating>
 </programme>
-<programme start="20230818040000 -0300" stop="20230819000000 -0300" channel="canalstart.br">
+<programme start="20230824040000 -0300" stop="20230825000000 -0300" channel="canalstart.br">
  <title lang="pt">Gameplay na TV</title>
  <desc lang="pt">O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
  <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
@@ -1218,40 +1218,40 @@
  
     ###bstv.br###
 
-<programme start="20230724000000 -0300" stop="20230724120000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230821000000 -0300" stop="20230821120000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230724120000 -0300" stop="20230725000000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230821120000 -0300" stop="20230822000000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
  
-<programme start="20230725000000 -0300" stop="20230725080000 -0300" channel="bstv.br">
+<programme start="20230822000000 -0300" stop="20230822080000 -0300" channel="bstv.br">
  <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230725080000 -0300" stop="20230725110000 -0300" channel="bstv.br">
+<programme start="20230822080000 -0300" stop="20230822110000 -0300" channel="bstv.br">
  <title lang="pt">Hora Kids</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230725110000 -0300" stop="20230725120000 -0300" channel="bstv.br">
- <title lang="pt">Programação BSTV</title>
+<programme start="20230822110000 -0300" stop="20230822120000 -0300" channel="bstv.br">
+ <title lang="pt">Programação BSTV</title>  <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230725120000 -0300" stop="20230725123000 -0300" channel="bstv.br">
+<programme start="20230822120000 -0300" stop="20230822123000 -0300" channel="bstv.br">
  <title lang="pt">Jornal do Boris</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230817123000 -0300" stop="20230817140000 -0300" channel="bstv.br">
+<programme start="20230822123000 -0300" stop="20230822140000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230817140000 -0300" stop="20230817160000 -0300" channel="bstv.br">
+<programme start="20230822140000 -0300" stop="20230822160000 -0300" channel="bstv.br">
  <title lang="pt">Cine Play</title>
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230817160000 -0300" stop="20230818000000 -0300" channel="bstv.br">
+<programme start="20230822160000 -0300" stop="20230823000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -1260,7 +1260,7 @@
  <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
-<programme start="20230823120000 -0300" stop="20230823000000 -0300" channel="bstv.br">
+<programme start="20230823120000 -0300" stop="20230824000000 -0300" channel="bstv.br">
  <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
  <desc lang="pt">A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
 </programme>
@@ -1332,11 +1332,11 @@
  <title lang="pt">Programação AWTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvonline.fm/wp-content/uploads/2022/11/awtv.jpg" />
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20230722000000 -0300" stop="20230724000000 -0300" channel="awtv.br">
+<programme start="20230822000000 -0300" stop="20230824000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvonline.fm/wp-content/uploads/2022/11/awtv.jpg" />
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
-<programme start="20230724000000 -0300" stop="20230726000000 -0300" channel="awtv.br">
+<programme start="20230824000000 -0300" stop="20230826000000 -0300" channel="awtv.br">
  <title lang="pt">Programação AWTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvonline.fm/wp-content/uploads/2022/11/awtv.jpg" />
  <desc lang="pt">A AWTV é uma plataforma de transmissão online pensada em oferecer o melhor conteúdo para você. Proporcionando conteúdos diversificados e acessível para todos, reunindo famílias e amigos. Aqui você pode assistir canais de TV pelo Computador, Celular, Tablet, Smart TV, entre outros.</desc>
 </programme>
