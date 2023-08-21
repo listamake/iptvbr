@@ -735,7 +735,7 @@
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
-<programme start="20230821100000 -0300" stop="20230821420000 -0300" channel="yaaeeh.br">
+<programme start="20230821100000 -0300" stop="20230821120000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />  
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
 </programme>
@@ -1866,59 +1866,59 @@
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
  
-<programme start="20230726000000 -0300" stop="20230726070000 -0300" channel="TVMax.br">
+<programme start="20230823000000 -0300" stop="20230823070000 -0300" channel="TVMax.br">
  <title lang="pt">Programação Max TV</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230726070000 -0300" stop="20230726080000 -0300" channel="TVMax.br">
+<programme start="20230823070000 -0300" stop="20230823080000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
 </programme>
-<programme start="20230726080000 -0300" stop="20230726100000 -0300" channel="TVMax.br">
+<programme start="20230823080000 -0300" stop="20230823100000 -0300" channel="TVMax.br">
  <title lang="pt">Show do Clóvis Monteiro</title>
  <desc lang="pt">O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc>
 </programme>
-<programme start="20230726100000 -0300" stop="20230726110000 -0300" channel="TVMax.br">
+<programme start="20230823100000 -0300" stop="20230823110000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Conexão no AR</title>
  <desc lang="pt">NOTICIARIO.</desc>
 </programme>
-<programme start="20230726110000 -0300" stop="20230726120000 -0300" channel="TVMax.br">
+<programme start="20230823110000 -0300" stop="20230823120000 -0300" channel="TVMax.br">
  <title lang="pt">Programa Francisco Barbosa</title>
  <desc lang="pt">O “Programa Francisco Barbosa” tem o formato de “debates”.</desc>
 </programme>
-<programme start="20230818120000 -0300" stop="20230818130000 -0300" channel="TVMax.br">
+<programme start="20230823120000 -0300" stop="20230823130000 -0300" channel="TVMax.br">
  <title lang="pt">Patrulha da Cidade</title>
  <desc lang="pt">o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc>
 </programme>
-<programme start="20230818130000 -0300" stop="20230818150000 -0300" channel="TVMax.br">
+<programme start="20230823130000 -0300" stop="20230823150000 -0300" channel="TVMax.br">
  <title lang="pt">Cidinha Livre</title>
  <desc lang="pt">Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc>
 </programme>
-<programme start="20230818150000 -0300" stop="20230818153000 -0300" channel="TVMax.br">
+<programme start="20230823150000 -0300" stop="20230823153000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
-<programme start="20230818153000 -0300" stop="20230818160000 -0300" channel="TVMax.br">
+<programme start="20230823153000 -0300" stop="20230823160000 -0300" channel="TVMax.br">
  <title lang="pt">Faixa Músical</title>
  <desc lang="pt">Tapa buraco.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
 </programme>
-<programme start="20230818160000 -0300" stop="20230818190000 -0300" channel="TVMax.br">
+<programme start="20230823160000 -0300" stop="20230823190000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
-<programme start="20230818190000 -0300" stop="20230818200000 -0300" channel="TVMax.br">
+<programme start="20230823190000 -0300" stop="20230823200000 -0300" channel="TVMax.br">
  <title lang="pt">Vegeta TV</title>
  <desc lang="pt">O programa Vegeta TV, a melhor mesa redonda Rubro-Negra você encontra aqui.</desc>
 </programme>
-<programme start="20230818200000 -0300" stop="20230819000000 -0300" channel="TVMax.br">
+<programme start="20230823200000 -0300" stop="20230824000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title>
  <desc lang="pt">O Rio Corre pra max!!</desc>
  <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
 </programme>
 
-<programme start="20230811000000 -0300" stop="20230812000000 -0300" channel="TVMax.br">
+<programme start="20230824000000 -0300" stop="20230825000000 -0300" channel="TVMax.br">
  <title lang="pt">Programação TV Max</title> <rating system="CLASSIND"><value>A10</value></rating>  <icon src="https://i.ytimg.com/vi/Lz2M3IhAKeg/sddefault.jpg" />
  <desc lang="pt">O Rio Corre pra max!!</desc>
 </programme>
@@ -2377,38 +2377,38 @@
 </programme>
 ####teennet.br####
 
-<programme start="20230807000000 -0300" stop="2023080715700 -0300" channel="teennet.br">
+<programme start="20230821000000 -0300" stop="2023082115700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>10</value></rating>
 </programme>
-<programme start="20230807115700 -0300" stop="20230807120000 -0300" channel="teennet.br">
+<programme start="20230821115700 -0300" stop="20230821120000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>L</value></rating>
 </programme>
-<programme start="20230807120000 -0300" stop="20230807175700 -0300" channel="teennet.br">
+<programme start="20230821120000 -0300" stop="20230821175700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230807175700 -0300" stop="20230807180000 -0300" channel="teennet.br">
+<programme start="20230821175700 -0300" stop="20230821180000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
-<programme start="20230807180000 -0300" stop="20230807235700 -0300" channel="teennet.br">
+<programme start="20230821180000 -0300" stop="20230821235700 -0300" channel="teennet.br">
  <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="202308072357000 -0300" stop="20230808000000 -0300" channel="teennet.br">
+<programme start="202308212357000 -0300" stop="20230822000000 -0300" channel="teennet.br">
  <title lang="pt">Institucional TN / Drops e Notícias</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>AL</value></rating>
 </programme>
 
-<programme start="202307280000000 -0300" stop="20230728115700 -0300" channel="teennet.br">
+<programme start="202308220000000 -0300" stop="20230822115700 -0300" channel="teennet.br">
 <title lang="pt">Produção independente</title>
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
@@ -2476,7 +2476,7 @@
  <desc lang="pt">Polidoro TV hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
 </programme>
-<programme start="20230822000000 -0300" stop="2023082500000 -0300" channel="tvbs.br">
+<programme start="20230821000000 -0300" stop="2023082500000 -0300" channel="tvbs.br">
  <title lang="pt">Programação Polidoro TV</title>
  <desc lang="pt">Polidoro TV TEENNET hoje é um canal infanto juvenil (e para os de cara e coração) via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc>
  <rating system="CLASSIND"><value>A10</value></rating>
@@ -2498,15 +2498,15 @@
  
  ###xtremetv.br###
  
-<programme start="20230729000000 -0300" stop="20230803000000 -0300" channel="xtremetv.br">
+<programme start="20230819000000 -0300" stop="20230823000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="20230723000000 -0300" stop="20230726000000 -0300" channel="xtremetv.br">
+<programme start="20230823000000 -0300" stop="20230826000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
-<programme start="20230726000000 -0300" stop="20230729000000 -0300" channel="xtremetv.br">
+<programme start="20230826000000 -0300" stop="20230829000000 -0300" channel="xtremetv.br">
  <title lang="pt">Programação Xtreme TV</title>
  <desc lang="pt">Uma tv inovadora e ao mesmo tempo clássica, buscando novidades mas tendo a era de ouro sempre junto.</desc>
 </programme>
@@ -2516,11 +2516,11 @@
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="20230818000000 -0300" stop="20230822008000 -0300" channel="turnerdemo.br">
+<programme start="20230818000000 -0300" stop="20230822000000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
-<programme start="20230822000000 -0300" stop="20230826008000 -0300" channel="turnerdemo.br">
+<programme start="20230822000000 -0300" stop="20230826000000 -0300" channel="turnerdemo.br">
  <title lang="pt">Programação de Amostra</title>
  <desc lang="pt">Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc>
 </programme>
@@ -2653,47 +2653,47 @@
  <title lang="pt">Cine RETRÔ</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230726070000 -0300" stop="20230726120000 -0300" channel="vivaxtv.br">
- <title lang="pt">DESENHOS</title>
+<programme start="20230721070000 -0300" stop="20230726120000 -0300" channel="vivaxtv.br">
+ <title lang="pt">Desenhos Vivax</title>
  <desc lang="pt">Assista aos desenhos mais divertidos da televisão.</desc>
 </programme>
-<programme start="20230726120000 -0300" stop="20230726123000 -0300" channel="vivaxtv.br">
+<programme start="20230721120000 -0300" stop="20230726123000 -0300" channel="vivaxtv.br">
  <title lang="pt">Evidencias</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230726123000 -0300" stop="20230726140000 -0300" channel="vivaxtv.br">
+<programme start="20230821123000 -0300" stop="20230821140000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ VIVAX</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230726140000 -0300" stop="20230726150000 -0300" channel="vivaxtv.br">
+<programme start="20230821140000 -0300" stop="20230821150000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230726150000 -0300" stop="20230726160000 -0300" channel="vivaxtv.br">
+<programme start="20230821150000 -0300" stop="20230821160000 -0300" channel="vivaxtv.br">
   <title lang="pt">Pod Vivax</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230726160000 -0300" stop="20230726163000 -0300" channel="vivaxtv.br">
+<programme start="20230821160000 -0300" stop="20230821163000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230726163000 -0300" stop="20230726180000 -0300" channel="vivaxtv.br">
+<programme start="20230821163000 -0300" stop="20230821180000 -0300" channel="vivaxtv.br">
  <title lang="pt">Cine RETRÔ VIVAX</title>
  <desc lang="pt">Acompanhe os maiores clássicos do cinema mundial.</desc>
 </programme> 
-<programme start="20230726180000 -0300" stop="20230726183000 -0300" channel="vivaxtv.br">
+<programme start="20230821180000 -0300" stop="20230821183000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados - O Vigilante Rodoviário</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230726183000 -0300" stop="20230726210000 -0300" channel="vivaxtv.br">
+<programme start="20230821183000 -0300" stop="20230821210000 -0300" channel="vivaxtv.br">
  <title lang="pt">Seriados</title>
  <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
 </programme> 
-<programme start="20230726210000 -0300" stop="20230726220000 -0300" channel="vivaxtv.br">
+<programme start="20230821210000 -0300" stop="20230821220000 -0300" channel="vivaxtv.br">
   <title lang="pt">Pod Vivax</title>
  <desc lang="pt">programa</desc>
 </programme> 
-<programme start="20230726220000 -0300" stop="20230727000000 -0300" channel="vivaxtv.br">
+<programme start="20230821220000 -0300" stop="20230822000000 -0300" channel="vivaxtv.br">
  <title lang="pt">Programação VivaxTV</title>
  <desc lang="pt">A Rede Vivax de Televisão , É A TV FEITA PARA VOCÊ.</desc>
 </programme>  
