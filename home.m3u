@@ -134,7 +134,7 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="rbctv.br" tvg-chno="042" tvg-logo="https://static.wixstatic.com/media/d64a09_eb6335c1f3f24da298fc988d02053dd6~mv2.png/v1/fill/w_484,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d64a09_eb6335c1f3f24da298fc988d02053dd6~mv2.png" group-title="Variedades" , RBC TV HD
+#EXTINF: -1 tvg-id="rbctv.br" tvg-chno="042" tvg-logo="https://static.wixstatic.com/media/d64a09_eb6335c1f3f24da298fc988d02053dd6~mv2.png" group-title="Variedades" , RBC TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 
