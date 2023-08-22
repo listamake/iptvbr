@@ -267,24 +267,24 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230821000000 -0300" stop="20230821060000 -0300" channel="anitv.br">
+<programme start="20230823000000 -0300" stop="20230823060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230821060000 -0300" stop="20230821120000 -0300" channel="anitv.br">
+<programme start="20230823060000 -0300" stop="20230823120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
-<programme start="20230821120000 -0300" stop="20230822000000 -0300" channel="anitv.br">
+<programme start="20230823120000 -0300" stop="20230824000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
 
-<programme start="20230822000000 -0300" stop="20230822060000 -0300" channel="anitv.br">
+<programme start="20230824000000 -0300" stop="20230824060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230822060000 -0300" stop="20230822120000 -0300" channel="anitv.br">
+<programme start="20230824060000 -0300" stop="20230824120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
@@ -752,7 +752,7 @@
  <title lang="pt">Yeeaah APP</title>  <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4acet7jZDvkg4hfvCQWHcEwtz_zalB7fqN9GVlo2E8_QMrMMEhDXNpVOmwypjCe6-SEuOgSuey3IM4ETqLVOr4A9swNX161MPpZ_bFmq6vLL7mfj9JPSXLwVVUd33Eg2GVBaXu0Ro35Z_7_NAtZmG3cPXbWgkvEHLCuh2bXGlf7fte5y0k32yro_aDA/s1280/ANUNCIO-YEEAAH-TVCOINS.jpg" /> 
  <desc lang="pt">Exibição dos conteúdos disponível no app do Yeeaah.</desc>
 </programme>
-<programme start="20230821218000 -0300" stop="20230822000000 -0300" channel="yaaeeh.br">
+<programme start="20230821180000 -0300" stop="20230822000000 -0300" channel="yaaeeh.br">
  <title lang="pt">Yeeaah Games - Ao Vivo</title>
  <desc lang="pt">Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc>
  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />
@@ -908,73 +908,73 @@
  <title lang="pt">Boys VS. Girls</title>  <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Ativo-1@6x-1024x626.png" />
  <desc lang="pt">No Boys VS. Girls a Kpop TV abre espaço para os boys groups, mas sem deixar as girls de lado, alternando um MV de boys e um MV de girls.</desc>
 </programme>
-<programme start="20230818210000 -0300" stop="20230818213000 -0300" channel="KpopTVPlay.br">
+<programme start="20230823210000 -0300" stop="2023082333213000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">MV e Letra</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/MV_fe@6x-984x640.png" />
  <desc lang="pt">O MV e Letra é um programa dedicado apenas a MVs legendados, e você pode fazer seu pedido aqui no site, qual MV você quer ver legendado na programação.</desc>
 </programme>
-<programme start="20230818213000 -0300" stop="20230818233000 -0300" channel="KpopTVPlay.br">
+<programme start="20230823213000 -0300" stop="20230823233000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Dança e Joga</title>
  <desc lang="pt">O Dança e Joga junta o K-Pop e o game Beat Saber e mostra que é uma combinação perfeita.</desc>
  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/Captura-de-Tela-2022-08-27-a%CC%80s-12.37.08-926x640.png" />
 </programme>
-<programme start="20230818233000 -0300" stop="20230819000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230823233000 -0300" stop="20230824000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Old KPop</title>
  <desc lang="pt">Old KPop é dedicado aos grupos da antiga geração do K-Pop, as músicas que marcaram a velha geração em um programa dedicado totalmente a eles.</desc>
  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://kpoptv.live/wp-content/uploads/2022/08/OldKPOP2-1024x333.png" />
 </programme>
 
-<programme start="20230819000000 -0300" stop="20230820000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821000000 -0300" stop="20230821000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
-<programme start="20230820000000 -0300" stop="20230821000000 -0300" channel="KpopTVPlay.br">
+<programme start="20230821000000 -0300" stop="20230822000000 -0300" channel="KpopTVPlay.br">
  <title lang="pt">Programação Kpop TV Play</title>  <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.opovo.com.br/_midias/jpg/2022/09/01/818x460/1_stray_kids_shows_no_brasil-19597020.jpg" />
  <desc lang="pt">Canal de clipes de K-Pop, a música pop da Coréia do Sul, assista os MV\'s mais sensuais dos grupos femininos neste canal 24 horas.</desc>
 </programme>
 
 ###CanalUsuario.br###
  
-<programme start="20230820000000 -0300" stop="20230820020000 -0300" channel="CanalUsuario.br">
+<programme start="20230823000000 -0300" stop="20230823020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230820020000 -0300" stop="20230820030000 -0300" channel="CanalUsuario.br">
+<programme start="20230823020000 -0300" stop="20230823030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230820030000 -0300" stop="20230820040000 -0300" channel="CanalUsuario.br">
+<programme start="20230823030000 -0300" stop="20230823040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230820040000 -0300" stop="20230820100000 -0300" channel="CanalUsuario.br">
+<programme start="20230823040000 -0300" stop="20230823100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230820100000 -0300" stop="20230820110000 -0300" channel="CanalUsuario.br">
+<programme start="20230823100000 -0300" stop="20230823110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230820110000 -0300" stop="20230820130000 -0300" channel="CanalUsuario.br">
+<programme start="20230823110000 -0300" stop="20230823130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230820130000 -0300" stop="20230820140000 -0300" channel="CanalUsuario.br">
+<programme start="20230823130000 -0300" stop="20230823140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230820140000 -0300" stop="20230820170000 -0300" channel="CanalUsuario.br">
+<programme start="20230823140000 -0300" stop="20230823170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230820170000 -0300" stop="20230820180000 -0300" channel="CanalUsuario.br">
+<programme start="20230823170000 -0300" stop="20230823180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230820180000 -0300" stop="20230820220000 -0300" channel="CanalUsuario.br">
+<programme start="20230823180000 -0300" stop="20230823220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230820220000 -0300" stop="20230820230000 -0300" channel="CanalUsuario.br">
+<programme start="20230823220000 -0300" stop="20230823230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -982,52 +982,52 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230820230000 -0300" stop="20230821000000 -0300" channel="CanalUsuario.br">
+<programme start="20230823230000 -0300" stop="20230824000000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
  
-<programme start="20230821000000 -0300" stop="20230821020000 -0300" channel="CanalUsuario.br">
+<programme start="20230824000000 -0300" stop="20230824020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230821020000 -0300" stop="20230821030000 -0300" channel="CanalUsuario.br">
+<programme start="20230824020000 -0300" stop="20230824030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230821030000 -0300" stop="20230821040000 -0300" channel="CanalUsuario.br">
+<programme start="20230824030000 -0300" stop="20230824040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230821040000 -0300" stop="20230821100000 -0300" channel="CanalUsuario.br">
+<programme start="20230824040000 -0300" stop="20230824100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230821100000 -0300" stop="20230821110000 -0300" channel="CanalUsuario.br">
+<programme start="20230824100000 -0300" stop="20230824110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230821110000 -0300" stop="20230821130000 -0300" channel="CanalUsuario.br">
+<programme start="20230824110000 -0300" stop="20230824130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230821130000 -0300" stop="20230821140000 -0300" channel="CanalUsuario.br">
+<programme start="20230824130000 -0300" stop="20230824140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230821140000 -0300" stop="20230821170000 -0300" channel="CanalUsuario.br">
+<programme start="20230824140000 -0300" stop="20230824170000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230821170000 -0300" stop="20230821180000 -0300" channel="CanalUsuario.br">
+<programme start="20230824170000 -0300" stop="20230824180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230821180000 -0300" stop="20230821220000 -0300" channel="CanalUsuario.br">
+<programme start="20230824180000 -0300" stop="20230824220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230821220000 -0300" stop="202308212230000 -0300" channel="CanalUsuario.br">
+<programme start="20230824220000 -0300" stop="20230824230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1035,36 +1035,36 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230821230000 -0300" stop="20230822000000 -0300" channel="CanalUsuario.br">
+<programme start="20230824230000 -0300" stop="2023082500000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
 
-<programme start="20230822000000 -0300" stop="20230822020000 -0300" channel="CanalUsuario.br">
+<programme start="20230825000000 -0300" stop="20230825020000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230822020000 -0300" stop="20230822030000 -0300" channel="CanalUsuario.br">
+<programme start="20230825020000 -0300" stop="20230825030000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
-<programme start="20230822030000 -0300" stop="20230822040000 -0300" channel="CanalUsuario.br">
+<programme start="20230825030000 -0300" stop="20230825040000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
-<programme start="20230822040000 -0300" stop="20230822100000 -0300" channel="CanalUsuario.br">
+<programme start="20230825040000 -0300" stop="20230825100000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230822100000 -0300" stop="20230822110000 -0300" channel="CanalUsuario.br">
+<programme start="20230825100000 -0300" stop="20230825110000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230822110000 -0300" stop="20230822130000 -0300" channel="CanalUsuario.br">
+<programme start="20230825110000 -0300" stop="20230825130000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230822130000 -0300" stop="20230822140000 -0300" channel="CanalUsuario.br">
+<programme start="20230825130000 -0300" stop="20230825140000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
  <desc lang="pt">Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
 </programme>
@@ -1072,15 +1072,15 @@
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230819170000 -0300" stop="20230819180000 -0300" channel="CanalUsuario.br">
+<programme start="20230822170000 -0300" stop="20230822180000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Club Disney</title>  <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
  <desc lang="pt">Produções da disney.</desc>
 </programme>
-<programme start="20230819180000 -0300" stop="20230819220000 -0300" channel="CanalUsuario.br">
+<programme start="20230822180000 -0300" stop="20230822220000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
-<programme start="20230819220000 -0300" stop="20230819230000 -0300" channel="CanalUsuario.br">
+<programme start="20230822220000 -0300" stop="20230822230000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
  <desc lang="pt">Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
 </programme>
@@ -1088,7 +1088,7 @@
  <title lang="pt">Fala Mais Online</title>
  <desc lang="pt">Quer ficar bem informado sobre tudo que acontece no mundo do Rádio, da TV e da Comunicação? Então vem pro Fala Mais Online. Toda segunda, quarta e sexta, Allan Henrique trás tudo isso e muito mais com toda interatividade, credibilidade e opinião que você só ver aqui!</desc>
 </programme>
-<programme start="20230819230000 -0300" stop="2023082000000 -0300" channel="CanalUsuario.br">
+<programme start="20230822230000 -0300" stop="2023082300000 -0300" channel="CanalUsuario.br">
  <title lang="pt">Informercial</title>  <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
  <desc lang="pt">Divulgação de plataformas legarizadas pela anatel.</desc>
 </programme>
@@ -1102,7 +1102,7 @@
  <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
-<programme start="20230818000000 -0300" stop="20230821000000 -0300" channel="fkids.br">
+<programme start="20230828000000 -0300" stop="20230901000000 -0300" channel="fkids.br">
  <title lang="pt">Programação Experimental</title>  <rating system="CLASSIND"><value>AL</value></rating>
  <desc lang="pt">Fox kids o seu canal favorito.</desc>
 </programme>
