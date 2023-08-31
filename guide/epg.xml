@@ -267,15 +267,15 @@
 </channel>
 
        #####padrao especial anitv#####
-<programme start="20230823000000 -0300" stop="20230823060000 -0300" channel="anitv.br">
+<programme start="20230831000000 -0300" stop="20230831060000 -0300" channel="anitv.br">
  <title lang="pt">REPRISES da Madrugada</title> <rating system="CLASSIND"><value>A12</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
 </programme>
-<programme start="20230824060000 -0300" stop="20230824120000 -0300" channel="anitv.br">
+<programme start="20230831060000 -0300" stop="20230831120000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
-<programme start="20230824120000 -0300" stop="20230825000000 -0300" channel="anitv.br">
+<programme start="20230831120000 -0300" stop="20230901000000 -0300" channel="anitv.br">
  <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>10</value></rating>  <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
  <desc lang="pt">é Steam na net e anime na veia !!</desc>
 </programme>
