@@ -165,7 +165,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
 #EXTINF: -1 tvg-id="Rede21.br" tvg-chno="052" tvg-name="Rede 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqxZdFLLzePcMUspGYdrisNqyqyS-XlDyQw&usqp=CAU" group-title="Variedades", Canal 21
-https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UEkCMm8HE9dlR-6OyBpRlHAnZRSBHTHx4EsoaXbukM-)/cloud/3/x83vbd6/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UEkCMm8HE9dlR-6OyBpRlHAnZRSBHTHx4EsoaXbukM-)/cloud/3/x83vbd6/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="TVMax.br" tvg-chno="053" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="Canais de Música" ,TV Max RIO
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w777565696.m3u8
