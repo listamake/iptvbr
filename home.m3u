@@ -59,7 +59,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF: -1 tvg-id="CentralTV.br" tvg-chno="016" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="Entretenimento", Central TV HD
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w250641317.m3u8
 
-#EXTINF: -1 tvg-id="TVBrasil.br" tvg-chno="017" tvg-logo="https://yt3.googleusercontent.com/KzWzQgPrqgLEPVUCLf-lOateljuHJbSpxZL3YaIFFdr9_q_4s0F46BiwZLpO-pbm09bNBeAHpw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , TV Brasil
+#EXTINF: -1 tvg-id="TVBrasil.br" tvg-chno="017" tvg-logo="https://yt3.googleusercontent.com/r4jsceuzBXkkrN_9z0zvZCxxNaZsEBVzbhkC4On70WzZCzOA5OgTiPS5xkNPspQuxWUDIF81Ig=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , TV Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 
