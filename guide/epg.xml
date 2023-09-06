@@ -4,183 +4,311 @@
       <display-name lang="pt">Geekdot HD</display-name>
     </channel>
 
+    <channel id="CanalUsuario.br">
+      <display-name lang="pt">Canal do Usuario</display-name>
+    </channel>
+
     <channel id="pooptv.br">
       <display-name lang="pt">PoopTV</display-name>
+    </channel>
+
+    <channel id="RSNewsSports.br">
+      <display-name lang="pt">RS News Sports</display-name>
     </channel>
 
     <channel id="yaaeeh.br">
       <display-name lang="pt">Yeeaah HD</display-name>
     </channel>
 
-    <channel id="rbtv.br">
-      <display-name lang="pt">Canal RBTV</display-name>
-    </channel>
-
     <channel id="PLAYTV.br">
       <display-name lang="pt">PlayTV</display-name>
     </channel>
-    <programme start="20230905000000 -0300" stop="20230905020000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title>
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230905020000 -0300" stop="20230905070000 -0300" channel="anitv.br">
-      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title>
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230905070000 -0300" stop="20230905220000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title>
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230905220000 -0300" stop="20230905221000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title>
-      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    </programme>
-    <programme start="20230905221000 -0300" stop="20230905224000 -0300" channel="anitv.br">
-      <title lang="pt">All Saints Street</title>
-      <desc lang="pt"> Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
-    </programme>
-    <programme start="20230905224000 -0300" stop="20230905231000 -0300" channel="anitv.br">
-      <title lang="pt">Kemono Jihen</title>
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230905231000 -0300" stop="20230905233000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title>
-      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    </programme>
-    <programme start="20230905233000 -0300" stop="20230906000000 -0300" channel="anitv.br">
-      <title lang="pt">Re:ZERO -Starting Life In Another World</title>
-      <desc lang="pt"> Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
-    </programme>
+
+    <channel id="rbtv.br">
+      <display-name lang="pt">Canal RBTV</display-name>
+    </channel>
     <programme start="20230906000000 -0300" stop="20230906020000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title>
+      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
     <programme start="20230906020000 -0300" stop="20230906070000 -0300" channel="anitv.br">
-      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title>
+      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
-    <programme start="20230906070000 -0300" stop="20230906220000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title>
+    <programme start="20230906070000 -0300" stop="20230906210000 -0300" channel="anitv.br">
+      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+    </programme>
+    <programme start="20230906210000 -0300" stop="20230906213000 -0300" channel="anitv.br">
+      <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
+    </programme>
+    <programme start="20230906213000 -0300" stop="20230906220000 -0300" channel="anitv.br">
+      <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
     </programme>
     <programme start="20230906220000 -0300" stop="20230906221000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title>
+      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
       <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
     </programme>
     <programme start="20230906221000 -0300" stop="20230906224000 -0300" channel="anitv.br">
-      <title lang="pt">All Saints Street</title>
+      <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
       <desc lang="pt"> Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
     </programme>
     <programme start="20230906224000 -0300" stop="20230906231000 -0300" channel="anitv.br">
-      <title lang="pt">Kemono Jihen</title>
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+      <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt"> O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
     </programme>
     <programme start="20230906231000 -0300" stop="20230906233000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title>
+      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
       <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
     </programme>
     <programme start="20230906233000 -0300" stop="20230907000000 -0300" channel="anitv.br">
-      <title lang="pt">Re:ZERO -Starting Life In Another World</title>
+      <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
       <desc lang="pt"> Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907020000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title>
+      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
     <programme start="20230907020000 -0300" stop="20230907070000 -0300" channel="anitv.br">
-      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title>
+      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
-    <programme start="20230907070000 -0300" stop="20230907220000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title>
+    <programme start="20230907070000 -0300" stop="20230907210000 -0300" channel="anitv.br">
+      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
-    <programme start="20230905000000 -0300" stop="20230905120000 -0300" channel="pooptv.br">
-      <title lang="pt">YouTube Poop BR +16</title>
-      <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+    <programme start="20230907210000 -0300" stop="20230907213000 -0300" channel="anitv.br">
+      <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
     </programme>
-    <programme start="20230905120000 -0300" stop="20230906000000 -0300" channel="pooptv.br">
-      <title lang="pt">YouTube Poop BR +16</title>
-      <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+    <programme start="20230907213000 -0300" stop="20230907220000 -0300" channel="anitv.br">
+      <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
+    </programme>
+    <programme start="20230907220000 -0300" stop="20230907221000 -0300" channel="anitv.br">
+      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
+    </programme>
+    <programme start="20230907221000 -0300" stop="20230907224000 -0300" channel="anitv.br">
+      <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
+    </programme>
+    <programme start="20230907224000 -0300" stop="20230907231000 -0300" channel="anitv.br">
+      <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt"> O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
+    </programme>
+    <programme start="20230907231000 -0300" stop="20230907233000 -0300" channel="anitv.br">
+      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
+      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
+    </programme>
+    <programme start="20230907233000 -0300" stop="20230908000000 -0300" channel="anitv.br">
+      <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
+      <desc lang="pt"> Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
+    </programme>
+    <programme start="20230908000000 -0300" stop="20230908020000 -0300" channel="anitv.br">
+      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+    </programme>
+    <programme start="20230906000000 -0300" stop="20230906020000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230906020000 -0300" stop="20230906030000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+    </programme>
+    <programme start="20230906030000 -0300" stop="20230906040000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+      <desc lang="pt"> Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+    </programme>
+    <programme start="20230906040000 -0300" stop="20230906100000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230906100000 -0300" stop="20230906110000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Club Disney</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+      <desc lang="pt"> Produções da disney.</desc>
+    </programme>
+    <programme start="20230906110000 -0300" stop="20230906130000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230906130000 -0300" stop="20230906140000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+    </programme>
+    <programme start="20230906140000 -0300" stop="20230906170000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230906170000 -0300" stop="20230906180000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Club Disney</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+      <desc lang="pt"> Produções da disney.</desc>
+    </programme>
+    <programme start="20230906180000 -0300" stop="20230906220000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230906220000 -0300" stop="20230906230000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+      <desc lang="pt"> Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+    </programme>
+    <programme start="20230906230000 -0300" stop="20230907000000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907000000 -0300" stop="20230907020000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907020000 -0300" stop="20230907030000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+    </programme>
+    <programme start="20230907030000 -0300" stop="20230907040000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+      <desc lang="pt"> Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+    </programme>
+    <programme start="20230907040000 -0300" stop="20230907100000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907100000 -0300" stop="20230907110000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Club Disney</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+      <desc lang="pt"> Produções da disney.</desc>
+    </programme>
+    <programme start="20230907110000 -0300" stop="20230907130000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907130000 -0300" stop="20230907140000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+    </programme>
+    <programme start="20230907140000 -0300" stop="20230907170000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907170000 -0300" stop="20230907180000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Club Disney</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+      <desc lang="pt"> Produções da disney.</desc>
+    </programme>
+    <programme start="20230907180000 -0300" stop="20230907220000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907220000 -0300" stop="20230907230000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+      <desc lang="pt"> Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+    </programme>
+    <programme start="20230907230000 -0300" stop="20230908000000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230908000000 -0300" stop="20230908020000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
     </programme>
     <programme start="20230906000000 -0300" stop="20230906120000 -0300" channel="pooptv.br">
-      <title lang="pt">YouTube Poop BR +16</title>
+      <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
     <programme start="20230906120000 -0300" stop="20230907000000 -0300" channel="pooptv.br">
-      <title lang="pt">YouTube Poop BR +16</title>
+      <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907120000 -0300" channel="pooptv.br">
-      <title lang="pt">YouTube Poop BR +16</title>
+      <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
     <programme start="20230907120000 -0300" stop="20230908000000 -0300" channel="pooptv.br">
-      <title lang="pt">YouTube Poop BR +16</title>
+      <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
-    <programme start="20230905000000 -0300" stop="20230905120000 -0300" channel="yaaeeh.br">
-      <title lang="pt">Programação Yeeaah</title>
-      <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+    <programme start="20230908000000 -0300" stop="20230908120000 -0300" channel="pooptv.br">
+      <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+      <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
-    <programme start="20230905120000 -0300" stop="20230906000000 -0300" channel="yaaeeh.br">
-      <title lang="pt">Programação Yeeaah</title>
-      <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
+    <programme start="20230906000000 -0300" stop="20230906120000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+    </programme>
+    <programme start="20230906120000 -0300" stop="20230907000000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+    </programme>
+    <programme start="20230907000000 -0300" stop="20230907120000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+    </programme>
+    <programme start="20230907120000 -0300" stop="20230908000000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+    </programme>
+    <programme start="20230908000000 -0300" stop="20230908120000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
     </programme>
     <programme start="20230906000000 -0300" stop="20230906120000 -0300" channel="yaaeeh.br">
-      <title lang="pt">Programação Yeeaah</title>
+      <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
       <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
     </programme>
     <programme start="20230906120000 -0300" stop="20230907000000 -0300" channel="yaaeeh.br">
-      <title lang="pt">Programação Yeeaah</title>
+      <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
       <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907120000 -0300" channel="yaaeeh.br">
-      <title lang="pt">Programação Yeeaah</title>
+      <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
       <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
     </programme>
     <programme start="20230907120000 -0300" stop="20230908000000 -0300" channel="yaaeeh.br">
-      <title lang="pt">Programação Yeeaah</title>
+      <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
       <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
     </programme>
-    <programme start="20230905000000 -0300" stop="20230905060000 -0300" channel="rbtv.br">
-      <title lang="pt">Programação RBTV</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230905060000 -0300" stop="20230905130000 -0300" channel="rbtv.br">
-      <title lang="pt">Sintonia</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230906060000 -0300" stop="20230906130000 -0300" channel="rbtv.br">
-      <title lang="pt">Sintonia</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230906130000 -0300" stop="20230906193000 -0300" channel="rbtv.br">
-      <title lang="pt">Programação RBTV</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230906193000 -0300" stop="20230907000000 -0300" channel="rbtv.br">
-      <title lang="pt">Programação RBTV</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa?.</desc>
-    </programme>
-    <programme start="20230907000000 -0300" stop="20230907060000 -0300" channel="rbtv.br">
-      <title lang="pt">Programação RBTV</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230907060000 -0300" stop="20230907130000 -0300" channel="rbtv.br">
-      <title lang="pt">Sintonia</title>
-      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+    <programme start="20230908000000 -0300" stop="20230908120000 -0300" channel="yaaeeh.br">
+      <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
+      <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc>
     </programme>
     <programme start="20230906000000 -0300" stop="20230906164500 -0300" channel="PLAYTV.br">
-      <title lang="pt">Programação PlayTV</title>
+      <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt">Válido de 20/08/2023 até 10/09/2023 para o canal PlayTV Perde nem sempr tem alguem ai  ou seraa qque não.</desc>
     </programme>
     <programme start="20230906164500 -0300" stop="20230906230000 -0300" channel="PLAYTV.br">
-      <title lang="pt">Programação PlayTV</title>
+      <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt">Válido de 20/08/2023 até 10/09/2023 para o canal PlayTV caabr veio abestado voce vio o que ele estava fazendo!.</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907164500 -0300" channel="PLAYTV.br">
-      <title lang="pt">Programação PlayTV</title>
+      <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt">Válido de 20/08/2023 até 10/09/2023 para o canal PlayTV Perde nem sempr tem alguem ai  ou seraa qque não.</desc>
+    </programme>
+    <programme start="20230907164500 -0300" stop="20230907230000 -0300" channel="PLAYTV.br">
+      <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 10/09/2023 para o canal PlayTV caabr veio abestado voce vio o que ele estava fazendo!.</desc>
+    </programme>
+    <programme start="20230908000000 -0300" stop="20230908164500 -0300" channel="PLAYTV.br">
+      <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 10/09/2023 para o canal PlayTV Perde nem sempr tem alguem ai  ou seraa qque não.</desc>
+    </programme>
+    <programme start="20230906060000 -0300" stop="20230906130000 -0300" channel="rbtv.br">
+      <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+    </programme>
+    <programme start="20230906130000 -0300" stop="20230906193000 -0300" channel="rbtv.br">
+      <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Não se preocupe reveja os epsódios de ontem!.</desc>
+    </programme>
+    <programme start="20230906193000 -0300" stop="20230907000000 -0300" channel="rbtv.br">
+      <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa?.</desc>
+    </programme>
+    <programme start="20230907000000 -0300" stop="20230907060000 -0300" channel="rbtv.br">
+      <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
+    </programme>
+    <programme start="20230907060000 -0300" stop="20230907130000 -0300" channel="rbtv.br">
+      <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
+      <desc lang="pt">Válido de 20/08/2023 até 13/09/2023 para o canal Canal RBTV Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
 </tv>
