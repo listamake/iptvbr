@@ -3,15 +3,12 @@
     <channel id="canalstart.br">
       <display-name lang="pt">Canal Start HD</display-name>
     </channel>
-
     <channel id="anitv.br">
       <display-name lang="pt">Geekdot HD</display-name>
     </channel>
-
     <channel id="CanalUsuario.br">
       <display-name lang="pt">Canal do Usuario</display-name>
     </channel>
-
     <channel id="CentralTV.br">
       <display-name lang="pt">Central TV HD</display-name>
     </channel>
