@@ -12,6 +12,10 @@
       <display-name lang="pt">Canal do Usuario</display-name>
     </channel>
 
+    <channel id="CentralTV.br">
+      <display-name lang="pt">Central TV HD</display-name>
+    </channel>
+
     <channel id="ISTVHD.br">
       <display-name lang="pt">ISTV HD</display-name>
     </channel>
@@ -43,6 +47,10 @@
     <channel id="PLAYTV.br">
       <display-name lang="pt">PlayTV</display-name>
     </channel>
+
+    <channel id="GlnTV.br">
+      <display-name lang="pt">GLN TV HD</display-name>
+    </channel>
     <programme start="20230907000000 -0300" stop="20230907030000 -0300" channel="canalstart.br">
       <title lang="pt">Gameplay na TV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
       <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
@@ -69,6 +77,14 @@
     </programme>
     <programme start="20230909000000 -0300" stop="20230909020000 -0300" channel="canalstart.br">
       <title lang="pt">Hora Cult</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://cantodosclassicos.com/wp-content/uploads/2016/08/10082016-filmes-classicos-cult-gratis.jpg" />
+      <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+    </programme>
+    <programme start="20230909020000 -0300" stop="20230909030000 -0300" channel="canalstart.br">
+      <title lang="pt">Hora H - Especial</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://cdn.xxl.thumbs.canstockphoto.com.br/viga-h-desenhado-alfabeto-laser-chamas-letra-fogo-videos_csp80648556.jpg" />
+      <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
+    </programme>
+    <programme start="20230909030000 -0300" stop="20230910000000 -0300" channel="canalstart.br">
+      <title lang="pt">Gameplay na TV - Maratona</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
       <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907000500 -0300" channel="anitv.br">
@@ -195,6 +211,18 @@
       <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
       <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
     </programme>
+    <programme start="20230909070000 -0300" stop="20230909080000 -0300" channel="anitv.br">
+      <title lang="pt">Budega Do Maguila</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://apoiocoletivo.com/public/campaigns/large/74541633211598izlwghxly0tipwcd4vdzhmjcos4bqzb8ket1lqao.webp" />
+      <desc lang="pt"> Brega, forró, Jovem Guarda, lambada, sertanejo e o que o ouvinte pedir… Toda semana, uma sequência musical escolhida a dedo, dando espaço também para o “lado B” e artistas nem tão conhecidos…</desc>
+    </programme>
+    <programme start="20230909080000 -0300" stop="20230909103000 -0300" channel="anitv.br">
+      <title lang="pt">Maratona #FDS: Laid-Back Camp (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/LAIDBACK_img_site-200x144.png" />
+      <desc lang="pt"> Nadeshiko, uma colegial que se mudou para Yamanashi, decide ir visitar o famoso Monte Fuji das notas de mil ienes. Contudo, enquanto pedalava para Motosu, ela acaba desmaiando de cansaço e acorda à noite num lugar desconhecido, sem saber como voltar pra casa.</desc>
+    </programme>
+    <programme start="20230909103000 -0300" stop="20230909130000 -0300" channel="anitv.br">
+      <title lang="pt">Maratona #FDS: I've Been Killing Slimes For 300 Years And Maxed Out My Level</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/SLIME_img_site-200x144.png" />
+      <desc lang="pt"> Uma comédia caseira sobre uma garota poderosa que quer evitar a fadiga! Depois de morrer de estafa no mundo real, eu reencarnei como uma bruxa imortal, e passei 300 anos desfrutando a vida boa... Até que acabei batendo no nível 99! Tantos anos matando slimes pra pagar as contas me deram bastante XP...</desc>
+    </programme>
     <programme start="20230907000000 -0300" stop="20230907020000 -0300" channel="CanalUsuario.br">
       <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
@@ -294,6 +322,174 @@
     <programme start="20230909000000 -0300" stop="20230909020000 -0300" channel="CanalUsuario.br">
       <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230909020000 -0300" stop="20230909030000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+    </programme>
+    <programme start="20230909030000 -0300" stop="20230909040000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
+      <desc lang="pt"> Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc>
+    </programme>
+    <programme start="20230909040000 -0300" stop="20230909100000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230909100000 -0300" stop="20230909110000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Club Disney</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+      <desc lang="pt"> Produções da disney.</desc>
+    </programme>
+    <programme start="20230909110000 -0300" stop="20230909130000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230909130000 -0300" stop="20230909140000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc>
+    </programme>
+    <programme start="20230909140000 -0300" stop="20230909170000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230907000000 -0300" stop="20230907073000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230907073000 -0300" stop="20230907113000 -0300" channel="CentralTV.br">
+      <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
+      <desc lang="pt"> De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+    </programme>
+    <programme start="20230907113000 -0300" stop="20230907130000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa 190</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_18-1024x553.png" />
+      <desc lang="pt"> Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
+    </programme>
+    <programme start="20230907130000 -0300" stop="20230907131500 -0300" channel="CentralTV.br">
+      <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>null</value></rating> <icon src="null" />
+      <desc lang="pt"> Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
+    </programme>
+    <programme start="20230907131500 -0300" stop="20230907140000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230907140000 -0300" stop="20230907144000 -0300" channel="CentralTV.br">
+      <title lang="pt">Festival Hanna Barbera</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
+      <desc lang="pt"> Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
+    </programme>
+    <programme start="20230907144000 -0300" stop="20230907150000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa Faça e Lucre</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_15-1024x573.jpg" />
+      <desc lang="pt"> Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
+    </programme>
+    <programme start="20230907150000 -0300" stop="20230907153000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230907153000 -0300" stop="20230907183000 -0300" channel="CentralTV.br">
+      <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
+      <desc lang="pt"> A sua sessão de cinema sem sair de casa!</desc>
+    </programme>
+    <programme start="20230907183000 -0300" stop="20230907193000 -0300" channel="CentralTV.br">
+      <title lang="pt">Milk News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
+      <desc lang="pt"> Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
+    </programme>
+    <programme start="20230907193000 -0300" stop="20230907200000 -0300" channel="CentralTV.br">
+      <title lang="pt">Festival Disney</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
+      <desc lang="pt"> Varios de desenhos de grande sucesso da disney.</desc>
+    </programme>
+    <programme start="20230907200000 -0300" stop="20230907210000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230907210000 -0300" stop="20230908000000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230908000000 -0300" stop="20230908073000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230908073000 -0300" stop="20230908113000 -0300" channel="CentralTV.br">
+      <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
+      <desc lang="pt"> De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+    </programme>
+    <programme start="20230908113000 -0300" stop="20230908130000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa 190</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_18-1024x553.png" />
+      <desc lang="pt"> Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc>
+    </programme>
+    <programme start="20230908130000 -0300" stop="20230908131500 -0300" channel="CentralTV.br">
+      <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>null</value></rating> <icon src="null" />
+      <desc lang="pt"> Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc>
+    </programme>
+    <programme start="20230908131500 -0300" stop="20230908140000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230908140000 -0300" stop="20230908144000 -0300" channel="CentralTV.br">
+      <title lang="pt">Festival Hanna Barbera</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
+      <desc lang="pt"> Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
+    </programme>
+    <programme start="20230908144000 -0300" stop="20230908150000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa Faça e Lucre</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_15-1024x573.jpg" />
+      <desc lang="pt"> Andréia Freitas traz todos os dias as receitas mais interessantes em cosméticos, perfumes, produtos de limpeza e muito mais para você aprender fazer em casa para uso próprio ou para você que quer montar seu próprio negocio fabricando e vendendo!</desc>
+    </programme>
+    <programme start="20230908150000 -0300" stop="20230908153000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230908153000 -0300" stop="20230908183000 -0300" channel="CentralTV.br">
+      <title lang="pt">Cinemania</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_19-1024x572.jpg" />
+      <desc lang="pt"> A sua sessão de cinema sem sair de casa!</desc>
+    </programme>
+    <programme start="20230908183000 -0300" stop="20230908193000 -0300" channel="CentralTV.br">
+      <title lang="pt">Milk News</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_3-1024x535.jpg" />
+      <desc lang="pt"> Notícias, comentários, assuntos policiais, reportagens, jornalismo comentado, atualidades na opinião de João Leite Neto.</desc>
+    </programme>
+    <programme start="20230908193000 -0300" stop="20230908200000 -0300" channel="CentralTV.br">
+      <title lang="pt">Festival Disney</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/share-default.14fadd993578b9916f855cebafb71e62-1024x538.png" />
+      <desc lang="pt"> Varios de desenhos de grande sucesso da disney.</desc>
+    </programme>
+    <programme start="20230908200000 -0300" stop="20230908210000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230908210000 -0300" stop="20230909000000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230909000000 -0300" stop="20230909030000 -0300" channel="CentralTV.br">
+      <title lang="pt">Sessão Terror</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/08/Screenshot_53-1024x638.jpg" />
+      <desc lang="pt"> Os filmes mais assustadores agora na sua madrugada de sábado! Não perca!</desc>
+    </programme>
+    <programme start="20230909030000 -0300" stop="20230909040000 -0300" channel="CentralTV.br">
+      <title lang="pt">Festival Hanna Barbera</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
+      <desc lang="pt"> Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc>
+    </programme>
+    <programme start="20230909040000 -0300" stop="20230909070000 -0300" channel="CentralTV.br">
+      <title lang="pt">CentralTV CineClassic</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_9-1-1024x508.jpg" />
+      <desc lang="pt"> Os clássicos do cinema agora na tela da sua TV.</desc>
+    </programme>
+    <programme start="20230909070000 -0300" stop="20230909093000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230909093000 -0300" stop="20230909110000 -0300" channel="CentralTV.br">
+      <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
+      <desc lang="pt"> De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc>
+    </programme>
+    <programme start="20230909110000 -0300" stop="20230909113000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa Câmera Brasil</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/WhatsApp-Image-2022-07-11-at-12.37.28.jpeg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc>
+    </programme>
+    <programme start="20230909113000 -0300" stop="20230909133000 -0300" channel="CentralTV.br">
+      <title lang="pt">Jukebox TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_21-1024x537.jpg" />
+      <desc lang="pt"> As mais belas canções do sertanejo raiz você pede aqui no Programa JukeboxTV.</desc>
+    </programme>
+    <programme start="20230909133000 -0300" stop="20230909143000 -0300" channel="CentralTV.br">
+      <title lang="pt">Hora do Ulisses</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2023/02/Screenshot_19.png" />
+      <desc lang="pt"> "Hora do Ulisses" é o programa de culinária que vai transformar as suas refeições em momentos especiais! Comandado pelo renomado Chef Ulisses Viganó Junior, o programa apresenta receitas criativas e práticas, ideais para o dia a dia ou para impressionar em ocasiões especiais.</desc>
+    </programme>
+    <programme start="20230909141500 -0300" stop="20230909151500 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa da Cris</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_4-1-1.png" />
+      <desc lang="pt"> O Programa Da Cris é direcionado para incentivar as mulheres a encontrarem e desenvolverem a sua voz, ou seja, identificar os seus ativos e os alavancar.</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907053000 -0300" channel="ISTVHD.br">
       <title lang="pt">Madrugada Cinéfilos</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://istv.rizoo.com.br/assets/madrugada_cinefilos.jpeg" />
@@ -443,6 +639,26 @@
       <title lang="pt">Madrugada Cinéfilos</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://istv.rizoo.com.br/assets/madrugada_cinefilos.jpeg" />
       <desc lang="pt"> Filmes que marcaram epocas.</desc>
     </programme>
+    <programme start="20230909053000 -0300" stop="20230909090000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+      <desc lang="pt"> Aquela série pra matar a saudades.</desc>
+    </programme>
+    <programme start="20230909090000 -0300" stop="20230909110000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Acorda Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_acorda_criancada.jpeg" />
+      <desc lang="pt"> Os desenhos de graande sucesso aqui.</desc>
+    </programme>
+    <programme start="20230909110000 -0300" stop="20230909123000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+      <desc lang="pt"> Aquela série pra matar a saudades.</desc>
+    </programme>
+    <programme start="20230909123000 -0300" stop="20230909130000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Pet House</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc>
+    </programme>
+    <programme start="20230909130000 -0300" stop="20230909160000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+      <desc lang="pt"> Aquela série pra matar a saudades.</desc>
+    </programme>
     <programme start="20230907000000 -0300" stop="20230907120000 -0300" channel="pooptv.br">
       <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
@@ -460,6 +676,10 @@
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
     <programme start="20230909000000 -0300" stop="20230909120000 -0300" channel="pooptv.br">
+      <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
+      <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
+    </programme>
+    <programme start="20230909120000 -0300" stop="20230910000000 -0300" channel="pooptv.br">
       <title lang="pt">YouTube Poop BR +16</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> YouTube Poop BR (também chamado de YTPBR) é um tipo de mashup em vídeo, criado editando fontes de mídia pré-existentes para efeitos de humor, entretenimento, choque e/ou confusão. Não recomendado para menores de 16 anos.</desc>
     </programme>
@@ -483,6 +703,10 @@
       <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
       <desc lang="pt"> CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
     </programme>
+    <programme start="20230909120000 -0300" stop="20230910000000 -0300" channel="RetroCartoon.br">
+      <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> CARTOONS DOS ANOS 40,50.60,70 E 80.</desc>
+    </programme>
     <programme start="20230907000000 -0300" stop="20230907120000 -0300" channel="RSNewsSports.br">
       <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
       <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
@@ -503,25 +727,13 @@
       <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
       <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
     </programme>
+    <programme start="20230909120000 -0300" stop="20230910000000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="null" />
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc>
+    </programme>
     <programme start="20230907000000 -0300" stop="20230907070000 -0300" channel="ulbtv.br">
       <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
       <desc lang="pt"> Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc>
-    </programme>
-    <programme start="20230907070000 -0300" stop="20230907090000 -0300" channel="ulbtv.br">
-      <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
-      <desc lang="pt"> Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc>
-    </programme>
-    <programme start="20230907090000 -0300" stop="20230907123000 -0300" channel="ulbtv.br">
-      <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
-      <desc lang="pt"> Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
-    </programme>
-    <programme start="20230907123000 -0300" stop="20230907150000 -0300" channel="ulbtv.br">
-      <title lang="pt">Tele Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
-      <desc lang="pt"> Acompanhe as séries clássicas que marcaram época.</desc>
-    </programme>
-    <programme start="20230907150000 -0300" stop="20230907163000 -0300" channel="ulbtv.br">
-      <title lang="pt">Cinema na TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
-      <desc lang="pt"> Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
     </programme>
     <programme start="20230907163000 -0300" stop="20230907183000 -0300" channel="ulbtv.br">
       <title lang="pt">Sessão Anime</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
@@ -538,6 +750,38 @@
     <programme start="20230907220000 -0300" stop="20230908000000 -0300" channel="ulbtv.br">
       <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
       <desc lang="pt"> No Series você assiste as melhores Series da TV!</desc>
+    </programme>
+    <programme start="20230908163000 -0300" stop="20230908183000 -0300" channel="ulbtv.br">
+      <title lang="pt">Sessão Anime</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
+      <desc lang="pt"> No Sessão Anime você acompanha a os melhores animes da TV!</desc>
+    </programme>
+    <programme start="20230908183000 -0300" stop="20230908203000 -0300" channel="ulbtv.br">
+      <title lang="pt">Ulb Seriados</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-Seriados-690x302.jpg" />
+      <desc lang="pt"> As melhores séries estão aqui no Ulb Seriados!</desc>
+    </programme>
+    <programme start="20230908203000 -0300" stop="20230908220000 -0300" channel="ulbtv.br">
+      <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
+      <desc lang="pt"> Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
+    </programme>
+    <programme start="20230908220000 -0300" stop="20230909000000 -0300" channel="ulbtv.br">
+      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
+      <desc lang="pt"> No Series você assiste as melhores Series da TV!</desc>
+    </programme>
+    <programme start="20230907070000 -0300" stop="20230907090000 -0300" channel="ulbtv.br">
+      <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
+      <desc lang="pt"> Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc>
+    </programme>
+    <programme start="20230907090000 -0300" stop="20230907123000 -0300" channel="ulbtv.br">
+      <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
+      <desc lang="pt"> Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc>
+    </programme>
+    <programme start="20230907123000 -0300" stop="20230907150000 -0300" channel="ulbtv.br">
+      <title lang="pt">Tele Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
+      <desc lang="pt"> Acompanhe as séries clássicas que marcaram época.</desc>
+    </programme>
+    <programme start="20230907150000 -0300" stop="20230907163000 -0300" channel="ulbtv.br">
+      <title lang="pt">Cinema na TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
+      <desc lang="pt"> Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
     </programme>
     <programme start="20230908000000 -0300" stop="20230908070000 -0300" channel="ulbtv.br">
       <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
@@ -558,22 +802,6 @@
     <programme start="20230908150000 -0300" stop="20230908163000 -0300" channel="ulbtv.br">
       <title lang="pt">Cinema na TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_012605-690x302.jpg" />
       <desc lang="pt"> Acompanhe os filmes de produções bem avaliadas pela crítica.</desc>
-    </programme>
-    <programme start="20230908163000 -0300" stop="20230908183000 -0300" channel="ulbtv.br">
-      <title lang="pt">Sessão Anime</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Sessao-Anime-690x302.jpeg" />
-      <desc lang="pt"> No Sessão Anime você acompanha a os melhores animes da TV!</desc>
-    </programme>
-    <programme start="20230908183000 -0300" stop="20230908203000 -0300" channel="ulbtv.br">
-      <title lang="pt">Ulb Seriados</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-Seriados-690x302.jpg" />
-      <desc lang="pt"> As melhores séries estão aqui no Ulb Seriados!</desc>
-    </programme>
-    <programme start="20230908203000 -0300" stop="20230908220000 -0300" channel="ulbtv.br">
-      <title lang="pt">Cine Pipoca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230507_021041-690x302.jpg" />
-      <desc lang="pt"> Pegue uma pipoquinha e curta os filmes do Cine Pipoca.</desc>
-    </programme>
-    <programme start="20230908220000 -0300" stop="20230909000000 -0300" channel="ulbtv.br">
-      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
-      <desc lang="pt"> No Series você assiste as melhores Series da TV!</desc>
     </programme>
     <programme start="20230907000000 -0300" stop="20230907120000 -0300" channel="yaaeeh.br">
       <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
@@ -650,5 +878,61 @@
     <programme start="20230909000000 -0300" stop="20230909164500 -0300" channel="PLAYTV.br">
       <title lang="pt">Programação PlayTV</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt">Válido de 20/08/2023 até 10/09/2023 para o canal PlayTV Perde nem sempr tem alguem ai  ou seraa qque não.</desc>
+    </programme>
+    <programme start="20230907010000 -0300" stop="20230907080000 -0300" channel="GlnTV.br">
+      <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230907080000 -0300" stop="20230907130000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN KIDS - Desenhos Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_desenho_l_l.jpg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230907130000 -0300" stop="20230907180000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN RETRÔ Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230907180000 -0300" stop="20230907200000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN KIDS 2 - Nostalgia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230907200000 -0300" stop="20230907210000 -0300" channel="GlnTV.br">
+      <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230907210000 -0300" stop="20230907010000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN SUPER Clássicos</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230908010000 -0300" stop="20230908080000 -0300" channel="GlnTV.br">
+      <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230908080000 -0300" stop="20230908130000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN KIDS - Desenhos Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_desenho_l_l.jpg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230908130000 -0300" stop="20230908180000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN RETRÔ Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230908180000 -0300" stop="20230908200000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN KIDS 2 - Nostalgia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230908200000 -0300" stop="20230908210000 -0300" channel="GlnTV.br">
+      <title lang="pt">Hits Anos 80, 90 e 2000</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230908210000 -0300" stop="20230908010000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN SESSÃO TERROR</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://mir-s3-cdn-cf.behance.net/projects/404/cbc6e1103257869.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230909010000 -0300" stop="20230909080000 -0300" channel="GlnTV.br">
+      <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
+    </programme>
+    <programme start="20230909080000 -0300" stop="20230909010000 -0300" channel="GlnTV.br">
+      <title lang="pt">Diversos</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc>
     </programme>
 </tv>
