@@ -538,6 +538,9 @@ https://caikron.com.br:19360/canal1/canal1.m3u8
 #EXTINF: -1 tvg-id="BR8TV.br" tvg-chno="153" tvg-logo="https://yt3.googleusercontent.com/5IDsUCAYpY6GO2G4kU19sZBxBSvESAwtDt78HZkkjGBgXCIOy2PP9BnJnGjWErqNhCqwtv9mdQ=s900-c-k-c0x00ffffff-no-rj" group-title="Varejo" , BR8TV
 https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 
+#EXTINF: -1 tvg-id="RTNTV.br" tvg-chno="153" tvg-logo="https://yt3.googleusercontent.com/5IDsUCAYpY6GO2G4kU19sZBxBSvESAwtDt78HZkkjGBgXCIOy2PP9BnJnGjWErqNhCqwtv9mdQ=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , RTN TV
+https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
+
 #EXTINF: -1 tvg-id="RDCTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af54ed561ef9246c6db4cc8c13e5e309.webp" group-title="Variedades" , RDCTV
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w1685314312.m3u8
 
