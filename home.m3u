@@ -201,7 +201,7 @@ https://video01.soultv.com.br/soultv/soultv/chunklist_w1992219024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF: -1 tvg-id="CanalUsuario" tvg-chno="063" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 4
+#EXTINF: -1 tvg-id="CanalUsuario.br" tvg-chno="063" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Teste 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -536,6 +536,7 @@ https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtEFbQiHapzOlVOi_d4a445OzdV
 https://caikron.com.br:19360/canal1/canal1.m3u8
 
 #EXTINF: -1 tvg-id="UltrafarmaTV.br" tvg-chno="153" tvg-logo="https://pbs.twimg.com/profile_images/1641993283839614977/QdAkWFlR_400x400.jpg" group-title="Varejo" , Ultrafarma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stream.castr.com/619bcb57cf4d69d7ce7762c2/live_cf9cf240474c11ee800f35153c89d755/index.m3u8
 
 #EXTINF: -1 tvg-id="BR8TV.br" tvg-chno="153" tvg-logo="https://yt3.googleusercontent.com/5IDsUCAYpY6GO2G4kU19sZBxBSvESAwtDt78HZkkjGBgXCIOy2PP9BnJnGjWErqNhCqwtv9mdQ=s900-c-k-c0x00ffffff-no-rj" group-title="Varejo" , BR8TV
