@@ -131,7 +131,7 @@ https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w580604736.m3u8
 
 #EXTINF: -1 tvg-id="bstv.br" tvg-chno="040" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbt9d6sOMpzhxmfO5wi5O5SEcoTGczDsiUiGKf=s900-c-k-c0x00ffffff-no-rj" group-title="Entretenimento", BSTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w131605739.m3u8
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="adessotv.br" tvg-chno="041" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="Entretenimento", Adesso TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
