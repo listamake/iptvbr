@@ -18,19 +18,15 @@
     <channel id="anitv.br">
       <display-name lang="pt">Geekdot HD</display-name>
     </channel>
-
     <channel id="Canalteste">
       <display-name lang="pt">Canal Teste HD</display-name>
     </channel>
-
     <channel id="CanalUsuario.br">
       <display-name lang="pt">Canal do Usuario</display-name>
     </channel>
-
     <channel id="CentralTV.br">
       <display-name lang="pt">Central TV HD</display-name>
     </channel>
-
     <channel id="GlnTV.br">
       <display-name lang="pt">GLN TV HD</display-name>
     </channel>
