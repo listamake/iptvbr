@@ -124,11 +124,11 @@
     </programme>
     <programme start="20230915000000 -0300" stop="20230915080000 -0300" channel="bstv.br">
       <title lang="pt">BSTV Hits</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://st.depositphotos.com/1001165/1863/v/450/depositphotos_18632209-stock-illustration-music-pattern.jpg" />
-      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+      <desc lang="pt">surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
     </programme>
     <programme start="20230915080000 -0300" stop="20230915110000 -0300" channel="bstv.br">
       <title lang="pt">Hora Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
-      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
+      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO baixada de  SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc>
     </programme>
     <programme start="20230915110000 -0300" stop="20230915120000 -0300" channel="bstv.br">
       <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
