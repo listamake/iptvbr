@@ -3,23 +3,18 @@
     <channel id="AllSports.br">
       <display-name lang="pt">All Sport HD</display-name>
     </channel>
-
     <channel id="antena1tv.br">
       <display-name lang="pt">Antena 1 TV</display-name>
     </channel>
-
     <channel id="bstv.br">
       <display-name lang="pt">BSTV HD</display-name>
     </channel>
-
     <channel id="canalstart.br">
       <display-name lang="pt">Canal Start HD</display-name>
     </channel>
-
     <channel id="RedeCNT.br">
       <display-name lang="pt">CNT Rede HD</display-name>
     </channel>
-
     <channel id="anitv.br">
       <display-name lang="pt">Geekdot HD</display-name>
     </channel>
