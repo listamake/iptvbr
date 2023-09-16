@@ -9,7 +9,7 @@ https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Nacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE2OTQ4Mzg4MTMsImlhdCI6MTY5NDc1MjQxMywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1pbj0yMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1wZTEvcGxheWxpc3QubTN1OCJ9.Ql7wZ3fnEQsw0jQoO7yllpxIlqcKDSwArcPV6muvWR9ikojahIecP1ASCVHPB1_q4VbUrJjlFlIyf6iV3DaMp-WnApsU1e116t7Q3RwRVVkYJBX_DHwuzyAr_hf3AChL4dSZvgpF1poXJTFwItJJCnTGJTC1vY5c5SXlsE_hj81qwresNQNleFETgPbA-uGrJA96RjQugwD7FMkTQF097JYHWz3GqxtPYWQnKYxWN5z4euKIjZc4VGQ8UTqJ7r9TqpOaDxl4DK1Wwz26E5c0A5TZppfuyNRrKWww5Sg2n6FJNZdgG7fud-fuktawSZHdbDfzRZGOgk-oyK72q2de0A/nu/f(bMin=2000,dvr=120,i=2)/globo-pe1/playlist.m3u8
+https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
 
 #EXTINF: -1 tvg-id="GloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
