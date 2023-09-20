@@ -383,258 +383,48 @@
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230920000000 -0300" stop="20230920000500 -0300" channel="anitv.br">
-      <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
-      <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
-    </programme>
-    <programme start="20230920000500 -0300" stop="20230920003000 -0300" channel="anitv.br">
-      <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
-      <desc lang="pt"> Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
-    </programme>
-    <programme start="20230920003000 -0300" stop="20230920003500 -0300" channel="anitv.br">
-      <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
-      <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
-    </programme>
-    <programme start="20230920003500 -0300" stop="20230920010000 -0300" channel="anitv.br">
-      <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
-      <desc lang="pt"> Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
-    </programme>
-    <programme start="20230920010000 -0300" stop="20230920013000 -0300" channel="anitv.br">
-      <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
-      <desc lang="pt"> De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
-    </programme>
-    <programme start="20230920013000 -0300" stop="20230920020000 -0300" channel="anitv.br">
-      <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
-      <desc lang="pt"> A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
-    </programme>
-    <programme start="20230920020000 -0300" stop="20230920070000 -0300" channel="anitv.br">
-      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
+    
     <programme start="20230920060000 -0300" stop="20230920120000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230920070000 -0300" stop="20230920163000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
+    
     <programme start="20230920120000 -0300" stop="20230920180000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230920163000 -0300" stop="20230920173000 -0300" channel="anitv.br">
-      <title lang="pt">Nosso Eterno Verão</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nJ98JOaTk8qFpZ4o8otSA2nz1wE_x9Kk03EZJKEDq3Z2vTc15W3jGIRfOovtFRvGJmfyDlFJxQKgFQl65oK_wpgJXC-LOjRI-xDGmefDC97Xv32isAAGj_gmwMTik64xXABj1wh-VeLKj6DFCkGA_yRLM3binvaIa79xXvvxHW5owON-wbEY1uPEHQ/s16000/M-1445AASSEEE8.jpg" />
-      <desc lang="pt"> Anos após filmarem um documentário viral na escola, dois ex-namorados voltam para a frente das câmeras e talvez, para a vida um do outro.</desc>
-    </programme>
-    <programme start="20230920173000 -0300" stop="20230920180000 -0300" channel="anitv.br">
-      <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
-      <desc lang="pt"> Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
-    </programme>
+    
     <programme start="20230920180000 -0300" stop="20230921000000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230920180000 -0300" stop="20230920183000 -0300" channel="anitv.br">
-      <title lang="pt">Love Hina</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
-      <desc lang="pt"> Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
-    </programme>
-    <programme start="20230920183000 -0300" stop="20230920190000 -0300" channel="anitv.br">
-      <title lang="pt">El Hazard</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://images.justwatch.com/backdrop/248863068/s640/temporada-1/temporada-1" />
-      <desc lang="pt"> Makoto sempre ofusca Jinnai sem tentar, o que só agrava a rivalidade delirante que Jinnai inventou em sua própria mente.</desc>
-    </programme>
-    <programme start="20230920190000 -0300" stop="20230920193000 -0300" channel="anitv.br">
-      <title lang="pt">Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcV4FF-wLr0q_EXErhjbBEpMtN5bDtyUHsAAyhqcLokvIM50BO-n5ckAJS9AlZG0JK_gYtnZK_A647mwGklslrbKpROL59vGoMPqPjE9pssk5gAMkd1QjrFURyWKWFIhgN-Tn8ITs8NmbtN90R6jRRyQDS7sI3aE_-zH1n1TjIJtgVC4PFJw7RrRRhTg/s960/Ranma.jpg" />
-      <desc lang="pt"> Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
-    </programme>
-    <programme start="20230920193000 -0300" stop="20230920200000 -0300" channel="anitv.br">
-      <title lang="pt">Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
-      <desc lang="pt"> Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
-    </programme>
-    <programme start="20230920200000 -0300" stop="20230920203000 -0300" channel="anitv.br">
-      <title lang="pt">Toradora!</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
-      <desc lang="pt"> Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
-    </programme>
-    <programme start="20230920203000 -0300" stop="20230920210000 -0300" channel="anitv.br">
-      <title lang="pt">Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
-      <desc lang="pt"> Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
-    </programme>
-    <programme start="20230920210000 -0300" stop="20230920213000 -0300" channel="anitv.br">
-      <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
-      <desc lang="pt"> Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
-    </programme>
-    <programme start="20230920213000 -0300" stop="20230920220000 -0300" channel="anitv.br">
-      <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
-      <desc lang="pt"> Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
-    </programme>
-    <programme start="20230920220000 -0300" stop="20230920221000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
-      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    </programme>
-    <programme start="20230920221000 -0300" stop="20230920224000 -0300" channel="anitv.br">
-      <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
-      <desc lang="pt"> Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
-    </programme>
-    <programme start="20230920224000 -0300" stop="20230920231000 -0300" channel="anitv.br">
-      <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
-      <desc lang="pt"> O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
-    </programme>
-    <programme start="20230920231000 -0300" stop="20230920233000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
-      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    </programme>
-    <programme start="20230920233000 -0300" stop="20230921000000 -0300" channel="anitv.br">
-      <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
-      <desc lang="pt"> Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
-    </programme>
+    
     <programme start="20230921000000 -0300" stop="20230921060000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230921000000 -0300" stop="20230921000500 -0300" channel="anitv.br">
-      <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
-      <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
-    </programme>
-    <programme start="20230921000500 -0300" stop="20230921003000 -0300" channel="anitv.br">
-      <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
-      <desc lang="pt"> Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
-    </programme>
-    <programme start="20230921003000 -0300" stop="20230921003500 -0300" channel="anitv.br">
-      <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
-      <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
-    </programme>
-    <programme start="20230921003500 -0300" stop="20230921010000 -0300" channel="anitv.br">
-      <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
-      <desc lang="pt"> Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
-    </programme>
-    <programme start="20230921010000 -0300" stop="20230921013000 -0300" channel="anitv.br">
-      <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
-      <desc lang="pt"> De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
-    </programme>
-    <programme start="20230921013000 -0300" stop="20230921020000 -0300" channel="anitv.br">
-      <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
-      <desc lang="pt"> A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
-    </programme>
-    <programme start="20230921020000 -0300" stop="20230921070000 -0300" channel="anitv.br">
-      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
-    <programme start="20230921060000 -0300" stop="20230921120000 -0300" channel="anitv.br">
-      <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
-      <desc lang="pt"> Estamos realizando manuntenção</desc>
-    </programme>
-    <programme start="20230921070000 -0300" stop="20230921163000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
+    
     <programme start="20230921120000 -0300" stop="20230921180000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230921163000 -0300" stop="20230921173000 -0300" channel="anitv.br">
-      <title lang="pt">Nosso Eterno Verão</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nJ98JOaTk8qFpZ4o8otSA2nz1wE_x9Kk03EZJKEDq3Z2vTc15W3jGIRfOovtFRvGJmfyDlFJxQKgFQl65oK_wpgJXC-LOjRI-xDGmefDC97Xv32isAAGj_gmwMTik64xXABj1wh-VeLKj6DFCkGA_yRLM3binvaIa79xXvvxHW5owON-wbEY1uPEHQ/s16000/M-1445AASSEEE8.jpg" />
-      <desc lang="pt"> Anos após filmarem um documentário viral na escola, dois ex-namorados voltam para a frente das câmeras e talvez, para a vida um do outro.</desc>
-    </programme>
-    <programme start="20230921173000 -0300" stop="20230921180000 -0300" channel="anitv.br">
-      <title lang="pt">Futurama</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/306107489/s640/futurama/futurama" />
-      <desc lang="pt"> Philip J. Fry é um entregador de pizza de 25 anos cuja vida não leva a lugar nenhum. Quando ele acidentalmente congela em 31 de dezembro de 1999, ele acorda mil anos no futuro e tem a chance de fazer um sucesso. recomeço.</desc>
-    </programme>
+    
     <programme start="20230921180000 -0300" stop="20230922000000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230921180000 -0300" stop="20230921183000 -0300" channel="anitv.br">
-      <title lang="pt">Love Hina</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/248914841/s640/love-hina/love-hina" />
-      <desc lang="pt"> Keitaro e Naru começaram a vida universitária na Universidade de Tóquio! Depois de um longo período de estudos, acontecimentos bizarros, viagens aleatórias e mal-entendidos após mal-entendidos, o sonho deles finalmente se tornou realidade! No entanto, os sentimentos um pelo outro ainda estão um pouco.</desc>
-    </programme>
-    <programme start="20230921183000 -0300" stop="20230921190000 -0300" channel="anitv.br">
-      <title lang="pt">El Hazard</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://images.justwatch.com/backdrop/248863068/s640/temporada-1/temporada-1" />
-      <desc lang="pt"> Makoto sempre ofusca Jinnai sem tentar, o que só agrava a rivalidade delirante que Jinnai inventou em sua própria mente.</desc>
-    </programme>
-    <programme start="20230921190000 -0300" stop="20230921193000 -0300" channel="anitv.br">
-      <title lang="pt">Ranma ½ (Segunda Parte)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcV4FF-wLr0q_EXErhjbBEpMtN5bDtyUHsAAyhqcLokvIM50BO-n5ckAJS9AlZG0JK_gYtnZK_A647mwGklslrbKpROL59vGoMPqPjE9pssk5gAMkd1QjrFURyWKWFIhgN-Tn8ITs8NmbtN90R6jRRyQDS7sI3aE_-zH1n1TjIJtgVC4PFJw7RrRRhTg/s960/Ranma.jpg" />
-      <desc lang="pt"> Ranma Saotome é um jovem estudante de artes marciais. Certo dia, ele e seu pai partem para uma jornada de treinamento na China. Para o azar deles, ambos caíram em fontes estranhas durante o treinamento.</desc>
-    </programme>
-    <programme start="20230921193000 -0300" stop="20230921200000 -0300" channel="anitv.br">
-      <title lang="pt">Dr. Stone (Segunda Temporada)</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://i0.wp.com/atualinerd.com.br/wp-content/uploads/2022/02/Dr-Stone-4.png" />
-      <desc lang="pt"> Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência - Senku Ishigami.</desc>
-    </programme>
-    <programme start="20230921200000 -0300" stop="20230921203000 -0300" channel="anitv.br">
-      <title lang="pt">Toradora!</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/272736685/s640/toradora/toradora" />
-      <desc lang="pt"> Ryuji é um rapaz que vive sendo mal interpretado por causa do seu olhar ameaçador. Todos pensam que ele é um delinquente juvenil e que a qualquer momento vai atacar alguém. É primavera e em seu primeiro dia no segundo ano no ensino médio ele encontra uma pequena garota.</desc>
-    </programme>
-    <programme start="20230921203000 -0300" stop="20230921210000 -0300" channel="anitv.br">
-      <title lang="pt">Life Lessons With Uramichi Oniisan</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/248552018/s640/uramichioxiong-san/uramichioxiong-san" />
-      <desc lang="pt"> Ser um adulto é difícil. Para Uramichi Omota, de 31 anos, essa verdade deprimente pesa. Na TV, ele é um animado instrutor de exercícios em um programa infantil, mas às vezes, ele não consegue segurar seus comentários sarcásticos para si.</desc>
-    </programme>
-    <programme start="20230921210000 -0300" stop="20230921213000 -0300" channel="anitv.br">
-      <title lang="pt">Bungo Stray Dogs</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2023/07/legiao_8pzv4yqUaZ3A.jpg.webp" />
-      <desc lang="pt"> Expulso do orfanato e prestes a morrer de fome, Atsushi Nakajima conhece alguns homens bastante estranhos. Um deles, Osamu Dazai, é um suicida tentando se afogar em plena luz do dia. Outro, chamado Doppo Kunikida, fica parado, folheando nervosamente seu bloco de anotações.</desc>
-    </programme>
-    <programme start="20230921213000 -0300" stop="20230921220000 -0300" channel="anitv.br">
-      <title lang="pt">Jujutsu Kaisen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://japan-geeks.com/wp-content/uploads/2022/03/FMNUfRVaUAAVfGq-768x436.jpeg" />
-      <desc lang="pt"> Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição.</desc>
-    </programme>
-    <programme start="20230921220000 -0300" stop="20230921221000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
-      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    </programme>
-    <programme start="20230921221000 -0300" stop="20230921224000 -0300" channel="anitv.br">
-      <title lang="pt">All Saints Street</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/239918464/s640/all-saints-street/all-saints-street" />
-      <desc lang="pt"> Neil, um demônio de bom coração, sempre sonhou em morar no mundo humano, até o dia em que foi convidado por seu melhor amigo, um vampiro chamado Ira, a ir morar na Rua de Todos os Santos. Seus colegas de quarto são anjos, múmias e outras criaturas "inumanas". Mas enquanto desfruta da vida caótica de uma república jovem, reside dentro de Neil o poder do Rei Demônio - e para obter esse poder, viajam para o mundo humano o irmão de Neil e seu colega lobisomem. Será que Neil conseguirá levar uma vida normal no mundo humano?</desc>
-    </programme>
-    <programme start="20230921224000 -0300" stop="20230921231000 -0300" channel="anitv.br">
-      <title lang="pt">Kemono Jihen</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://i0.wp.com/anmtv.com.br/wp-content/uploads/kemono-jihen-2.jpg" />
-      <desc lang="pt"> O detetive especial Inugami Kohachi é enviado para investigar um fenômeno terrível envolvendo cadáveres de animais perto de uma aldeia afastada nas montanhas. Mas depois de encontrar um garoto estranho que concorda em ajudar, ele descobre forças sobrenaturais amaldiçoadas em ação.</desc>
-    </programme>
-    <programme start="20230921231000 -0300" stop="20230921233000 -0300" channel="anitv.br">
-      <title lang="pt">CyberLife</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/CYBERLIFE_img_site-200x144.png" />
-      <desc lang="pt"> Atenção! Conectando ao mundo geek e nerd na sua geekdot . . . Esse é o nosso programa, aqui você pode conferir tudo desse squad gamer, jogatinas de peso, curiosidades desse universo e claro, Animes! Com a apresentação responsa da Equipe NG4 E-Sports, venha e aventure-se conosco nos finais de noite!</desc>
-    </programme>
-    <programme start="20230921233000 -0300" stop="20230922000000 -0300" channel="anitv.br">
-      <title lang="pt">Re:ZERO -Starting Life In Another World</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://sm.ign.com/ign_br/screenshot/default/blob_qgs6.jpg" />
-      <desc lang="pt"> Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional... e, por fim, a morte.</desc>
-    </programme>
+    
     <programme start="20230922000000 -0300" stop="20230922060000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230922000000 -0300" stop="20230922000500 -0300" channel="anitv.br">
-      <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
-      <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
-    </programme>
-    <programme start="20230922000500 -0300" stop="20230922003000 -0300" channel="anitv.br">
-      <title lang="pt">More Than A Married Couple, But Not Lovers</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.animesxis.com.br/wp-content/uploads/2022/09/More-Than-a-Married-Couple-But-Not-Lovers-image-pv.jpg" />
-      <desc lang="pt"> Ser parceiro de um projeto do ensino médio com sua paixão é um sonho, mas e se for com alguém que você não suporta e o projeto for casamento? Isso é o que Jirō Yakuin e gyaru, Akari Watanabe, descobrirão ao serem testados como se isso não bastasse, suas paixões também são parceiras! Se quiserem mudar, terão que fazer esse casamento arranjado funcionar e chegar ao top 10.</desc>
-    </programme>
-    <programme start="20230922003000 -0300" stop="20230922003500 -0300" channel="anitv.br">
-      <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
-      <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc>
-    </programme>
-    <programme start="20230922003500 -0300" stop="20230922010000 -0300" channel="anitv.br">
-      <title lang="pt">Goblin Slayer</title> <rating system="CLASSIND"><value>16</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/GOBLIN_img_site-200x144.png" />
-      <desc lang="pt"> Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate - um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. </desc>
-    </programme>
-    <programme start="20230922010000 -0300" stop="20230922013000 -0300" channel="anitv.br">
-      <title lang="pt">Paranoia Agent</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://easternminute.com/wp-content/uploads/Paranoia-Agent-678x381.png" />
-      <desc lang="pt"> De Satoshi Kon, o lendário diretor de Perfect Blue and Paprika, chega um thriller psicológico sombrio e misterioso. Cidadãos em Musashino estão sendo assaltados e aterrorizados, e dois detetives devem descobrir o mistério do Garoto do Taco.</desc>
-    </programme>
-    <programme start="20230922013000 -0300" stop="20230922020000 -0300" channel="anitv.br">
-      <title lang="pt">Dororo</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://1.bp.blogspot.com/-QDrFmQp2pVs/X2jwClQAmEI/AAAAAAAAgsE/lXElWIZfnIA6rd5COczxTycBwFGKxe5xwCNcBGAsYHQ/w1200-h630-p-k-no-nu/resenha-dororo-anime.jpg" />
-      <desc lang="pt"> A terra do ganancioso senhor samurai Daigo Kagemitsu está morrendo, e ele faria qualquer coisa pelo poder, até mesmo renunciar a Buda e fazer um pacto com os demônios. Suas orações são respondidas por 12 demônios que lhe concedem o poder que ele deseja.</desc>
-    </programme>
-    <programme start="20230922020000 -0300" stop="20230922070000 -0300" channel="anitv.br">
-      <title lang="pt">Maratona Nas Madrugadas Da Geekdot!</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/geekdot_itv-200x144.png" />
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
+    
+    
     <programme start="20230922060000 -0300" stop="20230922120000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
     </programme>
-    <programme start="20230922070000 -0300" stop="20230922163000 -0300" channel="anitv.br">
-      <title lang="pt">Programação Geekdot</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
-      <desc lang="pt"> Perdeu alguma coisa? Não se preocupe reveja os epsódios de ontem!.</desc>
-    </programme>
+    
     <programme start="20230922120000 -0300" stop="20230922180000 -0300" channel="anitv.br">
       <title lang="pt">Manuntenção</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
       <desc lang="pt"> Estamos realizando manuntenção</desc>
