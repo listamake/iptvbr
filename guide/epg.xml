@@ -1448,11 +1448,11 @@
       <desc lang="pt"> A Voz do Brasil é um noticiário radiofônico estatal, produzido pela Empresa Brasil de Comunicação, de difusão obrigatória cuja transmissão deve ocorrer de segunda a sexta-feira em todas as emissoras radiofônicas brasileiras.</desc>
     </programme>
     <programme start="20230922200000 -0300" stop="20230922204500 -0300" channel="radioclubeampe.br">
-      <title lang="pt">Esquenta Clube</title> <rating system="CLASSIND"><value>A10</value></rating> 
+      <title lang="pt">A Anunciar</title> <rating system="CLASSIND"><value>A10</value></rating> 
       <desc lang="pt"> Notícias dos clubes, reportagens especiais, curiosidades.</desc>
     </programme>
     <programme start="20230922204500 -0300" stop="20230923000000 -0300" channel="radioclubeampe.br">
-      <title lang="pt">Sport vs. Londrina</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <title lang="pt">A Anunciar</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> Futebol</desc>
     </programme>
     <programme start="20230923000000 -0300" stop="20230923060000 -0300" channel="radioclubeampe.br">
