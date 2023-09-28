@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (28/09/2023,02h02m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (28/09/2023,03h02m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -185,13 +185,13 @@ https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/ch
 #EXTINF: -1 tvg-id="Gln.br" tvg-chno="057" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="Canais de Filmes" , GLN TV HD
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w875086446.m3u8
 
-#EXTINF: -1 tvg-id="FronteiraMovies.br" tvg-chno="058" tvg-logo="https://img.freepik.com/vetores-premium/design-de-icone-de-filme-de-filme-de-badalo_24877-23150.jpg" group-title="Canais de Filmes", Movies HD
+#EXTINF: -1 tvg-id="Movies.br" tvg-chno="058" tvg-logo="https://img.freepik.com/vetores-premium/design-de-icone-de-filme-de-filme-de-badalo_24877-23150.jpg" group-title="Canais de Filmes", Movies HD
 https://stmv1.srvif.com/movies1/movies1/chunklist_w1227343616.m3u8
 
 #EXTINF: -1 tvg-id="TelecineAction.br"tvg-chno="059" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title="Canais de Filmes" , TV AGUA BOA SD 
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-id="FronteiraMovies.br" tvg-chno="060" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Canais de Filmes", Classique TV
+#EXTINF: -1 tvg-id="Movies.br" tvg-chno="060" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Canais de Filmes", Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1179955502.m3u8
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-chno="061" tvg-logo="https://mb.cision.com/Public/18510/0/8d23b21b002720f0_400x400ar.jpg" group-title="Canais em Teste", Feed 1 - Soul TV
