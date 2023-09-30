@@ -39,7 +39,7 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF: -1 tvg-id="JovemPanNews.br" tvg-chno="011" tvg-logo="https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Notícias", Jovem Pan News
-https://rumble.com/live-hls/3aflw6/playlist.m3u8?
+https://rumble.com/live-hls/3j7pz2/playlist.m3u8?
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-name="TV Gazeta" tvg-chno="012" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" pltv-subgroup = "tvgazeta", TV Gazeta - TV Cidade Araçatuba 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -279,7 +279,7 @@ https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist_w1065344421.m3u8
 https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="TVMarAlagoas.br" tvg-logo="https://lh3.googleusercontent.com/-lue-LgNv3AY/X0EaClBcQDI/AAAAAAAA41M/ZoVjbjTi0AoqlbX7mHrAOmynWTzZvCN2wCK8BGAsYHg/s0/2020-08-22.png" group-title="Variedades" , TV Mar HD
-https://stream-01.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSiCikXrJDelq1vyog0y9Wp5-hdkkIpVvhVF1oSLbzMWN)/dm/3/x8i500l/d/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(Eass_GmycFHejU_poOXBSmRHEVn6ucQzlEOUs2AqsDjJab3E5hMEjHwCqAEbWNAO)/dm/3/x8i500l/d/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="Canalteste" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste", Canal Teste 5
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
