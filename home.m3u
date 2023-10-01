@@ -77,7 +77,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF: -1 tvg-id="anitv.br" tvg-chno="021" tvg-logo="https://cdn.discordapp.com/attachments/990727404676853810/1099885583427453098/Picsart_23-04-23_23-02-52-253.jpg" group-title="Canais Geek", Geekdot HD
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-id="yeeaah.br" tvg-name="Yeeaah HD" tvg-chno="022" tvg-logo="https://yt3.googleusercontent.com/JwwCxZAspcRPDFKx12TyPC7Y3uZ058KWC2R8flIG1OqVxjOwM6-pypia9iMUUabdpDDnIyP6Ag=s176-c-k-c0x00ffffff-no-rj" group-title="Canais Geek", Yeeaah HD
+#EXTINF: -1 tvg-id="PolidoroTV.br" tvg-name="Yeeaah HD" tvg-chno="022" tvg-logo="https://yt3.googleusercontent.com/JwwCxZAspcRPDFKx12TyPC7Y3uZ058KWC2R8flIG1OqVxjOwM6-pypia9iMUUabdpDDnIyP6Ag=s176-c-k-c0x00ffffff-no-rj" group-title="Canais Geek", Yeeaah HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://d6ty74mk4gbf8.cloudfront.net/out/v1/eee0458277eb45d7879a19815a33ddc4/index.mpd
 
@@ -230,10 +230,10 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="AgroBrasilTV.br" tvg-chno="071" tvg-logo="https://yt3.googleusercontent.com/cXotKAuWNCW4tfw_XCJ32w2iyOsx3m5h9BNXl3SpItLwo7ZDO8QcLNtF4sbSIfMoUbnI4b2tKXQ=s900-c-k-c0x00ffffff-no-rj" group-title="Agronegócio", AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Loadingweb.br" tvg-chno="072" tvg-logo="https://pbs.twimg.com/media/FfEaDZbXwAEQLeK?format=png&name=small" group-title="Canais Geek", Loading Web
+#EXTINF: -1 tvg-id="Loadingweb.br" tvg-chno="072" tvg-logo="https://cdn.discordapp.com/attachments/1055509834717474946/1158041403302084608/31_Sem_Titulo_20230930195420.png" group-title="Canais Geek", Loading Web
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="teennet.br" tvg-chno="073" tvg-name="TV Teen Net HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="Canais Geek", TV Teen Net HD
+#EXTINF:-1 tvg-id="PolidoroTV.br" tvg-chno="073" tvg-name="TV Teen Net HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/084299119e2cf7e1b863489165dd5af3.webp" group-title="Canais Geek", TV Teen Net HD
 https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-chno="074" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg" group-title="Canais Geek", Kpop TV Play
@@ -380,7 +380,7 @@ https://caikron.com.br:19360/floripa/floripa.m3u8
 
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-dGvDKXymhh2rB3XhnFkjrDsR0ZKfx2mibThDkW480-F)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-dGvDKXymhh2rB3XhnFkjrDsR0ZKfx2mibThDkW480-F)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -538,6 +538,10 @@ https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
 
 #EXTINF: -1 tvg-id="BR8TV.br" tvg-chno="153" tvg-logo="https://yt3.googleusercontent.com/5IDsUCAYpY6GO2G4kU19sZBxBSvESAwtDt78HZkkjGBgXCIOy2PP9BnJnGjWErqNhCqwtv9mdQ=s900-c-k-c0x00ffffff-no-rj" group-title="Varejo" , BR8TV
 https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+
+#EXTINF: -1 tvg-id="TVGazin.br" tvg-chno="153" tvg-logo="https://pbs.twimg.com/profile_images/1644034655773945857/ZeYcJAWE_400x400.jpg" group-title="Variedades" , TV Gazin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/canal1.m3u8
 
 #EXTINF: -1 tvg-id="RTNTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="Variedades" , RTN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
