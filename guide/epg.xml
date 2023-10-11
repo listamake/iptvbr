@@ -57,6 +57,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="animetv.br">
       <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
       <desc lang="pt"> Varios animes</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="animetv.br">
+      <title lang="pt">Programação de Animes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://yt3.googleusercontent.com/wZ_YYCwSma2YaWFjjaA_SNFO6GVmie2cCnSTCsgV_60sfCq9PwSTNgi03LDpIAk06S9VlS1izGI=s900-c-k-c0x00ffffff-no-rj" />
+      <desc lang="pt"> Varios animes</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="AllSports.br">
       <title lang="pt">Programação All Sports</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/OeKWI0n0q1I/maxresdefault.jpg" />
       <desc lang="pt"> All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc></programme>
@@ -72,6 +75,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="AllSports.br">
       <title lang="pt">Programação All Sports</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/OeKWI0n0q1I/maxresdefault.jpg" />
       <desc lang="pt"> All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="AllSports.br">
+      <title lang="pt">Programação All Sports</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/OeKWI0n0q1I/maxresdefault.jpg" />
+      <desc lang="pt"> All Sports é uma Web TV com transmissão ao vivo de jogos que quase nunca você vê nas TVs tradicionais.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="antena1tv.br">
       <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
       <desc lang="pt"> A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc></programme>
@@ -85,6 +91,9 @@
       <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
       <desc lang="pt"> A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="antena1tv.br">
+      <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
+      <desc lang="pt"> A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="antena1tv.br">
       <title lang="pt">Programação Antena 1</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://yt3.googleusercontent.com/ytc/AOPolaTimZvqjGPrAiE_jHhrPgfum_jeGyql--lhsVh64Rs=s900-c-k-c0x00ffffff-no-rj" />
       <desc lang="pt"> A Antena 1 foi a primeira rede de emissoras FM do Brasil a operar de forma automática via satélite, com a mesma programação irradiada real time, por 24 horas.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011080000 -0300" channel="bstv.br">
@@ -141,6 +150,18 @@
     <programme start="20231013080000 -0300" stop="20231013110000 -0300" channel="bstv.br">
       <title lang="pt">Hora Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
       <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013120000 -0300" channel="bstv.br">
+      <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013123000 -0300" channel="bstv.br">
+      <title lang="pt">Jornal do Boris</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc></programme>
+    <programme start="20231013123000 -0300" stop="20231013140000 -0300" channel="bstv.br">
+      <title lang="pt">Programação BSTV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013160000 -0300" channel="bstv.br">
+      <title lang="pt">Cine Play</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://bstv.com.br/wp-content/uploads/2021/11/142936984_230587435310780_8909029251605903278_n.jpg" />
+      <desc lang="pt"> A BSTV (GRUPO/COLETIVO DE COMUNICAÇÃO BAIXADA SANTISTA NA TV), surgiu da união de três emissoras de canais públicos não estatais da região metropolitana da baixada santista.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011010000 -0300" channel="canalstart.br">
       <title lang="pt">Playlist Start</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc></programme>
@@ -175,6 +196,12 @@
       <title lang="pt">Playlist Start</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc></programme>
     <programme start="20231013010000 -0300" stop="20231013120000 -0300" channel="canalstart.br">
+      <title lang="pt">Gameplay na TV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
+      <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013130000 -0300" channel="canalstart.br">
+      <title lang="pt">Playlist Start</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013233000 -0300" channel="canalstart.br">
       <title lang="pt">Gameplay na TV</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.promobit.com.br/blog/wp-content/uploads/2022/08/11165321/tv-para-games-1.jpg" />
       <desc lang="pt"> O START é um canal de TV gamer de alcance global que transmite 24 horas por dia pela internet, por meio de um serviço de OTT streaming. Oferece conteúdo variado que abrange o universo otaku, geek, nerd e tech. Você pode acompanhar gratuitamente a programação ao vivo do START, além de ficar por dentro das últimas notícias do mundo geek.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011084500 -0300" channel="RedeCNT.br">
@@ -249,6 +276,12 @@
     <programme start="20231013084500 -0300" stop="20231013085900 -0300" channel="RedeCNT.br">
       <title lang="pt">CNT NOTÍCIAS - Reprises</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.cnt.com.br/public/uploads/jh1uQM5JW2aE7etDTPXrnA8bC3.jpg" />
       <desc lang="pt"> A pauta é intensa e de toda parte chegam notícias que marcaram o dia.</desc></programme>
+    <programme start="20231013085900 -0300" stop="20231013090000 -0300" channel="RedeCNT.br">
+      <title lang="pt">CNT News</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.cnt.com.br/public/uploads/baixa_5MSeofuL6H1vwZza7d2mAtO3Gj.jpg" />
+      <desc lang="pt">  Mas a cada hora muitas coisas acontecem no mundo e você precisa estar antenado com todos os fatos.</desc></programme>
+    <programme start="20231013090000 -0300" stop="20231013175900 -0300" channel="RedeCNT.br">
+      <title lang="pt">Igreja Universal</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.minhaoperadora.com.br/wp-content/uploads/2023/01/Igreja-Universal-compra-por-valor-milionario-horario-nobre-na-TV-Gazeta.jpg" />
+      <desc lang="pt"> Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011000500 -0300" channel="anitv.br">
       <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
       <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc></programme>
@@ -438,6 +471,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="Canalteste">
       <title lang="pt">Programação de Teste</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt"> Canal em fase de testes</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="Canalteste">
+      <title lang="pt">Programação de Teste</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Canal em fase de testes</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011070000 -0300" channel="CanalSaude.br">
       <title lang="pt">Fora do ar</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/ayf1sYiNLhQ/mqdefault.jpg" />
       <desc lang="pt"> A programação estara de volta ás 7h.</desc></programme>
@@ -553,6 +589,18 @@
       <title lang="pt">Planeta Feroz - Furacão</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://i.ytimg.com/vi/dUEd73vCZ-c/hqdefault.jpg" />
       <desc lang="pt"> Veja situações expostas em que os seres humanos sentem-se impotentes diante da poderosa e destrutiva força da natureza.</desc></programme>
     <programme start="20231013040000 -0300" stop="20231013100000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013110000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Club Disney</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Club_Disney.png" />
+      <desc lang="pt"> Produções da disney.</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013130000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013140000 -0300" channel="CanalUsuario.br">
+      <title lang="pt">Maravilhas da Natureza - A História do Mundo</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/07/31/f88538cd-7eff-4048-9fe1-a61ac27b36f7.jpg" />
+      <desc lang="pt"> Torne-se uma testemunha da criação e como a natureza molda e destrói alguns dos lugares mais espetaculares da Terra, como o Grand Canyon, as Cataratas dos Anjos, a Grande Barreira de Corais, o Deserto do Saara, o Havaí ou o Alasca.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013170000 -0300" channel="CanalUsuario.br">
       <title lang="pt">Informercial</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.camara.leg.br/midias/image/2022/07/img20190812140144008-768x497.jpg" />
       <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011060000 -0300" channel="CentralTV.br">
@@ -672,6 +720,18 @@
     <programme start="20231013073000 -0300" stop="20231013113000 -0300" channel="CentralTV.br">
       <title lang="pt">Clube da Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Sem-titulo-2-e1656896183644-1.png" />
       <desc lang="pt"> De segunda a sábado suas manhãs ficam mais animadas, o tradicional programa infantil dos anos 80 está de volta trazendo os melhores desenhos da época para você relembrar sua infância e mostrar para seus filhos toda a magia deste tempo!</desc></programme>
+    <programme start="20231013113000 -0300" stop="20231013130000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programa 190</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_18-1024x553.png" />
+      <desc lang="pt"> Há 19 anos trazendo o melhor da informação pra você.Pisou na bola, virou notícia, virou notícia vem parar aqui, na tela doooo 190!</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013131500 -0300" channel="CentralTV.br">
+      <title lang="pt">Momento Mario Celso</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/MARIOCELSO_jpg-1024x576.jpg" />
+      <desc lang="pt"> Mario Celso traz todos os dias, numerologia, dicas, curiosidades gerais e sobre os famosos, Momento Mario Celso, entretenimento para toda a família.</desc></programme>
+    <programme start="20231013131500 -0300" stop="20231013140000 -0300" channel="CentralTV.br">
+      <title lang="pt">Programação Central TV</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://htforum.net/data/attachments/7/7493-2e4b79eeded0d153616ce5844cae1fc5.jpg" />
+      <desc lang="pt"> A Rede CentralTV Brasil desde 2016 exibe o melhor conteúdo de pura nostalgia, filmes, desenhos e séries dos anos 70/80 e 90 junto de muita informação e os melhores programas feitos especialmente para você! Rede CentralTV Brasil, você em primeiro lugar!</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013144000 -0300" channel="CentralTV.br">
+      <title lang="pt">Festival Hanna Barbera</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_14-1024x578.jpg" />
+      <desc lang="pt"> Todos os dias os melhores desenhos da Hanna Barbera dos anos 70 e 80 para você curtir com toda a família!</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011010000 -0300" channel="Clouding.br">
       <title lang="pt">Cine Jovem</title> <rating system="CLASSIND"><value>12</value></rating> 
       <desc lang="pt"> filmes de vários gêneros</desc></programme>
@@ -681,8 +741,38 @@
     <programme start="20231011081000 -0300" stop="20231011110000 -0300" channel="Clouding.br">
       <title lang="pt">Clouding kids</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> .</desc></programme>
+    <programme start="20231011110000 -0300" stop="20231011120000 -0300" channel="Clouding.br">
+      <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011120000 -0300" stop="20231011123000 -0300" channel="Clouding.br">
+      <title lang="pt">Malcolm in the Middle</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011123000 -0300" stop="20231011130000 -0300" channel="Clouding.br">
+      <title lang="pt">Nostalgia clipes</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011130000 -0300" stop="20231011133000 -0300" channel="Clouding.br">
+      <title lang="pt">O Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
     <programme start="20231011133000 -0300" stop="20231011141000 -0300" channel="Clouding.br">
       <title lang="pt">Jornal Brasil News</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011141000 -0300" stop="20231011160000 -0300" channel="Clouding.br">
+      <title lang="pt">Super Herói</title> <rating system="CLASSIND"><value>12</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011160000 -0300" stop="20231011170000 -0300" channel="Clouding.br">
+      <title lang="pt">Cartoon Geek</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://pa-str.srvsite.com/arquivos/7030/locutor-7030-20220918164118.jpg" />
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011170000 -0300" stop="20231011183000 -0300" channel="Clouding.br">
+      <title lang="pt">Cine trash</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011183000 -0300" stop="20231011190000 -0300" channel="Clouding.br">
+      <title lang="pt">Programa Jeplay Games</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011190000 -0300" stop="20231011193000 -0300" channel="Clouding.br">
+      <title lang="pt">Programa Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011193000 -0300" stop="20231011200000 -0300" channel="Clouding.br">
+      <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> .</desc></programme>
     <programme start="20231011200000 -0300" stop="20231011220000 -0300" channel="Clouding.br">
       <title lang="pt">Sessão animes</title> <rating system="CLASSIND"><value>12</value></rating> 
@@ -774,6 +864,24 @@
     <programme start="20231013081000 -0300" stop="20231013110000 -0300" channel="Clouding.br">
       <title lang="pt">Clouding kids</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> .</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013120000 -0300" channel="Clouding.br">
+      <title lang="pt">Programa História sem fim</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013123000 -0300" channel="Clouding.br">
+      <title lang="pt">Malcolm in the Middle</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013123000 -0300" stop="20231013130000 -0300" channel="Clouding.br">
+      <title lang="pt">Nostalgia clipes</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013133000 -0300" channel="Clouding.br">
+      <title lang="pt">O Multiverso</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013133000 -0300" stop="20231013141000 -0300" channel="Clouding.br">
+      <title lang="pt">Jornal Brasil News</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013141000 -0300" stop="20231013160000 -0300" channel="Clouding.br">
+      <title lang="pt">Super Herói</title> <rating system="CLASSIND"><value>12</value></rating> 
+      <desc lang="pt"> .</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011080000 -0300" channel="GlnTV.br">
       <title lang="pt">Programção GLN</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
       <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc></programme>
@@ -815,6 +923,9 @@
       <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc></programme>
     <programme start="20231013080000 -0300" stop="20231013130000 -0300" channel="GlnTV.br">
       <title lang="pt">GLN KIDS - Desenhos Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_desenho_l_l.jpg" />
+      <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013180000 -0300" channel="GlnTV.br">
+      <title lang="pt">GLN RETRÔ Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://imagem.natelinha.uol.com.br/original/anos2020_a955fe9e1db813ff9af1cf48d77bf9eb9328e2cb.jpeg" />
       <desc lang="pt"> Um canal dedicado à filmes de vários gêneros</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011090000 -0300" channel="demais.br">
       <title lang="pt">Programação D+TV</title> <rating system="CLASSIND"><value>10</value></rating> 
@@ -897,6 +1008,27 @@
     <programme start="20231013000000 -0300" stop="20231013090000 -0300" channel="demais.br">
       <title lang="pt">Programação D+TV</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013090000 -0300" stop="20231013093000 -0300" channel="demais.br">
+      <title lang="pt">Fatos na TV</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013093000 -0300" stop="20231013100000 -0300" channel="demais.br">
+      <title lang="pt">Artesanato em Casa</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013103000 -0300" channel="demais.br">
+      <title lang="pt">Turismo</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013103000 -0300" stop="20231013110000 -0300" channel="demais.br">
+      <title lang="pt">Viver Eficiente</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013120000 -0300" channel="demais.br">
+      <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013133000 -0300" channel="demais.br">
+      <title lang="pt">Demais News</title> <rating system="CLASSIND"><value>A10</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
+    <programme start="20231013133000 -0300" stop="20231013190000 -0300" channel="demais.br">
+      <title lang="pt">Programação Demais TV</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> No ar desde 2002, a D + TV foi a segunda emissora de tv no Brasil a transmitir sua programação pela internet em streaming. </desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="EsporteBrasilia.br">
       <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
@@ -910,6 +1042,9 @@
       <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="EsporteBrasilia.br">
+      <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="EsporteBrasilia.br">
       <title lang="pt">Programação Esportes Brasília</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="fkids.br">
@@ -927,6 +1062,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="fkids.br">
       <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="fkids.br">
+      <title lang="pt">Programação Experimental</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="Movies.br">
       <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
       <desc lang="pt"> O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc></programme>
@@ -940,6 +1078,9 @@
       <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
       <desc lang="pt"> O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="Movies.br">
+      <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
+      <desc lang="pt"> O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="Movies.br">
       <title lang="pt">Seleção de Filmes</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://2.bp.blogspot.com/-YIQS7XOMtl0/XNcR-lxIxhI/AAAAAAACa7o/FMr0uXxBPXw0q4jR7LqayWrWzKeOwNz6ACLcBGAs/s640/6d0bc7_dc94e77dd4154625a9c148862a994780_mv2.jpg" />
       <desc lang="pt"> O "Fronteira Movies" é um canal exclusivo de filmes. Tem dos antigos, aos novos, e dos ultrapassados, aos lançamentos.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011190000 -0300" channel="KpopTVPlay.br">
@@ -1074,6 +1215,18 @@
     <programme start="20231013080500 -0300" stop="20231013100000 -0300" channel="interativatv.br">
       <title lang="pt">Check in</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> .</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013120000 -0300" channel="interativatv.br">
+      <title lang="pt">Inbox</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013132000 -0300" channel="interativatv.br">
+      <title lang="pt">Papo Cabeça</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://sistema.interativafm.net/storage/ondemand/covers/fEUNrtXSZw9ciOHCq9SMYVALzymQ3Sse8yiwgjBy.jpg" />
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013132000 -0300" stop="20231013140000 -0300" channel="interativatv.br">
+      <title lang="pt">Top Bumerangue</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> Bora voltar no tempo e relembrar as musicas classicas que marcarm epoca.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013150000 -0300" channel="interativatv.br">
+      <title lang="pt">Independência</title> <rating system="CLASSIND"><value>12</value></rating> 
+      <desc lang="pt"> .</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011053000 -0300" channel="ISTVHD.br">
       <title lang="pt">Madrugada Cinéfilos</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://istv.rizoo.com.br/assets/madrugada_cinefilos.jpeg" />
       <desc lang="pt"> Filmes que marcaram epocas.</desc></programme>
@@ -1188,46 +1341,28 @@
     <programme start="20231013053000 -0300" stop="20231013090000 -0300" channel="ISTVHD.br">
       <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
       <desc lang="pt"> Aquela série pra matar a saudades.</desc></programme>
+    <programme start="20231013090000 -0300" stop="20231013110000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Acorda Criança</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_acorda_criancada.jpeg" />
+      <desc lang="pt"> Os desenhos de graande sucesso aqui.</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013113000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Só Sucessos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_sucessos.jpeg" />
+      <desc lang="pt"> Os melhores sucessos musicais aqui.</desc></programme>
+    <programme start="20231013113000 -0300" stop="20231013120000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Seta Viagem</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_seta_viagens.jpeg" />
+      <desc lang="pt"> Divulgação de plataformas legarizadas pela anatel.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013123000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+      <desc lang="pt"> Aquela série pra matar a saudades.</desc></programme>
+    <programme start="20231013123000 -0300" stop="20231013130000 -0300" channel="ISTVHD.br">
+      <title lang="pt">ISTV Notícias</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_noticias.jpeg" />
+      <desc lang="pt"> Fique bem informado.</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013140000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Só no Forró</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://istv.rizoo.com.br/assets/istv_so_no_forro.jpeg" />
+      <desc lang="pt"> Fique bem informado.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013150000 -0300" channel="ISTVHD.br">
+      <title lang="pt">Séries</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://logos.flamingtext.com/Word-Logos/serie-design-china-name.png" />
+      <desc lang="pt"> Aquela série pra matar a saudades.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011020000 -0300" channel="loadingweb.br">
-      <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231011153000 -0300" stop="20231011160000 -0300" channel="loadingweb.br">
-      <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231011200000 -0300" stop="20231011210000 -0300" channel="loadingweb.br">
-      <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231011210000 -0300" stop="20231011213000 -0300" channel="loadingweb.br">
-      <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
-      <desc lang="pt"> A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc></programme>
-    <programme start="20231011213000 -0300" stop="20231011220000 -0300" channel="loadingweb.br">
-      <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>A14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231011220000 -0300" stop="20231011223000 -0300" channel="loadingweb.br">
-      <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231011223000 -0300" stop="20231011230000 -0300" channel="loadingweb.br">
-      <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231011230000 -0300" stop="20231012000000 -0300" channel="loadingweb.br">
-      <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231012150000 -0300" stop="20231012153000 -0300" channel="loadingweb.br">
-      <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
-      <desc lang="pt"> A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc></programme>
-    <programme start="20231012153000 -0300" stop="20231012160000 -0300" channel="loadingweb.br">
-      <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231012200000 -0300" stop="20231012220000 -0300" channel="loadingweb.br">
-      <title lang="pt">Elementos</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307455916/s640/elementos/elementos" />
-      <desc lang="pt"> Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.</desc></programme>
-    <programme start="20231012220000 -0300" stop="20231012223000 -0300" channel="loadingweb.br">
-      <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231012223000 -0300" stop="20231012230000 -0300" channel="loadingweb.br">
-      <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> 
-      <desc lang="pt"> .</desc></programme>
-    <programme start="20231012230000 -0300" stop="20231013000000 -0300" channel="loadingweb.br">
       <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
       <desc lang="pt"> .</desc></programme>
     <programme start="20231011020000 -0300" stop="20231011023000 -0300" channel="loadingweb.br">
@@ -1287,6 +1422,33 @@
     <programme start="20231011150000 -0300" stop="20231011153000 -0300" channel="loadingweb.br">
       <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
       <desc lang="pt"> A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc></programme>
+    <programme start="20231011153000 -0300" stop="20231011160000 -0300" channel="loadingweb.br">
+      <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011160000 -0300" stop="20231011193000 -0300" channel="loadingweb.br">
+      <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011193000 -0300" stop="20231011200000 -0300" channel="loadingweb.br">
+      <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
+      <desc lang="pt"> Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc></programme>
+    <programme start="20231011200000 -0300" stop="20231011210000 -0300" channel="loadingweb.br">
+      <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011210000 -0300" stop="20231011213000 -0300" channel="loadingweb.br">
+      <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
+      <desc lang="pt"> A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc></programme>
+    <programme start="20231011213000 -0300" stop="20231011220000 -0300" channel="loadingweb.br">
+      <title lang="pt">The Rizing Shield Hero</title> <rating system="CLASSIND"><value>A14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011220000 -0300" stop="20231011223000 -0300" channel="loadingweb.br">
+      <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011223000 -0300" stop="20231011230000 -0300" channel="loadingweb.br">
+      <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231011230000 -0300" stop="20231012000000 -0300" channel="loadingweb.br">
+      <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
     <programme start="20231012000000 -0300" stop="20231012020000 -0300" channel="loadingweb.br">
       <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
       <desc lang="pt"> .</desc></programme>
@@ -1344,6 +1506,30 @@
     <programme start="20231012143000 -0300" stop="20231012150000 -0300" channel="loadingweb.br">
       <title lang="pt">Inuyasha</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/304878994/s640/inuyasha-guren-no-houraijima/inuyasha-guren-no-houraijima" />
       <desc lang="pt"> Uma adolescente viaja periodicamente no tempo para o Japão feudal para ajudar um jovem meio-demônio a recuperar os cacos de uma joia de grande poder.</desc></programme>
+    <programme start="20231012150000 -0300" stop="20231012153000 -0300" channel="loadingweb.br">
+      <title lang="pt">My Hero Academia</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/298725613/s640/my-hero-academia-movie-3/my-hero-academia-movie-3" />
+      <desc lang="pt"> A maior parte das pessoas no mundo têm poderes que se chamam 'Quirks', exceto Izuku. Isso muda quando conhece o herói mais famoso do mundo... e o seu destino também.</desc></programme>
+    <programme start="20231012153000 -0300" stop="20231012160000 -0300" channel="loadingweb.br">
+      <title lang="pt">Yu-Gi-Oh!</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231012160000 -0300" stop="20231012193000 -0300" channel="loadingweb.br">
+      <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231012193000 -0300" stop="20231012200000 -0300" channel="loadingweb.br">
+      <title lang="pt">Ranma ½</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/163284174/s640/temporada-1/temporada-1" />
+      <desc lang="pt"> Saotome Ranma, um adolescente e artista marcial, e o seu pai Genma viajam até ao 'amaldiçoado campo de treino' de Jusenkyo na China. Lá, apesar dos avisos da guarda chinesa, eles caem nas nascentes amaldiçoadas.</desc></programme>
+    <programme start="20231012200000 -0300" stop="20231012220000 -0300" channel="loadingweb.br">
+      <title lang="pt">Elementos</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/307455916/s640/elementos/elementos" />
+      <desc lang="pt"> Em uma cidade onde os habitantes de fogo, água, terra e ar convivem, uma jovem mulher flamejante e um rapaz que vive seguindo o fluxo descobrem algo surpreendente, porém elementar: o quanto eles têm em comum.</desc></programme>
+    <programme start="20231012220000 -0300" stop="20231012223000 -0300" channel="loadingweb.br">
+      <title lang="pt">Tokyo revengs</title> <rating system="CLASSIND"><value>14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231012223000 -0300" stop="20231012230000 -0300" channel="loadingweb.br">
+      <title lang="pt">Fayri Tail</title> <rating system="CLASSIND"><value>A14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231012230000 -0300" stop="20231013000000 -0300" channel="loadingweb.br">
+      <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013020000 -0300" channel="loadingweb.br">
       <title lang="pt">Momento Crunchyrol</title> <rating system="CLASSIND"><value>14</value></rating> 
       <desc lang="pt"> .</desc></programme>
@@ -1386,6 +1572,18 @@
     <programme start="20231013083000 -0300" stop="20231013120000 -0300" channel="loadingweb.br">
       <title lang="pt">Programação Loading WebTV</title> <rating system="CLASSIND"><value>12</value></rating> 
       <desc lang="pt"> .</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013123000 -0300" channel="loadingweb.br">
+      <title lang="pt">Fairy Tail</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://images.justwatch.com/backdrop/242880992/s640/fairy-tail/fairy-tail" />
+      <desc lang="pt"> Quando quatro jovens feiticeiros se juntam e trabalham um pouco por todo o reino, criam um elo mais poderoso do que qualquer magia e ficam mais fortes a cada missão.</desc></programme>
+    <programme start="20231013123000 -0300" stop="20231013130000 -0300" channel="loadingweb.br">
+      <title lang="pt">I'm the Villainess, So I'm Taming the Final Boss</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://www.justwatch.com/images/backdrop/302213148/s640/im-the-villainess-so-im-taming-the-final-boss/im-the-villainess-so-im-taming-the-final-boss" />
+      <desc lang="pt"> Quando seu noivado com o príncipe termina sem cerimônia, detalhes da vida passada da jovem nobre Aileen voltam correndo e a ajudam a perceber que ela está vivendo dentro do mundo de um de seus jogos favoritos - como a maior rival da heroína! </desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013140000 -0300" channel="loadingweb.br">
+      <title lang="pt">The 100</title> <rating system="CLASSIND"><value>14</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013143000 -0300" channel="loadingweb.br">
+      <title lang="pt">Yu Yu Hakusho</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://img.youtube.com/vi/uPCDju1aFTQ/mqdefault.jpg" />
+      <desc lang="pt"> Yu Yu Hakusho é uma série de mangá shonen escrita e ilustrada por Yoshihiro Togashi que conta a história de Yusuke Urameshi, um delinquente de quatorze anos de idade que é atingido e morto por um carro ao tentar salvar a vida de uma criança.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="PolidoroTV.br">
       <title lang="pt">Programação Polidoro TV</title> <rating system="CLASSIND"><value>12</value></rating> 
       <desc lang="pt"> Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc></programme>
@@ -1399,6 +1597,9 @@
       <title lang="pt">Programação Polidoro TV</title> <rating system="CLASSIND"><value>12</value></rating> 
       <desc lang="pt"> Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="PolidoroTV.br">
+      <title lang="pt">Programação Polidoro TV</title> <rating system="CLASSIND"><value>12</value></rating> 
+      <desc lang="pt"> Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="PolidoroTV.br">
       <title lang="pt">Programação Polidoro TV</title> <rating system="CLASSIND"><value>12</value></rating> 
       <desc lang="pt"> Polidoro TV  é um canal infanto via streaming. No ar 24/7, ou seja 24 horas por dia, 7 dias por semana, onde você encontra o melhor da programação de todos os tempos.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011030000 -0300" channel="pooptv.br">
@@ -1473,6 +1674,9 @@
     <programme start="20231013060000 -0300" stop="20231013090000 -0300" channel="bandfmrede.br">
       <title lang="pt">Hora do Ronco</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/8Yb2Joz5B4Q/sddefault.jpg" />
       <desc lang="pt"> O programa A Hora do Ronco é um verdadeiro clássico da rádio FM, com mais de 32 anos de história e ainda mantém seu posto como líder de audiência onde quer que seja transmitido. O humor é a marca registrada deste programa, que cativa seus ouvintes com um conteúdo descontraído e divertido.</desc></programme>
+    <programme start="20231013090000 -0300" stop="20231013210000 -0300" channel="bandfmrede.br">
+      <title lang="pt">Programação Band FM</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://pubimg.band.uol.com.br/Files/bandfm-live.png" />
+      <desc lang="pt"> Band FM é uma rede de rádio brasileira voltada para o segmento popular, pertencente ao Grupo Bandeirantes de Comunicação.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011050000 -0300" channel="cbnrede.br">
       <title lang="pt">CBN Madrugada</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MNVGP7SJ62QJukeSGDwV3DKuJIQto1GY4FSeYtdrxJTu8h4jaKuv-ZfOuLs7jY3ElpA0iAXlqphIN17eXp0VbTEiJYpZBxvHev74yac1pGE0L9S8nHojOz_sdEXXkuOtj7FcvBi8TGJkTeJ2M4LmeZiL7uDfqzzHcJ67oy4ud4WttsrKO1epU5qS7pE/s320/cbn%20madrugada.png" />
       <desc lang="pt"> Com Paulo Galvão</desc></programme>
@@ -1536,6 +1740,18 @@
     <programme start="20231013060000 -0300" stop="20231013093000 -0300" channel="cbnrede.br">
       <title lang="pt">Jornal da CBN</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicc0REdGTNqQw93US7hn_CwzWTFlDT6HdSQ" />
       <desc lang="pt"> Noticiario</desc></programme>
+    <programme start="20231013093000 -0300" stop="20231013100000 -0300" channel="cbnrede.br">
+      <title lang="pt">CBN em Foco</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC0vrk17D3vdLdwJnrZqzcljCyGyC12G09w" />
+      <desc lang="pt"> Com Paulo Galvão</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013120000 -0300" channel="cbnrede.br">
+      <title lang="pt">CBN Plaça</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://estaticos.globoradio.globo.com/fotos/2021/10/36bb9447-bbdf-47ff-a04e-2f7f07f14617.jpg" />
+      <desc lang="pt"> fique bem informado do que acontece no seu estado ou cidade.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013140000 -0300" channel="cbnrede.br">
+      <title lang="pt">CBN Brasil</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://pbs.twimg.com/profile_images/1574501267262652436/YpiU97mt_400x400.png" />
+      <desc lang="pt"> fique bem informado do que acontece no brasil.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013160000 -0300" channel="cbnrede.br">
+      <title lang="pt">Estúdio CBN</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/UMG9_18BQuw/maxresdefault.jpg" />
+      <desc lang="pt"> Revista eletronica.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011063000 -0300" channel="radiocidadeverde.br">
       <title lang="pt">Parada Musical</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2022/06/paradalogo.jpg" />
       <desc lang="pt"> A noite muito mais deliciosa com a playlist que faz o seu estilo.</desc></programme>
@@ -1605,6 +1821,18 @@
     <programme start="20231013083000 -0300" stop="20231013100000 -0300" channel="radiocidadeverde.br">
       <title lang="pt">Viva Cidade</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p5.jpg" />
       <desc lang="pt"> Muita diversão no ritmo dos maiores sucessos do momento.</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013113000 -0300" channel="radiocidadeverde.br">
+      <title lang="pt">Tem de Tudo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i1.sndcdn.com/artworks-WSteS34JMJJTvL3M-JSq7Tw-t500x500.jpg" />
+      <desc lang="pt"> Tem informação, tem diversão, tem leveza. Tem de Tudo pra você.</desc></programme>
+    <programme start="20231013113000 -0300" stop="20231013120000 -0300" channel="radiocidadeverde.br">
+      <title lang="pt">CV Esporte</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p11.jpg" />
+      <desc lang="pt">  O melhor de todos os esportes está aqui com o melhor time do jornalismo.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013140000 -0300" channel="radiocidadeverde.br">
+      <title lang="pt">CV Notícias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p1.jpg" />
+      <desc lang="pt"> Os principais fatos do dia e as tendências do momento</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013180000 -0300" channel="radiocidadeverde.br">
+      <title lang="pt">Show da Tarde</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://radiocidadeverde.com.br/wp-content/uploads/2019/12/p6.jpg" />
+      <desc lang="pt"> Nossas tardes com sabor especial, em ritmo muito mais quente.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011200000 -0300" channel="jhero.br">
       <title lang="pt">Faixa Músical</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> Sucessos, músicas. .</desc></programme>
@@ -1722,6 +1950,18 @@
     <programme start="20231013083000 -0300" stop="20231013110000 -0300" channel="radioclubeampe.br">
       <title lang="pt">Manhã na Clube</title> <rating system="CLASSIND"><value>A10</value></rating> 
       <desc lang="pt"> jornal</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013120000 -0300" channel="radioclubeampe.br">
+      <title lang="pt">Momento Esportivo</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfKzvUQxBvYY7U8Bqt_uErQFzAnGGYj5WHI1T_OJyPS9SyOgbDV8PQF6If4cFrl8hgZue5MhYZBlPk9SYGzCWzRMp3v6w6VeK_5xht7aSZZlrhzWYdLEx1vrqG4ZWqBdT10vqv0LDQOtaTRCubfl9uTIW9QqufrBf9r30azqNvpBvI0ZWRuFmtvTtp8-U/s320/Screenshot_20230910-095715_Instagram20Lite.png" />
+      <desc lang="pt"> é uma espaço onde o torcedor tem vez e voz.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013130000 -0300" channel="radioclubeampe.br">
+      <title lang="pt">Bola ao centro</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjbFOgY7UbIJUmHFa50n32a_996EphyB2xMePFeSjCQoivu91bjhG0AWOWG2sjra_plFc3y29txP0vSje-tWSH6YtrMt39H0gUzcWsEjqyM43hyregmb5q0Pem8gbvrXcnWqiJaBzFR8dG1JWHgczNPsvo1IVdD9uBJjsKJpy-mbL5sTfohvIYB-pb80g/s320/Screenshot_20230909-235649_Instagram20Lite.png" />
+      <desc lang="pt"> O dia a dia do futebol Pernambucano, no Nordeste, Brasil e do Mundo são destaques especiais da resenha BOLA AO CENTRO, tudo isso relatado pela melhor equipe de esportes do Rádio Pernambucano. Os Campeões da Bola.</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013140000 -0300" channel="radioclubeampe.br">
+      <title lang="pt">Bate bola</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDE5gsTLkWrl-zNNH7Yg5P5yw78kzx7-f-wGyE4kD8BUkQGElP6cHpA03lzjONezK5VCayHZqHTWW2Q5KBhRViTc6Yu9cXNmQSvavK6Irp1G6RUB8hH5fRqin2zKXC9SBOuij93Z1KnFCTM0tAQnGp_noLae6xbrcr23D70oyiapUtV_752RF353ffl98/s320/Screenshot_20230910-095030_Instagram20Lite.png" />
+      <desc lang="pt"> O programa Bate Bola na Clube de Segunda a Sexta, das 13h às 14h, uma forma diferente de debater o futebol de Pernambuco, do Brasil e do mundo.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013150000 -0300" channel="radioclubeampe.br">
+      <title lang="pt">Boa Tarde Clube</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoByY1lt0WONidusG1hU2GqSS63Yd48CmLMa_nszIFyYuoBlMeNojq2ReH7heGwMrE0O1Ecl6HVHyHsVkI91NmdA23Qln5Hu_KCZ7KUlVRF12tPn_m6NULot_U1reSpuEDlXkDR8gyLiX-BbwwhfbcngDtOpcS15kkBbSos6aa_UNLJnvXKRvFl5gD4QU/s320/Screenshot_20230910-093758_Instagram20Lite.png" />
+      <desc lang="pt"> Seleção musical</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011060000 -0300" channel="rbctv.br">
       <title lang="pt">IGREJA / CONTEÚDO GOSPEL</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
       <desc lang="pt"> Musicais.</desc></programme>
@@ -1779,6 +2019,15 @@
     <programme start="20231013070000 -0300" stop="20231013110000 -0300" channel="rbctv.br">
       <title lang="pt">TV Kids</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/TV-KIDS-1-768x512.png" />
       <desc lang="pt"> Caverna do Dragão, Jaspin, Jiraya,Os Cavalheiros dos Zodíacos e outros.</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013124000 -0300" channel="rbctv.br">
+      <title lang="pt">Cine +</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/Logo-Programas-Cine.jpg" />
+      <desc lang="pt"> Filmes Variados</desc></programme>
+    <programme start="20231013124000 -0300" stop="20231013140000 -0300" channel="rbctv.br">
+      <title lang="pt">Vídeos Clips</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/VIDEOS-CLIPS-1-768x511.png" />
+      <desc lang="pt"> Musicais.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013153000 -0300" channel="rbctv.br">
+      <title lang="pt">Sessão Bang Bang</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://tvrbc.com.br/wp-content/uploads/2020/12/BANG-BANG-768x512.png" />
+      <desc lang="pt"> Filmes Faroestes.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011010000 -0300" channel="TVMaisFamilia.br">
       <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
       <desc lang="pt"> Louvores Um verdadeiro culto em casa!</desc></programme>
@@ -1908,6 +2157,15 @@
     <programme start="20231013083000 -0300" stop="20231013090000 -0300" channel="TVMaisFamilia.br">
       <title lang="pt">Mudança de Vida</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/mudanca-de-vida.jpg" />
       <desc lang="pt"> Louvores Um verdadeiro culto em casa!</desc></programme>
+    <programme start="20231013090000 -0300" stop="20231013100000 -0300" channel="TVMaisFamilia.br">
+      <title lang="pt">A Voz Da Assembléia De Deus - Boas Novas</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/01/boasnovas.jpg" />
+      <desc lang="pt"> Um verdadeiro culto em seu lar.Entrevistas, testemunhos e uma poderosa palavra de Fé.</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013140000 -0300" channel="TVMaisFamilia.br">
+      <title lang="pt">Mais Alegria</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://redemaisfamilia.com.br/wp-content/uploads/2023/06/mais-alegria-1024x1024.jpg" />
+      <desc lang="pt"> A criançada vai poder brincar, interagir, cantar e se divertir ao vivo com a dupla de palhaços mais amada do Brasil!</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013150000 -0300" channel="TVMaisFamilia.br">
+      <title lang="pt">Programa Pago</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+      <desc lang="pt"> Espaço publicitário destinado à comercialização de produtos e serviços.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="turnerdemo.br">
       <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
       <desc lang="pt"> Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc></programme>
@@ -1921,6 +2179,9 @@
       <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
       <desc lang="pt"> Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="turnerdemo.br">
+      <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
+      <desc lang="pt"> Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="turnerdemo.br">
       <title lang="pt">Programação de Amostra</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://www.coba.org.uk/wp-content/uploads/2017/04/Turner.gif" />
       <desc lang="pt"> Exibição de Trechos de conteúdos da Warner Bros.Discovery para amostra.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="RetroCartoon.br">
@@ -1938,6 +2199,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="RetroCartoon.br">
       <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> CARTOONS DOS ANOS 40,50.60,70 E 80.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="RetroCartoon.br">
+      <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> CARTOONS DOS ANOS 40,50.60,70 E 80.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="RSNewsSports.br">
       <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc></programme>
@@ -1953,6 +2217,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="RSNewsSports.br">
       <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="RSNewsSports.br">
+      <title lang="pt">Programação RS News Sports</title> <rating system="CLASSIND"><value>AL</value></rating> 
+      <desc lang="pt"> A CASA DO FUTEBOL AMADOR, na qual Rafael Saraiva , vem trazer a informação sobre os projetos desenvolvidos para o público que tem interesse.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011070000 -0300" channel="ulbtv.br">
       <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
       <desc lang="pt"> Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc></programme>
@@ -1962,21 +2229,6 @@
     <programme start="20231011090000 -0300" stop="20231011123000 -0300" channel="ulbtv.br">
       <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
       <desc lang="pt"> Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc></programme>
-    <programme start="20231012000000 -0300" stop="20231012070000 -0300" channel="ulbtv.br">
-      <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
-      <desc lang="pt"> Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc></programme>
-    <programme start="20231012070000 -0300" stop="20231012090000 -0300" channel="ulbtv.br">
-      <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
-      <desc lang="pt"> Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc></programme>
-    <programme start="20231012090000 -0300" stop="20231012123000 -0300" channel="ulbtv.br">
-      <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
-      <desc lang="pt"> Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc></programme>
-    <programme start="20231013000000 -0300" stop="20231013070000 -0300" channel="ulbtv.br">
-      <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
-      <desc lang="pt"> Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc></programme>
-    <programme start="20231013070000 -0300" stop="20231013090000 -0300" channel="ulbtv.br">
-      <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
-      <desc lang="pt"> Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc></programme>
     <programme start="20231011123000 -0300" stop="20231011150000 -0300" channel="ulbtv.br">
       <title lang="pt">Tele Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
       <desc lang="pt"> Acompanhe as séries clássicas que marcaram época.</desc></programme>
@@ -1995,6 +2247,15 @@
     <programme start="20231011220000 -0300" stop="20231012000000 -0300" channel="ulbtv.br">
       <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
       <desc lang="pt"> No Series você assiste as melhores Series da TV!</desc></programme>
+    <programme start="20231012000000 -0300" stop="20231012070000 -0300" channel="ulbtv.br">
+      <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
+      <desc lang="pt"> Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc></programme>
+    <programme start="20231012070000 -0300" stop="20231012090000 -0300" channel="ulbtv.br">
+      <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
+      <desc lang="pt"> Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc></programme>
+    <programme start="20231012090000 -0300" stop="20231012123000 -0300" channel="ulbtv.br">
+      <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
+      <desc lang="pt"> Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc></programme>
     <programme start="20231012123000 -0300" stop="20231012150000 -0300" channel="ulbtv.br">
       <title lang="pt">Tele Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
       <desc lang="pt"> Acompanhe as séries clássicas que marcaram época.</desc></programme>
@@ -2013,6 +2274,18 @@
     <programme start="20231012220000 -0300" stop="20231013000000 -0300" channel="ulbtv.br">
       <title lang="pt">Séries</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/20230724_132808-690x302.jpg" />
       <desc lang="pt"> No Series você assiste as melhores Series da TV!</desc></programme>
+    <programme start="20231013000000 -0300" stop="20231013070000 -0300" channel="ulbtv.br">
+      <title lang="pt">Madrgada Clássica</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/20230609_142242-690x302.jpg" />
+      <desc lang="pt"> Perdeu o sono? No Series da TV você madruga com as melhores Series da TV!</desc></programme>
+    <programme start="20231013070000 -0300" stop="20231013090000 -0300" channel="ulbtv.br">
+      <title lang="pt">UlbTV Junior</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/07/Logo-Ulb-TV-Junior-690x302.jpg" />
+      <desc lang="pt"> Os desenhos pré-escolares estão aqui para deixar seu início de manhã muito mais animado.</desc></programme>
+    <programme start="20231013090000 -0300" stop="20231013123000 -0300" channel="ulbtv.br">
+      <title lang="pt">UlbTV Kids</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Ulb-TV-Kids-300x169.jpg" />
+      <desc lang="pt"> Os melhores desenhos da TV estão aqui no Ulb TV Kids!</desc></programme>
+    <programme start="20231013123000 -0300" stop="20231013150000 -0300" channel="ulbtv.br">
+      <title lang="pt">Tele Clássicos</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://ulbtv.com.br/wp-content/uploads/2023/04/Logo-Tele-Classico-690x302.jpeg" />
+      <desc lang="pt"> Acompanhe as séries clássicas que marcaram época.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="StrikerVerso.br">
       <title lang="pt">Programação StrikerVerso</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
       <desc lang="pt"> Descubra o inesperado</desc></programme>
@@ -2026,6 +2299,9 @@
       <title lang="pt">Programação StrikerVerso</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
       <desc lang="pt"> Descubra o inesperado</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="StrikerVerso.br">
+      <title lang="pt">Programação StrikerVerso</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
+      <desc lang="pt"> Descubra o inesperado</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="StrikerVerso.br">
       <title lang="pt">Programação StrikerVerso</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://assets.streamtest.in/screenshot/2022/11/7/screen_b131ce33-44f1-43f5-ac66-3da77362a14720221107-16-q7jo79.jpg" />
       <desc lang="pt"> Descubra o inesperado</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011020000 -0300" channel="TVGazin.br">
@@ -2050,6 +2326,12 @@
       <title lang="pt">Cine Gazin</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> !</desc></programme>
     <programme start="20231013020000 -0300" stop="20231013103000 -0300" channel="TVGazin.br">
+      <title lang="pt">Programação TV Gazin</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> !</desc></programme>
+    <programme start="20231013103000 -0300" stop="20231013110000 -0300" channel="TVGazin.br">
+      <title lang="pt">Lembranças com Água na Boca</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt">  Chef Taico relembra sua história gastronômica, desde o tempo de criança, quando acompanhava sua avó e sua mãe na cozinha das fazendas, até os dias de hoje.</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231014000000 -0300" channel="TVGazin.br">
       <title lang="pt">Programação TV Gazin</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> !</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011003000 -0300" channel="TVMax.br">
@@ -2136,6 +2418,18 @@
     <programme start="20231013080000 -0300" stop="20231013100000 -0300" channel="TVMax.br">
       <title lang="pt">Show do Clóvis Monteiro</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
       <desc lang="pt"> O programa “Show do Clóvis Monteiro” traz informação, alegria e motivação com Clóvis Monteiro e sua incrível equipe.</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013110000 -0300" channel="TVMax.br">
+      <title lang="pt">Faixa Músical</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://conceitosdomundo.pt/wp-content/uploads/2021/10/musica.jpg" />
+      <desc lang="pt"> Tapa buraco.</desc></programme>
+    <programme start="20231013110000 -0300" stop="20231013120000 -0300" channel="TVMax.br">
+      <title lang="pt">Programa Francisco Barbosa</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://i.ytimg.com/vi/pdlMk5goBmg/maxresdefault.jpg" />
+      <desc lang="pt"> O “Programa Francisco Barbosa” tem o formato de “debates”.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013130000 -0300" channel="TVMax.br">
+      <title lang="pt">Patrulha da Cidade</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://odia.ig.com.br/_midias/jpg/2019/03/20/1200x670/1_patrulha_da_cidade_1_elenco-10280410.jpg" />
+      <desc lang="pt"> o Patrulha da Cidade é o mais antigo e o mais bem sucedido programa da Rádio Tupi.</desc></programme>
+    <programme start="20231013130000 -0300" stop="20231013150000 -0300" channel="TVMax.br">
+      <title lang="pt">Cidinha Livre</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i0.wp.com/www.audienciacarioca.com.br/wp-content/uploads/2020/03/cidinha-campos-entrevista-audiencia-carioca-eduardo-moura-2.jpg" />
+      <desc lang="pt"> Exigindo justiça, sempre na luta e sabendo o quer, Cidinha Campos está na TV MAX. A comunicadora, com sua voz poderosa e verdadeira, apresenta o programa “Cidinha Livre”.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="TVTop.br">
       <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> Música para todos os gostos. Com vários clips.</desc></programme>
@@ -2151,6 +2445,9 @@
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="TVTop.br">
       <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> Música para todos os gostos. Com vários clips.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="TVTop.br">
+      <title lang="pt">Programação Músical</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> Música para todos os gostos. Com vários clips.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011120000 -0300" channel="UrbantvSports.br">
       <title lang="pt">Programação Canal Urban Sports</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
@@ -2164,6 +2461,9 @@
       <title lang="pt">Programação Canal Urban Sports</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
     <programme start="20231013000000 -0300" stop="20231013120000 -0300" channel="UrbantvSports.br">
+      <title lang="pt">Programação Canal Urban Sports</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231014000000 -0300" channel="UrbantvSports.br">
       <title lang="pt">Programação Canal Urban Sports</title> <rating system="CLASSIND"><value>10</value></rating> 
       <desc lang="pt"> A NÚMERO 1 EM ESPORTES! Basquete, futebol e outros esportes amador de santa catrina transmitidos pela internet!</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011005000 -0300" channel="VitrineEsportiva.br">
@@ -2264,6 +2564,15 @@
       <desc lang="pt"> .</desc></programme>
     <programme start="20231013073000 -0300" stop="20231013093000 -0300" channel="VitrineEsportiva.br">
       <title lang="pt">Debate da bola</title> <rating system="CLASSIND"><value>10</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013093000 -0300" stop="20231013120000 -0300" channel="VitrineEsportiva.br">
+      <title lang="pt">Resumo da rodada</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013134000 -0300" channel="VitrineEsportiva.br">
+      <title lang="pt">VE conta pra você</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> .</desc></programme>
+    <programme start="20231013134000 -0300" stop="20231013160000 -0300" channel="VitrineEsportiva.br">
+      <title lang="pt">Decisões marcantes</title> <rating system="CLASSIND"><value>L</value></rating> 
       <desc lang="pt"> .</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011003000 -0300" channel="vivaxtv.br">
       <title lang="pt">Evidencias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0hwEK-MKPrd5iHMUJ8aOQRwj0pUT-yKUKEofMfkB-zye0VH9vPu2gnr2b7VL7cyNCMT5rYp0uhduQQ4U4o8TEl3ov1Ip6qhsuRBDxrLZ6hpq8j4yGWkbj9tLNV20oAsNkt3sTQ-ammQWe63sAW_vlH6CN6sDE3nR8kVUvO-79yw7O12-kZZzUz8qHGGU/s320/Screenshot_20230910-233904_Instagram20Lite.png" />
@@ -2385,6 +2694,15 @@
     <programme start="20231013083000 -0300" stop="20231013120000 -0300" channel="vivaxtv.br">
       <title lang="pt">Desenhos Vivax</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGa465YSSx4C2caMQj7pV-a3hlPvnFD2-1r3Sq6UW-Tyi0a0jJsF-1NxHSCdKq7UyeE4hg9X3uW_M_Gxm_jDE3L2q-1wkGOJd7c7oJDYFamTyo45LVpP2bBuVrJ7D0t37yB7Nfk2BJHZzU0mYSNEoJlSq1gs3GHfzpi5FqtPxLV4k8zoqbVi5JMYdF5zQ/s320/Screenshot_20230910-233809_Instagram20Lite.png" />
       <desc lang="pt"> Assista aos desenhos mais divertidos da televisão.</desc></programme>
+    <programme start="20231013120000 -0300" stop="20231013123000 -0300" channel="vivaxtv.br">
+      <title lang="pt">Evidencias</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0hwEK-MKPrd5iHMUJ8aOQRwj0pUT-yKUKEofMfkB-zye0VH9vPu2gnr2b7VL7cyNCMT5rYp0uhduQQ4U4o8TEl3ov1Ip6qhsuRBDxrLZ6hpq8j4yGWkbj9tLNV20oAsNkt3sTQ-ammQWe63sAW_vlH6CN6sDE3nR8kVUvO-79yw7O12-kZZzUz8qHGGU/s320/Screenshot_20230910-233904_Instagram20Lite.png" />
+      <desc lang="pt"> Aprofundando a biblia</desc></programme>
+    <programme start="20231013123000 -0300" stop="20231013140000 -0300" channel="vivaxtv.br">
+      <title lang="pt">Cine RETRÔ Vivax</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNV1XusyMCsvw3EhxGru3GnT5Z__WpOpmuHobZg_80j038GaWO7Ye_SfbW4crbfxBrWVc7cbIVdZnaQWjSBBEvZayO0L5VSFiQ31Ei7Pl2yv-Ry1hLu_jKxrRVJuvpp-tbQe89pmHiujiQbnbchfovHOcvpd9QRzNUtMj7udkqz9GTGTNSGDOp7BDCzwc/s320/Screenshot_20230910-233744_Instagram20Lite.png" />
+      <desc lang="pt"> Acompanhe os maiores clássicos do cinema mundial.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013150000 -0300" channel="vivaxtv.br">
+      <title lang="pt">Descomplicando a Saúde</title> <rating system="CLASSIND"><value>L</value></rating> 
+      <desc lang="pt"> Dicas de saaúde e bem-estar.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011010000 -0300" channel="yaaeeh.br">
       <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
       <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc></programme>
@@ -2430,6 +2748,9 @@
     <programme start="20231013060000 -0300" stop="20231013140000 -0300" channel="yaaeeh.br">
       <title lang="pt">Programação Yeeaah</title> <rating system="CLASSIND"><value>A12</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTcWl5RLKThfsyyzOaurDaXbSHeKWSoFij3KVlh8mKHoPRh9SyVBGcFooCLt12t4hF7ZbBkzh8Vbvc4YdaSXCuyGz31eLaLTTaXiNn-ycEO176TcJH85x4m7tbB_x-D1AA-nZ8A0e87kZgjsDkRuE1InwDvZGy9rYNH5_v3Iu3SnN0NpRIbrZ6gfLwjw/w680/YEEAAH-MIDIA-KIT-2022-1.jpg" />
       <desc lang="pt"> O #YEEAAH é uma 'streaming TV', no ar 24/7, nas principais plataformas.</desc></programme>
+    <programme start="20231013140000 -0300" stop="20231013180000 -0300" channel="yaaeeh.br">
+      <title lang="pt">Yeeaah Games</title> <rating system="CLASSIND"><value>A14</value></rating> <icon src="https://blogger.googleusercontent.com/img/a/AVvXsEj9UZX6EBiUmgRuf5UJXjH9c0i0GIiv5WFUmoArzhrwdj8Lt1jYRq9hR1lQJO7ymslST3P2yi3pOiF39IDlXPEP3S6WUWNoTxXDCEXYtagsrzVMtpL1kfqFck3MPmnuCZhu7byfRmtK0fNNLDR3tTSslpyBXKDez7zduTbs-NXJZxET-82fpzTMYKNzhw=s16000" />
+      <desc lang="pt"> Transmissões ao vivo de gameplays dos principais games. Partidas em modo cooperativo, multiplayer e ainda os lançamentos dos jogos eletrônicos para serem testados e comentados. Cobertura dos eventos e notícias.</desc></programme>
     <programme start="20231011000000 -0300" stop="20231011060000 -0300" channel="rbtv.br">
       <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc></programme>
@@ -2506,6 +2827,12 @@
       <title lang="pt">Programação RBTV</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> As séries que marcaram o mundo estão diariamente na tela da Rede Brasil!</desc></programme>
     <programme start="20231013060000 -0300" stop="20231013100000 -0300" channel="rbtv.br">
+      <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
+      <desc lang="pt"> apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc></programme>
+    <programme start="20231013100000 -0300" stop="20231013101500 -0300" channel="rbtv.br">
+      <title lang="pt">Fogo Felino</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_l.jpg" />
+      <desc lang="pt"> Espaço publicitário destinado à comercialização de produtos e serviços.</desc></programme>
+    <programme start="20231013101500 -0300" stop="20231013150000 -0300" channel="rbtv.br">
       <title lang="pt">Sintonia</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq5efMogcx_T7d1OvHbUZJh_8oOGKLiBMJaJ_iY0h0ovL3v7nQLBgM8xqtWsIEk4KSpQHdKgUWvBwOazGTnff1KPiPZgLBRLv02x0sikTmCcU6bObyZOpo7QQv1jMXfO-4z9jU6YptywojeHsCFWxiZA4UmAkmIwwNvfv-hRvKWKQ9-niB3Y0nZFPO2Q0/s320/Screenshot_20230911-084017_Televizo.png" />
       <desc lang="pt"> apresenta shows incríveis de diversos artistas internacionais. As apresentações contam com cantores que marcaram as décadas passadas e com artistas atuais performando shows icônicos com muitos hits de sucesso.</desc></programme>
 </tv>
