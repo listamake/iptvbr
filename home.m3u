@@ -596,7 +596,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u
 
 #EXTINF:-1 tvg-id="radiojornalpe.br" tvg-logo="https://imagens.ne10.uol.com.br/radio-logo.jpg" group-title="Canais de Áudio" radio="true",Rádio Jornal Recife 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://d3eeddnepji12r.cloudfront.net/out/v1/3e4aece2a0f64cb4a334812b19678d41/index.mpd
+https://d1rkdnnqmg7q8z.cloudfront.net/out/v1/e6bb851f89aa42bf8fff9eb480ba667d/index.mpd
 
 #EXTINF: -1 tvg-id="MixFMBelem.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuhYQDVYSa8ld-tBHh_1DUryGII5E231PYw&usqp=CAU" group-title="Canais de Áudio" radio="true", Mix Belém HD
 https://streaming03.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
