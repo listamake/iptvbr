@@ -78,8 +78,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF: -1 tvg-id="PolidoroTV.br" tvg-name="Yeeaah HD" tvg-chno="022" tvg-logo="https://yt3.googleusercontent.com/JwwCxZAspcRPDFKx12TyPC7Y3uZ058KWC2R8flIG1OqVxjOwM6-pypia9iMUUabdpDDnIyP6Ag=s176-c-k-c0x00ffffff-no-rj" group-title="Canais Geek", Yeeaah HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://d3jdd54kjaqq16.cloudfront.net/out/v1/17964ed5c42f4e3b87c812997c6779bc/index.mpd
+https://stmv2.painelvideo.top/yeeaahrede/yeeaahrede/playlist.m3u8
 
 #EXTINF: -1 tvg-id="EsporteBrasilia.br" tvg-name="Esportes Brasília" tvg-chno="023" tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="Canais de Esportes", Esportes Brasília HD
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
