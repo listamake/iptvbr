@@ -702,11 +702,12 @@ https://stmv1.transmissaodigital.com/bandpousoalegre/bandpousoalegre/playlist.m3
 
 #EXTINF: -1 tvg-id="bandfmrede.br" tvg-logo="https://yt3.googleusercontent.com/SjHk3bo1i_rDUFto46T_y4u2MaZIUvJvYIBwHbbokU4Qk5R_p2Wya4pd0k9Qs7nWy21KDOLd=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio",Band FM Campinas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://srv7.zcast.com.br/bandfmcampinas/bandfmcampinas/playlist.m3u8
+https://srv1.zcast.com.br/bandfmcampinas/bandfmcampinas/playlist.m3u8
+
 
 #EXTINF: -1 tvg-id="nativafmrede.br" tvg-logo="https://yt3.googleusercontent.com/UY02nx4vTBOqBBisRdJlc-78KwBGOWiRLZoDns9fKwl06xFw0cS8R8Bv4WZwB-pnr9aCXcG3=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio",Nativa Campinas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://srv7.zcast.com.br/nativafmcampinas/nativafmcampinas/playlist.m3u8
+https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/playlist.m3u8
 
 #EXTINF: -1 tvg-id="jovempanfmrede.br" tvg-logo="https://cdn-profiles.tunein.com/s122944/images/logod.png?t=637248019610000000" group-title="Canais de Áudio",Jovem Pam FM Digital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
