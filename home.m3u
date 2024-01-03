@@ -339,12 +339,48 @@ https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 #EXTINF: -1 tvg-id="TVCulturaNacional.br" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9GcUSUTndHGlIe58IS4c5H_9n19psWSPS391dj=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" ,TV Mais News HD - TV Cultura
 http://sevensp.homelinux.com/live/index.m3u8
 
-#EXTINF: -1 tvg-id="cultura.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Regionais", TV Nova Nordeste HD
+#EXTINF: -1 tvg-id="TVnovaEducacao.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Regionais", TV Nova Nordeste HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
 
-#EXTINF: -1 tvg-id="TVnovaEducacao.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Educativos", TV Nova Educação HD
+#EXTINF: -1 tvg-id="cultura.br" tvg-logo="https://tvdigitalpe.files.wordpress.com/2017/05/13226859_1032230843481228_8757449635664623176_n.png" group-title="Educativos", TV Nova Educação HD
 https://live.comets.com.br/tvnovanordeste_222/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-id="TVNBT.br" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais", TV NBT
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+
+#EXTINF: -1 tvg-id="pooptv.br" tvg-logo="https://media.discordapp.net/attachments/1122249392443883600/1122249541857591409/logo_pooptv_def.png?width=308&height=233" group-title="Canais de Humor", PoopTV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+
+#EXTINF: -1 tvg-id="demais.br" tvg-logo="https://yt3.googleusercontent.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s900-c-k-c0x00ffffff-no-rj" group-title="Documentários" , Demais TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://Stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF: -1 tvg-id="TVaracati.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJofP8Z8OC3mA9DyMVC-FTBNcWv0OiCGR5A&usqp=CAU" group-title="Entretenimento", TV Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF: -1 tvg-id="awtv.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento", AWTV HD
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
+#EXTINF: -1 tvg-id="redeamerica.br"  tvg-logo="https://observatoriodeourofino.com.br/wordpress/wp-content/uploads/2021/11/Rede-America-1.jpg" group-title="Entretenimento", Rede America TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
+
+#EXTINF: -1 tvg-id="AstralTV.br" tvg-chno="153" tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png/v1/fill/w_376,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Variedades" , Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
+
+#EXTINF: -1 tvg-id="BR8TV.br" tvg-chno="153" tvg-logo="https://yt3.googleusercontent.com/5IDsUCAYpY6GO2G4kU19sZBxBSvESAwtDt78HZkkjGBgXCIOy2PP9BnJnGjWErqNhCqwtv9mdQ=s900-c-k-c0x00ffffff-no-rj" group-title="Varejo" , BR8TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+
+#EXTINF: -1 tvg-id="YpeTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71e98e53faf02f82e9d9746110c57041.webp" group-title="Varejo" , Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+#EXTINF: -1 tvg-id="TVGazin.br" tvg-chno="153" tvg-logo="https://pbs.twimg.com/profile_images/1644034655773945857/ZeYcJAWE_400x400.jpg" group-title="Variedades" , TV Gazin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/canal1.m3u8
+
+#EXTINF: -1 tvg-id="RDCTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af54ed561ef9246c6db4cc8c13e5e309.webp" group-title="Variedades" , RDCTV
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://yt3.googleusercontent.com/TJ17-PRh60Izr-XPBVRDjEDuzKQXxA83IarKKblYa86UBdW3XB-jusncsOE6z0H2gn4oD7I_8lI=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tropical HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -382,17 +418,13 @@ https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8c
 
-#EXTINF: -1 tvg-id="TVArapuan.br" tvg-logo="https://yt3.ggpht.com/a/AATXAJyAhxDoqcLhpQcO8HoCZFHnjAzaPPF2bJnX06fEVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Regionais", TV Arapuan HD
+#EXTINF: -1 tvg-id="TVArapuan.br" tvg-logo="https://yt3.ggpht.com/a/AATXAJyAhxDoqcLhpQcO8HoCZFHnjAzaPPF2bJnX06fEVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Regionais", PB:TV Arapuan HD
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
-#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , TV Tarobá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
-
-#EXTINF: -1 tvg-id="rbtv.br" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Regionais" pltv-subgroup="Rede Brasil", Canal RBTV - Virtual TV
+#EXTINF: -1 tvg-id="rbtv.br" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Variedades" , Canal RBTV - Virtual TV
 https://st-srv02.alfamax.com.br/Virtual2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
-#EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="Regionais" pltv-subgroup="Rede Brasil", TV Manajoara HD
+#EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblRlFTlxdWWNQx_8CauwxX5t7HNWjtYMfLg&usqp=CAU" group-title="Regionais" , PA:TV Manajoara HD
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Redebrasil.br" tvg-logo="https://image.winudf.com/v2/image1/YnIuY29tLmFwcC5ncHUxOTA1MjcxLmdwdThjMWYxMjczOGVlMGMwNjk2MGRiN2FmNzY2Mjg4ODVhX2ljb25fMTU0NTQyOTU3Ml8wMzY/icon.png?w=170&fakeurl=1" group-title="Regionais", TV BRASIL OESTE HD
@@ -410,6 +442,10 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF: -1 tvg-id="RedeMassa.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Rede_Massa_Flat.jpg/revision/latest?cb=20190405220541" group-title="Regionais",PR:Rede Massa HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
+
+#EXTINF: -1 tvg-id="BandSaoPaulo.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/X3T2YEDB6qDS3KHTPUvpxwu_em2fqasrwdkiyyllsYOmY45BJm3oPPPzIgnWigWbBenAm4HZTBU=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , PR:TV Tarobá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
 
 #EXTINF: -1 tvg-id="TVJornalCaruaru.br" tvg-chno="084" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="Regionais" ,PE:TV Jornal Interior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -500,6 +536,9 @@ https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 
+#EXTINF: -1 tvg-id="Paulistao.br" tvg-chno="105" tvg-logo="https://yt3.googleusercontent.com/1d9npmrDdZIklljQviPEZAr5NFL-A9zg0epQTBvqNHseQOn0WqUZDmMcUz4uefzf9v_d4533rg=s176-c-k-c0x00ffffff-no-rj" group-title="Canais de Esportes", Paulistão
+https://ythls.armelin.one/channel/UCaf4uhI8ItLyM_6kZ5I5Zdw.m3u8
+
 #EXTINF: -1 tvg-id="RedeMeioNorte.br"  tvg-name="Rede Meio Norte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxMkERnpmNOn07MVanJLvtOeYRrpgh1bpaQ&usqp=CAU" group-title="Regionais", Rede Meio Norte - TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 
@@ -513,50 +552,11 @@ https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/pl
 #EXTINF: -1 tvg-id="CNT.br" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais", CNT Paraná HD
 https://cloudflare.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8
 
-#EXTINF: -1 tvg-id="TVNBT.br" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais", TV NBT
-https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
-
-#EXTINF: -1 tvg-id="pooptv.br" tvg-logo="https://media.discordapp.net/attachments/1122249392443883600/1122249541857591409/logo_pooptv_def.png?width=308&height=233" group-title="Canais de Humor", PoopTV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
-
-#EXTINF: -1 tvg-id="demais.br" tvg-logo="https://yt3.googleusercontent.com/3qE9ZY_bAgBFJSGznDoaparYE1Odkipg9hg1SQeA7NauVQwoB_NglLSpDapttKHnJk-UARtx=s900-c-k-c0x00ffffff-no-rj" group-title="Documentários" , Demais TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://Stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-
-#EXTINF: -1 tvg-id="TVaracati.br"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJofP8Z8OC3mA9DyMVC-FTBNcWv0OiCGR5A&usqp=CAU" group-title="Entretenimento", TV Aracati HD
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-
-#EXTINF: -1 tvg-id="awtv.br"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento", AWTV HD
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
-
-#EXTINF: -1 tvg-id="redeamerica.br"  tvg-logo="https://observatoriodeourofino.com.br/wordpress/wp-content/uploads/2021/11/Rede-America-1.jpg" group-title="Entretenimento", Rede America TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8
-
-#EXTINF: -1 tvg-id="AstralTV.br" tvg-chno="153" tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png/v1/fill/w_376,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Variedades" , Astral TV
-https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
-
-#EXTINF: -1 tvg-id="BR8TV.br" tvg-chno="153" tvg-logo="https://yt3.googleusercontent.com/5IDsUCAYpY6GO2G4kU19sZBxBSvESAwtDt78HZkkjGBgXCIOy2PP9BnJnGjWErqNhCqwtv9mdQ=s900-c-k-c0x00ffffff-no-rj" group-title="Varejo" , BR8TV
-https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-
-#EXTINF: -1 tvg-id="YpeTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71e98e53faf02f82e9d9746110c57041.webp" group-title="Varejo" , Ypê TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-
-#EXTINF: -1 tvg-id="TVGazin.br" tvg-chno="153" tvg-logo="https://pbs.twimg.com/profile_images/1644034655773945857/ZeYcJAWE_400x400.jpg" group-title="Variedades" , TV Gazin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://caikron.com.br:19360/floripa/canal1.m3u8
-
-#EXTINF: -1 tvg-id="RDCTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af54ed561ef9246c6db4cc8c13e5e309.webp" group-title="Variedades" , RDCTV
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
-
 #EXTINF: -1 tvg-id="TVEscola.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIpsIkydaZKyaBkpiTWSm6CNUEFXfE-X0GkIPdSw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" ,Rede Metropolis HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
 
 #EXTINF: -1 tvg-id="Gazeta.br" tvg-chno="153" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades" , Gazeta Digital
 https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v8i9_nb2JBL1y7gzJC1VvCugkYfo6F9u23K-bYF1nwAr)/dm/3/x89qors/s/live-2.m3u8#cell=lnyc
-
-#EXTINF: -1 tvg-id="Paulistao.br" tvg-chno="105" tvg-logo="https://yt3.googleusercontent.com/1d9npmrDdZIklljQviPEZAr5NFL-A9zg0epQTBvqNHseQOn0WqUZDmMcUz4uefzf9v_d4533rg=s176-c-k-c0x00ffffff-no-rj" group-title="Canais de Esportes", Paulistão
-https://ythls.armelin.one/channel/UCaf4uhI8ItLyM_6kZ5I5Zdw.m3u8
 
 #EXTINF: -1 tvg-id="mundotv.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXX4AG1wDLhMFUXpiLMWMyIQHNfyl1QNGBRQ&usqp=CAU" group-title="Variedades" , Rede Mundo TV HD
 https://st-srv02.alfamax.com.br/RMUNDOTV/tracks-v1a1/mono.m3u8?token=alfamax_nNLgbYwQ0i2c5e7c
