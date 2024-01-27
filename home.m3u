@@ -504,7 +504,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 
 #EXTINF: -1 tvg-id="RecordTV.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQlEEl_VQgsIVdLqu-rdDXQX4eBwlv2X17x5ZMo4Q=s900-c-k-c0x00ffffff-no-rj" group-title="Regionais" , SC: NDTV Criciúma 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
+https://caikron.com.br:19360/floripa/floripa.m3u8
 
 #EXTINF: -1 tvg-id="TVBrasil.br"  tvg-logo="https://yt3.ggpht.com/a/AATXAJxPIaewodu9wTtxjjkSBi8jfty9DXsIqZcutVNlBw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , SC: RBA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
