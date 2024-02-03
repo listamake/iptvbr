@@ -170,8 +170,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="fkids.br" tvg-chno="050" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="turnerdemo.br" tvg-chno="051" tvg-logo="https://pbs.twimg.com/profile_images/1581010854849482757/-xD_godC_400x400.png" group-title="Canais de Desenho", Cartoon Promo HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="turnerdemo.br" tvg-chno="051" tvg-logo="https://pbs.twimg.com/profile_images/1581010854849482757/-xD_godC_400x400.png" group-title="Canais de Desenho", Tooncast
+http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/368.ts
 
 #EXTINF:-1 tvg-id="TVMax.br" tvg-chno="053" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="Canais de Música" ,TV Max RIO
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w777565696.m3u8
