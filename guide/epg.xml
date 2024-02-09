@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com"><channel id="animetv.br"><display-name lang="pt">Otaku Sign TV</display-name><icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" /></channel>
-<channel id="AllSports.br"><display-name la<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com"><channel id="animetv.br"><display-name lang="pt">Otaku Sign TV</display-name><icon src="https://media.discordapp.net/attachments/973973553760333884/973973671314092172/20220511_124239.png" /></channel>
 <channel id="AllSports.br"><display-name lang="pt">All Sport HD</display-name><icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp" /></channel>
 <channel id="antena1tv.br"><display-name lang="pt">Antena 1 TV</display-name><icon src="https://pbs.twimg.com/profile_images/1491831001873633284/duo6Mk_C_400x400.jpg" /></channel>
 <channel id="AstralTV.br"><display-name lang="pt">Astral TV</display-name><icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e7091994dd0a7abb969c3a058a21f710.webp" /></channel>
