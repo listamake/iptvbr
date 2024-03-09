@@ -1,4 +1,4 @@
-8#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/xml/69wkngjm97bz5ejjyq8g,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,http://m3u4u.com/xml/69wkngjm97bz5ejjyq8g,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 
 ###################### XXXX CANAIS XXXX #############################
@@ -15,6 +15,8 @@ https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed2937207016810640
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTAwNjg3NjMsImlhdCI6MTcwOTk4MjM2MywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTEyMCxpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.JgmnkHhmz-LBR5_T0_0TQo22YG9NWib4nmLv9FSXgQdbCYKlBOq7J-4d7Y2a2Jqy_OEnz5cTBz80DVk6nop8z3iQ1pf9OW-c33r2WFOvBvfEs0c6wAWethVEDB-sUlO6RHSzLPt-hLqCzT4RnCAuzZmSnAhegCsYZNwzPY1NXKXFS2u3X54yfpmfKFHus-riz9301RARgNfR_bbfQZdizMFt6DPIlV2xfv-q4fhrBzC8k1-rKTXoqObOfyvsXZEmMWCA4GeCs_-FBxfAuArp5CmyZ8tJ8k41tc6chcUTSbZjksjUq60skK8d4gcqY0SAlTn4aEFfg9CEpl30pCSrVw/nu/f(dvr=120,i=2)/globo-pe1/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
