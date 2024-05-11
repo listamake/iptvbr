@@ -15,6 +15,8 @@ https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed2937207016810640
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTU1MDA4NzIsImlhdCI6MTcxNTQxNDQ3MiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTEyMCxpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.FWpYDgKOpjHYJ-R_Gqr_hpBRjROEbMVkJingZfKJPoAIdVF5vwlyc6BgwPG1MwYdSjPHVBoSIDBWrvvC8vTIUQo3jbbB-Vykj_2GJSjtEZzqxa0e7SYu7XbLqFAIgIw9V0pq4EhpF3zFnSXPjVYipF-BZ5yyBQ8c4pfAI6-1haC4SKL3UD74adJDdTeY1WdfHO5tq_V1GDesQRT0ggGHm02kTgH1dL68t6VfycSR3iVW0MjtvNjpyfDeTk44ISi02rp93bsMgGvEh1u0gedRCCRlt9BB6vyZpuMRigKHOvS9Yp9r2aD14At1u5OE-b8U6PZoYiZPLJVjJ2ZAPdxAow/nu/f(dvr=120,i=2)/globo-pe1/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
