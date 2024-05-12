@@ -1102,13 +1102,19 @@
       <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
 
     <programme start="20240512120000 -0300" stop="20240512140000 -0300" channel="fkids.br">
-      <title lang="pt">Cineskopio</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+      <title lang="pt">Cineskopio</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
       <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
 
     <programme start="20240512140000 -0300" stop="20240512163000 -0300" channel="fkids.br">
       <title lang="pt">Geração Power Rangers</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
       <desc lang="pt">Todas as gerações unidas com um único propósito,  defendea Terra!</desc></programme>
     
+
+<programme start="20240512190000 -0300" stop="20240512210000 -0300" channel="fkids.br">
+      <title lang="pt">Cineskopio - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="" />
+      <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
+
+
     
     <programme start="20240513000000 -0300" stop="20240513003000 -0300" channel="fkids.br">
       <title lang="pt">Esquadrilha Aérea - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
