@@ -1094,8 +1094,20 @@
       <desc lang="pt"> A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc></programme>
 
     <programme start="20240512083000 -0300" stop="20240512103000 -0300" channel="fkids.br">
-      <title lang="pt">Maratona: Esquadrilha Aérea</title> a<rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
+      <title lang="pt">Maratona: Esquadrilha Aérea</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
       <desc lang="pt"> Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc></programme>
+
+    <programme start="20240512103000 -0300" stop="20240512120000 -0300" channel="fkids.br">
+      <title lang="pt">Maratona: O Fantastico Mundo De Bobby</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+      <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
+
+    <programme start="20240512120000 -0300" stop="20240512140000 -0300" channel="fkids.br">
+      <title lang="pt">Cineskopio</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+      <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
+
+    <programme start="20240512140000 -0300" stop="20240512163000 -0300" channel="fkids.br">
+      <title lang="pt">Geração Power Rangers</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
+      <desc lang="pt">Todas as gerações unidas com um único propósito,  defendea Terra!</desc></programme>
     
     
     <programme start="20240513000000 -0300" stop="20240513003000 -0300" channel="fkids.br">
