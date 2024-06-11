@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (23/05/2024,01h02m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (29/05/2024,01h02m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
@@ -155,7 +155,8 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF: -1 tvg-id="ch.br" tvg-chno="046" tvg-logo="https://pbs.twimg.com/media/C0rxlj8XAAAKns7.jpg" group-title="Canais de Humor" , Canal Linear: Clube do Chaves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtoFBCP_TAnGpsysa6TiSp0Hh0mtGlzl3y8z_NJ8StYedNCAYK6XV0pIAqLg8sl7-9-sssLFf45SMFjAX0jbx935XxbVUgHRg9X7IBI_qg3d2GDoJcKwsm1yAW-1YhV0mTga37ggZd2L2JxypoLxJETzeS_W6tGi53eLx5-_3Q-Bt8a7o-eUNgIMiTzd_6OAvrhXn4ZRRM3AYPbK4k4GzF_zfig4yH-_4DnEQb9A1UZiiIYsUpUJnLsC09a7cGIwCCeNqjlQj_aFp-P1r34BdkHLG4IxfUJVUNqzSPor1a45F_nCLHrdFWPP2oHBKJKxnYr2f-Vb4P3XbYbtXVH1QljvcqAy_rxEuo0gBURgQxFjbTKwnHUfB5BWJEs4v05vF2bfh3Hcn1ZkYHOlVf5_MlJQ3S8A99EwRmsdncrhzLhZ62P34xKZx4vLePuWuLiF88d1v07uZD6rTKSP0xJ3CcWV54NLcCj6CVQZKiiJ4Qmn90451euGrFKdKqBvHtWdhPIuiQ7Ni-yjLMrW9gSHWQ6K0bs5UPAwkWhApbeY41SLXqnU1s5LdVlBGc6SOdBePSv7P1ftOp1NmlT43dcc6f5T192r8LVpefDxmrAn77DyKMXKDfc-MfB_bS3Db1Zo7eXhDJfR43RG3YekomxH_jw1HtmwDhNnGDF03_PLHUDPFpuDSSMn1_8q-OdMA4cWes-E9F4DRDGJWSJ9RX1fL8B0h4aAi7jXRG5aUMO0v_o2LX1nbWTV2OrmPLEa3OZN3F0jO9i-6Uilgg79GFxrNCQpe8VmXOuqiLFoSVqcaKpbmfw8_LXnIEibiEtnN_GrKhc1EsGo72MFKkWpw6F_Vt6I_YETjeN1rsdy2_sfMyUYhTIKlbXjdZhPkLAAnfhMpvLHaI3xA9Vj2AqzBEREds_q5H7sy4Og8xmzznXk7-yHV25Y1B-a5ITJK_I6j_NLLAaxLXuKo-Vr0N8nMBoMjszoqggEWeVDPdpyIAEqCXVzLWVhc3QtMTD0Bw.m3u8
+https://usher.ttvnw.net/api/channel/hls/cinearte2.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22cinearte2%22%2C%22channel_id%22%3A1097845987%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22EwJqGCy8om6HIg2L2HkQJStN0wPMyp8K%22%2C%22expires%22%3A1718149506%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.164.9.167%22%2C%22version%22%3A2%7D&sig=84d328a3950a7236ed3b44d93fd215a86a0e1384&cdm=wv&player_version=1.22.0 
+
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="047" aspect-ratio=16:9 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais de Desenho" , RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
