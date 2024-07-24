@@ -408,8 +408,8 @@ https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
-#EXTINF: -1 tvg-id="Gazeta.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Regionais", MA: TV Alternativa HD - Gazeta
-https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w1591847090.m3u8
+#EXTINF: -1 tvg-id="Gazeta.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Regionais", MA: TV Alternativa HD - TV MEIO
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w233023639.m3u8
 
 #EXTINF: -1 tvg-id="RecordTVMinas.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3bcf915549834c0b697709877701dfda.webp" group-title="Regionais" , MG: TV Paranaiba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -751,7 +751,7 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8igtlYU8dfBa92nZp
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
 
 #EXTINF: -1 tvg-id="radiometroweb.br" tvg-logo="https://img.radios.com.br/radio/xl/radio135665_1652365335.jpg" group-title="Canais de Áudio" radio="true",Rádio Metró
-https://cast.animu.com.br:5110/stream?0.5413026947303499
+https://cast.animu.com.br:5010/
 
 #EXTINF: -1 tvg-id="jhero.br" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JaxdA4MwLR.png" group-title="Canais de Áudio", Rádio JHero
 https:\\stm1.radiojhero.com:18008\
