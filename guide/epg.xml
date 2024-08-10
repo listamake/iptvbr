@@ -1818,9 +1818,15 @@
       <title lang="pt">Maratona: Patlabor</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
       <desc lang="pt"> Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc></programme>
     <programme start="20240810233000 -0300" stop="20240811000000 -0300" channel="fkids.br">
-      <title lang="pt">Maratona: Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
-      <desc lang="pt">  A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc></programme>
-    <programme start="20240811000000 -0300" stop="20240811020000 -0300" channel="fkids.br">
+      <title lang="pt">Os Três Patetas</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+      <desc lang="pt">  </desc></programme>
+    <programme start="20240811000000 -0300" stop="20240811003000 -0300" channel="fkids.br">
+      <title lang="pt">Dilbert</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="" />
+      <desc lang="pt"> </desc></programme>
+    
+    
+    
+    <programme start="20240811003000 -0300" stop="20240811020000 -0300" channel="fkids.br">
       <title lang="pt">Maratona: Contos da Cripta</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://i.pinimg.com/736x/2f/58/d0/2f58d0a2f534779c915277e3aa9c161e.jpg" />
       <desc lang="pt">  A série detalha o Cryptkeeper contando histórias de terror mais infantis para os espectadores, cada um com uma lição ensinável.</desc></programme>
     <programme start="20240811020000 -0300" stop="20240811043000 -0300" channel="fkids.br">
