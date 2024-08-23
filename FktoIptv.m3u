@@ -1,3 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml"
 
+#EXTINF:-1 tvg-id="fkids.br" tvg-chno="34" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png", F.Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
