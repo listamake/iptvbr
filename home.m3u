@@ -155,8 +155,7 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF: -1 tvg-id="ch.br" tvg-chno="046" tvg-logo="https://pbs.twimg.com/media/C0rxlj8XAAAKns7.jpg" group-title="Canais de Humor" , Canal Humor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/index.m3u8?ads.start=1&ads.ap=1&ads.app_bundle=&ads.app_name=%2Bsbt&ads.app_store_url=&ads.brand_name=&ads.cb=1724716150690&ads.content_categories=novela&ads.content_custom_1_param=uat-1.3.3&ads.content_custom_2_param=Web&ads.content_custom_3_param=2024-08-26T23:49:10.690Z&ads.content_episode=&ads.content_genre=novela&ads.content_id=&ads.content_keywords=&ads.content_livestream=1&ads.content_producer_name=&ads.content_season=&ads.content_series=&ads.content_title=A%20Caverna%20Encantada&ads.country=BR&ads.device_make=Chrome%20Mobile%20116.0&ads.device_model=smartphone&ads.did=1773899756110990&ads.dnt=&ads.h=687&ads.ic=&ads.ifa_type=dpid&ads.inv_partner_domain=sbt.com.br&ads.ip=45.164.9.103&ads.language=pt-br&ads.lat=&ads.lon=&ads.mute=0&ads.network_name=sbt&ads.placement=1&ads.rating=G&ads.ua=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/116.0.0.0%20Mobile%20Safari/537.36&ads.w=375
-
+https://6f12da3f4eab4ca0b8825034c79e1ac6.mediatailor.us-east-1.amazonaws.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Humor/b0ea196f-6687-470e-86a8-e2b076334a76/1.m3u8
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="047" aspect-ratio=16:9 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais de Desenho" , RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
