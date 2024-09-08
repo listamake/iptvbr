@@ -1403,19 +1403,33 @@
     <programme start="20240908110000 -0300" stop="20240908120000 -0300" channel="fkids.br">
       <title lang="pt">Maratona: The Tick</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.mubicdn.net/images/film/275086/cache-573196-1639228366/image-w1280.jpg" />
       <desc lang="pt"> Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc></programme>
-    <programme start="20240908120000 -0300" stop="20240908140000 -0300" channel="fkids.br">
+    <programme start="20240908120000 -0300" stop="20240908130500 -0300" channel="fkids.br">
       <title lang="pt">Cineskopio</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt">  Fox kids o seu canal favorito.</desc></programme>
+    <programme start="20240908130500 -0300" stop="20240908133500 -0300" channel="fkids.br">
+      <title lang="pt">Os Três Patetas</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
+      <desc lang="pt"> Estão sempre se metendo em confusão</desc></programme>
+   <programme start="20240908133500 -0300" stop="20240908140000 -0300" channel="fkids.br">
+      <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating> 
+      <desc lang="pt">  Fox kids o seu canal favorito.</desc></programme>
+
+    
+    
     <programme start="20240908140000 -0300" stop="20240908163000 -0300" channel="fkids.br">
       <title lang="pt">Power Domingo</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://1.bp.blogspot.com/-CCB3EvNniNc/W00A7sicuYI/AAAAAAAAWzM/wdr9gdtii8EG58iD33gjjwHsybVo6BUNgCLcBGAs/s1600/fantasticobobby.jpg" />
       <desc lang="pt"> Todas as gerações unidas com um único propósito,  defendea Terra!</desc></programme>
     <programme start="20240908163000 -0300" stop="20240908190000 -0300" channel="fkids.br">
       <title lang="pt">Maratona: Medabots</title> <rating system="CLASSIND"><value>A10</value></rating> 
       <desc lang="pt">  A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc></programme>
-    <programme start="20240908190000 -0300" stop="20240908210000 -0300" channel="fkids.br">
+    <programme start="20240908190000 -0300" stop="20240908200500 -0300" channel="fkids.br">
       <title lang="pt">Cineskopio - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt">  Fox kids o seu canal favorito.</desc></programme>
-    <programme start="20240908210000 -0300" stop="20240908213000 -0300" channel="fkids.br">
+<programme start="20240908200500 -0300" stop="20240908203500 -0300" channel="fkids.br">
+      <title lang="pt">Os Três Patetas</title> <rating system="CLASSIND"><value>A10</value></rating> <icon src="https://aventurasnahistoria.com.br/media/uploads/hollywood/curly-moe-larry.jpg" />
+      <desc lang="pt"> Estão sempre se metendo em confusão</desc></programme>
+   
+    
+    <programme start="20240908203500 -0300" stop="20240908213000 -0300" channel="fkids.br">
       <title lang="pt">Polícia Funk</title> <rating system="CLASSIND"><value>A10</value></rating> 
       <desc lang="pt">  Fox kids o seu canal favorito.</desc></programme>
     <programme start="20240908213000 -0300" stop="20240909000000 -0300" channel="fkids.br">
