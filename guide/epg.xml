@@ -329,6 +329,9 @@
     <programme start="20241006230000 -0300" stop="20241006233000 -0300" channel="RedeCNT.br">
       <title lang="pt">Tatti Show</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.cnt.com.br/public/uploads/baixa_CbeUfOWSg1kP5N8s7dcIQZvL4m.jpg" />
       <desc lang="pt"> O objetivo da atração é de divulgar a boa música em seus mais variados estilos e assim produzir programas temáticos com artistas já consagrados, relembrar sucessos do passado, e ainda revelar novos artistas desconhecidos da grande mídia, bem como assuntos do cotidiano e a arte em geral.</desc></programme>
+    <programme start="20241006233000 -0300" stop="20241007000000 -0300" channel="RedeCNT.br">
+      <title lang="pt">Deconto Show de Pesca</title> <rating system="CLASSIND"><value>10</value></rating> <icon src="https://www.cnt.com.br/public/uploads/crop_bULcP7oRwskVGilFENAYxrd6Bg.jpg" />
+      <desc lang="pt"> O programa Deconto Show de Pesca surgiu em 2019, em substituição ao famoso e tradicional programa Show de Pesca, no ar desde 2006 e que encerrou suas atividades. </desc></programme>
     <programme start="20241004000000 -0300" stop="20241004001000 -0300" channel="anitv.br">
       <title lang="pt">Midnight</title> <rating system="CLASSIND"><value>14</value></rating> <icon src="https://geekdot.live/wp-content/uploads/2023/08/MIDNIGHT_img_site-200x144.png" />
       <desc lang="pt"> A sua madrugada, com muito anime é aqui na geekdot! Com os animes 'More than a Married Couple, but Not Lovers' e 'Goblin Slayer'.</desc></programme>
@@ -857,6 +860,9 @@
     <programme start="20241006230000 -0300" stop="20241006233000 -0300" channel="CentralTV.br">
       <title lang="pt">Programa A Cadeia da Prece</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/05/Screenshot_17-1024x576.jpg" />
       <desc lang="pt"> Programa da Igreja Quadrangular de Curitiba (IEQ Ecoville) apresentado pelo Pastor Rogério Amorim.</desc></programme>
+    <programme start="20241006233000 -0300" stop="20241006235500 -0300" channel="CentralTV.br">
+      <title lang="pt">Sessão Mr. Bean</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://centraltv.online/wp-content/uploads/sites/21/2022/11/jpg.jpg" />
+      <desc lang="pt"> Mr. Bean é uma sitcom de comédia e humor britânico, estrelada pelo personagem de mesmo nome, criado e interpretado pelo ator e comediante Rowan Atkinson.</desc></programme>
     <programme start="20241004000000 -0300" stop="20241004010000 -0300" channel="Clouding.br">
       <title lang="pt">Cine Jovem</title> <rating system="CLASSIND"><value>12</value></rating> 
       <desc lang="pt"> filmes de vários gêneros</desc></programme>
@@ -1193,7 +1199,6 @@
     <programme start="20241005000000 -0300" stop="20241005003000 -0300" channel="fkids.br">
       <title lang="pt">Homem-Aranha e Seus Amigos - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://i.ytimg.com/vi/RyHbYla1sDA/hqdefault.jpg" />
       <desc lang="pt"> Uma equipe de intrépidos pilotos formam a Esquadrilha Aérea: Dan, um piloto ex-combatente e ex-membro do serviço secreto canadense, Tina, Alex, Jeff e sua irmã Emma, seus amigos adolescentes, o indispensável Max e Pára-quedas, a sua mascote.</desc></programme>
-    
     <programme start="20241005003000 -0300" stop="20241005010000 -0300" channel="fkids.br">
       <title lang="pt">Homen Aranha - Reprise</title> <rating system="CLASSIND"><value>A10</value></rating> 
       <desc lang="pt"> Fox kids o seu canal favorito.</desc></programme>
@@ -1920,6 +1925,9 @@
     <programme start="20241006230000 -0300" stop="20241006233000 -0300" channel="loadingweb.br">
       <title lang="pt">The Quintessential Quintuplets</title> <rating system="CLASSIND"><value>12</value></rating> <icon src="https://www.justwatch.com/images/backdrop/241404078/s640/wu-deng-fen-nohua-jia/wu-deng-fen-nohua-jia" />
       <desc lang="pt"> Fuutarou Uesugi é um estudante pobre e anti-social que um dia conhece o rico estudante transferido Itsuki Nakano.</desc></programme>
+    <programme start="20241006233000 -0300" stop="20241007000000 -0300" channel="loadingweb.br">
+      <title lang="pt">Power Rangers: Mighty Morphin</title> <rating system="CLASSIND"><value>L</value></rating> <icon src="https://www.justwatch.com/images/backdrop/247591752/s640/power-rangers/power-rangers" />
+      <desc lang="pt"> Em uma missão ao planeta Marte dois astronautas encontram uma estranha cápsula encostada no solo do planeta. Eles abrem e libertam a feiticeira espacial do mal Rita Repulsa.</desc></programme>
     <programme start="20241004000000 -0300" stop="20241004030000 -0300" channel="pooptv.br">
       <title lang="pt">Sessão da Meia-noite (+18)</title> <rating system="CLASSIND"><value>18</value></rating> <icon src="https://i.ytimg.com/vi/X-3vk147gAI/mqdefault.jpg" />
       <desc lang="pt"> poops e montagens +18.</desc></programme>
@@ -2889,6 +2897,9 @@
     <programme start="20241006230000 -0300" stop="20241006233000 -0300" channel="turnerdemo.br">
       <title lang="pt">Duck Dodgers - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://static.wikia.nocookie.net/international-entertainment-project/images/6/66/DuckDodgersBanner.jpg/" />
       <desc lang="pt"> Estamos na metade do século 24 e o Protetorado Galáctico da Terra possui uma nova arma secreta... um pato congelado. </desc></programme>
+    <programme start="20241006233000 -0300" stop="20241007000000 -0300" channel="turnerdemo.br">
+      <title lang="pt">Os Mistérios de Frajola e Piu-Piu - Reprise</title> <rating system="CLASSIND"><value>AL</value></rating> <icon src="https://images.justwatch.com/backdrop/271065704/s640/the-sylvester-and-tweety-mysteries/the-sylvester-and-tweety-mysteries" />
+      <desc lang="pt"> Com seus bichinhos de estimação, Frajola e Piu Piu, a tiracolo, a tranquila Vovó se transforma numa investigadora maníaca ao redor do mundo!</desc></programme>
     <programme start="20241004000000 -0300" stop="20241004120000 -0300" channel="RetroCartoon.br">
       <title lang="pt">Desenhos Clássicos 24h</title> <rating system="CLASSIND"><value>AL</value></rating> 
       <desc lang="pt"> CARTOONS DOS ANOS 40,50.60,70 E 80.</desc></programme>
