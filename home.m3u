@@ -7,15 +7,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SBT.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Nacional
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Nacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1
 
-#EXTINF: -1 tvg-id="GloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
+#EXTINF: -1 tvg-id="TVGloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MzAyNjQwNjcsImlhdCI6MTczMDE3NzY2NywiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoYk1heD0zNjMyMDAwLGk9MikvZ2xvYm8tcGUxL3BsYXlsaXN0Lm0zdTgifQ.yY9G57B6X6ICtkGSY1wWLSJcpnXrxbafX8_ZBmbEze8ohe-hZuGxhEgItCqSd6kDlx-M5TQ0IYWDRTJ8iBSiYfKnQNznExp6vslLDUkZ9ZiIQ7N5yehiXrOJg7LIMVHRI9AG7WIGAFoIqMLfXlBNC2IggMSghM1VPy4GvKCvtMLQovUYTzAl3kf8J2hzy04G3zzYGoTLbmLawuYg3UVeyEX1NCFAunlgT3NMb0HqRD71xBcA0GzaOzyUJ6Wqbsl2CoIjJItIpAarbN2rYwuoTJ2_hETA9Abk_q6dXQvLiiIguyy_mRri-s_NByZ5XZ3eEwHRMfnIdaK99GhMgo5SUA/nu/f(bMax=3632000,i=2)/globo-pe1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
