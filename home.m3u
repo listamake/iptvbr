@@ -13,7 +13,7 @@ https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1
 
 #EXTINF: -1 tvg-id="TVGloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MzIxMDMzOTEsImlhdCI6MTczMjAxNjk5MSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.BiW5AYL1hgfTVqw4uSJXtBQ5qy5S7A_xWOXSgpH4DPfK0ufRfE6vauFS2qR2aIDffMZbtaPv2wkX9X6A7X4D0AekaKbqfgjhLKSogLTIobIjYHrnVI48htUKJIrNkyHcspjaickLliUzEI_W5aaR3W24EWJht21L7lhmCWn-nE9e-D-FzzMJbZ9-kPk8kFWGQ2GwgmNGDSXgej9etplY2gCnNa_P4OUYg4TkkwqQT61JLzlx5F1i2UmF-LXkCNTxgfMgn7ESv0ExBx5m4VYf6zZ-IMi-76CSuApyazNxc8ouSgoSiBQXmmGs8u73JFyGPOqT4s6Ua8B1Q5kvW2b-AA/live/f(i=2)/globo-pe1/playlist.m3u8
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MzIxODU1NzUsImlhdCI6MTczMjA5OTE3NSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.0J3TAwrtFwS1HzOwcx7Eo1_ePxfJA2bz2MKwA2CrDrQ6SqGhz7FFJ77etYmccASD1BXZvXnAXHo8_f_W7DAU4G3sSt1wKvm7l6xr3ND8k7DdVrxScqsSbfnLO2_4lVGtIAmPLtJvZVfmKJzSX_VUqIgEmfzodLf2p9C_LnviPb_GBIRQ0HX2TbOBvszSOsEpZ_-KK_IyZ4XPV21MINyTfCKL_cdKm4Ehrlk2xL502_lNFX8a_cx3UOUDJuMOe6stfoDmiKridV_fiCARDNK5Y4M1oH7FLZHzzQw6gC1MPKMa_C9zDPqPrdjA7H2jEQplWGy_wUXfiFu5s9cMVxrtNw/live/f(i=2)/globo-pe1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -120,11 +120,11 @@ https://www.dailymotion.com/cdn/manifest/video/x8em3zp.m3u8?sec=fR5H3pPujCouUAcJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cloudflare.cdn.spalla.io/live/9ff3c72d-cecc-4df2-96e0-8ff07e08d887/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTczMjQ1MjcyMywiaWF0IjoxNzMxODQ3OTIzLCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTczMTg0NjEyMywicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii85ZmYzYzcyZC1jZWNjLTRkZjItOTZlMC04ZmYwN2UwOGQ4ODcvIn0.Z8kON7uTfUr5hIDhlKSF56Ur-lcTRRq9ce8iZmP6QjI&uid=01897f93-11ea-7109-b0e5-95e48456ba80&magica=sim
 
-#EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-chno="035" tvg-logo="https://yt3.googleusercontent.com/v10Rc1jVjWyOnQMX1F3-fW_MId6cAR3yGacgm6uJQTn1lhSxUGLGVaxNxG70DDsDIpJevCFhfQ=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", TV Meio
+#EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-chno="035" tvg-logo="https://yt3.googleusercontent.com/2rRWbFs-aZ1TIycTaHFbtpUMxFqZko64jc59SjcZZGu1hxLMikJwnVqOe4X7Zu07HrF_OKAmaw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", TV Meio
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
 
-#EXTINF: -1 tvg-id="AllSports.br" tvg-name="All Sport HD" tvg-chno="036" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQe7E06tBaYe2slh3l96cM2nVGqE2HpqslA&usqp=CAU" group-title="Canais de Esportes", All Sport HD
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF: -1 tvg-id="RNSTV.br" tvg-name="All Sport HD" tvg-chno="036" tvg-logo="https://cdn.discordapp.com/attachments/1308537032431239210/1308538078184341586/Logo_RNS_-_iTV_-_Fundo_Roxo_e_Rosa.png" group-title="Variedades", RNS TV
+https://stream.ichibantv.com:3827/stream/play.m3u8
 
 #EXTINF: -1 tvg-id="UmaTV.br" tvg-name="UMA TV" tvg-chno="037" tvg-logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png" group-title="Entretenimento", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
