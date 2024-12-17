@@ -5,17 +5,17 @@
 
 #EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (17/12/2024,03h32m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
+https://aee483032a6949369df02975dd467e69.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/TLBkp.m3u8
 
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Nacional
+#EXTINF:-1 tvg-id="SBT HD.br" tvg-chno="002" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades" , SBT Nacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://ythls.armelin.one/channel/UCjs9tLbZt-pfchEukixAhYg.m3u8
+https://aee483032a6949369df02975dd467e69.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/TLBkp.m3u8
 
-#EXTINF: -1 tvg-id="TVGloboNordeste.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
+#EXTINF: -1 tvg-id="Globo Recife.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MzQ1NDMyMzksImlhdCI6MTczNDQ1NjgzOSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.qdGE0prszhPI6IKcYEE0E7wjZxauZCSsoVpFoyAqaynqzOgmEeIT3cb8caG-P7_T4FD1Izb96EXErp_As3kGKMVFLhfA8G7W6PpYC3Cyv22pq8hKQSNyIlc6rmlYcu91FboZ1wAuaoNtj2uLNBNwWndyNFSiVu4FSCvGf7tSWYYAuSWGtw6Yyg13zs9inNiANaTUNoefAxw7rmFmx4AePcHILwRoPqCqq2zKO_vTGFnsyFdNWS5G0d8dcQEIcgSnx96W7lYgiK6GyU5GUuikY_fRX5MSd2GhKX-i000Tf0HORot5NrsCXXuGnNJ2Umhv2NW0gvRpdkzIYwD6UN_pOw/live/f(i=2)/globo-pe1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
+#EXTINF:-1 tvg-id="Record TV Cuiaba.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
@@ -55,7 +55,7 @@ https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 #EXTINF: -1 tvg-id="CentralTV.br" tvg-chno="016" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="Entretenimento", Central TV HD
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TVBrasil.br" tvg-chno="017" tvg-logo="https://yt3.googleusercontent.com/r4jsceuzBXkkrN_9z0zvZCxxNaZsEBVzbhkC4On70WzZCzOA5OgTiPS5xkNPspQuxWUDIF81Ig=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , TV Brasil
+#EXTINF: -1 tvg-id="TV Brasil.br" tvg-chno="017" tvg-logo="https://yt3.googleusercontent.com/r4jsceuzBXkkrN_9z0zvZCxxNaZsEBVzbhkC4On70WzZCzOA5OgTiPS5xkNPspQuxWUDIF81Ig=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Públicos" , TV Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
@@ -77,7 +77,7 @@ http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
 #EXTINF: -1 tvg-id="anitv.br" tvg-chno="022" tvg-logo="https://yt3.googleusercontent.com/6LDFUzaSdGQm_6ne1JUHNjpiAGlgX8Xyygp6ZWD8VIDtu6_DHhmlQAOdocvbTfuY4BNHCcdbbw=s900-c-k-c0x00ffffff-no-rj" group-title="Canais Geek", Geekdot HD
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF: -1 tvg-id="PLAYTV.br" tvg-chno="023" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Canais Geek", PlayTV Mais
+#EXTINF: -1 tvg-id="Play TV.br" tvg-chno="023" tvg-logo="https://pbs.twimg.com/profile_images/1113192108062646272/JMhNQZIP_400x400.png" group-title="Canais Geek", PlayTV Mais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 
