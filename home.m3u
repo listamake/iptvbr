@@ -152,7 +152,7 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 
-#EXTINF: -1 tvg-id="ch.br" tvg-chno="046" tvg-logo="https://cdn.discordapp.com/attachments/977029405996109874/1338529299573116988/Ativo_72x.png?ex=67b8990d&is=67b7478d&hm=7a2f3905f5a84278abd18f02616702a1bb1995f64d57cbff6fc076747d77bd08&" group-title="Canais de Humor" , Canal Humor
+#EXTINF: -1 tvg-id="ch.br" tvg-chno="046" tvg-logo="https://cdn.discordapp.com/attachments/977029405996109874/1338529299573116988/Ativo_72x.png?ex=67b8990d&is=67b7478d&hm=7a2f3905f5a84278abd18f02616702a1bb1995f64d57cbff6fc076747d77bd08&" group-title="Canais de Humor" , MiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
