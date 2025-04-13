@@ -44,10 +44,10 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 
 #EXTINF: -1 tvg-id="redefamilia.br" tvg-chno="013" tvg-name="Rede Família" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6a9wVaOGB6q9EkRQ2jXRS8obA7MifL81xLrKqq91v32ergE5YRmj48O4HYgrmWO3Av-o&usqp=CAU" group-title="Variedades" pltv-subgroup = "NTRU", Rede Família
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="rbtv.br" tvg-chno="014" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Variedades" , Canal RBTV - Virtual TV
-https://5cf4a2c2512a2.streamlock.net/8290/8290/chunklist_w1225443174.m3u8
+https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.m3u8?token=CXTV00225HR3HD7HHR
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png" group-title="Variedades" , Rede Brasil
 https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/index.m3u8?token=CXTV00225HR3HD7HHR
