@@ -50,7 +50,7 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.m3u8?token=CXTV00225HR3HD7HHR
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png" group-title="Variedades" , Rede Brasil
-https://stream.cdn.provider.play.virtual.tv.br/REDEVIRTUALTV/index.m3u8?token=CXTV00225HR3HD7HHR
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 #EXTINF: -1 tvg-id="CentralTV.br" tvg-chno="016" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDJMvf5IZ5Ku23kpZrQFDRx2y9CRtqbapyA&usqp=CAU" group-title="Entretenimento", Central TV HD
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
