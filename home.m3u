@@ -703,7 +703,7 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1
 
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDeJmCAHkISzX2H008jdrxJtLBBD7aRXv1Q&usqp=CAU" group-title="Canais de Áudio", CBN São Paulo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://ythls.armelin.one/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NDQ2MzMwMjQsImlhdCI6MTc0NDU0NjYyNCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIiLCJwYXRoIjoiL251L2YoYk1pbj0zMTM5ODQsZHZyPTEyMCkvY2Juc3AyNGhhL3BsYXlsaXN0Lm0zdTgifQ.O3uHI1R1xivEm_Y6n2wyISrR-j5bLTn_HKgRGYctl1P8lhNdslPBdrsA29XowRgzbeqqdekhNmgi0SuyKDEefpXI7XZGKghYWjKyKqVeyGM8VgKGpk2mOYEirQL5QzFWbAGlvBFWbgosCeLw7-qeduPSpwnTL-PnQei2x6sNgc6wcrWeR8Fz2Kcpw_YAjG05dby8bC7BdDgtPPa__H6ZdIN1IWz5hnX8MSPPWWTNcIcYtfUH8suDhucpM12Y1rwdUw72hBB6WLnelq0A9C7ox1Ky1DJN24jQaW_qyKYvxDFJMXAO3mWJEmyoW9pab_tPnA-bVPz-Qj_tcSM27p9HUA/nu/f(bMin=313984,dvr=120)/cbnsp24ha/playlist.m3u8
 
 #EXTINF: -1 tvg-id="cbnrede.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMjYL8s4fnPCjNv2NyN9Rbppv4cjEBZWnckA36y=s900-c-k-c0x00ffffff-no-rj" group-title="Canais de Áudio", CBN Recife HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
