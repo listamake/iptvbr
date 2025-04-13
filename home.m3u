@@ -102,7 +102,7 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index.m3u8
 
 #EXTINF: -1 tvg-id="CanalEducacao.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
-https://canaleducacao-stream.ebc.com.br/chunks.m3u8
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
 #EXTINF: -1 tvg-id="RTNTV.br"  tvg-chno="031" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ce8f621678e717cabf4a5e8ee0f6ed70.webp" group-title="Variedades" , RTN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
