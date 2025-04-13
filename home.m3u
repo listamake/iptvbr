@@ -248,7 +248,7 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w1556604543.m3u8
 https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
 
 #EXTINF: -1 tvg-id="PolidoroTV.br"   tvg-logo="https://yt3.googleusercontent.com/O6HCk_0GZOSQYDvd_BTePwoyQBgMXM-jvDKvFN_AGidm8NqetdSEYgTOxEbbyTGb_PlVAcDngQ=s176-c-k-c0x00ffffff-no-rj" group-title="Canais Geek", Polidoro TV
-http://stmv2.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
+https://stmv1.video.cloudstream.com.br/polidorotv/polidorotv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="locomotionla.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek" , Locomotion SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
