@@ -85,7 +85,7 @@ https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RSNewsSports.br" tvg-chno="025" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="Canais de Esportes", RS News Sports
-https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Futura.br" tvg-chno="026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0zYWOS6IWU6vPyY4El604bWXoOsVLErR07JIF3Oaj-NKw1QVPwYie_9GMDzueELVQ3s&usqp=CAU" group-title="Educativos", Futura - Canal FDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
