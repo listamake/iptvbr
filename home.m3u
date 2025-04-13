@@ -740,7 +740,7 @@ https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/in
 
 #EXTINF: -1 tvg-id="culturaam.br" tvg-logo="https://pbs.twimg.com/profile_images/1420440940150411264/pISYKPOj_400x400.jpg" group-title="Canais de Áudio",Rádio Cultura Brasil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://evpp.mm.uol.com.br/cultura2/cultura2.sdp/chunklist_w1456486161.m3u8
+https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
 
 #EXTINF: -1 tvg-id="radiorockfm.br" tvg-logo="https://pbs.twimg.com/profile_images/1508199729737388040/eEZzwmR2_400x400.jpg" group-title="Canais de Áudio",89 FM A Rádio Rock
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8igtlYU8dfBa92nZpm-VlojN3kDIBruobNma11w-Q_V)/dm/3/x7wjrui/s/live-1.m3u8#cell=lnyc
