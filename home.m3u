@@ -154,13 +154,13 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 #EXTINF: -1 tvg-id="ch.br" tvg-chno="046" tvg-logo="https://cdn.discordapp.com/attachments/977029405996109874/1338529299573116988/Ativo_72x.png?ex=67b8990d&is=67b7478d&hm=7a2f3905f5a84278abd18f02616702a1bb1995f64d57cbff6fc076747d77bd08&" group-title="Canais de Humor" , MiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+Tv Channel Network
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="047" aspect-ratio=16:9 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais de Desenho" , RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv6.voxtvhd.com.br/retrotv/retrotv/chunklist_w918003150.m3u8
 
-#EXTINF: -1 tvg-id="5f1214a637c6fd00079c652f" tvg-chno="048" tvg-logo="https://as1.ftcdn.net/v2/jpg/04/91/94/36/1000_F_491943636_N5lBtXq6Czv9Zbwiq5c5x335COaqHCf1.jpg" group-title="Canais de Desenho" pltv-subgroup = "Sis.Jornal do Comer.", Kids TV HD
+#EXTINF: -1 tvg-id="5f1214a637c6fd00079c652f" tvg-chno="048" tvg-logo="https://as1.ftcdn.net/v2/jpg/04/91/94/36/1000_F_491943636_N5lBtXq6Czv9Zbwiq5c5x335COaqHCf1.jpg" group-title="Canais de Desenho", Kids TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
@@ -254,8 +254,8 @@ https://stmv1.video.cloudstream.com.br/polidorotv/polidorotv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimaxBRAWEB.br" tvg-chno="080"  tvg-logo="https://teleseries.com.br/wp-content/uploads/2010/05/animaxlogo.gif" group-title="Canais Geek", Animax 
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AnimaxBRAWEB.br" tvg-chno="080"  tvg-logo="https://teleseries.com.br/wp-content/uploads/2010/05/animaxlogo.gif" group-title="Canais Geek", Tv Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1563101716.m3u8
 
 #EXTINF:-1 tvg-id="CNCity.br" tvg-chno="073"  tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/c/c9/Era_city_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240605140008&path-prefix=pt-br" group-title="Canais Geek", CN City
 https://envivo.cncity.live/hls/cncity.m3u8
@@ -269,11 +269,11 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w31040624.m3u8
 
 #EXTINF: -1 tvg-id="Clouding.br" tvg-chno="076" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Entretenimento", Clouding TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8
+https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="StrikerVerso.br" tvg-chno="077" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/c/cd/Kanadenuevo.png/revision/latest/smart/width/386/height/259?cb=20230307011440&path-prefix=es" group-title="Canais Geek", Kanade TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 
 #EXTINF: -1 tvg-id="pooptv.br" tvg-logo="https://i.imgur.com/1hyiQnt.png" group-title="Canais de Humor", PoopTV
 https://stream.ichibantv.com:3522/hybrid/play.m3u8
@@ -376,8 +376,6 @@ https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 #EXTINF: -1 tvg-id="RDCTV.br" tvg-chno="153" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af54ed561ef9246c6db4cc8c13e5e309.webp" group-title="Variedades" , RDCTV
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://businessconnection.jp/wp-content/uploads/2023/11/nihonwebtv.png",Nihon Web TV
 https://stream.nihonwebtv.com:3778/stream/play.m3u8
 
@@ -394,7 +392,6 @@ https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF: -1 tvg-id="Band.br" tvg-chno="90" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7wu4zmIXtcLe0p6lymaNON6eGqhaWu6zng&usqp=CAU" group-title="Variedades" , Band WEB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
-
 
 #EXTINF: -1 tvg-id="RedeTV.br" tvg-chno="070" tvg-name="Rede TV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Regionais" ,RedeTV! Espirito Santo
 https://acesso.ecast.site:3186/live/esflixlive.m3u8
