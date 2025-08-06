@@ -121,7 +121,7 @@ https://tv.vidatel.com.br/hls/tvloadinghd/live.m3u8
 https://cloudflare.cdn.spalla.io/live/9ff3c72d-cecc-4df2-96e0-8ff07e08d887/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzlmZjNjNzJkLWNlY2MtNGRmMi05NmUwLThmZjA3ZTA4ZDg4Ny8iLCJ1aWQiOiI2N2M4YjkzMi01ODUyLTQ2ZDEtOTE1My1mZjBmYTU1MGE0MDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc0OTc0NjM1OCwiaWF0IjoxNzQ5NzQ2MzU4LCJleHAiOjE3NDk4MzI3NTgsImp0aSI6IjY3YzhiOTMyLTU4NTItNDZkMS05MTUzLWZmMGZhNTUwYTQwNCIsImlzcyI6IlNwYWxsYSJ9.rmWTqiVPP4ZCE9-J9-4OfzkUrWaJfp6IeWJxt53h0Ew&uid=67c8b932-5852-46d1-9153-ff0fa550a404&magica=sim
 
 #EXTINF: -1 tvg-id="RedeMeioNorte.br" tvg-chno="035" tvg-logo="https://yt3.googleusercontent.com/2rRWbFs-aZ1TIycTaHFbtpUMxFqZko64jc59SjcZZGu1hxLMikJwnVqOe4X7Zu07HrF_OKAmaw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", TV Meio
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RNSTV.br" tvg-name="All Sport HD" tvg-chno="036" tvg-logo="https://cdn.discordapp.com/attachments/1308537032431239210/1308538078184341586/Logo_RNS_-_iTV_-_Fundo_Roxo_e_Rosa.png" group-title="Variedades", RNS TV
 https://stream.ichibantv.com:3827/stream/play.m3u8
