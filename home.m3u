@@ -47,7 +47,7 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="rbtv.br" tvg-chno="014" tvg-logo="https://static.wixstatic.com/media/d64a09_76003d1d6faa40bfa761f24f461a8ea6~mv2.png" group-title="Variedades" , Canal RBTV - Virtual TV
-https://stream.cdn.provider.play.virtual.tv.br/TVMARRECAS/index.m3u8?token=CXTV00225HR3HD7HHR
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RedeBrasil.br" tvg-chno="015" tvg-name="Rede Brasil" tvg-logo="https://static.wixstatic.com/media/d64a09_5a7f927e0d6949ada08d8327ed2eb69d~mv2.png" group-title="Variedades" , Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
