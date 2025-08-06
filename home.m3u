@@ -25,8 +25,8 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 #EXTINF:-3 tvg-id="RBA TV HD.br" tvg-chno="006" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="Variedades", Band Belém 
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-#EXTINF:-3 tvg-id="RedeTV.br" tvg-chno="007" tvg-name="RedeTV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Regionais" , RedeTV! Mais Paraná
-https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-3 tvg-id="RedeTV.br" tvg-chno="007" tvg-name="RedeTV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Regionais" , RedeTV! Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTVRondonia.br" tvg-chno="008" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5673cee68ac13e9823b9cb2759fa510f.webp" group-title="Variedades", RedeTV! Tocantins 
 https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
