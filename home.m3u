@@ -104,7 +104,7 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 #EXTINF: -1 tvg-id="CanalEducacao.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF: -1 tvg-id="TVAcritica.br"  tvg-chno="031" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81de2ad139464cf76f231a06ccb4b89.webp" group-title="Variedades" , TV A Critica
+#EXTINF: -1 tvg-id="TVAcritica.br"  tvg-chno="031" tvg-logo="https://www.tvcristalto.com.br/wp-content/uploads/sites/62/2025/01/logo.png" group-title="Variedades" , TV A Critica - TV Cristal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
