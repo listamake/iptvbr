@@ -104,9 +104,9 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 #EXTINF: -1 tvg-id="CanalEducacao.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF: -1 tvg-id="RuntimeFamilia.br"  tvg-chno="031" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81de2ad139464cf76f231a06ccb4b89.webp" group-title="Canais de Filmes" , Runtime Família
+#EXTINF: -1 tvg-id="TVAcritica.br"  tvg-chno="031" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81de2ad139464cf76f231a06ccb4b89.webp" group-title="Variedades" , TV A Critica
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stream.ads.ottera.tv/cl/250531d0tjt933rk871s0achd0/854x480_1355200_2_f.m3u8
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Rede21.br" tvg-chno="032" tvg-name="Rede 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="Canais de Filmes", Runtime Ação
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
