@@ -99,12 +99,12 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 
 #EXTINF: -1 tvg-id="SESCTV.br" tvg-chno="029" tvg-logo="https://yt3.googleusercontent.com/6R_Liv-7Jl-A8SkW1MwOnouoH6MZTP2fcZ4BOIhhxu8P9HYGYA40Q0Cjrkcj603OTL_7faAL1Ww=s900-c-k-c0x00ffffff-no-rj" group-title="Educativos", Sesc TV HD
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index.m3u8
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist-1080p.m3u8
 
 #EXTINF: -1 tvg-id="CanalEducacao.br" tvg-chno="030" tvg-logo="https://yt3.ggpht.com/BTiekNc_yXq-XKZ7PQsNd7xBTpydw8-nyS_ONaV9MGpgR_GuTEzBG51HS-Knax1xYZ-6pJKr=s100-c-k-c0x00ffffff-no-rj" group-title="Educativos" , Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF: -1 tvg-id="TVAcritica.br"  tvg-chno="031" tvg-logo="https://www.tvcristalto.com.br/wp-content/uploads/sites/62/2025/01/logo.png" group-title="Variedades" , TV A Critica - TV Cristal
+#EXTINF: -1 tvg-id="TVAcritica.br"  tvg-chno="031" tvg-logo="https://media.licdn.com/dms/image/v2/D4D0BAQGl_RwrooJ2dA/company-logo_200_200/B4DZaDQYZuG4AI-/0/1745958834405/tvacritica_logo?e=2147483647&v=beta&t=Oe292QRPRBRrvFL24_9fFhmK87Jmfr0BHTtdg4x9oo0" group-title="Variedades" , TV A Critica - TV Cristal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 
@@ -114,7 +114,7 @@ https://stream.ads.ottera.tv/cl/250531d0tjrsaf1srhgsbq94jg/854x480_1355200_2_f.m
 
 #EXTINF: -1 tvg-id="IdealTV.br" tvg-chno="033" tvg-name="Ideal TV" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title="Variedades", Ideal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://tv.vidatel.com.br/hls/tvloadinghd/live.m3u8
+https://vod-adaptive-ak.vimeocdn.com/exp=1754593808~acl=%2F8da8cfab-1df6-43a0-a1cf-5f03872d32d1%2F%2A~hmac=23d73c3733f07c01d49c9d0101f2e988b9112c35761385389fb7b279d2d0eeca/8da8cfab-1df6-43a0-a1cf-5f03872d32d1/v2/range/prot/cmFuZ2U9Mzk5My00MjY1MDE5/avf/c4e7fe65-203d-4f6a-909f-4de0d284c4b4.mp4?pathsig=8c953e4f~qWy_XQwGtrs4VDGkMSPU_RqTz516m_fDCX-RV-G6Kcs&r=dXMtZWFzdDE%3D&range=3993-4265019
 
 #EXTINF: -1 tvg-id="RedeCNT.br" tvg-chno="034" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjYtqBgReeRhfO18TU8fPiE6--ugH0kFN3k8BfmKA=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades", CNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
@@ -161,11 +161,9 @@ Tv Channel Network
 https://stmv6.voxtvhd.com.br/retrotv/retrotv/chunklist_w918003150.m3u8
 
 #EXTINF: -1 tvg-id="5f1214a637c6fd00079c652f" tvg-chno="048" tvg-logo="https://as1.ftcdn.net/v2/jpg/04/91/94/36/1000_F_491943636_N5lBtXq6Czv9Zbwiq5c5x335COaqHCf1.jpg" group-title="Canais de Desenho", Kids TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="049" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="Canais de Desenho" aspect-ratio=16:9, Gospel Cartoon SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fkids.br" tvg-chno="050" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho", F. Kids Network HD
