@@ -754,7 +754,7 @@
     <desc lang="pt">Em um mundo em que super-heróis são reais há décadas, Arthur, um contador sem superpoderes, se alia a um super-herói azul depois de descobrir que sua cidade foi tomada por um vilão.</desc>
   </programme>
   <programme start="20251228120000 -0300" stop="20251228140000 -0300" channel="fkids.br">
-    <title lang="pt">Cineskopio</title>
+    <title lang="pt">Cineskópio</title>
     <rating system="CLASSIND"><value>AL</value></rating>
     <desc lang="pt"> Fox kids o seu canal favorito.</desc>
   </programme>
@@ -771,7 +771,7 @@
     <desc lang="pt"> A história começa quando Ikki encontra uma misteriosa medalha de Medabots nas margens de um rio e pega o teimoso e egocêntrico Metabee..</desc>
   </programme>
   <programme start="20251228190000 -0300" stop="20251228210000 -0300" channel="fkids.br">
-    <title lang="pt">Cineskopio - Reprise</title>
+    <title lang="pt">Cineskópio - Reprise</title>
     <rating system="CLASSIND"><value>AL</value></rating>
     <desc lang="pt"> Fox kids o seu canal favorito.</desc>
   </programme>
@@ -3034,7 +3034,7 @@
   <programme start="20251229060000 -0300" stop="20251229063000 -0300" channel="fkids.br">
     <title lang="pt">Digimon 2 - Reprise</title>
     <rating system="CLASSIND"><value>A10</value></rating>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gag&s" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
   </programme>
   <programme start="20251229063000 -0300" stop="20251229070000 -0300" channel="fkids.br">
@@ -6205,7 +6205,7 @@
   <programme start="20251230060000 -0300" stop="20251230063000 -0300" channel="fkids.br">
     <title lang="pt">Digimon 2 - Reprise</title>
     <rating system="CLASSIND"><value>A10</value></rating>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeALObl6NFP4T9LBZSnX2jywyIT9ZdF2Gag&s" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
   </programme>
   <programme start="20251230063000 -0300" stop="20251230070000 -0300" channel="fkids.br">
