@@ -160,7 +160,7 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RetroCartoon.br" tvg-chno="047"  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Canais de Desenho" , RETRO CARTOON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="5f1214a637c6fd00079c652f" tvg-chno="048" tvg-logo="https://as1.ftcdn.net/v2/jpg/04/91/94/36/1000_F_491943636_N5lBtXq6Czv9Zbwiq5c5x335COaqHCf1.jpg" group-title="Canais de Desenho", Kids TV HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -197,8 +197,8 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TelecineAction.br"tvg-chno="059" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKZbz8GpczJGBYENVQ6-Dh5ZWClgx2PrQVA&usqp=CAU" group-title="Canais de Filmes" , TV AGUA BOA SD 
-https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="TelecineAction.br"tvg-chno="059" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Canais de Filmes" , Classique TV - Faroeste
+https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Movies.br" tvg-chno="060" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Canais de Filmes", Classique TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
