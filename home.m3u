@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-3 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (08/01/2026,22h22m)
+#EXTINF:-3 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (08/01/2026,23h22m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://outbound-proxy-us-east1.b15-br-cloudfront-net.online/tooncast/tracks-v1a1/mono.ts.m3u8
 
@@ -90,7 +90,7 @@ https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Futura.br" tvg-chno="026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0zYWOS6IWU6vPyY4El604bWXoOsVLErR07JIF3Oaj-NKw1QVPwYie_9GMDzueELVQ3s&usqp=CAU" group-title="Educativos", Futura - Canal FDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://cdn.mycloudstream.io/hls/live/broadcast/d5asdzhp/index.m3u8
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 
 #EXTINF: -1 tvg-id="UnivespTV.br" tvg-chno="027" tvg-name="Univesp TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1dad8510439a1c4f9a4caada998b7f5d.webp" group-title="Educativos", Master TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
@@ -195,7 +195,7 @@ https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Movies.br" tvg-chno="058" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp" group-title="Canais de Filmes", Multi Canais
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv7.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 #EXTINF: -1 tvg-id="TelecineAction.br"tvg-chno="059" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="Canais de Filmes" , Classique TV - Faroeste
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
