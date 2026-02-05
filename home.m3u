@@ -3,7 +3,7 @@
 
 ###################### XXXX CANAIS XXXX #############################
 
-#EXTINF:-3 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (08/01/2026,23h22m)
+#EXTINF:-3 tvg-id="CanalUsuario.br" tvg-chno="001" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste", Canal do Usuário (04/02/2026,22h52m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://outbound-proxy-us-east1.b15-br-cloudfront-net.online/tooncast/tracks-v1a1/mono.ts.m3u8
 
@@ -13,7 +13,7 @@ https://simulcast.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a
 
 #EXTINF: -3 tvg-id="Globo Recife.br" tvg-chno="003" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades", Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-tvg-pe-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1OTkxNDMxNywiaWF0IjoxNzU5ODkyNzE3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijk5OTBhNzdhLWEwYTYtNDg3NC1hNmE3LWRjZGVhN2E4MDJkYiIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcGUxL3BsYXlsaXN0Lm0zdTgifQ.fjjkD-YzcH445RsBuqQ8WIRJ_pgnVcSc46hmgYhgNvaXIc2dss-5bt5zo91KElZ7N0Il4AN8oxR93X8SC1pEJGw2PjOCVUTOCLTfAARKPrubvD2EclwiNX0Od78HxUD-v33_86gEH5sdoEIS9tD7h1sySKABlpZA8_s-S0grgNnWZMIGrMxc5_XYBOuiTy3tYVLifzPp-QWmCPwMU8zNP0loNnqNdfmgxrUQJHvKvu-M1YeP55wDa3RlT_cObnpZ2h_Wuo4B3o0kv-fi710AhhTcl3R_COVbNVIfyQ84pZTNHYa8hFeb_EpX9_oGCOXF6BPhIRC6m9eD5lCCiBIrTg/live/f(i=2)/globo-pe1/playlist.m3u8
+https://live-ber-sp-06-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA2LTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MDI3Nzk2OSwiaWF0IjoxNzcwMjU2MzY5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijk5OTBhNzdhLWEwYTYtNDg3NC1hNmE3LWRjZGVhN2E4MDJkYiIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcGUxL3BsYXlsaXN0Lm0zdTgifQ.DQe5zed0J4u_NOUYmYnPn686LXyU-5BGOFhXua7TCltHe750Ss5xxdRNti_jUZhebhmnD67aceF9pfRC-ojgE7muIrVZXmsDiQaMWXPrmfTxz-zCOexx9wdOiMx2WG6KfhvbXcRoCkHPOd8IUpJ7p6C7sMfPg90LMjqzJ0ACcUZDaxa4QlogqTPpv0-P2fLytJsmvu11sLAIPAc2FQOTBztHalSs35OSxdaQW6mVrVN0NCEU0xVcJVm1TkmQv-twkPWhWHTrT_Y8nb2tsgaYD7yRSExowRLFEV7Wz6L-Vmwz-oGu8E70o7IKMynxdbvnYsyWP_vWkA6LpPnyXUds5A/live/f(i=2)/globo-pe1/playlist.m3u8
 
 
 #EXTINF:-3 tvg-id="Record TV Cuiaba.br" tvg-name="RecordTV" tvg-chno="004" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
@@ -261,9 +261,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-chno="074" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg" group-title="Canais Geek", Kpop TV Play
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 
-#EXTINF:-1 tvg-id="xtremetv.br" tvg-chno="075" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="Canais Geek", Wording HD
+#EXTINF:-1 tvg-id="xtremetv.br" tvg-chno="075" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="Canais Geek", Xtreme TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://video10.logicahost.com.br/jrtv/jrtv/playlist.m3u8
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Clouding.br" tvg-chno="076" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Entretenimento", Clone TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
