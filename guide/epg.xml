@@ -237,6 +237,10 @@
     <display-name>Ypê TV</display-name>
     <icon src="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71e98e53faf02f82e9d9746110c57041.webp" />
   </channel>
+  <channel id="LatinaSat.br">
+    <display-name>Latina Sat</display-name>
+    <icon src="https://www.latinasat.com.br/logo.png" />
+  </channel>
   <programme start="20260403000000 -0300" stop="20260403120000 -0300" channel="animetv.br">
     <title lang="pt">Programação de Animes</title>
     <desc lang="pt">Varios animes</desc>
@@ -3485,6 +3489,42 @@
     <title lang="pt">Programação Ypê TV</title>
     <rating system="CLASSIND"><value>AL</value></rating>
   </programme>
+  <programme start="20260403060000 -0300" stop="20260403120000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Latina Kids</title>
+    <rating system="CLASSIND"><value>L</value></rating>
+  </programme>
+  <programme start="20260403000000 -0300" stop="20260403060000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Filmes da Madruga</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260403120000 -0300" stop="20260403153000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <rating system="CLASSIND"><value>10</value></rating>
+  </programme>
+  <programme start="20260403153000 -0300" stop="20260403180000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Cine Fun</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260403180000 -0300" stop="20260403190000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260403233000 -0300" stop="20260404000000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Humor</title>
+    <rating system="CLASSIND"><value>L</value></rating>
+  </programme>
+  <programme start="20260403210000 -0300" stop="20260403233000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260403190000 -0300" stop="20260403200000 -0300" channel="LatinaSat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <rating system="CLASSIND"><value>10</value></rating>
+  </programme>
+  <programme start="20260403200000 -0300" stop="20260403210000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Especial</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
   <programme start="20260404000000 -0300" stop="20260404120000 -0300" channel="animetv.br">
     <title lang="pt">Programação de Animes</title>
     <desc lang="pt">Varios animes</desc>
@@ -5697,6 +5737,42 @@
     <title lang="pt">Programação Ypê TV</title>
     <rating system="CLASSIND"><value>AL</value></rating>
   </programme>
+  <programme start="20260404060000 -0300" stop="20260404120000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Latina Kids</title>
+    <rating system="CLASSIND"><value>L</value></rating>
+  </programme>
+  <programme start="20260404000000 -0300" stop="20260404060000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Filmes da Madruga</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260404120000 -0300" stop="20260404153000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <rating system="CLASSIND"><value>10</value></rating>
+  </programme>
+  <programme start="20260404153000 -0300" stop="20260404180000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Cine Fun</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260404180000 -0300" stop="20260404190000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260404233000 -0300" stop="20260405000000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Humor</title>
+    <rating system="CLASSIND"><value>L</value></rating>
+  </programme>
+  <programme start="20260404210000 -0300" stop="20260404233000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260404190000 -0300" stop="20260404200000 -0300" channel="LatinaSat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <rating system="CLASSIND"><value>10</value></rating>
+  </programme>
+  <programme start="20260404200000 -0300" stop="20260404210000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Especial</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
   <programme start="20260405000000 -0300" stop="20260405120000 -0300" channel="animetv.br">
     <title lang="pt">Programação de Animes</title>
     <desc lang="pt">Varios animes</desc>
@@ -7653,5 +7729,41 @@
   <programme start="20260405120000 -0300" stop="20260406000000 -0300" channel="YpeTV.br">
     <title lang="pt">Programação Ypê TV</title>
     <rating system="CLASSIND"><value>AL</value></rating>
+  </programme>
+  <programme start="20260405060000 -0300" stop="20260405120000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Latina Kids</title>
+    <rating system="CLASSIND"><value>L</value></rating>
+  </programme>
+  <programme start="20260405000000 -0300" stop="20260405060000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Filmes da Madruga</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260405120000 -0300" stop="20260405153000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Séries Premiadas</title>
+    <rating system="CLASSIND"><value>10</value></rating>
+  </programme>
+  <programme start="20260405153000 -0300" stop="20260405180000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Cine Fun</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260405180000 -0300" stop="20260405190000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Anos Incríveis</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260405233000 -0300" stop="20260406000000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Humor</title>
+    <rating system="CLASSIND"><value>L</value></rating>
+  </programme>
+  <programme start="20260405210000 -0300" stop="20260405233000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Festival de Filmes</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20260405190000 -0300" stop="20260405200000 -0300" channel="LatinaSat.br">
+    <title lang="pt">De volta aos Anos 70</title>
+    <rating system="CLASSIND"><value>10</value></rating>
+  </programme>
+  <programme start="20260405200000 -0300" stop="20260405210000 -0300" channel="LatinaSat.br">
+    <title lang="pt">Especial</title>
+    <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
 </tv>
