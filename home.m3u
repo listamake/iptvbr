@@ -1,14 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,https://www.open-epg.com/files/brazil1.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://www.open-epg.com/files/brazil4.xml"
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="1" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste",Canal do Usuário (16/04/2026,20h52m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="1" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste",Canal do Usuário (25/04/2026,14h52m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live.eu-north-1b.cf.dmcdn.net/sec2(sbuSNoHyyDMnskhAIZjEsajaeb3qsxZe72lwULFmgzq2oY-gE7GYW8uG7w5AZ2hQDeJheqJnf99stKb5KnxwC_w1QoGCC4PB00WPPGin78FUnpoGFCQbtH0NvsrvMBYz)/dm/3/x8ttlxm/s/live-480.m3u8#cell=lcf-eu-north-1b
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985933.ts
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-chno="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades",SBT Nacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://simulcast.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-chno="3" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades",Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzY2NDU2NzksImlhdCI6MTc3NjYyNDA3OSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.LMg3Ygce8vnhnQ10lp8XvDC-g_DUknmhFLZmBG767W_I-1YVi9c4eGGM6MhIOmeNRSSPYD3I_-K_iEYHvATa2UIK_ILmeLa1xDBZC2TI11o5Un9hKdAh9E0AKKUXYKvCzF75h1KS9-yOHJa_NsFDL3Xxfhjz4sDir8LUUkSDgIZDPwTELjEQ0xzJ9sD9gzsHsXuocKW6tvgahZm3DO_paR05Fr-jBAJwiPOj81QTqUVicmHPdXWDJwktkn9n4hYj_hY1Ydkc2qcI9IuBjihZ0T04kN1vMgC56RlUlJ_RygTe7pxxmg4gksJoEqsXvc3Zq2i9cBD_L2hs7tlVOHtmMA/live/f(i=2)/globo-pe1/playlist.m3u8
-
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzcxNjEyODYsImlhdCI6MTc3NzEzOTY4NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.qt9DJTvonbHmLNNVgtNlg5NjFwLY_zV4In7-Q0LgBV0O7YPBfE_f9XnXvxC1eLm19ZNhSfbvijettdlQv6PtOI3mB9CfoltpGj2rxtQm7MQsBoqVHNyCZEONU9sjtCcPQ6bn6hmc_TtSqSp7lz2j_lW4gVsDgfpj2orF-leiJK5aD-0UTpY3-HfyFX_zpcP6EtRytUs4nywwgX5VUHUoft0bMYjQ28GfqJ5Nxyqz5XDAHIwhGXs029slnPrAzd7W2iniDgiuIQZl2l9RtujEfYD27HRj-qo6EF5cfMK3FXlmMirXemHT4wV6p2jZzg_4eou7Fr4JV8ecJmN3nhccSw/live/f(i=2)/globo-pe1/playlist.m3u8
 #EXTINF:-1 tvg-id="Record Cuiabá HD.br" tvg-chno="4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU" group-title="Variedades",TV Conquista - RecordTV MT
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="Rede Vida HD.br" tvg-chno="5" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="Religioso",Rede Vida
@@ -115,7 +114,7 @@ https://s1.tvr.ovh/jetix/jetix/chunklist_w872682981.m3u8
 #EXTINF:-1 tvg-id="fkids.br" tvg-chno="47" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho",F. Kids Network HD
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="turnerdemo.br" tvg-chno="48" tvg-logo="https://pbs.twimg.com/profile_images/2864927464/a8c001a65fa9fcb2b76a3bb4768dca2b_400x400.jpeg" group-title="Canais de Desenho",Tooncast
-http://vipnachoeasna.top:8080/VIP01966172717811899/4fa5796d83d5/4917
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37033.ts
 #EXTINF:-1 tvg-id="ntoons.br" tvg-chno="49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oAFehE7NHbJHCKKGVVJq-o3Uh7YcurI9Ow&s" group-title="Canais de Desenho",N. Toons
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8?hls_ctx=1q24g4ke
 #EXTINF:-1 tvg-id="TVMax.br" tvg-chno="50" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="Canais de Música",TV Max RIO
