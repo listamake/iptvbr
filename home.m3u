@@ -73,7 +73,7 @@ https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0ad632a5-72a0-4504-8791-df142f1d39b7.m3u8
 #EXTINF:-1 tvg-id="IdealTV.br" tvg-chno="32" tvg-logo="https://pbs.twimg.com/profile_images/435251946228682752/4iZIGhNS_400x400.jpeg" group-title="Variedades",Ideal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://vod-adaptive-ak.vimeocdn.com/exp=1756364153~acl=%2F89399e1b-6fa9-49e4-84fa-e2a0e7596b9b%2F%2A~hmac=2e503b9ca58765981ef3ae7005e3bac2baf81d1ef30683778c1e34f95a51a7e3/89399e1b-6fa9-49e4-84fa-e2a0e7596b9b/v2/range/prot/cmFuZ2U9MzM3MTY3NC00NDQxNDQy/avf/406bdc15-46f7-4614-9319-b18e190127dd.mp4?pathsig=8c953e4f~A4-MWec5nl5z2QV5lO-kkEmpZ6Wz8U5YrywOdb2mNTQ&r=dXMtd2VzdDE%3D&range=3371674-4441442
+http://168.205.87.198:8555/live/1350/123456/309.m3u8
 #EXTINF:-1 tvg-id="demais.br" tvg-chno="33" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Documentários",Demais TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://Stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
