@@ -5166,9 +5166,9 @@
     <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
   <programme start="20260601173000 -0300" stop="20260601180000 -0300" channel="fkids.br">
-    <title lang="pt">Digimon 2</title>
+    <title lang="pt">Digimon: E01-Férias de Verão</title>
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
-    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
+    <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Tai.jpg" />
     <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
   <programme start="20260601180000 -0300" stop="20260601183000 -0300" channel="fkids.br">
@@ -5208,7 +5208,7 @@
     <rating system="CLASSIND"><value>AL</value></rating>
   </programme>
   <programme start="20260601213000 -0300" stop="20260601220000 -0300" channel="fkids.br">
-    <title lang="pt">Digimon 2 - Reprise</title>
+    <title lang="pt">Digimon - Reprise</title>
     <desc lang="pt">Durante um acampamento de verão, sete meninos são transportados de repente por digivices para um mundo enigmático.</desc>
     <icon src="https://static.wikia.nocookie.net/digimon/images/a/af/Davis_and_Veemon.jpg" />
     <rating system="CLASSIND"><value>A10</value></rating>
