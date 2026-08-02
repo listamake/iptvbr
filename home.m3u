@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/listamake/iptvbr/main/guide/epg.xml,https://www.open-epg.com/files/brazil1.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://www.open-epg.com/files/brazil4.xml"
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://play-lh.googleusercontent.com/8jihRHnTcWROUUrxAM6KFRFnSOmASnkNKaVrAksW52tK-SM3_otFlDdY8KYrJTd_JA=w600-h300-pc0xffffff-pd" group-title="Variedades",TV Maischeti
-https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="2" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste",Canal do Usuário (19/06/2026,01h52m)
+#EXTINF:-1 tvg-id="CanalUsuario.br" tvg-chno="2" tvg-logo="https://static.wixstatic.com/media/d64a09_88fec2a5755d4bd9b00dbe2d3b6e899e~mv2.png" group-title="Canais em Teste",Canal do Usuário (01/08/2026,20h52m)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/985933.ts
 #EXTINF:-1 tvg-id="SBT HD.br" tvg-chno="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7gjt0XtbFT9FE20AhoRGTSJ_aEfQmf8s8A&usqp=CAU" group-title="Variedades",SBT Nacional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/cdba9d35-ccf4-43da-a5e9-65e0ee789dd6:SCL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/199c6fa7-b6c5-437c-a593-db19cf998687:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-chno="4" tvg-logo="https://pbs.twimg.com/media/Fhw6-N-WIAA3FEe.jpg" group-title="Variedades",Rede Roberto Marinho PE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NzcxNjEyODYsImlhdCI6MTc3NzEzOTY4NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.qt9DJTvonbHmLNNVgtNlg5NjFwLY_zV4In7-Q0LgBV0O7YPBfE_f9XnXvxC1eLm19ZNhSfbvijettdlQv6PtOI3mB9CfoltpGj2rxtQm7MQsBoqVHNyCZEONU9sjtCcPQ6bn6hmc_TtSqSp7lz2j_lW4gVsDgfpj2orF-leiJK5aD-0UTpY3-HfyFX_zpcP6EtRytUs4nywwgX5VUHUoft0bMYjQ28GfqJ5Nxyqz5XDAHIwhGXs029slnPrAzd7W2iniDgiuIQZl2l9RtujEfYD27HRj-qo6EF5cfMK3FXlmMirXemHT4wV6p2jZzg_4eou7Fr4JV8ecJmN3nhccSw/live/f(i=2)/globo-pe1/playlist.m3u8
@@ -94,6 +92,8 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-id="revivatv.br" tvg-chno="41" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1da08d69331552d9dbcab51e2228c53d.webp" group-title="Entretenimento",Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeNovelas.br" tvg-chno="47" tvg-logo="https://redenovelas.az.net.br/public/01617-2026-06-07.png" group-title="Entretenimento",Rede Novelas
+https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="grjngo.br" tvg-chno="42" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Canais de Filmes",Grjngo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
@@ -113,7 +113,7 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="fkids.br" tvg-chno="48" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho",F. Kids Network HD
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="turnerdemo.br" tvg-chno="49" tvg-logo="https://pbs.twimg.com/profile_images/2864927464/a8c001a65fa9fcb2b76a3bb4768dca2b_400x400.jpeg" group-title="Canais de Desenho",Tooncast
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/37033.ts
+http://hardcoremedia.xyz:80/tzwecpfd/1822349101/260190
 #EXTINF:-1 tvg-id="ntoons.br" tvg-chno="50" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oAFehE7NHbJHCKKGVVJq-o3Uh7YcurI9Ow&s" group-title="Canais de Desenho",N. Toons
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8?hls_ctx=1q24g4ke
 #EXTINF:-1 tvg-id="TVMax.br" tvg-chno="51" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="Canais de Música",TV Max RIO
@@ -148,7 +148,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimGeek.br" tvg-chno="62" tvg-logo="https://yt3.googleusercontent.com/n7N8ZFo2KatHjaEHKDec_GjW5HjCwhWEWjAtJvbCML7QbR_Du76p2uxs1iE9XnevMsRmaRBTzg=s120-c-k-c0x00ffffff-no-rj" group-title="Canais Geek",AnimGeek
 https://stmv2.srvsh.com.br/daniel5336/daniel5336/chunklist_w579102621.m3u8
 #EXTINF:-1 tvg-id="TV Novo Tempo.br" tvg-chno="63" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIt0ZnveIgW-vllHgVQG-DpAIKjOO90vAUQ&usqp=CAU" group-title="Religioso",Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/chunklist_b878000_slpor.m3u8
 #EXTINF:-1 tvg-id="Rede Seculo 21 HD.br" tvg-chno="64" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQEk1Mrnc6PelA/company-logo_200_200/company-logo_200_200/0/1631328071452?e=2147483647&v=beta&t=tLDMm7Y7tAC2STBOF-fKfzT5gDxqv8wFm2Z3RSw0ElM" group-title="Religioso",Rede Século 21 HD
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-chno="65" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b74c44a3e10aabf5c0d26b8308b6b1ee.webp" group-title="Agronegócio",Tv Coop
@@ -180,9 +180,13 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrikerVerso.br" tvg-chno="76" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90f2be25aedc782f9ff779b33302ee8a.webp" group-title="Canais Geek",StrikerVerso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="TVMacheste" tvg-chno="1" tvg-logo="https://play-lh.googleusercontent.com/8jihRHnTcWROUUrxAM6KFRFnSOmASnkNKaVrAksW52tK-SM3_otFlDdY8KYrJTd_JA=w600-h300-pc0xffffff-pd" group-title="Variedades",TV Maischeti
+https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
+#EXTINF:-1 tvg-id="tvverdecampos" tvg-chno="1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp" group-title="Variedades",TV Verdes Campos Sat 
+https://a.cdni.live/redeverdes2288/redeverdes2288/chunklist_w604978829.m3u8
 #EXTINF:-1 tvg-id="Amazon Sat HD.br" tvg-chno="77" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2300eb25e4717c0ab191a457caa17b62.webp" group-title="Variedades",Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="Canalteste" tvg-chno="78" tvg-logo="https://pbs.twimg.com/profile_images/2008175942531702784/NjelriU5.jpg" group-title="Variedades",+MaisUm
+#EXTINF:-1 tvg-id="Canalteste" tvg-chno="78" tvg-logo="https://ntcplay.ntcscripts.com.br/uploads/thumbs/1768848805_615353965_25921052727530067_4192221312953739124_n.png" group-title="Variedades",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="JowTV.br" tvg-chno="79" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0owaL4ma6xVQDOKW-udPqHyLhJ3GDtfG1JA&s" group-title="Variedades",JOW+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
