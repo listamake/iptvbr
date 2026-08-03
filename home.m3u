@@ -21,8 +21,8 @@ https://streaming.cloudecast.com/hls/redetves/index.m3u8
 #EXTINF:-1 tvg-id="Record News HD.br" tvg-chno="10" tvg-logo="https://pbs.twimg.com/profile_images/1721678898465816576/-6PRZmN7_400x400.jpg" group-title="Notícias",Record News - TV SIM ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-chno="11" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Notícias",Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="Jovem Pan News.br" tvg-chno="11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Jovem_Pan_TV_logo_2026.png/revision/latest?cb=20260102031013" group-title="Notícias",TV Jovem Pan - TV Fronteira
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="Gazeta HD.br" tvg-chno="12" tvg-logo="https://yt3.googleusercontent.com/i90ULOcaX1z7rixngEuJCVNC0vEKO_ny5Ji1SlqDLH9g465ki6TyjFxK8kkFhNmoIAJImdynvA=s160-c-k-c0x00ffffff-no-rj" group-title="Variedades",TV Gazeta - TV Cidade
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
@@ -113,7 +113,7 @@ https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="fkids.br" tvg-chno="48" tvg-logo="https://static.wixstatic.com/media/d64a09_c7338e43e90d4c9b84f7c6e62f79766a~mv2.png" group-title="Canais de Desenho",F. Kids Network HD
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="turnerdemo.br" tvg-chno="49" tvg-logo="https://pbs.twimg.com/profile_images/2864927464/a8c001a65fa9fcb2b76a3bb4768dca2b_400x400.jpeg" group-title="Canais de Desenho",Tooncast
-http://hardcoremedia.xyz:80/tzwecpfd/1822349101/260190
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4917
 #EXTINF:-1 tvg-id="ntoons.br" tvg-chno="50" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oAFehE7NHbJHCKKGVVJq-o3Uh7YcurI9Ow&s" group-title="Canais de Desenho",N. Toons
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8?hls_ctx=1q24g4ke
 #EXTINF:-1 tvg-id="TVMax.br" tvg-chno="51" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp" group-title="Canais de Música",TV Max RIO
@@ -182,7 +182,7 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1 tvg-id="TVMacheste" tvg-chno="1" tvg-logo="https://play-lh.googleusercontent.com/8jihRHnTcWROUUrxAM6KFRFnSOmASnkNKaVrAksW52tK-SM3_otFlDdY8KYrJTd_JA=w600-h300-pc0xffffff-pd" group-title="Variedades",TV Maischeti
 https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
-#EXTINF:-1 tvg-id="tvverdecampos" tvg-chno="1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp" group-title="Variedades",TV Verdes Campos Sat 
+#EXTINF:-1 tvg-id="tvverdecampos" tvg-chno="1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp" group-title="Variedades",TV Verdes Campos Sat
 https://a.cdni.live/redeverdes2288/redeverdes2288/chunklist_w604978829.m3u8
 #EXTINF:-1 tvg-id="Amazon Sat HD.br" tvg-chno="77" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2300eb25e4717c0ab191a457caa17b62.webp" group-title="Variedades",Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
