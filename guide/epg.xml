@@ -5350,7 +5350,7 @@
     <icon src="https://www.coolstreaming.us/img/ch/image18723044404.jpg" />
     <rating system="CLASSIND"><value>12</value></rating>
   </programme>
-  <programme start="20260822220000 -0300" stop="20260823190000 -0300" channel="fkids.br">
+  <programme start="20260822173000 -0300" stop="20260823190000 -0300" channel="fkids.br">
     <title lang="pt">Digi-Maratona</title>
     <desc lang="pt">20h horas só de digimon</desc>
     <rating system="CLASSIND"><value>A10</value></rating>
@@ -5409,18 +5409,7 @@
     <icon src="https://disneyplusbrasil.com.br/wp-content/uploads/2021/08/Trailer-Homem-Aranha-Sem-Volta-Para-Casa-desenho-anos-90.jpg" />
     <rating system="CLASSIND"><value>AL</value></rating>
   </programme>
-  <programme start="20260822183000 -0300" stop="20260822210000 -0300" channel="fkids.br">
-    <title lang="pt">Evolusábado</title>
-    <desc lang="pt">Assista de novo os episódios com as mais geniais digievoluções de todos os tempos.</desc>
-    <icon src="https://www.sociedadenerd.com.br/wp-content/uploads/2022/10/digimon-adventure.jpg" />
-    <rating system="CLASSIND"><value>A10</value></rating>
-  </programme>
-  <programme start="20260822173000 -0300" stop="20260822183000 -0300" channel="fkids.br">
-    <title lang="pt">Sábado Verde</title>
-    <desc lang="pt">Fox kids o seu canal favorito.</desc>
-    <icon src="https://caua1000.wordpress.com/wp-content/uploads/2012/10/hulk-1.jpg" />
-    <rating system="CLASSIND"><value>A10</value></rating>
-  </programme>
+
   <programme start="20260822040000 -0300" stop="20260822043000 -0300" channel="fkids.br">
     <title lang="pt">Pré-estreia: Shinzo</title>
     <rating system="CLASSIND"><value>A10</value></rating>
