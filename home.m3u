@@ -162,7 +162,7 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-id="canalstart.br" tvg-chno="69" tvg-logo="https://canalstart.com.br/public/69322-2025-04-18.png" group-title="Canais Geek",Canal Start HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
+https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-id="yaaeeh.br" tvg-chno="70" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp" group-title="Canais Geek",Yaaeeh HD
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="locomotionla.br" tvg-chno="71" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek",Locomotion SD
@@ -197,8 +197,8 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="awtv.br" tvg-chno="84" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento",AWTV HD
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://ontv.r98.com.br/wp-content/uploads/2026/03/cropped-SIMBOLO-ON-TV-2026.png" group-title="Variedades",Já Viu TV
-https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://ontv.r98.com.br/wp-content/uploads/2026/03/cropped-SIMBOLO-ON-TV-2026.png" group-title="Variedades",On TV
+https://stmv7.samcast.com.br/isaque8030/isaque8030/playlist.m3u8
 #EXTINF:-1 tvg-id="Wording.br" tvg-chno="86" tvg-logo="https://www.wording.com.br/wp-content/uploads/sites/36/2025/06/ChatGPT-Image-8-de-mai.-de-2025-01_56_54.png" group-title="Variedades",Wording
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AstralTV.br" tvg-chno="87" tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Variedades",Astral TV
