@@ -7046,12 +7046,6 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg" />
     <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
-  <programme start="20261118113000 -0300" stop="20261118120000 -0300" channel="fkids.br">
-    <title lang="pt">Patlabor - Reprise</title>
-    <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
-    <icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
-    <rating system="CLASSIND"><value>A10</value></rating>
-  </programme>
   <programme start="20261118120000 -0300" stop="20261118123000 -0300" channel="fkids.br">
     <title lang="pt">Super Pig</title>
     <desc lang="pt">Fox kids o seu canal favorito.</desc>
@@ -9354,6 +9348,12 @@
     <title lang="pt">Power Rangers na Galáxia Perdida - Reprise</title>
     <desc lang="pt">A saga dos Power Rangers continua num tempo futurístico. Em uma galáxia distante, um malvado monarca chamado Scorpius ataca uma pacífica tribo das selvas.</desc>
     <icon src="https://images.mubicdn.net/images/film/309525/cache-687558-1745498629/image-w1280.jpg" />
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20261118113000 -0300" stop="20261118120000 -0300" channel="fkids.br">
+    <title lang="pt">Shaman King - Reprise</title>
+    <desc lang="pt">Intrigas, humor e lendas sobre espiritos milenares em uma história que acontece a cada 500 anos. Não dá nem para pensar em perder, não é?</desc>
+    <icon src="https://www.jbox.com.br/wp/wp-content/uploads/2021/03/shaman-king-1.jpeg" />
     <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
   <programme start="20261119000000 -0300" stop="20261119120000 -0300" channel="animetv.br">
@@ -13112,12 +13112,6 @@
     <icon src="https://m.media-amazon.com/images/M/MV5BNjdhNTRlNTctOTk0OS00YTJkLWFmNGEtYjhiMWRlOTkzMDUxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg" />
     <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
-  <programme start="20261120113000 -0300" stop="20261120120000 -0300" channel="fkids.br">
-    <title lang="pt">Patlabor - Reprise</title>
-    <desc lang="pt">Tendo como foco o dia-a-dia de policiais pilotos de mecha, trouxe um foco bastante cotidiano e light ao gênero de robôs realistas, se diferenciando de séries como Mobile Suit Gundam e Votoms. </desc>
-    <icon src="https://www.justwatch.com/images/backdrop/244720016/s640/patlabor-the-tv-series/patlabor-the-tv-series" />
-    <rating system="CLASSIND"><value>A10</value></rating>
-  </programme>
   <programme start="20261120120000 -0300" stop="20261120123000 -0300" channel="fkids.br">
     <title lang="pt">Super Pig</title>
     <desc lang="pt">Fox kids o seu canal favorito.</desc>
@@ -15449,6 +15443,12 @@
     <title lang="pt">Power Rangers na Galáxia Perdida - Reprise</title>
     <desc lang="pt">A saga dos Power Rangers continua num tempo futurístico. Em uma galáxia distante, um malvado monarca chamado Scorpius ataca uma pacífica tribo das selvas.</desc>
     <icon src="https://images.mubicdn.net/images/film/309525/cache-687558-1745498629/image-w1280.jpg" />
+    <rating system="CLASSIND"><value>A10</value></rating>
+  </programme>
+  <programme start="20261120113000 -0300" stop="20261120120000 -0300" channel="fkids.br">
+    <title lang="pt">Shaman King - Reprise</title>
+    <desc lang="pt">Intrigas, humor e lendas sobre espiritos milenares em uma história que acontece a cada 500 anos. Não dá nem para pensar em perder, não é?</desc>
+    <icon src="https://www.jbox.com.br/wp/wp-content/uploads/2021/03/shaman-king-1.jpeg" />
     <rating system="CLASSIND"><value>A10</value></rating>
   </programme>
 </tv>
