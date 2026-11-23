@@ -181,7 +181,7 @@ https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
 #EXTINF:-1 tvg-id="locomotionla.br" tvg-chno="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThltejGIcSv_BQphYjZtaWHRSh9k9EjJf-7g&usqp=CAU" group-title="Canais Geek",Locomotion SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
-http://51.222.85.85:81/hls/loco/index.m3u8
+http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-id="tvverdecampos" tvg-chno="79" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp" group-title="Variedades",TV Verdes Campos Sat
 https://a.cdni.live/redeverdes2288/redeverdes2288/chunklist_w604978829.m3u8
 #EXTINF:-1 tvg-id="Amazon Sat HD.br" tvg-chno="80" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2300eb25e4717c0ab191a457caa17b62.webp" group-title="Variedades",Amazon Sat HD
@@ -197,28 +197,28 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="awtv.br" tvg-chno="85" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp" group-title="Entretenimento",AWTV HD
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://ontv.r98.com.br/wp-content/uploads/2026/03/cropped-SIMBOLO-ON-TV-2026.png" group-title="Variedades",On TV
-https://stmv7.samcast.com.br/isaque8030/isaque8030/playlist.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYkrwyLN2v4LnF9qbfCUnQz0cn6-PKgjY53Hv9U-_1A&s" group-title="Variedades",BRKS TV
+https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8
 #EXTINF:-1 tvg-id="AstralTV.br" tvg-chno="87" tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png" group-title="Variedades",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TVNBT.br" tvg-chno="88" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais",TV NBT
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822679.png" group-title="Documentários",TV HISTÓRIA
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w1125995647.m3u8
+#EXTINF:-1 tvg-id="TVNBT.br" tvg-chno="89" tvg-logo="https://static.wixstatic.com/media/d64a09_7c4a568bd525466c8fd9411661a1bf1e~mv2.png" group-title="Regionais",TV NBT
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="BR8TV.br" tvg-chno="89" tvg-logo="https://yt3.googleusercontent.com/BjgS8YbFr8skYUCpNoeyQADCJmOJrD5WYT3kitoayAIqWwIT4rUdSIK4NDnpMOgoTWDvokbMMbo=s160-c-k-c0x00ffffff-no-rj" group-title="Varejo",BR8TV
+#EXTINF:-1 tvg-id="BR8TV.br" tvg-chno="90" tvg-logo="https://yt3.googleusercontent.com/BjgS8YbFr8skYUCpNoeyQADCJmOJrD5WYT3kitoayAIqWwIT4rUdSIK4NDnpMOgoTWDvokbMMbo=s160-c-k-c0x00ffffff-no-rj" group-title="Varejo",BR8TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="YpeTV.br" tvg-chno="90" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71e98e53faf02f82e9d9746110c57041.webp" group-title="Variedades",Ypê TV
+#EXTINF:-1 tvg-id="YpeTV.br" tvg-chno="91" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/71e98e53faf02f82e9d9746110c57041.webp" group-title="Variedades",Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGazin.br" tvg-chno="91" tvg-logo="https://play-lh.googleusercontent.com/_wGQB-rxIWPsN3YHvC_li3KWLPHWwdERuZv6BvQZoJGTG_41zMd7NGy_s34GIsyx2DFP" group-title="Varejo",TV Gazin
+#EXTINF:-1 tvg-id="TVGazin.br" tvg-chno="92" tvg-logo="https://play-lh.googleusercontent.com/_wGQB-rxIWPsN3YHvC_li3KWLPHWwdERuZv6BvQZoJGTG_41zMd7NGy_s34GIsyx2DFP" group-title="Varejo",TV Gazin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://spectra.axonglobal.io/live/ax_tvgazin_ju3t/llhls.m3u8
-#EXTINF:-1 tvg-id="TendaTV.br" tvg-chno="92" tvg-logo="https://www.tendatvsp.com.br/wp-content/uploads/sites/59/2023/11/logotipo.png" group-title="Varejo",Tenda TV
+#EXTINF:-1 tvg-id="TendaTV.br" tvg-chno="93" tvg-logo="https://www.tendatvsp.com.br/wp-content/uploads/sites/59/2023/11/logotipo.png" group-title="Varejo",Tenda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMetropolis.br" tvg-chno="93" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIpsIkydaZKyaBkpiTWSm6CNUEFXfE-X0GkIPdSw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades",TV Metrópolis HD
+#EXTINF:-1 tvg-id="TVMetropolis.br" tvg-chno="94" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIpsIkydaZKyaBkpiTWSm6CNUEFXfE-X0GkIPdSw=s900-c-k-c0x00ffffff-no-rj" group-title="Variedades",TV Metrópolis HD
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
-#EXTINF:-1 tvg-id="Canalteste" tvg-chno="94" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste",Canal Teste 5
+#EXTINF:-1 tvg-id="Canalteste" tvg-chno="95" tvg-logo="https://s2.dmcdn.net/u/9TvQN1X_UzxBWNIz3/60x60" group-title="Canais em Teste",Canal Teste 5
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822679.png" group-title="Documentários",TV HISTÓRIA
-https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w1125995647.m3u8
 #EXTINF:-1 tvg-id="EsporteBrasilia.br" tvg-chno="96" tvg-logo="https://pbs.twimg.com/profile_images/1631301541452718080/Zx60yrrT_400x400.jpg" group-title="Canais de Esportes",Esportes Brasília HD
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-chno="97" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp" group-title="Canais de Esportes",CazéTV
